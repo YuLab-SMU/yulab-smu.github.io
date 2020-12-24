@@ -1,7 +1,6 @@
 build:
-	rm -rf public;\
-	Rscript -e 'blogdown::build_site()';\
-	cp CNAME public/
+	find . -maxdepth 1 ! -name "CNAME" ! -name ".gitignore" ! -name ".git" ! -name . -exec rm -r {} ;\
+	Rscript -e 'blogdown::build_site()' 
 	
 publish:
 	cd public;\
