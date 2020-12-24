@@ -131,11 +131,11 @@ Setup Some fun facts about Hugo:
     </item>
     
     <item>
-      <title>Document</title>
-      <link>http://yulab-smu.top/document/</link>
+      <title>Documents</title>
+      <link>http://yulab-smu.top/documents/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://yulab-smu.top/document/</guid>
+      <guid>http://yulab-smu.top/documents/</guid>
       <description>Books  Biomedical Knowledge Mining using GOSemSim and clusterProfiler Data Integration, Manipulation and Visualization of Phylogenetic Trees  </description>
     </item>
     
