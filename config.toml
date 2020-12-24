@@ -144,7 +144,7 @@ disqusShortname = "yourdiscussshortname"
             [[languages.en.menu.main]]
             name = "Documents"
             weight = 4
-            url = "document/"
+            url = "documents/"
 
             [[languages.en.menu.main]]
             name = "Contact me"

@@ -1,6 +1,6 @@
 ---
-slug: document
-title: Document
+slug: documents
+title: Documents
 ---
 
 ## Books
