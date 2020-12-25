@@ -19,7 +19,7 @@ disqusShortname = "yourdiscussshortname"
     description = "Research group led by Prof. Guangchuang Yu in School of Basic Medical Sciences, Southern Medical University"
     keywords = "blog,developer,bioinformatics,omics,visualization"
     info = "Bioinformagician @ SMU"
-    avatarURL = "images/avatar.jpg"
+    avatarURL = "images/gc.png"
     #gravatar = "john.doe@example.com"
     footerContent = ""
 
@@ -28,7 +28,7 @@ disqusShortname = "yourdiscussshortname"
     hideFooter = false
     hideCredits = false
     hideCopyright = false
-    since = 2019
+    since = 2018
 
     # Git Commit in Footer, uncomment the line below to enable it.
     commit = "https://github.com/luizdepra/hugo-coder/tree/"
@@ -132,9 +132,9 @@ disqusShortname = "yourdiscussshortname"
             url = "about/"
 
             [[languages.en.menu.main]]
-            name = "Blog"
+            name = "Publications"
             weight = 2
-            url = "posts/"
+            url = "publications/"
 
             [[languages.en.menu.main]]
             name = "Projects"
@@ -142,13 +142,23 @@ disqusShortname = "yourdiscussshortname"
             url = "projects/"
 
             [[languages.en.menu.main]]
-            name = "Documents"
+            name = "Members"
             weight = 4
+            url = "members/"
+
+            [[languages.en.menu.main]]
+            name = "Documents"
+            weight = 5
             url = "documents/"
 
             [[languages.en.menu.main]]
-            name = "Contact me"
-            weight = 5
+            name = "Blog"
+            weight = 6
+            url = "posts/"
+
+            [[languages.en.menu.main]]
+            name = "Contact"
+            weight = 7
             url = "contact/"
 
 
