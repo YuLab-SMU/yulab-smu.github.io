@@ -5,34 +5,6 @@
     <link>http://yulab-smu.top/series/</link>
     <description>Recent content in Series on YuLab@SMU</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Mon, 25 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://yulab-smu.top/series/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Hugo</title>
-      <link>http://yulab-smu.top/series/hugo/</link>
-      <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://yulab-smu.top/series/hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Theme</title>
-      <link>http://yulab-smu.top/series/theme/</link>
-      <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://yulab-smu.top/series/theme/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Getting Started</title>
-      <link>http://yulab-smu.top/series/getting-started/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://yulab-smu.top/series/getting-started/</guid>
-      <description></description>
-    </item>
-    
+    <language>en</language><atom:link href="http://yulab-smu.top/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
