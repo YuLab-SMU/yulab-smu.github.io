@@ -136,7 +136,7 @@ Setup Some fun facts about Hugo:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://yulab-smu.top/documents/</guid>
-      <description>Books  Biomedical Knowledge Mining using GOSemSim and clusterProfiler Data Integration, Manipulation and Visualization of Phylogenetic Trees  </description>
+      <description>Books  Biomedical Knowledge Mining using GOSemSim and clusterProfiler Data Integration, Manipulation and Visualization of Phylogenetic Trees Yu G. Gene Ontology Semantic Similarity Analysis Using GOSemSim. In: Kidder B. (eds) Stem Cell Transcriptional Networks. Methods in Molecular Biology, 2020, 2117:207-215. Humana, New York, NY. 余光创, &amp;ldquo;生物信息学II&amp;rdquo;, 《功能蛋白质研究》, 385-425, 何庆瑜 (主编), 科学出版社, 2012. (&amp;ldquo;十二五&amp;quot;国家重点图书出版规划项目)  </description>
     </item>
     
     <item>
@@ -150,12 +150,30 @@ pwd </description>
     </item>
     
     <item>
+      <title>Members</title>
+      <link>http://yulab-smu.top/members/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://yulab-smu.top/members/</guid>
+      <description>hello world</description>
+    </item>
+    
+    <item>
       <title>Projects</title>
       <link>http://yulab-smu.top/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://yulab-smu.top/projects/</guid>
       <description>Nothing to see here&amp;hellip; Move along!</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>http://yulab-smu.top/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://yulab-smu.top/publications/</guid>
+      <description>2020  J He#, S Xu#, B Zhang, C Xiao, Z Chen, F Si, J Fu, X Lin, G Zheng*, G Yu*, J Chen*. Gut microbiota and metabolite alterations associated with reduced bone mineral density or bone metabolic indexes in postmenopausal osteoporosis. Aging (Albany NY). 2020, 12(9):8583-8604. G Yu*. Using ggtree to Visualize Data on Tree-Like Structure. Current Protocols in Bioinformatics. 2020, 69(1):e96. (Invited paper) LG Wang, TTY Lam, S Xu, Z Dai, L Zhou, T Feng, P Guo, CW Dunn, BR Jones, T Bradley, H Zhu, Y Guan, Y Jiang, G Yu*.</description>
     </item>
     
     <item>
