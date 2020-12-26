@@ -1,7 +1,8 @@
 +++
 date = "2020-11-25"
 title = "ggtree入选MEE期刊10周年纪念"
-series = ["ggtree", "MEE", "paper"]
+tags = ["ggtree", "MEE", "paper"]
+series = ["highlight"]
 +++
 
 2017年我还在香港大学读博士期间发表了`ggtree`的第一篇文章，发表在Methods in Ecology and Evolution期刊上，`ggtree`发表之后，我受邀请去Field Museum做报告，由NIH项目The Open Tree of Life资助，另外在2019年我还受到William Pearson教授的邀请，为[Current Protocols in Bioinformatics](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpbi.96)撰写一文介绍`ggtree`，可以看出来这项工作还是在业内引起比较大的关注的。
