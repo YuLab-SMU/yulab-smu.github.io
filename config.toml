@@ -12,7 +12,7 @@ pygmentsStyle = "b2"
 pygmentsCodeFences = true
 pygmentsCodeFencesGuessSyntax = true
 
-disqusShortname = "yourdiscussshortname"
+#disqusShortname = "yourdiscussshortname"
 
 [params]
     author = "YuLab-SMU"
@@ -21,7 +21,7 @@ disqusShortname = "yourdiscussshortname"
     info = "Bioinformagician @ SMU"
     avatarURL = "images/gc.png"
     #gravatar = "john.doe@example.com"
-    footerContent = ""
+    footerContent = "You are welcome to join us."
 
     dateFormat = "January 2, 2006"
 
@@ -67,16 +67,16 @@ disqusShortname = "yourdiscussshortname"
     customJS = []
 
 # If you want to use fathom(https://usefathom.com) for analytics, add this section
-[params.fathomAnalytics]
-    siteID = "ABCDE"
-    # Default value is cdn.usefathom.com, overwrite this if you are self-hosting
-    serverURL = "analytics.example.com"
+#[params.fathomAnalytics]
+#    siteID = "ABCDE"
+#    # Default value is cdn.usefathom.com, overwrite this if you are self-hosting
+#    serverURL = "analytics.example.com"
 
 # If you want to use plausible(https://plausible.io) for analytics, add this section
-[params.plausibleAnalytics]
-    domain = "example.com"
-    # Default value is plausible.io, overwrite this if you are self-hosting or using a custom domain
-    serverURL = "analytics.example.com"
+#[params.plausibleAnalytics]
+#    domain = "example.com"
+#    # Default value is plausible.io, overwrite this if you are self-hosting or using a custom domain
+#    serverURL = "analytics.example.com"
 
 # If you want to use goatcounter(https://goatcounter.com) for analytics, add this section
 [params.goatCounter]
