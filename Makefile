@@ -1,6 +1,6 @@
 build:
 	cd public;\
-	find . -maxdepth 1 ! -name "CNAME" ! -name ".gitignore" ! -name ".git" ! -name . |xargs rm -r {} ;\
+	find . -maxdepth 1 ! -name "CNAME" ! -name ".gitignore" ! -name ".git" ! -name . |xargs rm -r ;\
 	cd ..;\
 	Rscript -e 'blogdown::build_site()' 
 	

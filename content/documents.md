@@ -3,7 +3,7 @@ slug: documents
 title: Documents
 ---
 
-## Books
+## <i class="fa fa-book fa-1x" aria-hidden="true"></i> Books
 
 + [Biomedical Knowledge Mining using GOSemSim and clusterProfiler](https://yulab-smu.top/biomedical-knowledge-mining-book/)
 + [Data Integration, Manipulation and Visualization of Phylogenetic Trees](https://yulab-smu.top/treedata-book/)
