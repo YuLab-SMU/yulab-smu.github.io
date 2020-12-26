@@ -49,7 +49,7 @@ disqusShortname = "yourdiscussshortname"
     colorScheme = "auto"
 
     # Hide the toggle button, along with the associated vertical divider
-    hideColorSchemeToggle = false
+    hideColorSchemeToggle = true #false
 
     # Series see also post count
     maxSeeAlsoItems = 5
