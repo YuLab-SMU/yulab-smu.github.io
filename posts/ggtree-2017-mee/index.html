@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Content-Language" content="en">
+
+    <meta name="author" content="YuLab-SMU">
+    <meta name="description" content="2017年我还在香港大学读博士期间发表了ggtree的第一篇文章，发表在Methods in Ecology and Evolution期刊上，ggtree发表之后，我受邀请去Field Museum做报告，由NIH项目The Open Tree of Life资助，另外在2019年我还受到William Pearson教授的邀请，为Current Protocols in Bioinformatics撰写一文介绍ggtree，可以看出来这项工作还是在业内引起比较大的关注的。
+今年2020年是MEE期刊创刊10周年，期刊庆祝10周年的一项活动是在每一卷中找一篇代表作，邀请作者写一写文章背后的故事，而ggtree有幸做为第八卷的代表，我写了一篇文章发表在MEE官方博客上，https://methodsblog.com/2020/11/19/ggtree-tree-visualization/，详细地介绍了开发这一R包的背景，以及后面的发展。
+在后面也介绍了我在南方医科大学独立运作一个课题组之后发表的两篇文章：
+ LG Wang, TTY Lam, S Xu, Z Dai, L Zhou, T Feng, P Guo, CW Dunn, BR Jones, T Bradley, H Zhu, Y Guan, Y Jiang, G Yu*. treeio: an R package for phylogenetic tree input and output with richly annotated and associated data. Molecular Biology and Evolution. 2020, 37(2):599-603. G Yu*, TTY Lam, H Zhu, Y Guan*.">
+    <meta name="keywords" content="blog,developer,bioinformatics,omics,visualization">
+
+    <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="ggtree入选MEE期刊10周年纪念"/>
+<meta name="twitter:description" content="2017年我还在香港大学读博士期间发表了ggtree的第一篇文章，发表在Methods in Ecology and Evolution期刊上，ggtree发表之后，我受邀请去Field Museum做报告，由NIH项目The Open Tree of Life资助，另外在2019年我还受到William Pearson教授的邀请，为Current Protocols in Bioinformatics撰写一文介绍ggtree，可以看出来这项工作还是在业内引起比较大的关注的。
+今年2020年是MEE期刊创刊10周年，期刊庆祝10周年的一项活动是在每一卷中找一篇代表作，邀请作者写一写文章背后的故事，而ggtree有幸做为第八卷的代表，我写了一篇文章发表在MEE官方博客上，https://methodsblog.com/2020/11/19/ggtree-tree-visualization/，详细地介绍了开发这一R包的背景，以及后面的发展。
+在后面也介绍了我在南方医科大学独立运作一个课题组之后发表的两篇文章：
+ LG Wang, TTY Lam, S Xu, Z Dai, L Zhou, T Feng, P Guo, CW Dunn, BR Jones, T Bradley, H Zhu, Y Guan, Y Jiang, G Yu*. treeio: an R package for phylogenetic tree input and output with richly annotated and associated data. Molecular Biology and Evolution. 2020, 37(2):599-603. G Yu*, TTY Lam, H Zhu, Y Guan*."/>
+
+    <meta property="og:title" content="ggtree入选MEE期刊10周年纪念" />
+<meta property="og:description" content="2017年我还在香港大学读博士期间发表了ggtree的第一篇文章，发表在Methods in Ecology and Evolution期刊上，ggtree发表之后，我受邀请去Field Museum做报告，由NIH项目The Open Tree of Life资助，另外在2019年我还受到William Pearson教授的邀请，为Current Protocols in Bioinformatics撰写一文介绍ggtree，可以看出来这项工作还是在业内引起比较大的关注的。
+今年2020年是MEE期刊创刊10周年，期刊庆祝10周年的一项活动是在每一卷中找一篇代表作，邀请作者写一写文章背后的故事，而ggtree有幸做为第八卷的代表，我写了一篇文章发表在MEE官方博客上，https://methodsblog.com/2020/11/19/ggtree-tree-visualization/，详细地介绍了开发这一R包的背景，以及后面的发展。
+在后面也介绍了我在南方医科大学独立运作一个课题组之后发表的两篇文章：
+ LG Wang, TTY Lam, S Xu, Z Dai, L Zhou, T Feng, P Guo, CW Dunn, BR Jones, T Bradley, H Zhu, Y Guan, Y Jiang, G Yu*. treeio: an R package for phylogenetic tree input and output with richly annotated and associated data. Molecular Biology and Evolution. 2020, 37(2):599-603. G Yu*, TTY Lam, H Zhu, Y Guan*." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://yulab-smu.top/posts/ggtree-2017-mee/" />
+<meta property="article:published_time" content="2020-11-25T00:00:00+00:00" />
+<meta property="article:modified_time" content="2020-11-25T00:00:00+00:00" />
+
+
+
+
+
+    <title>
+  ggtree入选MEE期刊10周年纪念 · YuLab@SMU
+</title>
+
+    
+      <link rel="canonical" href="http://yulab-smu.top/posts/ggtree-2017-mee/">
+    
+
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,700%7CMerriweather:300,700%7CSource+Code+Pro:400,700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/fork-awesome@1.1.7/css/fork-awesome.min.css"
+      integrity="sha256-gsmEoJAws/Kd3CjuOQzLie5Q3yshhvmo7YNtBG7aaEY=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/normalize.css@8/normalize.min.css">
+    
+      
+      
+      <link rel="stylesheet" href="/css/coder.min.f01c647a0d25b40da992a37c3376291185eed8a50ced8c26cc2c0bcfe38c97df.css" integrity="sha256-8Bxkeg0ltA2pkqN8M3YpEYXu2KUM7YwmzCwLz&#43;OMl98=" crossorigin="anonymous" media="screen" />
+    
+
+    
+
+    
+
+    
+
+    
+
+    <link rel="icon" type="image/png" href="/images/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/images/favicon-16x16.png" sizes="16x16">
+
+    <link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+
+    
+
+    <meta name="generator" content="Hugo 0.75.1" />
+  </head>
+
+  
+  
+  <body class="colorscheme-light"
+        onload=""
+  >
+    
+<div class="float-container">
+    <a id="dark-mode-toggle" class="colorscheme-toggle">
+        <i class="fa fa-adjust fa-fw" aria-hidden="true"></i>
+    </a>
+</div>
+
+
+    <main class="wrapper">
+      <nav class="navigation">
+  <section class="container">
+    <a class="navigation-title" href="/">
+      YuLab@SMU
+    </a>
+    
+      <input type="checkbox" id="menu-toggle" />
+      <label class="menu-button float-right" for="menu-toggle">
+        <i class="fa fa-bars fa-fw" aria-hidden="true"></i>
+      </label>
+      <ul class="navigation-list">
+        
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="/about/">About</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="/publications/">Publications</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="/projects/">Projects</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="/members/">Members</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="/documents/">Documents</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="/posts/">Blog</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="/contact/">Contact</a>
+            </li>
+          
+        
+        
+      </ul>
+    
+  </section>
+</nav>
+
+
+      <div class="content">
+        
+  <section class="container post">
+    <article>
+      <header>
+        <div class="post-title">
+          <h1 class="title">ggtree入选MEE期刊10周年纪念</h1>
+        </div>
+        <div class="post-meta">
+          <div class="date">
+            <span class="posted-on">
+              <i class="fa fa-calendar" aria-hidden="true"></i>
+              <time datetime='2020-11-25T00:00:00Z'>
+                September 11, 25118
+              </time>
+            </span>
+            <span class="reading-time">
+              <i class="fa fa-clock-o" aria-hidden="true"></i>
+              One-minute read
+            </span>
+          </div>
+          
+          
+          
+        </div>
+      </header>
+
+      <div>
+        
+        <p>2017年我还在香港大学读博士期间发表了<code>ggtree</code>的第一篇文章，发表在Methods in Ecology and Evolution期刊上，<code>ggtree</code>发表之后，我受邀请去Field Museum做报告，由NIH项目The Open Tree of Life资助，另外在2019年我还受到William Pearson教授的邀请，为<a href="https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpbi.96">Current Protocols in Bioinformatics</a>撰写一文介绍<code>ggtree</code>，可以看出来这项工作还是在业内引起比较大的关注的。</p>
+<p>今年2020年是MEE期刊创刊10周年，期刊庆祝10周年的一项活动是在每一卷中找一篇代表作，邀请作者写一写文章背后的故事，而<code>ggtree</code>有幸做为第八卷的代表，我写了一篇文章发表在MEE官方博客上，<a href="https://methodsblog.com/2020/11/19/ggtree-tree-visualization/">https://methodsblog.com/2020/11/19/ggtree-tree-visualization/</a>，详细地介绍了开发这一R包的背景，以及后面的发展。</p>
+<p>在后面也介绍了我在南方医科大学独立运作一个课题组之后发表的两篇文章：</p>
+<ul>
+<li>LG Wang, TTY Lam, S Xu, Z Dai, L Zhou, T Feng, P Guo, CW Dunn, BR Jones, T Bradley, H Zhu, Y Guan, Y Jiang, <strong>G Yu</strong><sup>*</sup>. <a href="https://doi.org/10.1093/molbev/msz240">treeio: an R package for phylogenetic tree input and output with richly annotated and associated data</a>. <strong><em>Molecular Biology and Evolution</em></strong>. 2020, 37(2):599-603.</li>
+<li><strong>G Yu</strong><sup>*</sup>, TTY Lam, H Zhu, Y Guan<sup>*</sup>. <a href="https://academic.oup.com/mbe/article-abstract/35/12/3041/5142656">Two methods for mapping and visualizing associated data on phylogeny using ggtree</a>. <strong><em>Molecular Biology and Evolution</em></strong>. 2018, 35(12):3041-3043.</li>
+</ul>
+<p>以及由我的第一个博士生所开发的<code>ggtreeExtra</code>包，这个包会是比2018年MBE文章中<code>geom_facet</code>更好的一个实现，用于将数据整合与进化树对齐进行可视化，特别是能够支持环形树。</p>
+<p><code>ggtree</code>系列包显然是树状结构与数据整合可视化的不二选择，我们课题组也在不断完善和实现新的功能。</p>
+<hr>
+
+      </div>
+
+
+      <footer>
+        
+
+<section class="see-also">
+  
+    
+    
+    
+  
+    
+    
+    
+  
+    
+    
+    
+  
+</section>
+
+
+        <div id="disqus_thread"></div>
+<script type="application/javascript">
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "yourdiscussshortname" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+        
+        
+      </footer>
+    </article>
+
+    
+  </section>
+
+      </div>
+
+      
+  <footer class="footer">
+    <section class="container">
+      
+      
+        ©
+        
+          2018 -
+        
+        2020
+         YuLab-SMU 
+      
+      
+         · 
+        Powered by <a href="https://gohugo.io/">Hugo</a> & <a href="https://github.com/luizdepra/hugo-coder/">Coder</a>.
+      
+      
+    </section>
+  </footer>
+
+
+    </main>
+
+    
+      
+        
+        <script src="/js/dark-mode.min.0213e1773e6d1c5a644f847c67a6f8abac49a3776e2976f6008038af8c5b76a1.js"></script>
+      
+    
+
+    
+
+    
+
+    <script>
+(function(f, a, t, h, o, m){
+	a[h]=a[h]||function(){
+		(a[h].q=a[h].q||[]).push(arguments)
+	};
+	o=f.createElement('script'),
+	m=f.getElementsByTagName('script')[0];
+	o.async=1; o.src=t; o.id='fathom-script';
+	m.parentNode.insertBefore(o,m)
+})(document, window, '//analytics.example.com/tracker.js', 'fathom');
+fathom('set', 'siteId', 'ABCDE');
+fathom('trackPageview');
+</script>
+
+
+    <script async defer data-domain="example.com" src="https://analytics.example.com/js/plausible.js"></script>
+
+
+    <script data-goatcounter="https://code.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
+
+
+    
+<script defer src='https://static.cloudflareinsights.com/beacon.min.js'
+        data-cf-beacon='{"token": "token"}'></script>
+
+
+  </body>
+
+</html>

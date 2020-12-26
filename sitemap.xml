@@ -3,6 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://yulab-smu.top/series/ggtree/</loc>
+    <lastmod>2020-11-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yulab-smu.top/posts/ggtree-2017-mee/</loc>
+    <lastmod>2020-11-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yulab-smu.top/series/mee/</loc>
+    <lastmod>2020-11-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yulab-smu.top/series/paper/</loc>
+    <lastmod>2020-11-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yulab-smu.top/posts/</loc>
+    <lastmod>2020-11-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yulab-smu.top/series/</loc>
+    <lastmod>2020-11-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yulab-smu.top/</loc>
+    <lastmod>2020-11-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://yulab-smu.top/about/</loc>
   </url>
   
@@ -43,19 +78,11 @@
   </url>
   
   <url>
-    <loc>http://yulab-smu.top/series/</loc>
-  </url>
-  
-  <url>
     <loc>http://yulab-smu.top/snippets/</loc>
   </url>
   
   <url>
     <loc>http://yulab-smu.top/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>http://yulab-smu.top/</loc>
   </url>
   
 </urlset>

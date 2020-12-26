@@ -5,7 +5,20 @@
     <link>http://yulab-smu.top/</link>
     <description>Recent content on YuLab@SMU</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://yulab-smu.top/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Wed, 25 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://yulab-smu.top/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ggtree入选MEE期刊10周年纪念</title>
+      <link>http://yulab-smu.top/posts/ggtree-2017-mee/</link>
+      <pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://yulab-smu.top/posts/ggtree-2017-mee/</guid>
+      <description>2017年我还在香港大学读博士期间发表了ggtree的第一篇文章，发表在Methods in Ecology and Evolution期刊上，ggtree发表之后，我受邀请去Field Museum做报告，由NIH项目The Open Tree of Life资助，另外在2019年我还受到William Pearson教授的邀请，为Current Protocols in Bioinformatics撰写一文介绍ggtree，可以看出来这项工作还是在业内引起比较大的关注的。
+今年2020年是MEE期刊创刊10周年，期刊庆祝10周年的一项活动是在每一卷中找一篇代表作，邀请作者写一写文章背后的故事，而ggtree有幸做为第八卷的代表，我写了一篇文章发表在MEE官方博客上，https://methodsblog.com/2020/11/19/ggtree-tree-visualization/，详细地介绍了开发这一R包的背景，以及后面的发展。
+在后面也介绍了我在南方医科大学独立运作一个课题组之后发表的两篇文章：
+ LG Wang, TTY Lam, S Xu, Z Dai, L Zhou, T Feng, P Guo, CW Dunn, BR Jones, T Bradley, H Zhu, Y Guan, Y Jiang, G Yu*. treeio: an R package for phylogenetic tree input and output with richly annotated and associated data. Molecular Biology and Evolution. 2020, 37(2):599-603. G Yu*, TTY Lam, H Zhu, Y Guan*.</description>
+    </item>
+    
     <item>
       <title>About Hugo</title>
       <link>http://yulab-smu.top/about/</link>
@@ -25,7 +38,9 @@ Setup Some fun facts about Hugo:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://yulab-smu.top/contact/</guid>
-      <description>Email: guangchuangyu AT gmail.com</description>
+      <description>Email: guangchuangyu AT gmail.com
+Address: 广州市沙太南路1023号南方医科大学生命科学楼10楼生物信息学系
+ </description>
     </item>
     
     <item>
@@ -34,7 +49,7 @@ Setup Some fun facts about Hugo:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://yulab-smu.top/documents/</guid>
-      <description>Books  Biomedical Knowledge Mining using GOSemSim and clusterProfiler Data Integration, Manipulation and Visualization of Phylogenetic Trees Yu G. Gene Ontology Semantic Similarity Analysis Using GOSemSim. In: Kidder B. (eds) Stem Cell Transcriptional Networks. Methods in Molecular Biology, 2020, 2117:207-215. Humana, New York, NY. 余光创, &amp;ldquo;生物信息学II&amp;rdquo;, 《功能蛋白质研究》, 385-425, 何庆瑜 (主编), 科学出版社, 2012. (&amp;ldquo;十二五&amp;quot;国家重点图书出版规划项目)  </description>
+      <description> Books  Biomedical Knowledge Mining using GOSemSim and clusterProfiler Data Integration, Manipulation and Visualization of Phylogenetic Trees Yu G. Gene Ontology Semantic Similarity Analysis Using GOSemSim. In: Kidder B. (eds) Stem Cell Transcriptional Networks. Methods in Molecular Biology, 2020, 2117:207-215. Humana, New York, NY. 余光创, &amp;ldquo;生物信息学II&amp;rdquo;, 《功能蛋白质研究》, 385-425, 何庆瑜 (主编), 科学出版社, 2012. (&amp;ldquo;十二五&amp;quot;国家重点图书出版规划项目)  </description>
     </item>
     
     <item>
@@ -53,12 +68,16 @@ pwd </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://yulab-smu.top/members/</guid>
-      <description> Guangchuang Yu, Phd.
-Professor, PI &amp; Associated Director
-Department of Bioinformatics, Southern Medical University
-      Zehan Dai, Phd.
+      <description>Guangchuang Yu, Phd.
+Professor, PI &amp; Associate Director
+Department of Bioinformatics, School of Basic Medical Sciences, Southern Medical University
+          Zehan Dai, Phd.
 Post-doctoral fellow   Shuangbin Xu
-PhD Student    </description>
+PhD Student    Tianzhi Wu
+PhD Student   Erqiang Hu
+PhD Student    Lang Zhou
+Master&#39;s Student   Tingze Feng
+Master&#39;s Student    Pingfan Guo</description>
     </item>
     
     <item>
