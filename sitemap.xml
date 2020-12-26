@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://yulab-smu.top/series/ggtree/</loc>
+    <loc>http://yulab-smu.top/tags/ggtree/</loc>
     <lastmod>2020-11-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -13,12 +13,17 @@
   </url>
   
   <url>
-    <loc>http://yulab-smu.top/series/mee/</loc>
+    <loc>http://yulab-smu.top/series/highlight/</loc>
     <lastmod>2020-11-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://yulab-smu.top/series/paper/</loc>
+    <loc>http://yulab-smu.top/tags/mee/</loc>
+    <lastmod>2020-11-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yulab-smu.top/tags/paper/</loc>
     <lastmod>2020-11-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -29,6 +34,11 @@
   
   <url>
     <loc>http://yulab-smu.top/series/</loc>
+    <lastmod>2020-11-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yulab-smu.top/tags/</loc>
     <lastmod>2020-11-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -79,10 +89,6 @@
   
   <url>
     <loc>http://yulab-smu.top/snippets/</loc>
-  </url>
-  
-  <url>
-    <loc>http://yulab-smu.top/tags/</loc>
   </url>
   
 </urlset>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>MEE on YuLab@SMU</title>
-    <link>http://yulab-smu.top/series/mee/</link>
-    <description>Recent content in MEE on YuLab@SMU</description>
+    <title>ggtree on YuLab@SMU</title>
+    <link>http://yulab-smu.top/tags/ggtree/</link>
+    <description>Recent content in ggtree on YuLab@SMU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://yulab-smu.top/series/mee/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://yulab-smu.top/tags/ggtree/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ggtree入选MEE期刊10周年纪念</title>
       <link>http://yulab-smu.top/posts/ggtree-2017-mee/</link>
