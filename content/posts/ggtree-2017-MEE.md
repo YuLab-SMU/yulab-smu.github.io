@@ -5,6 +5,10 @@ tags = ["ggtree", "MEE", "paper"]
 series = ["highlight"]
 +++
 
+
+[![](/images/blog-posts/2020-12-27_11-03.png)](https://methodsblog.com/2020/11/19/ggtree-tree-visualization/)
+
+
 2017年我还在香港大学读博士期间发表了`ggtree`的第一篇文章，发表在Methods in Ecology and Evolution期刊上，`ggtree`发表之后，我受邀请去Field Museum做报告，由NIH项目The Open Tree of Life资助，另外在2019年我还受到William Pearson教授的邀请，为[Current Protocols in Bioinformatics](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpbi.96)撰写一文介绍`ggtree`，可以看出来这项工作还是在业内引起比较大的关注的。
 
 今年2020年是MEE期刊创刊10周年，期刊庆祝10周年的一项活动是在每一卷中找一篇代表作，邀请作者写一写文章背后的故事，而`ggtree`有幸做为第八卷的代表，我写了一篇文章发表在MEE官方博客上，<https://methodsblog.com/2020/11/19/ggtree-tree-visualization/>，详细地介绍了开发这一R包的背景，以及后面的发展。
@@ -19,4 +23,3 @@ series = ["highlight"]
 `ggtree`系列包显然是树状结构与数据整合可视化的不二选择，我们课题组也在不断完善和实现新的功能。
 
 
----
