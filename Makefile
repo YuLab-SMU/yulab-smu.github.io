@@ -8,6 +8,11 @@ build:
 serve:
 	Rscript -e 'blogdown::serve_site()'
 
+update:
+	git pull;\
+	cd public;\
+	git pull
+
 publish:
 	cd public;\
 	git add .;\
