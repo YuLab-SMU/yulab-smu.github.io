@@ -10,11 +10,15 @@
           {{ .Site.Params.since }} -
         {{ end }}
         {{ now.Year }}
+
+        <i class="fa fa-heart fa-1x" aria-hidden="true"></i>
         {{ with .Site.Params.author }} {{ . }} {{ end }}
       {{ end }}
+ 
       {{ if not .Site.Params.hideCredits }}
-        {{ if not .Site.Params.hideCopyright }} · {{ end }}
-        {{ i18n "powered_by" }} <a href="https://gohugo.io/">Hugo</a> & <a href="https://github.com/luizdepra/hugo-coder/">Coder</a>.
+ <!--
+      {{ if not .Site.Params.hideCopyright }} · {{ end }} 
+         {{ i18n "powered_by" }} <a href="https://gohugo.io/">Hugo</a> & <a href="https://github.com/luizdepra/hugo-coder/">Coder</a>. -->
       {{ end }}
       {{ if .Site.Params.commit }}
         {{ if .GitInfo }}
