@@ -24,7 +24,7 @@ title: Members
             <i class="ai ai-orcid ai-2x"></i></a>   
         <a href="https://pubmed.ncbi.nlm.nih.gov/?term=yu%2C%20guangchuang[Author]" aria-label="Pubmed">    
             <i class="ai ai-pubmed ai-2x"></i></a>                               
-        <a href="/cv/ygc.html" aria-label="CV">    
+        <a href="/cv/ygc/" aria-label="CV">    
             <i class="ai ai-cv ai-2x"></i></a>                
     </td>
   </tr> 
