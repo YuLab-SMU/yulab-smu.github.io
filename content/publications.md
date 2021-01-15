@@ -3,7 +3,9 @@ slug: publications
 title: Publications
 ---
 
+You can visit [Google Scholar](https://scholar.google.com/citations?user=DO5oG40AAAAJ&hl=en) for details.
 
+<sup>#</sup> Co-first authors; <sup>\*</sup> Co-corresponding authors 
 
 ## <i class="fa fa-calendar fa-1x" aria-hidden="true"></i> 2021
 
