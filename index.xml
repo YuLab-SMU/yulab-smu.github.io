@@ -95,7 +95,9 @@ Master&#39;s Student
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://yulab-smu.top/publications/</guid>
-      <description>2021  S Liu, G Yu*, L Liu*, X Zou, L Zhou, E Hu, Y Song. Identification of prognostic Stromal-Immune Score-Based Genes in Hepatocellular Carcinoma microenvironment. Frontiers in Genetics. 2021, accepted.   2020  J He#, S Xu#, B Zhang, C Xiao, Z Chen, F Si, J Fu, X Lin, G Zheng*, G Yu*, J Chen*. Gut microbiota and metabolite alterations associated with reduced bone mineral density or bone metabolic indexes in postmenopausal osteoporosis.</description>
+      <description>You can visit Google Scholar for details.
+# Co-first authors; * Co-corresponding authors
+ 2021  S Liu, G Yu*, L Liu*, X Zou, L Zhou, E Hu, Y Song. Identification of prognostic Stromal-Immune Score-Based Genes in Hepatocellular Carcinoma microenvironment. Frontiers in Genetics. 2021, accepted.   2020  J He#, S Xu#, B Zhang, C Xiao, Z Chen, F Si, J Fu, X Lin, G Zheng*, G Yu*, J Chen*.</description>
     </item>
     
     <item>
@@ -106,6 +108,15 @@ Master&#39;s Student
       <guid>http://yulab-smu.top/snippets/second/</guid>
       <description>This content is in snippets/second/index.md
 ls -la </description>
+    </item>
+    
+    <item>
+      <title>Software</title>
+      <link>http://yulab-smu.top/software/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://yulab-smu.top/software/</guid>
+      <description>ChIP-seq  ChIPseeker: ChIP peak Annotation, Comparison, and Visualization  Infectious disease and Epidemiology  nCov2019: An R package for exploring COVID-19 statistics seqcombo: Visualization Tool for Sequence Recombination and Reassortment  Knowledge mining  clusterProfiler: Statistical analysis and visualization of functional profiles for genes and gene clusters DOSE: Disease Ontology Semantic and Enrichment analysis enrichplot: Visualization of Functional Enrichment Result GOSemSim: GO-terms Semantic Similarity Measures meshes: MeSH Enrichment and Semantic analyses ReactomePA: Reactome Pathway Analysis  Phylogeny  ggmsa: Plot mutiple sequence alignment using &amp;lsquo;ggplot2&amp;rsquo; ggtree: Visualization of tree and annotation data ggtreeExtra: Phylogenetic tree data annotation seqmagick: Sequence Manipulation Utilities tidytree: A Tidy Tool for Phylogenetic Tree Data Manipulation treeio: Base Classes and Functions for Phylogenetic Tree Input and Output  </description>
     </item>
     
   </channel>
