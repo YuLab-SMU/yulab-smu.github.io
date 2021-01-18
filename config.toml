@@ -148,23 +148,28 @@ pygmentsCodeFencesGuessSyntax = true
             url = "projects/"
 
             [[languages.en.menu.main]]
-            name = "Members"
+            name = "Software"
             weight = 4
+            url = "software/"
+
+            [[languages.en.menu.main]]
+            name = "Members"
+            weight = 5
             url = "members/"
 
             [[languages.en.menu.main]]
             name = "Documents"
-            weight = 5
+            weight = 6
             url = "documents/"
 
             [[languages.en.menu.main]]
             name = "Blog"
-            weight = 6
+            weight = 7
             url = "posts/"
 
             [[languages.en.menu.main]]
             name = "Contact"
-            weight = 7
+            weight = 8
             url = "contact/"
 
 
