@@ -23,6 +23,11 @@ title: Software
 + [meshes](https://www.bioconductor.org/packages/meshes): MeSH Enrichment and Semantic analyses
 + [ReactomePA](https://www.bioconductor.org/packages/ReactomePA): Reactome Pathway Analysis
 
+## Microbiome 
+
++ [MicrobiotaProcess](https://www.bioconductor.org/packages/MicrobiotaProcess): Analysis, visualization and biomarker discovery of microbiome 
+
+
 ## Phylogeny
 
 + [ggmsa](https://cran.r-project.org/package=ggmsa): Plot mutiple sequence alignment using 'ggplot2'
@@ -33,4 +38,9 @@ title: Software
 + [treeio](https://www.bioconductor.org/packages/): Base Classes and Functions for Phylogenetic Tree Input and Output
 
 
+
+## Visualization
+
++ [aplot](https://cran.r-project.org/package=aplot): Decorating a plot with associated information
++ [plotbb](https://github.com/YuLab-SMU/plotbb): Grammar of Graphics for base plot
 
