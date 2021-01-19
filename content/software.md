@@ -4,17 +4,17 @@ title: Software
 ---
 
 
-## ChIP-seq
+## <i class="fa fa-bullseye fa-1x" aria-hidden="true"></i> ChIP-seq
 
 + [ChIPseeker](https://www.bioconductor.org/packages/ChIPseeker): ChIP peak Annotation, Comparison, and Visualization
 
-## Infectious disease and Epidemiology
+## <i class="fa fa-plus-square fa-1x" aria-hidden="true"></i> Infectious disease and Epidemiology
 
 + [nCov2019](https://github.com/YuLab-SMU/nCov2019): An R package for exploring COVID-19 statistics
 + [seqcombo](https://www.bioconductor.org/packages/seqcombo): Visualization Tool for Sequence Recombination and Reassortment
 
 
-## Knowledge mining
+## <i class="fa fa-yelp fa-1x" aria-hidden="true"></i> Knowledge mining
 
 + [clusterProfiler](https://www.bioconductor.org/packages/clusterProfiler): Statistical analysis and visualization of functional profiles for genes and gene clusters
 + [DOSE](https://www.bioconductor.org/packages/DOSE): Disease Ontology Semantic and Enrichment analysis
@@ -23,12 +23,12 @@ title: Software
 + [meshes](https://www.bioconductor.org/packages/meshes): MeSH Enrichment and Semantic analyses
 + [ReactomePA](https://www.bioconductor.org/packages/ReactomePA): Reactome Pathway Analysis
 
-## Microbiome 
+## <i class="fa fa-shaarli-o fa-1x" aria-hidden="true"></i> Microbiome 
 
 + [MicrobiotaProcess](https://www.bioconductor.org/packages/MicrobiotaProcess): Analysis, visualization and biomarker discovery of microbiome 
 
 
-## Phylogeny
+## <i class="fa fa-tree fa-1x" aria-hidden="true"></i> Phylogeny
 
 + [ggmsa](https://cran.r-project.org/package=ggmsa): Plot mutiple sequence alignment using 'ggplot2'
 + [ggtree](https://www.bioconductor.org/packages/ggtree): Visualization of tree and annotation data
@@ -39,7 +39,7 @@ title: Software
 
 
 
-## Visualization
+## <i class="fa fa-pie-chart fa-1x" aria-hidden="true"></i> Visualization
 
 + [aplot](https://cran.r-project.org/package=aplot): Decorating a plot with associated information
 + [plotbb](https://github.com/YuLab-SMU/plotbb): Grammar of Graphics for base plot

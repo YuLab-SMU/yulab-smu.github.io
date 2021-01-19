@@ -14,19 +14,19 @@ title: Documents
 + __余光创__, "生物信息学II", 《功能蛋白质研究》, 385-425, 何庆瑜 (*主编*), __*科学出版社*__, 2012. ("十二五"国家重点图书出版规划项目)
 
 
-## <i class="fa fa-users fa-1x" aria-hidden="true"></i> Workshop
+## <i class="fa fa-users fa-1x" aria-hidden="true"></i> Workshops
 
 + [Microbiome dataset analysis using MicrobiotaProcess](https://yulab-smu.top/MicrobiotaProcessWorkshop/) (BiocAsia 2020)
 + [Pathway Analysis](https://guangchuangyu.github.io/pathway-analysis-workshop/) (invited workshop for PhD course, University of Southern Denmark)
 
 
-## <i class="fa fa-wheelchair fa-1x" aria-hidden="true"></i> Supplemental File
+## <i class="fa fa-heartbeat fa-1x" aria-hidden="true"></i> Supplemental Files
 
 + [ggtree protocols](https://github.com/GuangchuangYu/ggtree-current-protocols) -- Supplemental file of [Current Protocols in Bioinformatics, 2020](https://doi.org/10.1002/cpbi.96)
 + [Plotting tree with data](https://github.com/GuangchuangYu/plotting_tree_with_data) -- Supplemental file of [Molecular Biology and Evolution, 2018](https://doi.org/10.1093/molbev/msy194).
 
 
-## <i class="fa fa-edit fa-1x" aria-hidden="true"></i> Vignette
+## <i class="fa fa-cogs fa-1x" aria-hidden="true"></i> Vignettes
 
 + [ggmsa: Plot multiple sequence alignment using ggplot2](https://yulab-smu.top/ggmsa/)
 
