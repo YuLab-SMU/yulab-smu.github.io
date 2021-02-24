@@ -9,7 +9,7 @@ You can visit [Google Scholar](https://scholar.google.com/citations?user=DO5oG40
 
 ## <i class="fa fa-calendar fa-1x" aria-hidden="true"></i> 2021
 
-+ S Liu, __G Yu__<sup>\*</sup>, L Liu<sup>\*</sup>, X Zou, L Zhou, E Hu, Y Song. [Identification of prognostic Stromal-Immune Score-Based Genes in Hepatocellular Carcinoma microenvironment](https://www.frontiersin.org/articles/10.3389/fgene.2021.625236). __*Frontiers in Genetics*__. 2021, accepted.
++ S Liu, __G Yu__<sup>\*</sup>, L Liu<sup>\*</sup>, X Zou, L Zhou, E Hu, Y Song. [Identification of prognostic Stromal-Immune Score-Based Genes in Hepatocellular Carcinoma microenvironment](https://www.frontiersin.org/articles/10.3389/fgene.2021.625236). __*Frontiers in Genetics*__. 2021, 12: 625236.
 
 
 ## <i class="fa fa-calendar fa-1x" aria-hidden="true"></i> 2020
