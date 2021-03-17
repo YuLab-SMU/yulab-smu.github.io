@@ -16,7 +16,26 @@ You can visit [Google Scholar](https://scholar.google.com/citations?user=DO5oG40
 ## <i class="fa fa-calendar fa-1x" aria-hidden="true"></i> 2020
 
 + J He<sup>#</sup>, S Xu<sup>#</sup>, B Zhang, C Xiao, Z Chen, F Si, J Fu, X Lin, G Zheng<sup>\*</sup>, __G Yu__<sup>\*</sup>, J Chen<sup>\*</sup>. [Gut microbiota and metabolite alterations associated with reduced bone mineral density or bone metabolic indexes in postmenopausal osteoporosis](https://doi.org/10.18632/aging.103168). __*Aging (Albany NY)*__. 2020, 12(9):8583-8604.
-+ __G Yu__<sup>\*</sup>. [Using ggtree to Visualize Data on Tree-Like Structure](https://doi.org/10.1002/cpbi.96). __*Current Protocols in Bioinformatics*__. 2020, 69(1):e96. (*__Invited paper__*)
++ __G Yu__<sup>\*</sup>. [Using ggtree to Visualize Data on Tree-Like Structure](https://doi.org/10.1002/cpbi.96). __*Current Protocols in Bioinformatics*__. 2020, 69(1):e96. (*__Invited paper__*) 
+        <details><summary><font style="color:#808080;">cite this publication</font></summary> 
+    ```bib
+    @article{yu_ggtree_2020,
+        title = {Using ggtree to Visualize Data on Tree-Like Structures},
+        volume = {69},
+        rights = {© 2020 John Wiley \& Sons, Inc.},
+        issn = {1934-340X},
+        url = {https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpbi.96},
+        doi = {10.1002/cpbi.96},
+        pages = {e96},
+        number = {1},
+        journaltitle = {Current Protocols in Bioinformatics},
+        author = {Yu, Guangchuang},
+        date = {2020},
+        langid = {english},
+        keywords = {phylogeny, visualization, grammar of graphics, tree associated data, tree structure}
+    }
+    ```
+    </details>
 + LG Wang, TTY Lam, S Xu, Z Dai, L Zhou, T Feng, P Guo, CW Dunn, BR Jones, T Bradley, H Zhu, Y Guan, Y Jiang, __G Yu__<sup>\*</sup>. [treeio: an R package for phylogenetic tree input and output with richly annotated and associated data](https://doi.org/10.1093/molbev/msz240). __*Molecular Biology and Evolution*__. 2020, 37(2):599-603.
 + Z Hao, D Lv, Y Ge, J Shi, D Weijers, __G Yu__<sup>\*</sup>, J Chen<sup>\*</sup>. [RIdeogram: drawing SVG graphics to visualize and map genome-wide data on the idiograms](https://peerj.com/articles/cs-251/). __*PeerJ Computer Science*__. 2020, 6:e251.
 
