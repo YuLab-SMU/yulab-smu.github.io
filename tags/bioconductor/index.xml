@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bioconductor on YuLab@SMU</title>
+    <link>http://yulab-smu.top/tags/bioconductor/</link>
+    <description>Recent content in Bioconductor on YuLab@SMU</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 19 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://yulab-smu.top/tags/bioconductor/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>余光创等在Bioconductor亚洲区年会做报告</title>
+      <link>http://yulab-smu.top/posts/biocasia-2020/</link>
+      <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://yulab-smu.top/posts/biocasia-2020/</guid>
+      <description>应Julie Zhu教授的邀请，余光创在Bioconductor亚洲区年会上做报告（Invited Talk），介绍系统发育数据整合与可视化，介绍了课题组开发的tidytree, treeio和ggtree等几个软件包。
+  在workshop环节，徐双斌（课题组博士二年级学生）介绍了使用课题组开发的MicrobiotaProcess对宏基因组数据进行分析和可视化。
+  Workshop资料可在线获取：https://yulab-smu.top/MicrobiotaProcessWorkshop/</description>
+    </item>
+    
+  </channel>
+</rss>

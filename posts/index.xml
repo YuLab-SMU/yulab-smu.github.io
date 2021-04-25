@@ -40,5 +40,16 @@
  LG Wang, TTY Lam, S Xu, Z Dai, L Zhou, T Feng, P Guo, CW Dunn, BR Jones, T Bradley, H Zhu, Y Guan, Y Jiang, G Yu*. treeio: an R package for phylogenetic tree input and output with richly annotated and associated data. Molecular Biology and Evolution. 2020, 37(2):599-603. G Yu*, TTY Lam, H Zhu, Y Guan*.</description>
     </item>
     
+    <item>
+      <title>余光创等在Bioconductor亚洲区年会做报告</title>
+      <link>http://yulab-smu.top/posts/biocasia-2020/</link>
+      <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://yulab-smu.top/posts/biocasia-2020/</guid>
+      <description>应Julie Zhu教授的邀请，余光创在Bioconductor亚洲区年会上做报告（Invited Talk），介绍系统发育数据整合与可视化，介绍了课题组开发的tidytree, treeio和ggtree等几个软件包。
+  在workshop环节，徐双斌（课题组博士二年级学生）介绍了使用课题组开发的MicrobiotaProcess对宏基因组数据进行分析和可视化。
+  Workshop资料可在线获取：https://yulab-smu.top/MicrobiotaProcessWorkshop/</description>
+    </item>
+    
   </channel>
 </rss>
