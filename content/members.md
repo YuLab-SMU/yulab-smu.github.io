@@ -11,7 +11,7 @@ title: Members
 <table style="border:none; width:90%;">
    <tr style="border:none;"> 
     <td style="border:none;"><img src="/images/members/ygc.jpg" width='300px'></td>
-    <td style="border:none;"><strong>Guangchuang Yu, Phd.<br>
+    <td style="border:none;"><strong>Guangchuang Yu（余光创）, Phd.<br>
         Professor, PI & Associate Director</strong><br>
         Department of Bioinformatics, School of Basic Medical Sciences, Southern Medical University<br>
         <a href="https://github.com/guangchuangyu/" aria-label="Github">
