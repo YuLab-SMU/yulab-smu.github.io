@@ -6,7 +6,19 @@
     <description>Recent content in Posts on YuLab@SMU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 25 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://yulab-smu.top/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://yulab-smu.top/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>YuLab发布坐标轴截断R包：ggbreak</title>
+      <link>http://yulab-smu.top/posts/ggbreak/</link>
+      <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://yulab-smu.top/posts/ggbreak/</guid>
+      <description>坐标轴截断在生物医学论文中，是一种处理Figure的常用手段，由于数据的分布不呈现正态，有些数据特别大，而大部分的数据又比较小，这样画出来的图没法看，如果数据是呈现log normal分布的话，可以通过对数转换来解决，但数据不一定符合某种分布，通过数据转换不一定能解决问题，有时候数据只是单纯有些outliers而已。比如在系统发育树上，如果我们引入一个外类分支（outgroup)，这个外类分支的支长就可能特别长（当然系统发育树本身可能某种原因也会有分支特别长的情况），这样对可视化带来很大的问题，树的整体会因为特别长的分支被压缩到无法看清主体的树结构。这种情况在别的图形中也是可能出现的，截断是一种很好的解决方案。
+截断图如果通过操作数据来达到目标是不可取的，因为它只能针对简单的图，诸如柱状图等，对于复杂的图，因为数据变了，图就会变。所以最好的方法就是在原图上设置窗口，把中间要截掉的那块拿走，然后拼在一起，借由拿走的那块，为图的细节部分增加空间，所以本质上是拼图，而且使用拼图，对任何图形都可适用。
+别人的解决方案都是简单粗暴地拼图，一拼图就死了，没拼之前，你可以继续加图层，但你看不清楚细节部分，你把图画出来一看，看不清楚你自己加的图层效果怎么样（比如说柱状图上加标记p值）。你截断图之后，看是看得清了，但你没法再加图层了，因为图被搞死了。
+针对这样的问题，我们开发了ggbreak包，图一画，有outlier，先截断，然后在看清楚细节的情况下，可以继续用ggplot2的语法，继续搞事。</description>
+    </item>
+    
     <item>
       <title>余光创入选2020全球前2%顶尖科学家榜单</title>
       <link>http://yulab-smu.top/posts/2020-top-2-percent/</link>
