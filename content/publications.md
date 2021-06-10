@@ -9,6 +9,8 @@ You can visit [Google Scholar](https://scholar.google.com/citations?user=DO5oG40
 
 ## <i class="fa fa-calendar fa-1x" aria-hidden="true"></i> 2021
 
++ S Xu, Z Dai, P Guo, X Fu, S Liu, L Zhou, W Tang, T Feng, M Chen, L Zhan, T Wu, E Hu, Y Jiang<sup>\*</sup>, X Bo<sup>\*</sup> and __G Yu__<sup>\*</sup>. [ggtreeExtra: Compact visualization of richly annotated phylogenetic data](https://doi.org/10.1093/molbev/msab166). __*Methods in Ecology and Evolution*__. 2021, accepted.
++ T Wu, E Hu, X Ge<sup>\*</sup>, __G Yu__<sup>\*</sup>. [nCov2019: an R package for studying the COVID-19 coronavirus pandemic](https://doi.org/10.7717/peerj.11421). __*PeerJ*__. 2021, 9:e11421.
 + R Huang, C Soneson, FGM Ernst, KC Rue-Albrecht, __G Yu__, SC Hicks, MD Robinson<sup>\*</sup>. [TreeSummarizedExperiment: a S4 class for data with hierarchical structure](https://doi.org/10.12688/f1000research.26669.2). __*F1000Research*__. 2021, 9:1246.
 + S Liu, __G Yu__<sup>\*</sup>, L Liu<sup>\*</sup>, X Zou, L Zhou, E Hu, Y Song. [Identification of prognostic Stromal-Immune Score-Based Genes in Hepatocellular Carcinoma microenvironment](https://www.frontiersin.org/articles/10.3389/fgene.2021.625236). __*Frontiers in Genetics*__. 2021, 12: 625236.
 
