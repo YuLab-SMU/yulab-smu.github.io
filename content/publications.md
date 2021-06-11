@@ -9,7 +9,7 @@ You can visit [Google Scholar](https://scholar.google.com/citations?user=DO5oG40
 
 ## <i class="fa fa-calendar fa-1x" aria-hidden="true"></i> 2021
 
-+ S Xu, Z Dai, P Guo, X Fu, S Liu, L Zhou, W Tang, T Feng, M Chen, L Zhan, T Wu, E Hu, Y Jiang<sup>\*</sup>, X Bo<sup>\*</sup> and __G Yu__<sup>\*</sup>. [ggtreeExtra: Compact visualization of richly annotated phylogenetic data](https://doi.org/10.1093/molbev/msab166). __*Methods in Ecology and Evolution*__. 2021, accepted.
++ S Xu, Z Dai, P Guo, X Fu, S Liu, L Zhou, W Tang, T Feng, M Chen, L Zhan, T Wu, E Hu, Y Jiang<sup>\*</sup>, X Bo<sup>\*</sup> and __G Yu__<sup>\*</sup>. [ggtreeExtra: Compact visualization of richly annotated phylogenetic data](https://doi.org/10.1093/molbev/msab166). __*Molecular Biology and Evolution*__. 2021, accepted.
 + T Wu, E Hu, X Ge<sup>\*</sup>, __G Yu__<sup>\*</sup>. [nCov2019: an R package for studying the COVID-19 coronavirus pandemic](https://doi.org/10.7717/peerj.11421). __*PeerJ*__. 2021, 9:e11421.
 + R Huang, C Soneson, FGM Ernst, KC Rue-Albrecht, __G Yu__, SC Hicks, MD Robinson<sup>\*</sup>. [TreeSummarizedExperiment: a S4 class for data with hierarchical structure](https://doi.org/10.12688/f1000research.26669.2). __*F1000Research*__. 2021, 9:1246.
 + S Liu, __G Yu__<sup>\*</sup>, L Liu<sup>\*</sup>, X Zou, L Zhou, E Hu, Y Song. [Identification of prognostic Stromal-Immune Score-Based Genes in Hepatocellular Carcinoma microenvironment](https://www.frontiersin.org/articles/10.3389/fgene.2021.625236). __*Frontiers in Genetics*__. 2021, 12: 625236.
@@ -20,7 +20,7 @@ You can visit [Google Scholar](https://scholar.google.com/citations?user=DO5oG40
 + J He<sup>#</sup>, S Xu<sup>#</sup>, B Zhang, C Xiao, Z Chen, F Si, J Fu, X Lin, G Zheng<sup>\*</sup>, __G Yu__<sup>\*</sup>, J Chen<sup>\*</sup>. [Gut microbiota and metabolite alterations associated with reduced bone mineral density or bone metabolic indexes in postmenopausal osteoporosis](https://doi.org/10.18632/aging.103168). __*Aging (Albany NY)*__. 2020, 12(9):8583-8604.
 + __G Yu__<sup>\*</sup>. [Using ggtree to Visualize Data on Tree-Like Structure](https://doi.org/10.1002/cpbi.96). __*Current Protocols in Bioinformatics*__. 2020, 69(1):e96. (*__Invited paper__*) 
 + LG Wang, TTY Lam, S Xu, Z Dai, L Zhou, T Feng, P Guo, CW Dunn, BR Jones, T Bradley, H Zhu, Y Guan, Y Jiang, __G Yu__<sup>\*</sup>. [treeio: an R package for phylogenetic tree input and output with richly annotated and associated data](https://doi.org/10.1093/molbev/msz240). __*Molecular Biology and Evolution*__. 2020, 37(2):599-603.
-+ Z Hao, D Lv, Y Ge, J Shi, D Weijers, __G Yu__<sup>\*</sup>, J Chen<sup>\*</sup>. [RIdeogram: drawing SVG graphics to visualize and map genome-wide data on the idiograms](https://peerj.com/articles/cs-251/). __*PeerJ Computer Science*__. 2020, 6:e251.
++ Z Hao, D Lv, Y Ge, J Shi, D Weijers, __G Yu__<sup>\*</sup>, J Chen<sup>\*</sup>. [RIdeogram: drawing SVG graphics to visualize and map genome-wide data on the idiograms](https://peerj.com/articles/cs-251/). __*PeerJ Computer Science*__. 2020, 6:e251.   <i class="fa fa-trophy fa-2x" aria-hidden="true" style="color:#CC5500;"></i> <font style="color:#4682b4;"><strong>Highly Cited Paper</strong></font>
 
 
 ## <i class="fa fa-calendar fa-1x" aria-hidden="true"></i> 2018
