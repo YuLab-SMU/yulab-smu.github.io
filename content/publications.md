@@ -9,8 +9,9 @@ You can visit [Google Scholar](https://scholar.google.com/citations?user=DO5oG40
 
 ## <i class="fa fa-calendar fa-1x" aria-hidden="true"></i> 2021
 
-+ S Xu, Z Dai, P Guo, X Fu, S Liu, L Zhou, W Tang, T Feng, M Chen, L Zhan, T Wu, E Hu, Y Jiang<sup>\*</sup>, X Bo<sup>\*</sup>, __G Yu__<sup>\*</sup>. [ggtreeExtra: Compact visualization of richly annotated phylogenetic data](https://doi.org/10.1093/molbev/msab166). __*Molecular Biology and Evolution*__. 2021, accepted.
+
 + CH Gao, __G Yu__, P Cai<sup>\*</sup>. [ggVennDiagram: An intuitive, easy-to-use, and highly customizable R package to generate Venn diagram](https://doi.org/10.3389/fgene.2021.706907). __*Frontiers in Genetics*__. 2021, 12:706907.
++ S Xu, Z Dai, P Guo, X Fu, S Liu, L Zhou, W Tang, T Feng, M Chen, L Zhan, T Wu, E Hu, Y Jiang<sup>\*</sup>, X Bo<sup>\*</sup>, __G Yu__<sup>\*</sup>. [ggtreeExtra: Compact visualization of richly annotated phylogenetic data](https://doi.org/10.1093/molbev/msab166). __*Molecular Biology and Evolution*__. 2021, 38(9):4039-4042.
 + T Wu<sup>#</sup>, E Hu<sup>#</sup>, S Xu, M Chen, P Guo, Z Dai, T Feng, L Zhou, W Tang, L Zhan, X Fu, S Liu, X Bo<sup>\*</sup>, **G Yu**<sup>\*</sup>. [clusterProfiler 4.0: A universal enrichment tool for interpreting omics data](https://doi.org/10.1016/j.xinn.2021.100141). **_The Innovation_**. 2021, 2(3):100141.
 + D Zeng<sup>#</sup>, Z Ye<sup>#</sup>, R Shen, __G Yu__, J Wu, Y Xiong, R Zhou, W Qiu, N Huang, L Sun, X Li, J Bin, Y Liao, M Shi, W Liao<sup>\*</sup>. [IOBR: Multi-Omics Immuno-Oncology Biological Research to Decode Tumor Microenvironment and Signatures](https://doi.org/10.3389/fimmu.2021.687975). **_Frontiers in Immunology_**. 2021, 12:687975.
 + T Wu, E Hu, X Ge<sup>\*</sup>, __G Yu__<sup>\*</sup>. [nCov2019: an R package for studying the COVID-19 coronavirus pandemic](https://doi.org/10.7717/peerj.11421). __*PeerJ*__. 2021, 9:e11421.
