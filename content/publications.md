@@ -9,7 +9,7 @@ You can visit [Google Scholar](https://scholar.google.com/citations?user=DO5oG40
 
 ## <i class="fa fa-calendar fa-1x" aria-hidden="true"></i> 2021
 
-
++ S Xu<sup>#</sup>, M Chen<sup>#</sup>, T Feng, L Zhan, L Zhou, __G Yu__<sup>\*</sup>. [Use ggbreak to effectively utilize plotting space to deal with large datasets and outliers](https://www.frontiersin.org/articles/10.3389/fgene.2021.774846). __*Frontiers in Genetics*__. 2021, 12:774846.
 + CH Gao, __G Yu__, P Cai<sup>\*</sup>. [ggVennDiagram: An intuitive, easy-to-use, and highly customizable R package to generate Venn diagram](https://doi.org/10.3389/fgene.2021.706907). __*Frontiers in Genetics*__. 2021, 12:706907.
 + S Xu, Z Dai, P Guo, X Fu, S Liu, L Zhou, W Tang, T Feng, M Chen, L Zhan, T Wu, E Hu, Y Jiang<sup>\*</sup>, X Bo<sup>\*</sup>, __G Yu__<sup>\*</sup>. [ggtreeExtra: Compact visualization of richly annotated phylogenetic data](https://doi.org/10.1093/molbev/msab166). __*Molecular Biology and Evolution*__. 2021, 38(9):4039-4042.
 + T Wu<sup>#</sup>, E Hu<sup>#</sup>, S Xu, M Chen, P Guo, Z Dai, T Feng, L Zhou, W Tang, L Zhan, X Fu, S Liu, X Bo<sup>\*</sup>, **G Yu**<sup>\*</sup>. [clusterProfiler 4.0: A universal enrichment tool for interpreting omics data](https://doi.org/10.1016/j.xinn.2021.100141). **_The Innovation_**. 2021, 2(3):100141. (**_Feature article_** [^1]) 
