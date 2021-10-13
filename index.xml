@@ -166,7 +166,7 @@ Master&#39;s Student
       <guid>http://yulab-smu.top/publications/</guid>
       <description>You can visit Google Scholar for details.
 # Co-first authors; * Co-corresponding authors
- 2021  CH Gao, G Yu, P Cai*. ggVennDiagram: An intuitive, easy-to-use, and highly customizable R package to generate Venn diagram. Frontiers in Genetics. 2021, 12:706907. S Xu, Z Dai, P Guo, X Fu, S Liu, L Zhou, W Tang, T Feng, M Chen, L Zhan, T Wu, E Hu, Y Jiang*, X Bo*, G Yu*. ggtreeExtra: Compact visualization of richly annotated phylogenetic data.</description>
+ 2021  S Xu#, M Chen#, T Feng, L Zhan, L Zhou, G Yu*. Use ggbreak to effectively utilize plotting space to deal with large datasets and outliers. Frontiers in Genetics. 2021, 12:774846. CH Gao, G Yu, P Cai*. ggVennDiagram: An intuitive, easy-to-use, and highly customizable R package to generate Venn diagram. Frontiers in Genetics. 2021, 12:706907.</description>
     </item>
     
     <item>
