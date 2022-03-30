@@ -7,6 +7,13 @@ You can visit [Google Scholar](https://scholar.google.com/citations?user=DO5oG40
 
 <sup>#</sup> Co-first authors; <sup>\*</sup> Co-corresponding authors 
 
+## <i class="fa fa-calendar fa-1x" aria-hidden="true"></i> 2022
+
++ N Sato, Y Tamada, __G Yu__, Y Okuno<sup>\*</sup>. [CBNplot: Bayesian network plots for enrichment analysis](https://doi.org/10.1093/bioinformatics/btac175). __*Bioinformatics*__. 2022.
++ T Wu, CL Xiao, TT Lam, __G Yu__<sup>\*</sup>. [The frontier status and trends in biomedical data visualization](https://www.frontiersin.org/articles/10.3389/fgene.2022.890775/full). __*Frontiers in Genetics*__. 2022.
++ Altered gut microbiota as an auxiliary diagnostic indicator for patients with fracture-related infection. __*Frontiers in Microbiology*__. 2022.
+
+
 ## <i class="fa fa-calendar fa-1x" aria-hidden="true"></i> 2021
 
 + S Xu<sup>#</sup>, M Chen<sup>#</sup>, T Feng, L Zhan, L Zhou, __G Yu__<sup>\*</sup>. [Use ggbreak to effectively utilize plotting space to deal with large datasets and outliers](https://www.frontiersin.org/articles/10.3389/fgene.2021.774846). __*Frontiers in Genetics*__. 2021, 12:774846.
