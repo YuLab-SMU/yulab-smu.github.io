@@ -12,8 +12,9 @@ You can visit [Google Scholar](https://scholar.google.com/citations?user=DO5oG40
 
 ## <i class="fa fa-calendar fa-1x" aria-hidden="true"></i> 2022
 
++ L Zhou<sup>#</sup>, T Feng<sup>#</sup>, S Xu, F Gao, TT Lam, Q Wang, T Wu, H Huang, L Zhan, L Li, Y Guan, Z Dai<sup>\*</sup>, __G Yu__<sup>\*</sup>. [ggmsa: a visual exploration tool for multiple sequence alignment and associated data](https://doi.org/10.1093/bib/bbac222). __*Briefings in Bioinformatics*__. 2022.
 + N Sato, Y Tamada, __G Yu__, Y Okuno<sup>\*</sup>. [CBNplot: Bayesian network plots for enrichment analysis](https://doi.org/10.1093/bioinformatics/btac175). __*Bioinformatics*__. 2022. (IF=6.937，一区，Top期刊)
-+ T Wu, CL Xiao, TT Lam, __G Yu__<sup>\*</sup>. [The frontier status and trends in biomedical data visualization](https://www.frontiersin.org/articles/10.3389/fgene.2022.890775/full). __*Frontiers in Genetics*__. 2022. (IF=4.599，三区)
++ T Wu, CL Xiao, TT Lam, __G Yu__<sup>\*</sup>. [Editorial: Biomedical Data Visualization: Methods and Applications](https://www.frontiersin.org/articles/10.3389/fgene.2022.890775/full). __*Frontiers in Genetics*__. 2022, 13:890775. (IF=4.599，三区)
 + X Zhao<sup>#</sup>, W Tang<sup>#</sup>, H Wan<sup>#</sup>, Z Lan H Qin, Q Lin, Y Hu, __G Yu__<sup>\*</sup>, N Jiang<sup>\*</sup>, B Yu<sup>\*</sup>. [Altered gut microbiota as an auxiliary diagnostic indicator for patients with fracture-related infection](https://www.frontiersin.org/articles/10.3389/fmicb.2022.723791/full). __*Frontiers in Microbiology*__. 2022, 13:723791. (IF = 5.640，二区，Top期刊)
 
 
