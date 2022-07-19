@@ -142,6 +142,6 @@ title: Members
 
 ## Former Lab Members
 
-+ **Lang Zhou** (MS 2019-2022; Currently an Bioinformatician in Zhujian Hospital)
++ **Lang Zhou** (MS 2019-2022; Currently a Bioinformatician in Zhujian Hospital)
 + **Tingze Feng** (MS 2019-2022)
 + **Shanshan Liu** (MS 2019-2022; Currently a PhD student in Southern Medical University)
