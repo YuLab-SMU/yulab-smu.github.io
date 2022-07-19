@@ -7,7 +7,8 @@ You can visit [Google Scholar](https://scholar.google.com/citations?user=DO5oG40
 
 + <sup>#</sup> Co-first authors
 + <sup>\*</sup> Co-corresponding authors 
-+ <i class="fa fa-trophy fa-2x" aria-hidden="true" style="color:#CC5500;font-size: 150%;"></i> Highly Cited Paper (ESI高被引论文)
++ Cited by 20480, h-index = 25 (google scholar, Jul 2022)
++ <i class="fa fa-trophy fa-2x" aria-hidden="true" style="color:#CC5500;font-size: 150%;"></i> ESI Highly Cited Paper (ESI高被引论文)
 + 分区为中科院小类分区，标记的是发表文章当年的分区
 + IF为当年影响因子，如2018年发表的文章，标记的是2018年影响因子
 
