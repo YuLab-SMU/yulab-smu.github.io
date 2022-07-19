@@ -8,11 +8,11 @@ title: Members
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons/css/academicons.min.css">
 
-<table style="border:none; width:90%;">
+<table style="border:none; font-size: 120%; width:100%;">
    <tr style="border:none;"> 
     <td style="border:none;"><img src="/images/members/ygc.jpg" width='300px'></td>
     <td style="border:none;"><strong>Guangchuang Yu（余光创）, Phd.<br>
-        Professor, PI & Associate Director</strong><br>
+        Professor, PI & Director</strong><br>
         Department of Bioinformatics, School of Basic Medical Sciences, Southern Medical University<br>
         <a href="https://github.com/guangchuangyu/" aria-label="Github">
             <i class="fa fa-github fa-2x" aria-hidden="true"></i></a>
@@ -30,8 +30,18 @@ title: Members
   </tr> 
 </table> 
 
-<table style="border:none;">
-<tr style="border:none;"> 
+<table style="border:none; font-size: 90%; width:130%;">
+<tr style="border:none;">
+    <td style="border:none;"><img src="/images/members/wqw.jpg" width='150px'></td>
+    <td style="border:none;"><strong>Qianwen Wang, Phd.<br>
+        Lecturer</strong><br>
+        <a href="https://github.com/Treywea" aria-label="Github">
+            <i class="fa fa-github fa-2x" aria-hidden="true"></i></a>
+        <a href="https://scholar.google.com/citations?user=1M8ux5YAAAAJ&hl=en" aria-label="GoogleScholar">    
+            <i class="ai ai-google-scholar ai-2x"></i></a>
+        <a href="https://orcid.org/0000-0003-3553-1162" aria-label="Orcid">    
+            <i class="ai ai-orcid ai-2x"></i></a>   
+    </td>     
     <td style="border:none;"><img src="/images/members/dzh.png" width='150px'></td>
     <td style="border:none;"><strong>Zehan Dai, Phd.<br>
         Post-doctoral fellow</strong><br>
@@ -39,12 +49,13 @@ title: Members
             <i class="fa fa-github fa-2x" aria-hidden="true"></i></a>
     </td>
     <td style="border:none;"><img src="/images/members/xsb.jpg" width='150px'></td>
-    <td style="border:none;"><strong>Shuangbin Xu<br>
-        PhD Student</strong><br>
+    <td style="border:none;"><strong>Shuangbin Xu, Phd.<br>
+        Post-doctoral fellow</strong><br>
         <a href="https://github.com/xiangpin" aria-label="Github">
             <i class="fa fa-github fa-2x" aria-hidden="true"></i></a>
     </td>    
   </tr> 
+
 <tr style="border:none;"> 
     <td style="border:none;"><img src="/images/members/wtz.jpg" width='150px'></td>
     <td style="border:none;"><strong>Tianzhi Wu<br>
@@ -60,72 +71,77 @@ title: Members
         <a href="https://orcid.org/0000-0002-1798-7513" aria-label="Orcid">    
             <i class="ai ai-orcid ai-2x"></i></a> 
     </td>    
-  </tr>
- <tr style="border:none;"> 
-    <td style="border:none;"><img src="/images/members/zhoulang.jpg" width='150px'></td>
-    <td style="border:none;"><strong>Lang Zhou<br>
-        Master's Student</strong><br>
-        <a href="https://github.com/nyzhoulang" aria-label="Github">
-            <i class="fa fa-github fa-2x" aria-hidden="true"></i></a>
-    </td>
-    <td style="border:none;"><img src="/images/members/ftz.jpg" width='150px'></td>
-    <td style="border:none;"><strong>Tingze Feng<br>
-        Master's Student</strong><br>
-        <a href="https://github.com/suqianzhi" aria-label="Github">
-            <i class="fa fa-github fa-2x" aria-hidden="true"></i></a>
-    </td>    
-  </tr> 
- <tr style="border:none;"> 
     <td style="border:none;"><img src="/images/members/gpf.jpg" width='150px'></td>
     <td style="border:none;"><strong>Pingfan Guo<br>
-        Master's Student</strong><br>
+        Master Student</strong><br>
         <a href="https://github.com/qibaiqi" aria-label="Github">
             <i class="fa fa-github fa-2x" aria-hidden="true"></i></a>
     </td>
-    <td style="border:none;"><img src="/images/members/lss.jpg" width='150px'></td>
-    <td style="border:none;"><strong>Shanshan Liu<br>
-        Master's Student</strong>
-    </td>    
   </tr>
  <tr style="border:none;"> 
     <td style="border:none;"><img src="/images/members/twl.jpg" width='150px'></td>
     <td style="border:none;"><strong>Wenli Tang<br>
-        Master's Student</strong><br>
+        Master Student</strong><br>
         <a href="https://github.com/WENLITANG" aria-label="Github">
             <i class="fa fa-github fa-2x" aria-hidden="true"></i></a>
     </td>
     <td style="border:none;"><img src="/images/members/cmj.jpg" width='150px'></td>
     <td style="border:none;"><strong>Meijun Chen<br>
-        Master's Student</strong><br>
+        Master Student</strong><br>
         <a href="https://github.com/mjchen1996" aria-label="Github">
             <i class="fa fa-github fa-2x" aria-hidden="true"></i></a>
         <a href="https://www.researchgate.net/profile/Meijun-Chen?ev=hdr_xprf&_sg=Gt4OOeY8VUKHhTru1eAVc09MhVD51o2QS7RbR39ycXAHLU8B-ZxuLOa_t7YlhhswFtVAqy2iB1Wmn5Uz8YHwQrOA" aria-label="Researchgate">
             <i class="fab fa-researchgate" aria-hidden="true"></i></a>
     </td>    
-  </tr>    
- <tr style="border:none;"> 
     <td style="border:none;"><img src="/images/members/zhanli.jpg" width='150px'></td>
     <td style="border:none;"><strong>Li Zhan<br>
-        Master's Student</strong><br>
-        <a href="https://github.com/Alee-Jen" aria-label="Github">
+        Master Student</strong><br>
+        <a href="https://github.com/SMUZhanLi" aria-label="Github">
             <i class="fa fa-github fa-2x" aria-hidden="true"></i></a>
     </td>
+  </tr>    
+ <tr style="border:none;"> 
     <td style="border:none;"><img src="/images/members/fxc.jpg" width='150px'></td>
     <td style="border:none;"><strong>Xiaocong Fu<br>
-        Master's Student</strong>
+        Master Student</strong>
     </td>    
+    <td style="border:none;"><img src="/images/members/ll.jpg" width='150px'></td>
+    <td style="border:none;"><strong>Lin Li<br>
+        Master Student</strong>
+        <a href="https://github.com/SanL20" aria-label="Github">
+            <i class="fa fa-github fa-2x" aria-hidden="true"></i></a>
+    </td>   
+    <td style="border:none;"><img src="/images/members/xzj.jpg" width='150px'></td>
+    <td style="border:none;"><strong>Zijing Xie<br>
+        Master Student</strong>
+    </td>   
   </tr> 
 <tr style="border:none;"> 
     <td style="border:none;"><img src="/images/members/xwq.jpg" width='150px'></td>
     <td style="border:none;"><strong>Wenqin Xie<br>
-        Master's Student</strong><br>
+        Master Student</strong><br>
         <a href="https://github.com/Xie-Wenqin" aria-label="Github">
             <i class="fa fa-github fa-2x" aria-hidden="true"></i></a>
     </td>
-    <td style="border:none;"><img src="" width='150px'></td>
-    <td style="border:none;"><strong> <br></strong>
-    </td>    
+    <td style="border:none;"><img src="/images/members/lx.jpg" width='150px'></td>
+    <td style="border:none;"><strong>Xiao Luo<br>
+        Master Student</strong><br>
+        <a href="https://github.com/778055611" aria-label="Github">
+            <i class="fa fa-github fa-2x" aria-hidden="true"></i></a>
+    </td>
+    <td style="border:none;"><img src="/images/members/lm.jpg" width='150px'></td>
+    <td style="border:none;"><strong>Ming Li<br>
+        Master Student</strong><br>
+        <a href="https://github.com/MingLi-929" aria-label="Github">
+            <i class="fa fa-github fa-2x" aria-hidden="true"></i></a>
+    </td>
   </tr>    
+
 </table> 
 
 
+## Former Lab Members
+
++ **Lang Zhou** (MS 2019-2022; Currently an Bioinformatician in Zhujian Hospital)
++ **Tingze Feng** (MS 2019-2022)
++ **Shanshan Liu** (MS 2019-2022; Currently a PhD student in Southern Medical University)
