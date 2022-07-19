@@ -5,6 +5,13 @@ title: Members
 
 
 
+<style>
+    @media only screen and (max-width: 768px) {
+        td {
+            display: block;
+        }
+    }
+</style>
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons/css/academicons.min.css">
 
