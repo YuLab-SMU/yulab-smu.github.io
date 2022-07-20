@@ -15,6 +15,7 @@ update:
 
 publish:
 	cd public;\
+	cp ~/mybook/cv/index.html cv/ygc/;\
 	git add .;\
 	git commit -m 'update';\
 	git push -u origin gh-pages
