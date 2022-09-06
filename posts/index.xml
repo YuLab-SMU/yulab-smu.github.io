@@ -15,7 +15,7 @@
       <guid>http://yulab-smu.top/posts/clusterprofiler4/</guid>
       <description>生物信息学软件很多都死在故纸堆里，发表文章之后，就走向毁灭，这叫publish and perish。clusterProfiler之所以能够成功，因为我对它充满感情，10年如一日地维护，而且自2012年发表一篇文章以来，虽然软件一直在更新，但我一直没有再发一版。时隔9年，我终于再写一版，而且是把论文写在祖国大地上，clusterProfiler 4.0发表在中科院青促会主办的期刊The Innovation 😍 。这是对我过去10年的维护更新的一次总结，你看之前的文章的话，很多功能你是不知道的，而且确实很多用户不清楚，这是所有clusterProfiler用户必读的一篇文献。
 clusterProfiler4.0同步支持最新版GO和KEGG数据，支持数千物种的功能分析，应对不同来源的基因功能注释（如cell markers, COVID-19等）提供了通用的分析方法，适用各类组学数据（RNA-seq, ChIP-seq, Methyl-seq, scRNA-seq…）。新版本尤其实现多组数据间自由比较，如不同条件、处理等，并内置系列流行辅助工具，如数据处理包dplyr、可视化包ggplot2等，方便分析人员用熟悉的方式自由探索，实现数据高效解读。目前，clusterProfiler已被整合进超过30个的同行分析软件中，助力不同场景下的功能分析，相信clusterProfiler4.0未来将发挥更大的作用，助力研究者更高效地解读生物医学数据及建立更可靠的机制假说。
- T Wu#, E Hu#, S Xu, M Chen, P Guo, Z Dai, T Feng, L Zhou, W Tang, L Zhan, X Fu, S Liu, X Bo*, G Yu*. clusterProfiler 4.0: A universal enrichment tool for interpreting omics data. The Innovation. 2021, 2(3):100141.  &amp;ndash;&amp;gt; 文章详细的中文解读，请猛击《The Innovation | clusterProfiler：聚焦海量组学数据核心生物学意义》
+T Wu#, E Hu#, S Xu, M Chen, P Guo, Z Dai, T Feng, L Zhou, W Tang, L Zhan, X Fu, S Liu, X Bo*, G Yu*. clusterProfiler 4.0: A universal enrichment tool for interpreting omics data. The Innovation. 2021, 2(3):100141. &amp;ndash;&amp;gt; 文章详细的中文解读，请猛击《The Innovation | clusterProfiler：聚焦海量组学数据核心生物学意义》
 文章于2021年8月24日被cell主页选为banner：</description>
     </item>
     
@@ -61,7 +61,7 @@ clusterProfiler4.0同步支持最新版GO和KEGG数据，支持数千物种的�
       <description>2017年我还在香港大学读博士期间发表了ggtree的第一篇文章，发表在Methods in Ecology and Evolution期刊上，ggtree发表之后，我受邀请去Field Museum做报告，由NIH项目The Open Tree of Life资助，另外在2019年我还受到William Pearson教授的邀请，为Current Protocols in Bioinformatics撰写一文介绍ggtree，可以看出来这项工作还是在业内引起比较大的关注的。
 今年2020年是MEE期刊创刊10周年，期刊庆祝10周年的一项活动是在每一卷中找一篇代表作，邀请作者写一写文章背后的故事，而ggtree有幸做为第八卷的代表，我写了一篇文章发表在MEE官方博客上，https://methodsblog.com/2020/11/19/ggtree-tree-visualization/，详细地介绍了开发这一R包的背景，以及后面的发展。
 在后面也介绍了我在南方医科大学独立运作一个课题组之后发表的两篇文章：
- LG Wang, TTY Lam, S Xu, Z Dai, L Zhou, T Feng, P Guo, CW Dunn, BR Jones, T Bradley, H Zhu, Y Guan, Y Jiang, G Yu*. treeio: an R package for phylogenetic tree input and output with richly annotated and associated data. Molecular Biology and Evolution. 2020, 37(2):599-603. G Yu*, TTY Lam, H Zhu, Y Guan*.</description>
+LG Wang, TTY Lam, S Xu, Z Dai, L Zhou, T Feng, P Guo, CW Dunn, BR Jones, T Bradley, H Zhu, Y Guan, Y Jiang, G Yu*. treeio: an R package for phylogenetic tree input and output with richly annotated and associated data. Molecular Biology and Evolution. 2020, 37(2):599-603. G Yu*, TTY Lam, H Zhu, Y Guan*.</description>
     </item>
     
     <item>
@@ -71,8 +71,8 @@ clusterProfiler4.0同步支持最新版GO和KEGG数据，支持数千物种的�
       
       <guid>http://yulab-smu.top/posts/biocasia-2020/</guid>
       <description>应Julie Zhu教授的邀请，余光创在Bioconductor亚洲区年会上做报告（Invited Talk），介绍系统发育数据整合与可视化，介绍了课题组开发的tidytree, treeio和ggtree等几个软件包。
-  在workshop环节，徐双斌（课题组博士二年级学生）介绍了使用课题组开发的MicrobiotaProcess对宏基因组数据进行分析和可视化。
-  Workshop资料可在线获取：https://yulab-smu.top/MicrobiotaProcessWorkshop/</description>
+在workshop环节，徐双斌（课题组博士二年级学生）介绍了使用课题组开发的MicrobiotaProcess对宏基因组数据进行分析和可视化。
+Workshop资料可在线获取：https://yulab-smu.top/MicrobiotaProcessWorkshop/</description>
     </item>
     
   </channel>

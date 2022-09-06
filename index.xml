@@ -15,7 +15,7 @@
       <guid>http://yulab-smu.top/clusterprofiler4/</guid>
       <description>生物信息学软件很多都死在故纸堆里，发表文章之后，就走向毁灭，这叫publish and perish。clusterProfiler之所以能够成功，因为我对它充满感情，10年如一日地维护，而且自2012年发表一篇文章以来，虽然软件一直在更新，但我一直没有再发一版。时隔9年，我终于再写一版，而且是把论文写在祖国大地上，clusterProfiler 4.0发表在中科院青促会主办的期刊The Innovation 😍 。这是对我过去10年的维护更新的一次总结，你看之前的文章的话，很多功能你是不知道的，而且确实很多用户不清楚，这是所有clusterProfiler用户必读的一篇文献。
 clusterProfiler4.0同步支持最新版GO和KEGG数据，支持数千物种的功能分析，应对不同来源的基因功能注释（如cell markers, COVID-19等）提供了通用的分析方法，适用各类组学数据（RNA-seq, ChIP-seq, Methyl-seq, scRNA-seq…）。新版本尤其实现多组数据间自由比较，如不同条件、处理等，并内置系列流行辅助工具，如数据处理包dplyr、可视化包ggplot2等，方便分析人员用熟悉的方式自由探索，实现数据高效解读。目前，clusterProfiler已被整合进超过30个的同行分析软件中，助力不同场景下的功能分析，相信clusterProfiler4.0未来将发挥更大的作用，助力研究者更高效地解读生物医学数据及建立更可靠的机制假说。
- T Wu#, E Hu#, S Xu, M Chen, P Guo, Z Dai, T Feng, L Zhou, W Tang, L Zhan, X Fu, S Liu, X Bo*, G Yu*. clusterProfiler 4.0: A universal enrichment tool for interpreting omics data. The Innovation. 2021, 2(3):100141.  &amp;ndash;&amp;gt; 文章详细的中文解读，请猛击《The Innovation | clusterProfiler：聚焦海量组学数据核心生物学意义》
+T Wu#, E Hu#, S Xu, M Chen, P Guo, Z Dai, T Feng, L Zhou, W Tang, L Zhan, X Fu, S Liu, X Bo*, G Yu*. clusterProfiler 4.0: A universal enrichment tool for interpreting omics data. The Innovation. 2021, 2(3):100141. &amp;ndash;&amp;gt; 文章详细的中文解读，请猛击《The Innovation | clusterProfiler：聚焦海量组学数据核心生物学意义》
 文章于2021年8月24日被cell主页选为banner：</description>
     </item>
     
@@ -27,7 +27,7 @@ clusterProfiler4.0同步支持最新版GO和KEGG数据，支持数千物种的�
       <guid>http://yulab-smu.top/posts/clusterprofiler4/</guid>
       <description>生物信息学软件很多都死在故纸堆里，发表文章之后，就走向毁灭，这叫publish and perish。clusterProfiler之所以能够成功，因为我对它充满感情，10年如一日地维护，而且自2012年发表一篇文章以来，虽然软件一直在更新，但我一直没有再发一版。时隔9年，我终于再写一版，而且是把论文写在祖国大地上，clusterProfiler 4.0发表在中科院青促会主办的期刊The Innovation 😍 。这是对我过去10年的维护更新的一次总结，你看之前的文章的话，很多功能你是不知道的，而且确实很多用户不清楚，这是所有clusterProfiler用户必读的一篇文献。
 clusterProfiler4.0同步支持最新版GO和KEGG数据，支持数千物种的功能分析，应对不同来源的基因功能注释（如cell markers, COVID-19等）提供了通用的分析方法，适用各类组学数据（RNA-seq, ChIP-seq, Methyl-seq, scRNA-seq…）。新版本尤其实现多组数据间自由比较，如不同条件、处理等，并内置系列流行辅助工具，如数据处理包dplyr、可视化包ggplot2等，方便分析人员用熟悉的方式自由探索，实现数据高效解读。目前，clusterProfiler已被整合进超过30个的同行分析软件中，助力不同场景下的功能分析，相信clusterProfiler4.0未来将发挥更大的作用，助力研究者更高效地解读生物医学数据及建立更可靠的机制假说。
- T Wu#, E Hu#, S Xu, M Chen, P Guo, Z Dai, T Feng, L Zhou, W Tang, L Zhan, X Fu, S Liu, X Bo*, G Yu*. clusterProfiler 4.0: A universal enrichment tool for interpreting omics data. The Innovation. 2021, 2(3):100141.  &amp;ndash;&amp;gt; 文章详细的中文解读，请猛击《The Innovation | clusterProfiler：聚焦海量组学数据核心生物学意义》
+T Wu#, E Hu#, S Xu, M Chen, P Guo, Z Dai, T Feng, L Zhou, W Tang, L Zhan, X Fu, S Liu, X Bo*, G Yu*. clusterProfiler 4.0: A universal enrichment tool for interpreting omics data. The Innovation. 2021, 2(3):100141. &amp;ndash;&amp;gt; 文章详细的中文解读，请猛击《The Innovation | clusterProfiler：聚焦海量组学数据核心生物学意义》
 文章于2021年8月24日被cell主页选为banner：</description>
     </item>
     
@@ -73,7 +73,7 @@ clusterProfiler4.0同步支持最新版GO和KEGG数据，支持数千物种的�
       <description>2017年我还在香港大学读博士期间发表了ggtree的第一篇文章，发表在Methods in Ecology and Evolution期刊上，ggtree发表之后，我受邀请去Field Museum做报告，由NIH项目The Open Tree of Life资助，另外在2019年我还受到William Pearson教授的邀请，为Current Protocols in Bioinformatics撰写一文介绍ggtree，可以看出来这项工作还是在业内引起比较大的关注的。
 今年2020年是MEE期刊创刊10周年，期刊庆祝10周年的一项活动是在每一卷中找一篇代表作，邀请作者写一写文章背后的故事，而ggtree有幸做为第八卷的代表，我写了一篇文章发表在MEE官方博客上，https://methodsblog.com/2020/11/19/ggtree-tree-visualization/，详细地介绍了开发这一R包的背景，以及后面的发展。
 在后面也介绍了我在南方医科大学独立运作一个课题组之后发表的两篇文章：
- LG Wang, TTY Lam, S Xu, Z Dai, L Zhou, T Feng, P Guo, CW Dunn, BR Jones, T Bradley, H Zhu, Y Guan, Y Jiang, G Yu*. treeio: an R package for phylogenetic tree input and output with richly annotated and associated data. Molecular Biology and Evolution. 2020, 37(2):599-603. G Yu*, TTY Lam, H Zhu, Y Guan*.</description>
+LG Wang, TTY Lam, S Xu, Z Dai, L Zhou, T Feng, P Guo, CW Dunn, BR Jones, T Bradley, H Zhu, Y Guan, Y Jiang, G Yu*. treeio: an R package for phylogenetic tree input and output with richly annotated and associated data. Molecular Biology and Evolution. 2020, 37(2):599-603. G Yu*, TTY Lam, H Zhu, Y Guan*.</description>
     </item>
     
     <item>
@@ -83,8 +83,8 @@ clusterProfiler4.0同步支持最新版GO和KEGG数据，支持数千物种的�
       
       <guid>http://yulab-smu.top/posts/biocasia-2020/</guid>
       <description>应Julie Zhu教授的邀请，余光创在Bioconductor亚洲区年会上做报告（Invited Talk），介绍系统发育数据整合与可视化，介绍了课题组开发的tidytree, treeio和ggtree等几个软件包。
-  在workshop环节，徐双斌（课题组博士二年级学生）介绍了使用课题组开发的MicrobiotaProcess对宏基因组数据进行分析和可视化。
-  Workshop资料可在线获取：https://yulab-smu.top/MicrobiotaProcessWorkshop/</description>
+在workshop环节，徐双斌（课题组博士二年级学生）介绍了使用课题组开发的MicrobiotaProcess对宏基因组数据进行分析和可视化。
+Workshop资料可在线获取：https://yulab-smu.top/MicrobiotaProcessWorkshop/</description>
     </item>
     
     <item>
@@ -94,7 +94,7 @@ clusterProfiler4.0同步支持最新版GO和KEGG数据，支持数千物种的�
       
       <guid>http://yulab-smu.top/about/</guid>
       <description>Research group led by Prof. Guangchuang Yu in School of Basic Medical Sciences, Southern Medical University :smiley:
- __ __ __ __ _____ __ _____ __ \ \/ /_ __/ / ____ _/ /_ / ___// |/ / / / / \ / / / / / / __ `/ __ \______\__ \/ /|_/ / / / / / / /_/ / /___/ /_/ / /_/ /_____/__/ / / / / /_/ / /_/\__,_/_____/\__,_/_.</description>
+__ __ __ __ _____ __ _____ __ \ \/ /_ __/ / ____ _/ /_ / ___// |/ / / / / \ / / / / / / __ `/ __ \______\__ \/ /|_/ / / / / / / /_/ / /___/ /_/ / /_/ /_____/__/ / / / / /_/ / /_/\__,_/_____/\__,_/_.</description>
     </item>
     
     <item>
@@ -104,8 +104,7 @@ clusterProfiler4.0同步支持最新版GO和KEGG数据，支持数千物种的�
       
       <guid>http://yulab-smu.top/contact/</guid>
       <description>Email: guangchuangyu AT gmail.com
-Address: 广州市沙太南路1023号南方医科大学生命科学楼10楼生物信息学系
- </description>
+Address: 广州市沙太南路1023号南方医科大学生命科学楼10楼生物信息学系</description>
     </item>
     
     <item>
@@ -114,7 +113,7 @@ Address: 广州市沙太南路1023号南方医科大学生命科学楼10楼生�
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://yulab-smu.top/documents/</guid>
-      <description>Books  Yu G. Biomedical Knowledge Mining using GOSemSim and clusterProfiler Yu G. Data Integration, Manipulation and Visualization of Phylogenetic Trees Yu G. Gene Ontology Semantic Similarity Analysis Using GOSemSim. In: Kidder B. (eds) Stem Cell Transcriptional Networks. Methods in Molecular Biology, 2020, 2117:207-215. Humana, New York, NY. 余光创, &amp;ldquo;生物信息学II&amp;rdquo;, 《功能蛋白质研究》, 385-425, 何庆瑜 (主编), 科学出版社, 2012. (&amp;ldquo;十二五&amp;quot;国家重点图书出版规划项目)   Workshops  Microbiome dataset analysis using MicrobiotaProcess (BiocAsia 2020) Pathway Analysis (invited workshop for PhD course, University of Southern Denmark)   Supplemental Files  ggtree protocols &amp;ndash; Supplemental file of Current Protocols in Bioinformatics, 2020 Plotting tree with data &amp;ndash; Supplemental file of Molecular Biology and Evolution, 2018.</description>
+      <description>Books Yu G. Biomedical Knowledge Mining using GOSemSim and clusterProfiler Yu G. Data Integration, Manipulation and Visualization of Phylogenetic Trees Yu G. Gene Ontology Semantic Similarity Analysis Using GOSemSim. In: Kidder B. (eds) Stem Cell Transcriptional Networks. Methods in Molecular Biology, 2020, 2117:207-215. Humana, New York, NY. 余光创, &amp;ldquo;生物信息学II&amp;rdquo;, 《功能蛋白质研究》, 385-425, 何庆瑜 (主编), 科学出版社, 2012. (&amp;ldquo;十二五&amp;quot;国家重点图书出版规划项目) Workshops Microbiome dataset analysis using MicrobiotaProcess (BiocAsia 2020) Pathway Analysis (invited workshop for PhD course, University of Southern Denmark) Supplemental Files ggtree protocols &amp;ndash; Supplemental file of Current Protocols in Bioinformatics, 2020 Plotting tree with data &amp;ndash; Supplemental file of Molecular Biology and Evolution, 2018.</description>
     </item>
     
     <item>
@@ -133,16 +132,32 @@ pwd </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://yulab-smu.top/members/</guid>
-      <description>@media only screen and (max-width: 768px) { td { display: block; } }   Guangchuang Yu（余光创）, Phd.
+      <description>Guangchuang Yu（余光创）, Phd.
 Professor, PI &amp; Director
 Department of Bioinformatics, School of Basic Medical Sciences, Southern Medical University
-          Qianwen Wang, Phd.
+Qianwen Wang, Phd.
 Lecturer
-     Zehan Dai, Phd.
+Zehan Dai, Phd.
 Post-doctoral fellow
-   Shuangbin Xu, Phd.
+Shuangbin Xu, Phd.
 Post-doctoral fellow
-    Tianzhi Wu</description>
+Tianzhi Wu
+PhD Student
+Erqiang Hu
+PhD Student
+Pingfan Guo
+Master Student
+Wenli Tang
+Master Student
+Meijun Chen
+Master Student
+Li Zhan
+Master Student
+Xiaocong Fu
+Master Student Lin Li
+Master Student
+Zijing Xie
+Master Student Wenqin Xie</description>
     </item>
     
     <item>
@@ -161,7 +176,7 @@ Post-doctoral fellow
       
       <guid>http://yulab-smu.top/publications/</guid>
       <description>You can visit Google Scholar for details.
- # Co-first authors * Co-corresponding authors Cited by 20480, h-index = 25 (google scholar, Jul 2022)  ESI Highly Cited Paper (ESI高被引论文) 分区为中科院小类分区，标记的是发表文章当年的分区 IF为当年影响因子，如2018年发表的文章，标记的是2018年影响因子   2022  Z Dai, T Wu, S Xu, L Zhou, W Tang, E Hu, L Zhan M Chen, G Yu*. Characterization of toxin-antitoxin systems from public sequencing data: a case study in Pseudomonas aeruginosa. Frontiers in Microbiology.</description>
+# Co-first authors * Co-corresponding authors Cited by 20480, h-index = 25 (google scholar, Jul 2022) ESI Highly Cited Paper (ESI高被引论文) 分区为中科院小类分区，标记的是发表文章当年的分区 IF为当年影响因子，如2018年发表的文章，标记的是2018年影响因子 2022 Z Dai, T Wu, S Xu, L Zhou, W Tang, E Hu, L Zhan M Chen, G Yu*. Characterization of toxin-antitoxin systems from public sequencing data: a case study in Pseudomonas aeruginosa. Frontiers in Microbiology. 2022, 13:951774. (IF = 6.</description>
     </item>
     
     <item>
@@ -180,7 +195,7 @@ ls -la </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://yulab-smu.top/software/</guid>
-      <description> ChIP-seq  ChIPseeker: ChIP peak Annotation, Comparison, and Visualization   Infectious disease and Epidemiology  nCov2019: An R package for exploring COVID-19 statistics seqcombo: Visualization Tool for Sequence Recombination and Reassortment   Knowledge mining  clusterProfiler: Statistical analysis and visualization of functional profiles for genes and gene clusters DOSE: Disease Ontology Semantic and Enrichment analysis enrichplot: Visualization of Functional Enrichment Result GOSemSim: GO-terms Semantic Similarity Measures meshes: MeSH Enrichment and Semantic analyses ReactomePA: Reactome Pathway Analysis   Microbiome  MicrobiotaProcess: Analysis, visualization and biomarker discovery of microbiome   Phylogeny  ggmsa: Plot mutiple sequence alignment using &amp;lsquo;ggplot2&amp;rsquo; ggtree: Visualization of tree and annotation data ggtreeExtra: Phylogenetic tree data annotation seqmagick: Sequence Manipulation Utilities tidytree: A Tidy Tool for Phylogenetic Tree Data Manipulation treeio: Base Classes and Functions for Phylogenetic Tree Input and Output   Visualization  aplot: Decorating a plot with associated information plotbb: Grammar of Graphics for base plot  </description>
+      <description> ChIP-seq ChIPseeker: ChIP peak Annotation, Comparison, and Visualization Infectious disease and Epidemiology nCov2019: An R package for exploring COVID-19 statistics seqcombo: Visualization Tool for Sequence Recombination and Reassortment Knowledge mining clusterProfiler: Statistical analysis and visualization of functional profiles for genes and gene clusters DOSE: Disease Ontology Semantic and Enrichment analysis enrichplot: Visualization of Functional Enrichment Result GOSemSim: GO-terms Semantic Similarity Measures meshes: MeSH Enrichment and Semantic analyses ReactomePA: Reactome Pathway Analysis Microbiome MicrobiotaProcess: Analysis, visualization and biomarker discovery of microbiome Phylogeny ggmsa: Plot mutiple sequence alignment using &amp;lsquo;ggplot2&amp;rsquo; ggtree: Visualization of tree and annotation data ggtreeExtra: Phylogenetic tree data annotation seqmagick: Sequence Manipulation Utilities tidytree: A Tidy Tool for Phylogenetic Tree Data Manipulation treeio: Base Classes and Functions for Phylogenetic Tree Input and Output Visualization aplot: Decorating a plot with associated information plotbb: Grammar of Graphics for base plot </description>
     </item>
     
   </channel>
