@@ -163,9 +163,9 @@ pygmentsCodeFencesGuessSyntax = true
             url = "documents/"
 
             [[languages.en.menu.main]]
-            name = "Blog"
+            name = "News"
             weight = 7
-            url = "posts/"
+            url = "news/"
 
             [[languages.en.menu.main]]
             name = "Contact"

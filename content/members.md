@@ -150,5 +150,6 @@ title: Members
 ## Former Lab Members
 
 + **Lang Zhou** (MS 2019-2022; Currently a Bioinformatician in Zhujian Hospital)
-+ **Tingze Feng** (MS 2019-2022)
++ **Tingze Feng** (MS 2019-2022; Currently a PhD student in Dalian Institute of Chemical Physics, Chinese Academy of Sciences)
 + **Shanshan Liu** (MS 2019-2022; Currently a PhD student in Southern Medical University)
+

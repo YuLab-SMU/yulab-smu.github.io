@@ -15,7 +15,8 @@ You can visit [Google Scholar](https://scholar.google.com/citations?user=DO5oG40
 
 ## <i class="fa fa-calendar fa-1x" aria-hidden="true"></i> 2022
 
-
++ Exploring epigenomic datasets by ChIPseeker. _*Current Protocols in Bioinformatics*__, 2022.
++ S Xu, L Li, X Luo, M Chen, W Tang, L Zhan, Z Dai, TT. Lam, Y Guan, __G Yu__. [Ggtree: A serialized data object for visualization of a phylogenetic tree and annotation data](https://onlinelibrary.wiley.com/doi/full/10.1002/imt2.56). __*iMeta*__, 2022, 1(4):e56.
 + Z Dai, T Wu, S Xu, L Zhou, W Tang, E Hu, L Zhan M Chen, __G Yu__<sup>\*</sup>. [Characterization of toxin-antitoxin systems from public sequencing data: a case study in *Pseudomonas aeruginosa*](https://www.frontiersin.org/articles/10.3389/fmicb.2022.951774). __*Frontiers in Microbiology*__. 2022, 13:951774. (IF = 6.064，二区，Top期刊)
 + T Feng<sup>#</sup>, T Wu<sup>#</sup>, Y Zhang<sup>#</sup>, L Zhou<sup>#</sup>, S Liu, L Li, M Li, E Hu, Q Wang, X Fu, L Zhan, Z Xie, W Xie, X Huang<sup>\*</sup>, X Shang<sup>\*</sup>,  __G Yu__<sup>\*</sup>. [Stemness Analysis Uncovers That The Peroxisome Proliferator-Activated Receptor Signaling Pathway Can Mediate Fatty Acid Homeostasis In Sorafenib-Resistant Hepatocellular Carcinoma Cells](https://www.frontiersin.org/articles/10.3389/fonc.2022.912694/). __*Frontiers in Oncology*__. 2022, 12:912694. (IF = 5.738，三区)
 + L Zhou<sup>#</sup>, T Feng<sup>#</sup>, S Xu, F Gao, TT Lam, Q Wang, T Wu, H Huang, L Zhan, L Li, Y Guan, Z Dai<sup>\*</sup>, __G Yu__<sup>\*</sup>. [ggmsa: a visual exploration tool for multiple sequence alignment and associated data](https://doi.org/10.1093/bib/bbac222). __*Briefings in Bioinformatics*__. 2022, 23(4):bbac222. (IF = 13.994，一区，Top期刊)
