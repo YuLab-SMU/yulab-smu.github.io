@@ -161,6 +161,28 @@ Master Student Wenqin Xie</description>
     </item>
     
     <item>
+      <title>News</title>
+      <link>http://yulab-smu.top/news/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://yulab-smu.top/news/</guid>
+      <description>Aug 2022: 课题组基于公共测序数据，挖掘铜绿假单胞菌的毒素-抗毒素系统，成果发表在Fontiers in Microbiology期刊 (link)，恭喜戴泽翰。
+Aug 2022: 课题组基于癌症干性识别索拉非尼的耐药机制，成果发表在Frontiers in Oncology期刊 (link)，恭喜冯婷泽、吴天志和周烺。
+Jul 2022: 恭喜冯婷泽和周烺荣获南方医科大学2022届“优秀毕业研究生”荣誉称号。
+Jul 2022: ggmsa包实现了多种可视化方法用于探索多重序列比对结果，并可与ggtree对接使用，成果发表在Briefings in Bioinformatics期刊 (link)，恭喜周烺和冯婷泽。
+Jun 2022: 团队第一批研究生毕业，恭喜徐双斌获得博士学位，恭喜冯婷泽和周烺获得硕士学位。
+Apr 2022: 余光创入选爱思唯尔2021年中国高被引学者。
+Nov 2021: ggbreak包实现了与ggplot2语法无缝衔接的坐标轴截断功能，发表在Frontiers in Genetics期刊 (link)， 恭喜徐双斌和陈枚君。
+Oct 2021: 三年级硕士生周烺在Bioconductor亚洲区年会的Workshop环节介绍使用ggmsa可视化和探索多重序列比对。
+Sep 2021: ggtreeExtra包在环形布局上实现了多维数据的整合可视化，发表在Molecular Biology and Evolution期刊 (link)， 恭喜徐双斌。
+Aug 2021: clusterProfiler发布4.0版本，文章发表于The Innovation期刊 (link)，恭喜吴天志和胡二强。
+Apr 2021: 余光创入选美国斯坦福大学发布的全球前2%顶尖科学家榜单（World’s Top 2% Scientists 2020）中的“年度影响力”榜单。
+Apr 2021: 余光创入选爱思唯尔2020年中国高被引学者。
+Dec 2020: 余光创于2017年发表在Methods in Ecology and Evolution上的ggtree文章，入选MEE期刊创刊十周年10篇代表作。
+Oct 2020: 余光创受邀请在Bioconductor亚洲区年会上做专题报告，介绍系统发育数据整合与可视化方面的工作；二年级博士生徐双斌在Workshop环节介绍使用课题组开发的MicrobiotaProcess分析宏基因组数据。</description>
+    </item>
+    
+    <item>
       <title>Projects</title>
       <link>http://yulab-smu.top/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -176,7 +198,7 @@ Master Student Wenqin Xie</description>
       
       <guid>http://yulab-smu.top/publications/</guid>
       <description>You can visit Google Scholar for details.
-# Co-first authors * Co-corresponding authors Cited by 20480, h-index = 25 (google scholar, Jul 2022) ESI Highly Cited Paper (ESI高被引论文) 分区为中科院小类分区，标记的是发表文章当年的分区 IF为当年影响因子，如2018年发表的文章，标记的是2018年影响因子 2022 Z Dai, T Wu, S Xu, L Zhou, W Tang, E Hu, L Zhan M Chen, G Yu*. Characterization of toxin-antitoxin systems from public sequencing data: a case study in Pseudomonas aeruginosa. Frontiers in Microbiology. 2022, 13:951774. (IF = 6.</description>
+# Co-first authors * Co-corresponding authors Cited by 20480, h-index = 25 (google scholar, Jul 2022) ESI Highly Cited Paper (ESI高被引论文) 分区为中科院小类分区，标记的是发表文章当年的分区 IF为当年影响因子，如2018年发表的文章，标记的是2018年影响因子 2022 Exploring epigenomic datasets by ChIPseeker. _Current Protocols in Bioinformatics__, 2022. S Xu, L Li, X Luo, M Chen, W Tang, L Zhan, Z Dai, TT. Lam, Y Guan, G Yu. Ggtree: A serialized data object for visualization of a phylogenetic tree and annotation data.</description>
     </item>
     
     <item>

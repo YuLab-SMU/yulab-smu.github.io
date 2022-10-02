@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Content-Language" content="en">
+
+    <meta name="author" content="YuLab-SMU">
+    <meta name="description" content="Aug 2022: 课题组基于公共测序数据，挖掘铜绿假单胞菌的毒素-抗毒素系统，成果发表在Fontiers in Microbiology期刊 (link)，恭喜戴泽翰。
+Aug 2022: 课题组基于癌症干性识别索拉非尼的耐药机制，成果发表在Frontiers in Oncology期刊 (link)，恭喜冯婷泽、吴天志和周烺。
+Jul 2022: 恭喜冯婷泽和周烺荣获南方医科大学2022届“优秀毕业研究生”荣誉称号。
+Jul 2022: ggmsa包实现了多种可视化方法用于探索多重序列比对结果，并可与ggtree对接使用，成果发表在Briefings in Bioinformatics期刊 (link)，恭喜周烺和冯婷泽。
+Jun 2022: 团队第一批研究生毕业，恭喜徐双斌获得博士学位，恭喜冯婷泽和周烺获得硕士学位。
+Apr 2022: 余光创入选爱思唯尔2021年中国高被引学者。
+Nov 2021: ggbreak包实现了与ggplot2语法无缝衔接的坐标轴截断功能，发表在Frontiers in Genetics期刊 (link)， 恭喜徐双斌和陈枚君。
+Oct 2021: 三年级硕士生周烺在Bioconductor亚洲区年会的Workshop环节介绍使用ggmsa可视化和探索多重序列比对。
+Sep 2021: ggtreeExtra包在环形布局上实现了多维数据的整合可视化，发表在Molecular Biology and Evolution期刊 (link)， 恭喜徐双斌。
+Aug 2021: clusterProfiler发布4.0版本，文章发表于The Innovation期刊 (link)，恭喜吴天志和胡二强。
+Apr 2021: 余光创入选美国斯坦福大学发布的全球前2%顶尖科学家榜单（World’s Top 2% Scientists 2020）中的“年度影响力”榜单。
+Apr 2021: 余光创入选爱思唯尔2020年中国高被引学者。
+Dec 2020: 余光创于2017年发表在Methods in Ecology and Evolution上的ggtree文章，入选MEE期刊创刊十周年10篇代表作。
+Oct 2020: 余光创受邀请在Bioconductor亚洲区年会上做专题报告，介绍系统发育数据整合与可视化方面的工作；二年级博士生徐双斌在Workshop环节介绍使用课题组开发的MicrobiotaProcess分析宏基因组数据。">
+    <meta name="keywords" content="blog,developer,bioinformatics,omics,visualization">
+
+    <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="News"/>
+<meta name="twitter:description" content="Aug 2022: 课题组基于公共测序数据，挖掘铜绿假单胞菌的毒素-抗毒素系统，成果发表在Fontiers in Microbiology期刊 (link)，恭喜戴泽翰。
+Aug 2022: 课题组基于癌症干性识别索拉非尼的耐药机制，成果发表在Frontiers in Oncology期刊 (link)，恭喜冯婷泽、吴天志和周烺。
+Jul 2022: 恭喜冯婷泽和周烺荣获南方医科大学2022届“优秀毕业研究生”荣誉称号。
+Jul 2022: ggmsa包实现了多种可视化方法用于探索多重序列比对结果，并可与ggtree对接使用，成果发表在Briefings in Bioinformatics期刊 (link)，恭喜周烺和冯婷泽。
+Jun 2022: 团队第一批研究生毕业，恭喜徐双斌获得博士学位，恭喜冯婷泽和周烺获得硕士学位。
+Apr 2022: 余光创入选爱思唯尔2021年中国高被引学者。
+Nov 2021: ggbreak包实现了与ggplot2语法无缝衔接的坐标轴截断功能，发表在Frontiers in Genetics期刊 (link)， 恭喜徐双斌和陈枚君。
+Oct 2021: 三年级硕士生周烺在Bioconductor亚洲区年会的Workshop环节介绍使用ggmsa可视化和探索多重序列比对。
+Sep 2021: ggtreeExtra包在环形布局上实现了多维数据的整合可视化，发表在Molecular Biology and Evolution期刊 (link)， 恭喜徐双斌。
+Aug 2021: clusterProfiler发布4.0版本，文章发表于The Innovation期刊 (link)，恭喜吴天志和胡二强。
+Apr 2021: 余光创入选美国斯坦福大学发布的全球前2%顶尖科学家榜单（World’s Top 2% Scientists 2020）中的“年度影响力”榜单。
+Apr 2021: 余光创入选爱思唯尔2020年中国高被引学者。
+Dec 2020: 余光创于2017年发表在Methods in Ecology and Evolution上的ggtree文章，入选MEE期刊创刊十周年10篇代表作。
+Oct 2020: 余光创受邀请在Bioconductor亚洲区年会上做专题报告，介绍系统发育数据整合与可视化方面的工作；二年级博士生徐双斌在Workshop环节介绍使用课题组开发的MicrobiotaProcess分析宏基因组数据。"/>
+
+    <meta property="og:title" content="News" />
+<meta property="og:description" content="Aug 2022: 课题组基于公共测序数据，挖掘铜绿假单胞菌的毒素-抗毒素系统，成果发表在Fontiers in Microbiology期刊 (link)，恭喜戴泽翰。
+Aug 2022: 课题组基于癌症干性识别索拉非尼的耐药机制，成果发表在Frontiers in Oncology期刊 (link)，恭喜冯婷泽、吴天志和周烺。
+Jul 2022: 恭喜冯婷泽和周烺荣获南方医科大学2022届“优秀毕业研究生”荣誉称号。
+Jul 2022: ggmsa包实现了多种可视化方法用于探索多重序列比对结果，并可与ggtree对接使用，成果发表在Briefings in Bioinformatics期刊 (link)，恭喜周烺和冯婷泽。
+Jun 2022: 团队第一批研究生毕业，恭喜徐双斌获得博士学位，恭喜冯婷泽和周烺获得硕士学位。
+Apr 2022: 余光创入选爱思唯尔2021年中国高被引学者。
+Nov 2021: ggbreak包实现了与ggplot2语法无缝衔接的坐标轴截断功能，发表在Frontiers in Genetics期刊 (link)， 恭喜徐双斌和陈枚君。
+Oct 2021: 三年级硕士生周烺在Bioconductor亚洲区年会的Workshop环节介绍使用ggmsa可视化和探索多重序列比对。
+Sep 2021: ggtreeExtra包在环形布局上实现了多维数据的整合可视化，发表在Molecular Biology and Evolution期刊 (link)， 恭喜徐双斌。
+Aug 2021: clusterProfiler发布4.0版本，文章发表于The Innovation期刊 (link)，恭喜吴天志和胡二强。
+Apr 2021: 余光创入选美国斯坦福大学发布的全球前2%顶尖科学家榜单（World’s Top 2% Scientists 2020）中的“年度影响力”榜单。
+Apr 2021: 余光创入选爱思唯尔2020年中国高被引学者。
+Dec 2020: 余光创于2017年发表在Methods in Ecology and Evolution上的ggtree文章，入选MEE期刊创刊十周年10篇代表作。
+Oct 2020: 余光创受邀请在Bioconductor亚洲区年会上做专题报告，介绍系统发育数据整合与可视化方面的工作；二年级博士生徐双斌在Workshop环节介绍使用课题组开发的MicrobiotaProcess分析宏基因组数据。" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://yulab-smu.top/news/" /><meta property="article:section" content="" />
+
+
+
+
+
+    <title>
+  News · YuLab@SMU
+</title>
+
+    
+      <link rel="canonical" href="http://yulab-smu.top/news/">
+    
+
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,700%7CMerriweather:300,700%7CSource+Code+Pro:400,700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/fork-awesome@1.1.7/css/fork-awesome.min.css"
+      integrity="sha256-gsmEoJAws/Kd3CjuOQzLie5Q3yshhvmo7YNtBG7aaEY=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/normalize.css@8/normalize.min.css">
+    
+      
+      
+      <link rel="stylesheet" href="/css/coder.min.f01c647a0d25b40da992a37c3376291185eed8a50ced8c26cc2c0bcfe38c97df.css" integrity="sha256-8Bxkeg0ltA2pkqN8M3YpEYXu2KUM7YwmzCwLz&#43;OMl98=" crossorigin="anonymous" media="screen" />
+    
+
+    
+
+    
+
+    
+
+    
+
+    <link rel="icon" type="image/png" href="/images/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/images/favicon-16x16.png" sizes="16x16">
+
+    <link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+
+    
+
+    <meta name="generator" content="Hugo 0.101.0" />
+  </head>
+
+  
+  
+  <body class="colorscheme-light"
+        onload=""
+  >
+    
+<div class="float-container">
+    <a id="dark-mode-toggle" class="colorscheme-toggle">
+        <i class="fa fa-adjust fa-fw" aria-hidden="true"></i>
+    </a>
+</div>
+
+
+    <main class="wrapper">
+      <nav class="navigation">
+  <section class="container">
+    <a class="navigation-title" href="/">
+      YuLab@SMU
+    </a>
+    
+      <input type="checkbox" id="menu-toggle" />
+      <label class="menu-button float-right" for="menu-toggle">
+        <i class="fa fa-bars fa-fw" aria-hidden="true"></i>
+      </label>
+      <ul class="navigation-list">
+        
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="/about/">About</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="/publications/">Publications</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="/projects/">Projects</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="/software/">Software</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="/members/">Members</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="/documents/">Documents</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="/news/">News</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="/contact/">Contact</a>
+            </li>
+          
+        
+        
+      </ul>
+    
+  </section>
+</nav>
+
+
+      <div class="content">
+        
+  <section class="container page">
+  <article>
+    <header>
+      <h1>News</h1>
+    </header>
+
+    <p><strong><font color="green">Aug 2022</font></strong>: 课题组基于公共测序数据，挖掘铜绿假单胞菌的毒素-抗毒素系统，成果发表在<em><strong>Fontiers in Microbiology</strong></em>期刊 (<a href="https://www.frontiersin.org/articles/10.3389/fmicb.2022.951774">link</a>)，恭喜戴泽翰。</p>
+<p><strong><font color="green">Aug 2022</font></strong>: 课题组基于癌症干性识别索拉非尼的耐药机制，成果发表在<em><strong>Frontiers in Oncology</strong></em>期刊 (<a href="https://www.frontiersin.org/articles/10.3389/fonc.2022.912694/2">link</a>)，恭喜冯婷泽、吴天志和周烺。</p>
+<p><strong><font color="green">Jul 2022</font></strong>: 恭喜冯婷泽和周烺荣获南方医科大学2022届“优秀毕业研究生”荣誉称号。</p>
+<p><strong><font color="green">Jul 2022</font></strong>: <em>ggmsa</em>包实现了多种可视化方法用于探索多重序列比对结果，并可与<em>ggtree</em>对接使用，成果发表在<em><strong>Briefings in Bioinformatics</strong></em>期刊 (<a href="https://doi.org/10.1093/bib/bbac222">link</a>)，恭喜周烺和冯婷泽。</p>
+<p><strong><font color="green">Jun 2022</font></strong>: 团队第一批研究生毕业，恭喜徐双斌获得博士学位，恭喜冯婷泽和周烺获得硕士学位。</p>
+<p><strong><font color="green">Apr 2022</font></strong>: 余光创入选爱思唯尔2021年中国高被引学者。</p>
+<p><strong><font color="green">Nov 2021</font></strong>: <em>ggbreak</em>包实现了与<em>ggplot2</em>语法无缝衔接的坐标轴截断功能，发表在<em><strong>Frontiers in Genetics</strong></em>期刊 (<a href="https://www.frontiersin.org/articles/10.3389/fgene.2021.774846/full">link</a>)， 恭喜徐双斌和陈枚君。</p>
+<p><strong><font color="green">Oct 2021</font></strong>: 三年级硕士生周烺在Bioconductor亚洲区年会的Workshop环节介绍使用<em>ggmsa</em>可视化和探索多重序列比对。</p>
+<p><strong><font color="green">Sep 2021</font></strong>: <em>ggtreeExtra</em>包在环形布局上实现了多维数据的整合可视化，发表在<em><strong>Molecular Biology and Evolution</strong></em>期刊 (<a href="https://doi.org/10.1093/molbev/msab166">link</a>)， 恭喜徐双斌。</p>
+<p><strong><font color="green">Aug 2021</font></strong>: <em>clusterProfiler</em>发布4.0版本，文章发表于<em><strong>The Innovation</strong></em>期刊 (<a href="https://doi.org/10.1016/j.xinn.2021.100141">link</a>)，恭喜吴天志和胡二强。</p>
+<p><strong><font color="green">Apr 2021</font></strong>: 余光创入选美国斯坦福大学发布的全球前2%顶尖科学家榜单（World’s Top 2% Scientists 2020）中的“年度影响力”榜单。</p>
+<p><strong><font color="green">Apr 2021</font></strong>: 余光创入选爱思唯尔2020年中国高被引学者。</p>
+<p><strong><font color="green">Dec 2020</font></strong>: 余光创于2017年发表在<em><strong>Methods in Ecology and Evolution</strong></em>上的<em>ggtree</em>文章，入选MEE期刊创刊十周年10篇<a href="https://methodsblog.com/2020/11/19/ggtree-tree-visualization/">代表作</a>。</p>
+<p><strong><font color="green">Oct 2020</font></strong>: 余光创受邀请在<a href="https://biocasia2020.bioconductor.org/">Bioconductor亚洲区年会</a>上做专题报告，介绍系统发育数据整合与可视化方面的工作；二年级博士生徐双斌在Workshop环节介绍使用课题组开发的MicrobiotaProcess分析宏基因组数据。</p>
+<p><strong><font color="green">Mar 2020</font></strong>: 受William Pearson教授的邀请，在<em><strong>Current Protocols in Bioinformatics</strong></em>期刊上发表<em>ggtree</em>文章，通过实例介绍<em>ggtree</em>的使用 (<a href="https://doi.org/10.1002/cpbi.96">link</a>)</p>
+<p><strong><font color="green">Feb 2020</font></strong>: <em>treeio</em>包解决系统发育树及相关数据的输入与输出问题，成果发表在<em><strong>Molecular Biology and Evolution</strong></em>期刊 (<a href="https://doi.org/10.1093/molbev/msz240">link</a>)。</p>
+<p><strong><font color="green">Dec 2018</font></strong>: 提出两种通用的方法用于系统发育相关数据的整合与可视化，发表在<em><strong>Molecular Biology and Evolution</strong></em>期刊 (<a href="https://academic.oup.com/mbe/article-abstract/35/12/3041/5142656">link</a>)。</p>
+
+  </article>
+</section>
+
+  
+
+      </div>
+
+      
+  <footer class="footer">
+    <section class="container">
+      
+        <p>You are welcome to join us.</p>
+      
+      
+        ©
+        
+          2018 -
+        
+        2022
+        ♥️
+         YuLab-SMU 
+      
+ 
+      
+ 
+      
+      
+    </section>
+  </footer>
+
+
+    </main>
+
+    
+      
+        
+        <script src="/js/dark-mode.min.c2d8a1f8f2660e4a46d776277c72695a1e0ca65939d79f754441d47551604af5.js"></script>
+      
+    
+
+    
+
+    
+
+    
+
+    
+
+    <script data-goatcounter="https://code.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
+
+
+    
+<script defer src='https://static.cloudflareinsights.com/beacon.min.js'
+        data-cf-beacon='{"token": "token"}'></script>
+
+
+  </body>
+
+</html>
