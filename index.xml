@@ -88,16 +88,6 @@ Workshop资料可在线获取：https://yulab-smu.top/MicrobiotaProcessWorkshop/
     </item>
     
     <item>
-      <title>About YuLab</title>
-      <link>http://yulab-smu.top/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://yulab-smu.top/about/</guid>
-      <description>Research group led by Prof. Guangchuang Yu in School of Basic Medical Sciences, Southern Medical University :smiley:
-__ __ __ __ _____ __ _____ __ \ \/ /_ __/ / ____ _/ /_ / ___// |/ / / / / \ / / / / / / __ `/ __ \______\__ \/ /|_/ / / / / / / /_/ / /___/ /_/ / /_/ /_____/__/ / / / / /_/ / /_/\__,_/_____/\__,_/_.</description>
-    </item>
-    
-    <item>
       <title>Contact</title>
       <link>http://yulab-smu.top/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -166,20 +156,19 @@ Master Student Wenqin Xie</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://yulab-smu.top/news/</guid>
-      <description>Aug 2022: 课题组基于公共测序数据，挖掘铜绿假单胞菌的毒素-抗毒素系统，成果发表在Fontiers in Microbiology期刊 (link)，恭喜戴泽翰。
+      <description>Aug 2022: 余光创发表专著《Data Integration, Manipulation and Visualization of Phylogenetic Treess (1st edition)》，由Chapman and Hall/CRC出版社出版 doi: 10.1201/9781003279242。
+Aug 2022: 课题组基于公共测序数据，挖掘铜绿假单胞菌的毒素-抗毒素系统，成果发表在Fontiers in Microbiology期刊 (link)，恭喜戴泽翰。
 Aug 2022: 课题组基于癌症干性识别索拉非尼的耐药机制，成果发表在Frontiers in Oncology期刊 (link)，恭喜冯婷泽、吴天志和周烺。
 Jul 2022: 恭喜冯婷泽和周烺荣获南方医科大学2022届“优秀毕业研究生”荣誉称号。
 Jul 2022: ggmsa包实现了多种可视化方法用于探索多重序列比对结果，并可与ggtree对接使用，成果发表在Briefings in Bioinformatics期刊 (link)，恭喜周烺和冯婷泽。
 Jun 2022: 团队第一批研究生毕业，恭喜徐双斌获得博士学位，恭喜冯婷泽和周烺获得硕士学位。
 Apr 2022: 余光创入选爱思唯尔2021年中国高被引学者。
+Mar 2022: 余光创荣获南方医科大学2020学年教学优秀一等奖。
+Dec 2021: clusterProfiler 2012年发表在OMICS上的文章，被中国科学技术信息研究所列为“2011-2021我国高被引论文中被引次数最高的10篇国际论文”（来源：2021年中国科技论文统计报告）。
 Nov 2021: ggbreak包实现了与ggplot2语法无缝衔接的坐标轴截断功能，发表在Frontiers in Genetics期刊 (link)， 恭喜徐双斌和陈枚君。
 Oct 2021: 三年级硕士生周烺在Bioconductor亚洲区年会的Workshop环节介绍使用ggmsa可视化和探索多重序列比对。
 Sep 2021: ggtreeExtra包在环形布局上实现了多维数据的整合可视化，发表在Molecular Biology and Evolution期刊 (link)， 恭喜徐双斌。
-Aug 2021: clusterProfiler发布4.0版本，文章发表于The Innovation期刊 (link)，恭喜吴天志和胡二强。
-Apr 2021: 余光创入选美国斯坦福大学发布的全球前2%顶尖科学家榜单（World’s Top 2% Scientists 2020）中的“年度影响力”榜单。
-Apr 2021: 余光创入选爱思唯尔2020年中国高被引学者。
-Dec 2020: 余光创于2017年发表在Methods in Ecology and Evolution上的ggtree文章，入选MEE期刊创刊十周年10篇代表作。
-Oct 2020: 余光创受邀请在Bioconductor亚洲区年会上做专题报告，介绍系统发育数据整合与可视化方面的工作；二年级博士生徐双斌在Workshop环节介绍使用课题组开发的MicrobiotaProcess分析宏基因组数据。</description>
+Aug 2021: clusterProfiler发布4.</description>
     </item>
     
     <item>
@@ -198,7 +187,7 @@ Oct 2020: 余光创受邀请在Bioconductor亚洲区年会上做专题报告，�
       
       <guid>http://yulab-smu.top/publications/</guid>
       <description>You can visit Google Scholar for details.
-# Co-first authors * Co-corresponding authors Cited by 20480, h-index = 25 (google scholar, Jul 2022) ESI Highly Cited Paper (ESI高被引论文) 分区为中科院小类分区，标记的是发表文章当年的分区 IF为当年影响因子，如2018年发表的文章，标记的是2018年影响因子 2022 Exploring epigenomic datasets by ChIPseeker. _Current Protocols in Bioinformatics__, 2022. S Xu, L Li, X Luo, M Chen, W Tang, L Zhan, Z Dai, TT. Lam, Y Guan, G Yu. Ggtree: A serialized data object for visualization of a phylogenetic tree and annotation data.</description>
+# Co-first authors * Co-corresponding authors Cited by 22507, h-index = 27 (google scholar, Oct 2022) ESI Highly Cited Paper (ESI高被引论文) 分区为中科院小类分区，标记的是发表文章当年的分区 IF为当年影响因子，如2018年发表的文章，标记的是2018年影响因子 2022 Q Wang#, M Li#, T Wu, L Zhan, L Li, M Chen, W Xie, Z Xie, E Hu, S Xu, G Yu*. Exploring epigenomic datasets by ChIPseeker. Current Protocols in Bioinformatics, 2022. doi: 10.1002/cpz1.585. S Xu, L Li, X Luo, M Chen, W Tang, L Zhan, Z Dai, TT.</description>
     </item>
     
     <item>
@@ -217,7 +206,16 @@ ls -la </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://yulab-smu.top/software/</guid>
-      <description> ChIP-seq ChIPseeker: ChIP peak Annotation, Comparison, and Visualization Infectious disease and Epidemiology nCov2019: An R package for exploring COVID-19 statistics seqcombo: Visualization Tool for Sequence Recombination and Reassortment Knowledge mining clusterProfiler: Statistical analysis and visualization of functional profiles for genes and gene clusters DOSE: Disease Ontology Semantic and Enrichment analysis enrichplot: Visualization of Functional Enrichment Result GOSemSim: GO-terms Semantic Similarity Measures meshes: MeSH Enrichment and Semantic analyses ReactomePA: Reactome Pathway Analysis Microbiome MicrobiotaProcess: Analysis, visualization and biomarker discovery of microbiome Phylogeny ggmsa: Plot mutiple sequence alignment using &amp;lsquo;ggplot2&amp;rsquo; ggtree: Visualization of tree and annotation data ggtreeExtra: Phylogenetic tree data annotation seqmagick: Sequence Manipulation Utilities tidytree: A Tidy Tool for Phylogenetic Tree Data Manipulation treeio: Base Classes and Functions for Phylogenetic Tree Input and Output Visualization aplot: Decorating a plot with associated information plotbb: Grammar of Graphics for base plot </description>
+      <description>OMICS data analysis ChIPseeker: ChIP peak Annotation, Comparison, and Visualization GeoTcgaData: Processing various types of data on GEO and TCGA Infectious disease and Epidemiology nCov2019: An R package for exploring COVID-19 statistics seqcombo: Visualization Tool for Sequence Recombination and Reassortment Knowledge mining clusterProfiler: Statistical analysis and visualization of functional profiles for genes and gene clusters DOSE: Disease Ontology Semantic and Enrichment analysis enrichplot: Visualization of Functional Enrichment Result gson: Base Class and Methods for &amp;lsquo;gson&amp;rsquo; Format GOSemSim: GO-terms Semantic Similarity Measures meshes: MeSH Enrichment and Semantic analyses ReactomePA: Reactome Pathway Analysis Microbiome MicrobiotaProcess: Analysis, visualization and biomarker discovery of microbiome MMINP: Microbe-Metabolite INteractions-based metabolic profiles Predictor Tree Data integration and visualization ggmsa: Plot mutiple sequence alignment using &amp;lsquo;ggplot2&amp;rsquo; ggtree: Visualization of tree and annotation data ggtreeExtra: Phylogenetic tree data annotation seqmagick: Sequence Manipulation Utilities shinyTempSignal: Explore Temporal Signal of Molecular Phylogenies tidytree: A Tidy Tool for Phylogenetic Tree Data Manipulation treeio: Base Classes and Functions for Phylogenetic Tree Input and Output Visualization aplot: Decorating a plot with associated information emojifont: Emoji and Font Awesome in Graphics ggbreak: An implementation of scale functions for setting axis breaks of a &amp;lsquo;gg&amp;rsquo; plot.</description>
+    </item>
+    
+    <item>
+      <title>YuLab@SMU</title>
+      <link>http://yulab-smu.top/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://yulab-smu.top/about/</guid>
+      <description>课题组一直专注于生物信息学方法工具开发及应用，在系统发育、组学数据分析和数据可视化上开发了多款广受同行认可的生物信息学工具，帮助生物学家探索和理解数据。</description>
     </item>
     
   </channel>

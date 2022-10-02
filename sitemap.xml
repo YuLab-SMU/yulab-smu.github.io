@@ -95,8 +95,6 @@
     <loc>http://yulab-smu.top/posts/biocasia-2020/</loc>
     <lastmod>2020-10-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://yulab-smu.top/about/</loc>
-  </url><url>
     <loc>http://yulab-smu.top/authors/</loc>
   </url><url>
     <loc>http://yulab-smu.top/categories/</loc>
@@ -120,5 +118,7 @@
     <loc>http://yulab-smu.top/snippets/</loc>
   </url><url>
     <loc>http://yulab-smu.top/software/</loc>
+  </url><url>
+    <loc>http://yulab-smu.top/about/</loc>
   </url>
 </urlset>
