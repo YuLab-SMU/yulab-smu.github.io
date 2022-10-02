@@ -97,11 +97,6 @@ pygmentsCodeFencesGuessSyntax = true
     icon = "fa fa-github"
     weight = 1
     url = "https://github.com/YuLab-SMU/"
-#[[params.social]]
-#    name = "Gitlab"
-#    icon = "fa fa-gitlab"
-#    weight = 2
-#    url = "https://gitlab.com/johndoe/"
 [[params.social]]
     name = "微信公众号"
     icon = "fa fa-wechat"
@@ -117,13 +112,13 @@ pygmentsCodeFencesGuessSyntax = true
 #    icon = "fa fa-medium"
 #    weight = 5
 #    url = "https://medium.com/@johndoe"
-[[params.social]]
-    name = "RSS"
-    icon = "fa fa-rss"
-    weight = 6
-    url = "https://yulab-smu.top/index.xml"
-    rel = "alternate"
-    type = "application/rss+xml"
+#[[params.social]]
+#    name = "RSS"
+#    icon = "fa fa-rss"
+#    weight = 6
+#    url = "https://yulab-smu.top/index.xml"
+#    rel = "alternate"
+#    type = "application/rss+xml"
 
 
 [languages]
