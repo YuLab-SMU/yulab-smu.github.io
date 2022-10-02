@@ -3,6 +3,8 @@ slug: news
 title: News
 ---
 
+<strong><font color="green">Aug 2022</font></strong>: 余光创发表专著《Data Integration, Manipulation and Visualization of Phylogenetic Treess (1st edition)》，由***Chapman and Hall/CRC***出版社出版 doi: [10.1201/9781003279242](https://doi.org/10.1201/9781003279242)。
+
 <strong><font color="green">Aug 2022</font></strong>: 课题组基于公共测序数据，挖掘铜绿假单胞菌的毒素-抗毒素系统，成果发表在***Fontiers in Microbiology***期刊 ([link](https://www.frontiersin.org/articles/10.3389/fmicb.2022.951774))，恭喜戴泽翰。
 
 <strong><font color="green">Aug 2022</font></strong>: 课题组基于癌症干性识别索拉非尼的耐药机制，成果发表在***Frontiers in Oncology***期刊 ([link](https://www.frontiersin.org/articles/10.3389/fonc.2022.912694/2))，恭喜冯婷泽、吴天志和周烺。
@@ -14,6 +16,10 @@ title: News
 <strong><font color="green">Jun 2022</font></strong>: 团队第一批研究生毕业，恭喜徐双斌获得博士学位，恭喜冯婷泽和周烺获得硕士学位。
 
 <strong><font color="green">Apr 2022</font></strong>: 余光创入选爱思唯尔2021年中国高被引学者。
+
+<strong><font color="green">Mar 2022</font></strong>: 余光创荣获南方医科大学2020学年教学优秀一等奖。
+
+<strong><font color="green">Dec 2021</font></strong>: clusterProfiler 2012年发表在OMICS上的文章，被中国科学技术信息研究所列为“2011-2021我国高被引论文中被引次数最高的10篇国际论文”（来源：2021年中国科技论文统计报告）。
 
 <strong><font color="green">Nov 2021</font></strong>: *ggbreak*包实现了与*ggplot2*语法无缝衔接的坐标轴截断功能，发表在***Frontiers in Genetics***期刊 ([link](https://www.frontiersin.org/articles/10.3389/fgene.2021.774846/full))， 恭喜徐双斌和陈枚君。
 
@@ -34,5 +40,9 @@ title: News
 <strong><font color="green">Mar 2020</font></strong>: 受William Pearson教授的邀请，在***Current Protocols in Bioinformatics***期刊上发表*ggtree*文章，通过实例介绍*ggtree*的使用 ([link](https://doi.org/10.1002/cpbi.96))
 
 <strong><font color="green">Feb 2020</font></strong>: *treeio*包解决系统发育树及相关数据的输入与输出问题，成果发表在***Molecular Biology and Evolution***期刊 ([link](https://doi.org/10.1093/molbev/msz240))。
+
+<strong><font color="green">Jan 2020</font></strong>: 《Stem Cell Transcriptional Networks》第二版出版，余光创撰写了其中的第十一章《Gene Ontology Semantic Similarity Analysis Using GOSemSim》([link](http://dx.doi.org/10.1007/978-1-0716-0301-7_11))。
+
+<strong><font color="green">Jan 2019</font></strong>: 余光创受邀，为南丹麦大学博士生课程，BMB209: Workshops in Applied Bioinformatics，授课。
 
 <strong><font color="green">Dec 2018</font></strong>: 提出两种通用的方法用于系统发育相关数据的整合与可视化，发表在***Molecular Biology and Evolution***期刊 ([link](https://academic.oup.com/mbe/article-abstract/35/12/3041/5142656))。

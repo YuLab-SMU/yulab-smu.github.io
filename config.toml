@@ -142,10 +142,10 @@ pygmentsCodeFencesGuessSyntax = true
             weight = 2
             url = "publications/"
 
-            [[languages.en.menu.main]]
-            name = "Projects"
-            weight = 3
-            url = "projects/"
+##            [[languages.en.menu.main]]
+##            name = "Projects"
+##            weight = 3
+##            url = "projects/"
 
             [[languages.en.menu.main]]
             name = "Software"
@@ -157,10 +157,10 @@ pygmentsCodeFencesGuessSyntax = true
             weight = 5
             url = "members/"
 
-            [[languages.en.menu.main]]
-            name = "Documents"
-            weight = 6
-            url = "documents/"
+##            [[languages.en.menu.main]]
+##            name = "Documents"
+##            weight = 6
+##            url = "documents/"
 
             [[languages.en.menu.main]]
             name = "News"
