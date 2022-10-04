@@ -21,6 +21,8 @@ title: News
 
 <strong><font color="green">Dec 2021</font></strong>: clusterProfiler 2012年发表在OMICS上的文章，被中国科学技术信息研究所列为“2011-2021我国高被引论文中被引次数最高的10篇国际论文”（来源：2021年中国科技论文统计报告）。
 
+<strong><font color="green">Nov 2021</font></strong>: 胡二强受邀请在[Bioconductor亚洲区年会](https://biocasia2021.bioconductor.org/)上做专题报告，介绍*clusterProfiler* 4.0版本的新特性。
+
 <strong><font color="green">Nov 2021</font></strong>: *ggbreak*包实现了与*ggplot2*语法无缝衔接的坐标轴截断功能，发表在***Frontiers in Genetics***期刊 ([link](https://www.frontiersin.org/articles/10.3389/fgene.2021.774846/full))， 恭喜徐双斌和陈枚君。
 
 <strong><font color="green">Oct 2021</font></strong>: 三年级硕士生周烺在Bioconductor亚洲区年会的Workshop环节介绍使用*ggmsa*可视化和探索多重序列比对。
