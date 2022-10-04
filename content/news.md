@@ -25,7 +25,7 @@ title: News
 
 <strong><font color="green">Oct 2021</font></strong>: 三年级硕士生周烺在Bioconductor亚洲区年会的Workshop环节介绍使用*ggmsa*可视化和探索多重序列比对。
 
-<strong><font color="green">Oct 2021</font></strong>: 博士生徐双斌和硕士生郭平凡分别获得研究生国家奖学金。
+<strong><font color="green">Oct 2021</font></strong>: 恭喜博士生徐双斌和硕士生郭平凡获得研究生国家奖学金。
 
 <strong><font color="green">Sep 2021</font></strong>: *ggtreeExtra*包在环形布局上实现了多维数据的整合可视化，发表在***Molecular Biology and Evolution***期刊 ([link](https://doi.org/10.1093/molbev/msab166))， 恭喜徐双斌。
 
