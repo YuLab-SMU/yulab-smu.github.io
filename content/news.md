@@ -15,6 +15,10 @@ title: News
 
 <strong><font color="green">Jun 2022</font></strong>: 团队第一批研究生毕业，恭喜徐双斌获得博士学位，恭喜冯婷泽和周烺获得硕士学位。
 
+<strong><font color="green">May 2022</font></strong>: 可视化专刊[Biomedical Data Visualization: Methods and Applications](https://www.frontiersin.org/research-topics/17918) 15篇文章，形成电子书集合，可在专刊主页下载。
+
+<strong><font color="green">Apr 2022</font></strong>: 为可视化专刊[Biomedical Data Visualization: Methods and Applications](https://www.frontiersin.org/research-topics/17918)发表一篇Editorial文章，恭喜吴天志。
+
 <strong><font color="green">Apr 2022</font></strong>: 余光创入选爱思唯尔2021年中国高被引学者。
 
 <strong><font color="green">Mar 2022</font></strong>: 余光创荣获南方医科大学2020学年教学优秀一等奖。
@@ -32,6 +36,8 @@ title: News
 <strong><font color="green">Sep 2021</font></strong>: *ggtreeExtra*包在环形布局上实现了多维数据的整合可视化，发表在***Molecular Biology and Evolution***期刊 ([link](https://doi.org/10.1093/molbev/msab166))， 恭喜徐双斌。
 
 <strong><font color="green">Aug 2021</font></strong>: *clusterProfiler*发布4.0版本，文章发表于***The Innovation***期刊 ([link](https://doi.org/10.1016/j.xinn.2021.100141))，恭喜吴天志和胡二强。
+
+<strong><font color="green">Jun 2021</font></strong>: 课题组开发的检索新冠疫情的nCov2019包发表在PeerJ期刊上（[link](https://peerj.com/articles/11421/)），恭喜吴天志。
 
 <strong><font color="green">Apr 2021</font></strong>: 余光创入选美国斯坦福大学发布的全球前2%顶尖科学家榜单（World’s Top 2% Scientists 2020）中的“年度影响力”榜单。
 
