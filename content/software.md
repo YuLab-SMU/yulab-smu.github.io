@@ -22,6 +22,7 @@ title: Software
 + [enrichplot](https://www.bioconductor.org/packages/enrichplot): Visualization of Functional Enrichment Result
 + [gson](https://cran.r-project.org/package=gson): Base Class and Methods for 'gson' Format
 + [GOSemSim](https://www.bioconductor.org/packages/GOSemSim): GO-terms Semantic Similarity Measures
++ [HDO.db](https://www.bioconductor.org/packages/HDO.db): A set of annotation maps describing the entire Human Disease Ontology
 + [meshes](https://www.bioconductor.org/packages/meshes): MeSH Enrichment and Semantic analyses
 + [ReactomePA](https://www.bioconductor.org/packages/ReactomePA): Reactome Pathway Analysis
 
