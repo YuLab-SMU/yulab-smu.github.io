@@ -3,6 +3,8 @@ slug: news
 title: News
 ---
 
+<strong><font color="green">Oct 2022</font></strong>: 恭喜博士生吴天志获得研究生国家奖学金。
+
 <strong><font color="green">Aug 2022</font></strong>: 余光创发表专著《Data Integration, Manipulation and Visualization of Phylogenetic Treess (1st edition)》，由***Chapman and Hall/CRC***出版社出版 doi: [10.1201/9781003279242](https://doi.org/10.1201/9781003279242)。
 
 <strong><font color="green">Aug 2022</font></strong>: 课题组基于公共测序数据，挖掘铜绿假单胞菌的毒素-抗毒素系统，成果发表在***Fontiers in Microbiology***期刊 ([link](https://www.frontiersin.org/articles/10.3389/fmicb.2022.951774))，恭喜戴泽翰。
