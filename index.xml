@@ -144,7 +144,7 @@ Master Student Wenqin Xie</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://yulab-smu.top/news/</guid>
-      <description>Oct 2022: 余光创入选全球前2%顶尖科学家榜单（World’s Top 2% Scientists 2021）中的“年度影响力”榜单。
+      <description>Oct 2022: 余光创入选全球前2%顶尖科学家榜单（World’s Top 2% Scientists）“终身科学影响力”（career-long impact）和“年度科学影响力”（single recent year impact）排行榜（link)。
 Oct 2022: 恭喜博士生吴天志获得博士研究生国家奖学金。
 Aug 2022: 余光创发表专著《Data Integration, Manipulation and Visualization of Phylogenetic Treess (1st edition)》，由Chapman and Hall/CRC出版社出版 doi: 10.1201/9781003279242。
 Aug 2022: 课题组基于公共测序数据，挖掘铜绿假单胞菌的毒素-抗毒素系统，成果发表在Fontiers in Microbiology期刊 (link)，恭喜戴泽翰。
@@ -153,8 +153,7 @@ Jul 2022: 恭喜冯婷泽和周烺荣获南方医科大学2022届“优秀毕业
 Jul 2022: ggmsa包实现了多种可视化方法用于探索多重序列比对结果，并可与ggtree对接使用，成果发表在Briefings in Bioinformatics期刊 (link)，恭喜周烺和冯婷泽。
 Jun 2022: 团队第一批研究生毕业，恭喜徐双斌获得博士学位，恭喜冯婷泽和周烺获得硕士学位。
 May 2022: 可视化专刊Biomedical Data Visualization: Methods and Applications 15篇文章，形成电子书集合，可在专刊主页下载。
-Apr 2022: 为可视化专刊Biomedical Data Visualization: Methods and Applications发表一篇Editorial文章，恭喜吴天志。
-Apr 2022: 余光创入选爱思唯尔2021年中国高被引学者。</description>
+Apr 2022: 为可视化专刊Biomedical Data Visualization: Methods and Applications发表一篇Editorial文章，恭喜吴天志。</description>
     </item>
     
     <item>
@@ -192,7 +191,7 @@ ls -la </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://yulab-smu.top/software/</guid>
-      <description>OMICS data analysis ChIPseeker: ChIP peak Annotation, Comparison, and Visualization GeoTcgaData: Processing various types of data on GEO and TCGA Infectious disease and Epidemiology nCov2019: An R package for exploring COVID-19 statistics seqcombo: Visualization Tool for Sequence Recombination and Reassortment Knowledge mining clusterProfiler: Statistical analysis and visualization of functional profiles for genes and gene clusters DOSE: Disease Ontology Semantic and Enrichment analysis enrichplot: Visualization of Functional Enrichment Result gson: Base Class and Methods for &amp;lsquo;gson&amp;rsquo; Format GOSemSim: GO-terms Semantic Similarity Measures HDO.</description>
+      <description>Infectious disease and Epidemiology nCov2019: An R package for exploring COVID-19 statistics seqcombo: Visualization Tool for Sequence Recombination and Reassortment Knowledge mining clusterProfiler: Statistical analysis and visualization of functional profiles for genes and gene clusters DOSE: Disease Ontology Semantic and Enrichment analysis enrichplot: Visualization of Functional Enrichment Result gson: Base Class and Methods for &amp;lsquo;gson&amp;rsquo; Format GOSemSim: GO-terms Semantic Similarity Measures HDO.db: A set of annotation maps describing the entire Human Disease Ontology meshes: MeSH Enrichment and Semantic analyses ReactomePA: Reactome Pathway Analysis Microbiome MicrobiotaProcess: Analysis, visualization and biomarker discovery of microbiome MMINP: Microbe-Metabolite INteractions-based metabolic profiles Predictor OMICS data analysis ChIPseeker: ChIP peak Annotation, Comparison, and Visualization GeoTcgaData: Processing various types of data on GEO and TCGA Sequence analysis ggmsa: Plot mutiple sequence alignment using &amp;lsquo;ggplot2&amp;rsquo; seqmagick: Sequence Manipulation Utilities Tree Data integration and visualization ggtree: Visualization of tree and annotation data ggtreeDendro: Drawing &amp;lsquo;dendrogram&amp;rsquo; using &amp;lsquo;ggtree&amp;rsquo; ggtreeExtra: Phylogenetic tree data annotation shinyTempSignal: Explore Temporal Signal of Molecular Phylogenies tidytree: A Tidy Tool for Phylogenetic Tree Data Manipulation treeio: Base Classes and Functions for Phylogenetic Tree Input and Output Visualization aplot: Decorating a plot with associated information emojifont: Emoji and Font Awesome in Graphics ggbreak: An implementation of scale functions for setting axis breaks of a &amp;lsquo;gg&amp;rsquo; plot.</description>
     </item>
     
     <item>
