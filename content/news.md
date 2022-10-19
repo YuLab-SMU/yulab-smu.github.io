@@ -8,6 +8,8 @@ title: News
 
 <strong><font color="green">Oct 2022</font></strong>: 恭喜吴天志获得博士研究生国家奖学金。
 
+<strong><font color="green">Sep 2022</font></strong>: 欢迎利铭和罗晓加入YuLab。
+
 <strong><font color="green">Aug 2022</font></strong>: 余光创发表专著《Data Integration, Manipulation and Visualization of Phylogenetic Treess (1st edition)》，由***Chapman and Hall/CRC***出版社出版 doi: [10.1201/9781003279242](https://doi.org/10.1201/9781003279242)。
 
 <strong><font color="green">Aug 2022</font></strong>: 课题组基于公共测序数据，挖掘铜绿假单胞菌的毒素-抗毒素系统，成果发表在***Fontiers in Microbiology***期刊 ([link](https://www.frontiersin.org/articles/10.3389/fmicb.2022.951774))，恭喜戴泽翰。
@@ -43,6 +45,8 @@ title: News
 
 <strong><font color="green">Sep 2021</font></strong>: *ggtreeExtra*包在环形布局上实现了多维数据的整合可视化，发表在***Molecular Biology and Evolution***期刊 ([link](https://doi.org/10.1093/molbev/msab166))， 恭喜徐双斌。
 
+<strong><font color="green">Sep 2021</font></strong>: 欢迎李林、谢子敬和谢汶琴加入YuLab。
+
 <strong><font color="green">Aug 2021</font></strong>: *clusterProfiler*发布4.0版本，文章发表于***The Innovation***期刊 ([link](https://doi.org/10.1016/j.xinn.2021.100141))，恭喜吴天志和胡二强。
 
 <strong><font color="green">Jun 2021</font></strong>: 课题组开发的检索新冠疫情的nCov2019包发表在PeerJ期刊上（[link](https://peerj.com/articles/11421/)），恭喜吴天志。
@@ -55,12 +59,18 @@ title: News
 
 <strong><font color="green">Oct 2020</font></strong>: 余光创受邀请在[Bioconductor亚洲区年会](https://biocasia2020.bioconductor.org/)上做专题报告，介绍系统发育数据整合与可视化方面的工作；二年级博士生徐双斌在Workshop环节介绍使用课题组开发的MicrobiotaProcess分析宏基因组数据。
 
+<strong><font color="green">Sep 2020</font></strong>: 欢迎吴天志、胡二强、唐文丽、陈玫君和詹历加入YuLab。
+
 <strong><font color="green">Mar 2020</font></strong>: 受William Pearson教授的邀请，在***Current Protocols in Bioinformatics***期刊上发表*ggtree*文章，通过实例介绍*ggtree*的使用 ([link](https://doi.org/10.1002/cpbi.96))
 
 <strong><font color="green">Feb 2020</font></strong>: *treeio*包解决系统发育树及相关数据的输入与输出问题，成果发表在***Molecular Biology and Evolution***期刊 ([link](https://doi.org/10.1093/molbev/msz240))。
 
 <strong><font color="green">Jan 2020</font></strong>: 《Stem Cell Transcriptional Networks》第二版出版，余光创撰写了其中的第十一章《Gene Ontology Semantic Similarity Analysis Using GOSemSim》([link](http://dx.doi.org/10.1007/978-1-0716-0301-7_11))。
 
+<strong><font color="green">Sep 2019</font></strong>: YuLab有了第一批研究生，欢迎徐双斌、周烺、冯婷泽和郭平凡。欢迎博士后戴泽翰。
+
 <strong><font color="green">Jan 2019</font></strong>: 余光创受邀，为南丹麦大学博士生课程，BMB209: Workshops in Applied Bioinformatics，授课。
 
 <strong><font color="green">Dec 2018</font></strong>: 提出两种通用的方法用于系统发育相关数据的整合与可视化，发表在***Molecular Biology and Evolution***期刊 ([link](https://academic.oup.com/mbe/article-abstract/35/12/3041/5142656))。
+
+<strong><font color="green">Sep 2018</font></strong>: 余光创以第三层次人才引进到南方医科大学。Hello YuLab！
