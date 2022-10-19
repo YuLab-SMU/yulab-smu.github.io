@@ -4,10 +4,6 @@ title: Software
 ---
 
 
-## <i class="fa fa-bullseye fa-1x" aria-hidden="true"></i> OMICS data analysis
-
-+ [ChIPseeker](https://www.bioconductor.org/packages/ChIPseeker): ChIP peak Annotation, Comparison, and Visualization
-+ [GeoTcgaData](https://cran.r-project.org/package=GeoTcgaData): Processing various types of data on GEO and TCGA
 
 ## <i class="fa fa-plus-square fa-1x" aria-hidden="true"></i> Infectious disease and Epidemiology
 
@@ -32,12 +28,25 @@ title: Software
 + [MicrobiotaProcess](https://www.bioconductor.org/packages/MicrobiotaProcess): Analysis, visualization and biomarker discovery of microbiome 
 + [MMINP](https://cran.r-project.org/package=MMINP): Microbe-Metabolite INteractions-based metabolic profiles Predictor
 
-## <i class="fa fa-tree fa-1x" aria-hidden="true"></i> Tree Data integration and visualization
+
+
+## <i class="fa fa-bullseye fa-1x" aria-hidden="true"></i> OMICS data analysis
+
++ [ChIPseeker](https://www.bioconductor.org/packages/ChIPseeker): ChIP peak Annotation, Comparison, and Visualization
++ [GeoTcgaData](https://cran.r-project.org/package=GeoTcgaData): Processing various types of data on GEO and TCGA
+
+
+## <i class="fa fa-line-chart fa-1x" aria-hidden="true"></i> Sequence analysis
 
 + [ggmsa](https://cran.r-project.org/package=ggmsa): Plot mutiple sequence alignment using 'ggplot2'
-+ [ggtree](https://www.bioconductor.org/packages/ggtree): Visualization of tree and annotation data
-+ [ggtreeExtra](https://www.bioconductor.org/packages/ggtreeExtra): Phylogenetic tree data annotation
 + [seqmagick](https://cran.r-project.org/package=seqmagick): Sequence Manipulation Utilities
+
+
+## <i class="fa fa-tree fa-1x" aria-hidden="true"></i> Tree Data integration and visualization
+
++ [ggtree](https://www.bioconductor.org/packages/ggtree): Visualization of tree and annotation data
++ [ggtreeDendro](https://www.bioconductor.org/packages/ggtreeDendro): Drawing 'dendrogram' using 'ggtree'
++ [ggtreeExtra](https://www.bioconductor.org/packages/ggtreeExtra): Phylogenetic tree data annotation
 + [shinyTempSignal](https://cran.r-project.org/package=shinyTempSignal): Explore Temporal Signal of Molecular Phylogenies
 + [tidytree](https://cran.r-project.org/package=tidytree): A Tidy Tool for Phylogenetic Tree Data Manipulation
 + [treeio](https://www.bioconductor.org/packages/): Base Classes and Functions for Phylogenetic Tree Input and Output

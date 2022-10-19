@@ -4,7 +4,7 @@ title: News
 ---
 
 
-<strong><font color="green">Oct 2022</font></strong>: 余光创入选全球前2%顶尖科学家榜单（World’s Top 2% Scientists 2021）中的[“年度影响力”榜单](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/4)。
+<strong><font color="green">Oct 2022</font></strong>: 余光创入选全球前2%顶尖科学家榜单（World’s Top 2% Scientists）“<strong>终身科学影响力</strong>”（career-long impact）和“<strong>年度科学影响力</strong>”（single recent year impact）排行榜（[link](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/4))。
 
 <strong><font color="green">Oct 2022</font></strong>: 恭喜博士生吴天志获得博士研究生国家奖学金。
 
@@ -34,7 +34,8 @@ title: News
 
 <strong><font color="green">Nov 2021</font></strong>: *ggbreak*包实现了与*ggplot2*语法无缝衔接的坐标轴截断功能，发表在***Frontiers in Genetics***期刊 ([link](https://www.frontiersin.org/articles/10.3389/fgene.2021.774846/full))， 恭喜徐双斌和陈枚君。
 
-<strong><font color="green">Oct 2021</font></strong>: 余光创入选全球前2%顶尖科学家榜单（World’s Top 2% Scientists 2020）中的[“年度影响力”榜单](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/3)。
+<strong><font color="green">Oct 2021</font></strong>: 余光创入选全球前2%顶尖科学家榜单（World’s Top 2% Scientists）“<strong>终身科学影响力</strong>”（career-long impact）和“<strong>年度科学影响力</strong>”（single recent year impact）排行榜（[link](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/3))。
+。
 
 <strong><font color="green">Oct 2021</font></strong>: 三年级硕士生周烺在Bioconductor亚洲区年会的Workshop环节介绍使用*ggmsa*可视化和探索多重序列比对。
 
@@ -50,7 +51,7 @@ title: News
 
 <strong><font color="green">Dec 2020</font></strong>: 余光创于2017年发表在***Methods in Ecology and Evolution***上的*ggtree*文章，入选MEE期刊创刊十周年10篇[代表作](https://methodsblog.com/2020/11/19/ggtree-tree-visualization/)。
 
-<strong><font color="green">Oct 2020</font></strong>: 余光创入选全球前2%顶尖科学家榜单（World’s Top 2% Scientists 2019）中的[“年度影响力”榜单](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/2)。
+<strong><font color="green">Oct 2020</font></strong>: 余光创入选全球前2%顶尖科学家榜单（World’s Top 2% Scientists）中的[“年度影响力”榜单](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/2)。
 
 <strong><font color="green">Oct 2020</font></strong>: 余光创受邀请在[Bioconductor亚洲区年会](https://biocasia2020.bioconductor.org/)上做专题报告，介绍系统发育数据整合与可视化方面的工作；二年级博士生徐双斌在Workshop环节介绍使用课题组开发的MicrobiotaProcess分析宏基因组数据。
 
