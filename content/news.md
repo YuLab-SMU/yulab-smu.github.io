@@ -4,9 +4,9 @@ title: News
 ---
 
 
-<strong><font color="green">Oct 2022</font></strong>: 余光创入选全球前2%顶尖科学家榜单（World’s Top 2% Scientists）“<strong>终身科学影响力</strong>”（career-long impact）和“<strong>年度科学影响力</strong>”（single recent year impact）排行榜（[link](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/4))。
+<strong><font color="green">Oct 2022</font></strong>: 余光创入选全球前2%顶尖科学家榜单（World’s Top 2% Scientists）“<strong>终身科学影响力</strong>”（career-long impact）和“<strong>年度科学影响力</strong>”（single recent year impact）排行榜（[link 1](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/4) & [2](http://www.smu.edu.cn/info/1139/15995.htm))。
 
-<strong><font color="green">Oct 2022</font></strong>: 恭喜博士生吴天志获得博士研究生国家奖学金。
+<strong><font color="green">Oct 2022</font></strong>: 恭喜吴天志获得博士研究生国家奖学金。
 
 <strong><font color="green">Aug 2022</font></strong>: 余光创发表专著《Data Integration, Manipulation and Visualization of Phylogenetic Treess (1st edition)》，由***Chapman and Hall/CRC***出版社出版 doi: [10.1201/9781003279242](https://doi.org/10.1201/9781003279242)。
 
