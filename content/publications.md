@@ -3,20 +3,32 @@ slug: publications
 title: Publications
 ---
 
-You can visit [Google Scholar](https://scholar.google.com/citations?user=DO5oG40AAAAJ&hl=en) for details.
+
+<style>
+    @media only screen and (max-width: 768px) {
+        td {
+            display: block;
+        }
+    }
+</style>
+
++ 连续2年（2021-2022）入选全球前2%顶尖科学家终身科学影响力榜单
++ 连续3年（2020-2022）入选全球前2%顶尖科学家年度科学影响力榜单
++ 连续2年（2021-2022）入选爱思唯尔中国高被引学者
 
 <table style="border:none; font-size: 90%; width:100%;">
 <tr style="border:none;"> 
 <td style="border:none;">
 
+
 + <sup>#</sup> Co-first authors
 + <sup>\*</sup> Co-corresponding authors 
 + <i class="fa fa-trophy fa-2x" aria-hidden="true" style="color:#CC5500;font-size: 150%;"></i> ESI Highly Cited Paper (ESI高被引论文)
 + 分区为中科院小类分区，标记的是发表文章当年的分区
-+ IF为当年影响因子，如2018年发表的文章，标记的是2018年影响因子
++ IF标记的是文章发表当年的影响因子
 
 </td>
-<td style="border:none;"><img src="/images/citation.png" height='150px'></td>
+<td style="border:none;"><img src="/images/citation.png" height='200px'></td>
 </tr>
 </table>
 
