@@ -5,18 +5,26 @@ title: Publications
 
 You can visit [Google Scholar](https://scholar.google.com/citations?user=DO5oG40AAAAJ&hl=en) for details.
 
+<table style="border:none; font-size: 90%; width:100%;">
+<tr style="border:none;"> 
+<td style="border:none;">
+
 + <sup>#</sup> Co-first authors
 + <sup>\*</sup> Co-corresponding authors 
-+ Cited by 22507, h-index = 27 (google scholar, Oct 2022)
 + <i class="fa fa-trophy fa-2x" aria-hidden="true" style="color:#CC5500;font-size: 150%;"></i> ESI Highly Cited Paper (ESI高被引论文)
 + 分区为中科院小类分区，标记的是发表文章当年的分区
 + IF为当年影响因子，如2018年发表的文章，标记的是2018年影响因子
+
+</td>
+<td style="border:none;"><img src="/images/citation.png" height='150px'></td>
+</tr>
+</table>
 
 
 ## <i class="fa fa-calendar fa-1x" aria-hidden="true"></i> 2022
 
 + S Xu, L Li, X Luo, M Chen, W Tang, L Zhan, Z Dai, TT. Lam, Y Guan, __G Yu__<sup>\*</sup>. [Ggtree: A serialized data object for visualization of a phylogenetic tree and annotation data](https://onlinelibrary.wiley.com/doi/full/10.1002/imt2.56). __*iMeta*__, 2022, 1(4):e56.
-+ Q Wang<sup>#</sup>, M Li<sup>#</sup>, T Wu, L Zhan, L Li, M Chen, W Xie, Z Xie, E Hu, S Xu, __G Yu__<sup>\*</sup>. [Exploring epigenomic datasets by ChIPseeker](https://onlinelibrary.wiley.com/share/author/GYJGUBYCTRMYJFN2JFZZ?target=10.1002/cpz1.585). __*Current Protocols*__, 2022, 2(10): e585. doi: 10.1002/cpz1.585. 
++ Q Wang<sup>#</sup>, M Li<sup>#</sup>, T Wu, L Zhan, L Li, M Chen, W Xie, Z Xie, E Hu, S Xu, __G Yu__<sup>\*</sup>. [Exploring epigenomic datasets by ChIPseeker](https://onlinelibrary.wiley.com/share/author/GYJGUBYCTRMYJFN2JFZZ?target=10.1002/cpz1.585). __*Current Protocols*__, 2022, 2(10): e585. 
 + __G Yu__. Data Integration, Manipulation and Visualization of Phylogenetic Treess (1st edition). __*Chapman and Hall/CRC*__, 2022. doi: [10.1201/9781003279242](https://doi.org/10.1201/9781003279242)
 + Z Dai, T Wu, S Xu, L Zhou, W Tang, E Hu, L Zhan M Chen, __G Yu__<sup>\*</sup>. [Characterization of toxin-antitoxin systems from public sequencing data: a case study in *Pseudomonas aeruginosa*](https://www.frontiersin.org/articles/10.3389/fmicb.2022.951774). __*Frontiers in Microbiology*__. 2022, 13:951774. (IF = 6.064，二区，Top期刊)
 + T Feng<sup>#</sup>, T Wu<sup>#</sup>, Y Zhang<sup>#</sup>, L Zhou<sup>#</sup>, S Liu, L Li, M Li, E Hu, Q Wang, X Fu, L Zhan, Z Xie, W Xie, X Huang<sup>\*</sup>, X Shang<sup>\*</sup>,  __G Yu__<sup>\*</sup>. [Stemness Analysis Uncovers That The Peroxisome Proliferator-Activated Receptor Signaling Pathway Can Mediate Fatty Acid Homeostasis In Sorafenib-Resistant Hepatocellular Carcinoma Cells](https://www.frontiersin.org/articles/10.3389/fonc.2022.912694/). __*Frontiers in Oncology*__. 2022, 12:912694. (IF = 5.738，三区)

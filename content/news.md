@@ -3,6 +3,8 @@ slug: news
 title: News
 ---
 
+<strong><font color="green">Oct 2022</font></strong>: 恭喜戴泽翰博士顺利通过博士后答辩！
+
 <strong><font color="green">Oct 2022</font></strong>: 使用ChIPseeker分析表观组学数据的protocol文章发表在***Current Protocols***期刊，（[link](https://onlinelibrary.wiley.com/share/author/GYJGUBYCTRMYJFN2JFZZ?target=10.1002/cpz1.585)），恭喜王倩雯和利铭。
 
 <strong><font color="green">Oct 2022</font></strong>: 余光创入选全球前2%顶尖科学家榜单（World’s Top 2% Scientists）“<strong>终身科学影响力</strong>”（career-long impact）和“<strong>年度科学影响力</strong>”（single recent year impact）排行榜（[link 1](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/4) & [2](http://www.smu.edu.cn/info/1139/15995.htm))。

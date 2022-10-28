@@ -49,27 +49,21 @@ title: Members
         <a href="https://orcid.org/0000-0003-3553-1162" aria-label="Orcid">    
             <i class="ai ai-orcid ai-2x" style="font-size: 150%;"></i></a>   
     </td>     
-    <td style="border:none;"><img src="/images/members/dzh.png" width='150px'></td>
-    <td style="border:none;"><strong>Zehan Dai, Phd.<br>
-        Post-doctoral fellow</strong><br>
-        <a href="https://github.com/ZehanDai" aria-label="Github">
-            <i class="fa fa-github fa-2x" aria-hidden="true" style="font-size: 150%;"></i></a>
-    </td>
     <td style="border:none;"><img src="/images/members/xsb.jpg" width='150px'></td>
     <td style="border:none;"><strong>Shuangbin Xu, Phd.<br>
         Post-doctoral fellow</strong><br>
         <a href="https://github.com/xiangpin" aria-label="Github">
             <i class="fa fa-github fa-2x" aria-hidden="true" style="font-size: 150%;"></i></a>
     </td>    
-  </tr> 
-
-<tr style="border:none;"> 
     <td style="border:none;"><img src="/images/members/wtz.jpg" width='150px'></td>
     <td style="border:none;"><strong>Tianzhi Wu<br>
         PhD Student</strong><br>
         <a href="https://github.com/timze216" aria-label="Github">
             <i class="fa fa-github fa-2x" aria-hidden="true" style="font-size: 150%;"></i></a>
     </td>
+  </tr> 
+
+<tr style="border:none;"> 
     <td style="border:none;"><img src="/images/members/heq.jpg" width='150px'></td>
     <td style="border:none;"><strong>Erqiang Hu<br>
         PhD Student</strong><br>
@@ -84,14 +78,14 @@ title: Members
         <a href="https://github.com/qibaiqi" aria-label="Github">
             <i class="fa fa-github fa-2x" aria-hidden="true" style="font-size: 150%;"></i></a>
     </td>
-  </tr>
- <tr style="border:none;"> 
     <td style="border:none;"><img src="/images/members/twl.jpg" width='150px'></td>
     <td style="border:none;"><strong>Wenli Tang<br>
         Master Student</strong><br>
         <a href="https://github.com/WENLITANG" aria-label="Github">
             <i class="fa fa-github fa-2x" aria-hidden="true" style="font-size: 150%;"></i></a>
     </td>
+  </tr>
+ <tr style="border:none;"> 
     <td style="border:none;"><img src="/images/members/cmj.jpg" width='150px'></td>
     <td style="border:none;"><strong>Meijun Chen<br>
         Master Student</strong><br>
@@ -106,12 +100,12 @@ title: Members
         <a href="https://github.com/SMUZhanLi" aria-label="Github">
             <i class="fa fa-github fa-2x" aria-hidden="true" style="font-size: 150%;"></i></a>
     </td>
-  </tr>    
- <tr style="border:none;"> 
     <td style="border:none;"><img src="/images/members/fxc.jpg" width='150px'></td>
     <td style="border:none;"><strong>Xiaocong Fu<br>
         Master Student</strong>
     </td>    
+  </tr>    
+ <tr style="border:none;"> 
     <td style="border:none;"><img src="/images/members/ll.jpg" width='150px'></td>
     <td style="border:none;"><strong>Lin Li<br>
         Master Student</strong><br>
@@ -122,14 +116,14 @@ title: Members
     <td style="border:none;"><strong>Zijing Xie<br>
         Master Student</strong>
     </td>   
-  </tr> 
-<tr style="border:none;"> 
     <td style="border:none;"><img src="/images/members/xwq.jpg" width='150px'></td>
     <td style="border:none;"><strong>Wenqin Xie<br>
         Master Student</strong><br>
         <a href="https://github.com/Xie-Wenqin" aria-label="Github">
             <i class="fa fa-github fa-2x" aria-hidden="true" style="font-size: 150%;"></i></a>
     </td>
+  </tr> 
+<tr style="border:none;"> 
     <td style="border:none;"><img src="/images/members/lx.jpg" width='150px'></td>
     <td style="border:none;"><strong>Xiao Luo<br>
         Master Student</strong><br>
@@ -149,7 +143,8 @@ title: Members
 
 ## Former Lab Members
 
-+ **Lang Zhou** (MS 2019-2022; 南方医科大学2022届“优秀毕业研究生”, 珠江医院生物信息学工程师)
-+ **Tingze Feng** (MS 2019-2022; 南方医科大学2022届“优秀毕业研究生”, 中科院大连物化所博士在读)
-+ **Shanshan Liu** (MS 2019-2022; 2021年获硕士研究生国家奖学金, 南方医科大学博士在读)
++ **Zehan Dai** (Postdoc 2019-2022; 金圻睿, 高级研发工程师)
++ **Lang Zhou** (MS 2019-2022; 南方医科大学2022届“优秀毕业研究生”, 珠江医院, 生物信息学工程师)
++ **Tingze Feng** (MS 2019-2022; 南方医科大学2022届“优秀毕业研究生”, 中科院大连物化所, 博士在读)
++ **Shanshan Liu** (MS 2019-2022; 2021年获硕士研究生国家奖学金, 南方医科大学, 博士在读)
 
