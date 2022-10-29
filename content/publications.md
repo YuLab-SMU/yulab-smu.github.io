@@ -12,9 +12,6 @@ title: Publications
     }
 </style>
 
-+ 连续2年（2021-2022）入选全球前2%顶尖科学家终身科学影响力榜单
-+ 连续3年（2020-2022）入选全球前2%顶尖科学家年度科学影响力榜单
-+ 连续2年（2021-2022）入选爱思唯尔中国高被引学者
 
 <table style="border:none; font-size: 90%; width:100%;">
 <tr style="border:none;"> 
@@ -81,7 +78,8 @@ title: Publications
 + __G Yu__<sup>\*</sup>, LG Wang, QY He<sup>\*</sup>. [ChIPseeker: an R/Bioconductor package for ChIP peak annotation, comparision and visualization](http://bioinformatics.oxfordjournals.org/cgi/content/abstract/btv145). __*Bioinformatics*__. 2015, 31(14):2382-2383.   <i class="fa fa-trophy fa-2x" aria-hidden="true" style="color:#CC5500;font-size: 150%;"></i> (IF=5.766, 一区， Top期刊)
 +	__G Yu__<sup>\*</sup>, LG Wang, GR Yan, QY He<sup>\*</sup>. [DOSE: an R/Bioconductor package for Disease Ontology Semantic and Enrichment analysis](http://bioinformatics.oxfordjournals.org/cgi/content/abstract/btu684). __*Bioinformatics*__. 2015, 31(4):608-609.   <i class="fa fa-trophy fa-2x" aria-hidden="true" style="color:#CC5500;font-size: 150%;"></i> (IF=5.766, 一区， Top期刊)
 +	__G Yu__, LG Wang, Y Han, QY He<sup>\*</sup>. [clusterProfiler: an R package for comparing biological themes among gene clusters](http://online.liebertpub.com/doi/abs/10.1089/omi.2011.0118). __*OMICS: A Journal of Integrative Biology*__. 2012, 16(5):284-287.   <i class="fa fa-trophy fa-2x" aria-hidden="true" style="color:#CC5500;font-size: 150%;"></i> (IF=2.730， 四区)
-+ __G Yu__<sup>#</sup>, F Li<sup>#</sup>, Y Qin, X Bo<sup>\*</sup>, Y Wu, S Wang<sup>\*</sup>. [GOSemSim: an R package for measuring semantic similarity among GO terms and gene products](http://bioinformatics.oxfordjournals.org/cgi/content/abstract/26/7/976). __*Bioinformatics*__. 2010, 26(7):976-978.   <i class="fa fa-trophy fa-2x" aria-hidden="true" style="color:#CC5500;font-size: 150%;"></i> (IF=4.877, 二区， Top期刊)
++ __G Yu__<sup>#</sup>, F Li<sup>#</sup>, Y Qin, X Bo<sup>\*</sup>, Y Wu, S Wang<sup>\*</sup>. [GOSemSim: an R package for measuring semantic similarity among GO terms and gene products](http://bioinformatics.oxfordjournals.org/cgi/content/abstract/26/7/976). __*Bioinformatics*__. 2010, 26(7):976-978. (IF=4.877, 二区， Top期刊)
+
 
 [^1]: [clusterProfiler (Wu et al. 2021)](https://doi.org/10.1016/j.xinn.2021.100141), the featured article in [2021-08-24’s website banner of Cell Press](/images/cell+press-screenshot-2021-08-24.jpg).
 [^2]: The [ggtree (Yu *et al.* 2017)](http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12628/abstract) paper was selected as a feature article to celebrate the 10<sup>th</sup> anniversary of the launch of __*[Methods in Ecology and Evolution](https://methodsblog.com/2020/11/19/ggtree-tree-visualization/)*__.
