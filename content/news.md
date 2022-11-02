@@ -35,14 +35,21 @@ title: News
 
 <strong><font color="green">Mar 2022</font></strong>: 余光创荣获南方医科大学2020学年教学优秀一等奖。
 
+<strong><font color="green">Jan 2022</font></strong>: 恭喜陈玫君在2020-2021学年评优中，荣获“优秀研究生”和“优秀研究生骨干”荣誉称号。
+
+<strong><font color="green">Jan 2022</font></strong>: 恭喜唐文丽在2020-2021学年评优中，荣获“优秀研究生”荣誉称号。
+
+<strong><font color="green">Jan 2022</font></strong>: 恭喜徐双斌荣获第四届“南方医科大学基础医学学术年会-青年优秀论文评选”优秀奖。
+
 <strong><font color="green">Dec 2021</font></strong>: clusterProfiler 2012年发表在OMICS上的文章，被中国科学技术信息研究所列为“2011-2021我国高被引论文中被引次数最高的10篇国际论文”（来源：2021年中国科技论文统计报告）。
+
+<strong><font color="green">Dec 2021</font></strong>: 恭喜陈玫君在2021年南方医科大学实验室安全微视频创作大赛中荣获二等奖。
 
 <strong><font color="green">Nov 2021</font></strong>: 胡二强受邀请在[Bioconductor亚洲区年会](https://biocasia2021.bioconductor.org/)上做专题报告，介绍*clusterProfiler* 4.0版本的新特性。
 
 <strong><font color="green">Nov 2021</font></strong>: *ggbreak*包实现了与*ggplot2*语法无缝衔接的坐标轴截断功能，发表在***Frontiers in Genetics***期刊 ([link](https://www.frontiersin.org/articles/10.3389/fgene.2021.774846/full))， 恭喜徐双斌和陈枚君。
 
 <strong><font color="green">Oct 2021</font></strong>: 余光创入选全球前2%顶尖科学家榜单（World’s Top 2% Scientists）“<strong>终身科学影响力</strong>”（career-long impact）和“<strong>年度科学影响力</strong>”（single recent year impact）排行榜（[link](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/3))。
-。
 
 <strong><font color="green">Oct 2021</font></strong>: 三年级硕士生周烺在Bioconductor亚洲区年会的Workshop环节介绍使用*ggmsa*可视化和探索多重序列比对。
 
@@ -50,9 +57,11 @@ title: News
 
 <strong><font color="green">Sep 2021</font></strong>: *ggtreeExtra*包在环形布局上实现了多维数据的整合可视化，发表在***Molecular Biology and Evolution***期刊 ([link](https://doi.org/10.1093/molbev/msab166))， 恭喜徐双斌。
 
-<strong><font color="green">Sep 2021</font></strong>: 欢迎李林、谢子敬和谢汶琴加入YuLab。
+<strong><font color="green">Sep 2021</font></strong>: 欢迎李林、谢子敬和谢汶琴加入YuLab。恭喜汶琴获得推免生奖学金。
 
 <strong><font color="green">Aug 2021</font></strong>: *clusterProfiler*发布4.0版本，文章发表于***The Innovation***期刊 ([link](https://doi.org/10.1016/j.xinn.2021.100141))，恭喜吴天志和胡二强。
+
+<strong><font color="green">Jun 2021</font></strong>: 陈玫君同学参加南方医科大学学生抗疫服务队，支援广州市白云区大规模核酸采样。
 
 <strong><font color="green">Jun 2021</font></strong>: 课题组开发的检索新冠疫情的nCov2019包发表在PeerJ期刊上（[link](https://peerj.com/articles/11421/)），恭喜吴天志。
 
