@@ -6,14 +6,18 @@
     <article>
       <header>
         <div class="post-title">
-          <h1 class="title">{{ .Title }}</h1>
+          <h1 class="title">
+            <a class="title-link" href="{{ .Permalink | safeURL }}">
+              {{ .Title }}
+            </a>
+          </h1>
         </div>
         <div class="post-meta">
           <div class="date">
             <span class="posted-on">
               <i class="fa fa-calendar" aria-hidden="true"></i>
-              <time datetime='{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}'>
-                {{ .Date.Format (.Site.Params.dateFormat | default "January 2, 2006" ) }}
+              <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+                {{ .Date | time.Format (.Site.Params.dateFormat | default "January 2, 2006" ) }}
               </time>
             </span>
             <span class="reading-time">
@@ -29,7 +33,7 @@
 
       <div>
         {{ if .Params.featuredImage }}
-          <img src='{{ .Params.featuredImage }}' alt="Featured image"/>
+          <img src="{{ .Params.featuredImage | relURL }}" alt="Featured image"/>
         {{ end }}
         {{ .Content }}
       </div>

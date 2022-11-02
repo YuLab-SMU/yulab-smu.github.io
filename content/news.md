@@ -3,6 +3,8 @@ slug: news
 title: News
 ---
 
+<strong><font color="green">Oct 2022</font></strong>: *clusterProfiler*4.0版本([link](https://doi.org/10.1016/j.xinn.2021.100141))引用过千，这也是***The Innovation***期刊首篇引用过千的文章，同时也是YuLab以南方医科大学为通讯单位所发表的文章中首篇引用过千的文章。
+
 <strong><font color="green">Oct 2022</font></strong>: 恭喜戴泽翰博士顺利通过博士后答辩！
 
 <strong><font color="green">Oct 2022</font></strong>: 使用ChIPseeker分析表观组学数据的protocol文章发表在***Current Protocols***期刊，（[link](https://onlinelibrary.wiley.com/share/author/GYJGUBYCTRMYJFN2JFZZ?target=10.1002/cpz1.585)），恭喜王倩雯和利铭。
