@@ -1,26 +1,31 @@
 <!DOCTYPE html>
 <html lang="en">
-
   <head>
+    <title>
+  文章发表：clusterProfiler 4.0 -- The Innovation · YuLab@SMU
+</title>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="Content-Language" content="en">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="color-scheme" content="light dark">
 
-    <meta name="author" content="YuLab-SMU">
-    <meta name="description" content="生物信息学软件很多都死在故纸堆里，发表文章之后，就走向毁灭，这叫publish and perish。clusterProfiler之所以能够成功，因为我对它充满感情，10年如一日地维护，而且自2012年发表一篇文章以来，虽然软件一直在更新，但我一直没有再发一版。时隔9年，我终于再写一版，而且是把论文写在祖国大地上，clusterProfiler 4.0发表在中科院青促会主办的期刊The Innovation 😍 。这是对我过去10年的维护更新的一次总结，你看之前的文章的话，很多功能你是不知道的，而且确实很多用户不清楚，这是所有clusterProfiler用户必读的一篇文献。
+
+
+
+<meta name="author" content="YuLab-SMU">
+<meta name="description" content="生物信息学软件很多都死在故纸堆里，发表文章之后，就走向毁灭，这叫publish and perish。clusterProfiler之所以能够成功，因为我对它充满感情，10年如一日地维护，而且自2012年发表一篇文章以来，虽然软件一直在更新，但我一直没有再发一版。时隔9年，我终于再写一版，而且是把论文写在祖国大地上，clusterProfiler 4.0发表在中科院青促会主办的期刊The Innovation 😍 。这是对我过去10年的维护更新的一次总结，你看之前的文章的话，很多功能你是不知道的，而且确实很多用户不清楚，这是所有clusterProfiler用户必读的一篇文献。
 clusterProfiler4.0同步支持最新版GO和KEGG数据，支持数千物种的功能分析，应对不同来源的基因功能注释（如cell markers, COVID-19等）提供了通用的分析方法，适用各类组学数据（RNA-seq, ChIP-seq, Methyl-seq, scRNA-seq…）。新版本尤其实现多组数据间自由比较，如不同条件、处理等，并内置系列流行辅助工具，如数据处理包dplyr、可视化包ggplot2等，方便分析人员用熟悉的方式自由探索，实现数据高效解读。目前，clusterProfiler已被整合进超过30个的同行分析软件中，助力不同场景下的功能分析，相信clusterProfiler4.0未来将发挥更大的作用，助力研究者更高效地解读生物医学数据及建立更可靠的机制假说。
 T Wu#, E Hu#, S Xu, M Chen, P Guo, Z Dai, T Feng, L Zhou, W Tang, L Zhan, X Fu, S Liu, X Bo*, G Yu*. clusterProfiler 4.0: A universal enrichment tool for interpreting omics data. The Innovation. 2021, 2(3):100141. &ndash;&gt; 文章详细的中文解读，请猛击《The Innovation | clusterProfiler：聚焦海量组学数据核心生物学意义》
 文章于2021年8月24日被cell主页选为banner：">
-    <meta name="keywords" content="blog,developer,bioinformatics,omics,visualization">
+<meta name="keywords" content="blog,developer,bioinformatics,omics,visualization">
 
-    <meta name="twitter:card" content="summary"/>
+<meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="文章发表：clusterProfiler 4.0 -- The Innovation"/>
 <meta name="twitter:description" content="生物信息学软件很多都死在故纸堆里，发表文章之后，就走向毁灭，这叫publish and perish。clusterProfiler之所以能够成功，因为我对它充满感情，10年如一日地维护，而且自2012年发表一篇文章以来，虽然软件一直在更新，但我一直没有再发一版。时隔9年，我终于再写一版，而且是把论文写在祖国大地上，clusterProfiler 4.0发表在中科院青促会主办的期刊The Innovation 😍 。这是对我过去10年的维护更新的一次总结，你看之前的文章的话，很多功能你是不知道的，而且确实很多用户不清楚，这是所有clusterProfiler用户必读的一篇文献。
 clusterProfiler4.0同步支持最新版GO和KEGG数据，支持数千物种的功能分析，应对不同来源的基因功能注释（如cell markers, COVID-19等）提供了通用的分析方法，适用各类组学数据（RNA-seq, ChIP-seq, Methyl-seq, scRNA-seq…）。新版本尤其实现多组数据间自由比较，如不同条件、处理等，并内置系列流行辅助工具，如数据处理包dplyr、可视化包ggplot2等，方便分析人员用熟悉的方式自由探索，实现数据高效解读。目前，clusterProfiler已被整合进超过30个的同行分析软件中，助力不同场景下的功能分析，相信clusterProfiler4.0未来将发挥更大的作用，助力研究者更高效地解读生物医学数据及建立更可靠的机制假说。
 T Wu#, E Hu#, S Xu, M Chen, P Guo, Z Dai, T Feng, L Zhou, W Tang, L Zhan, X Fu, S Liu, X Bo*, G Yu*. clusterProfiler 4.0: A universal enrichment tool for interpreting omics data. The Innovation. 2021, 2(3):100141. &ndash;&gt; 文章详细的中文解读，请猛击《The Innovation | clusterProfiler：聚焦海量组学数据核心生物学意义》
 文章于2021年8月24日被cell主页选为banner："/>
 
-    <meta property="og:title" content="文章发表：clusterProfiler 4.0 -- The Innovation" />
+<meta property="og:title" content="文章发表：clusterProfiler 4.0 -- The Innovation" />
 <meta property="og:description" content="生物信息学软件很多都死在故纸堆里，发表文章之后，就走向毁灭，这叫publish and perish。clusterProfiler之所以能够成功，因为我对它充满感情，10年如一日地维护，而且自2012年发表一篇文章以来，虽然软件一直在更新，但我一直没有再发一版。时隔9年，我终于再写一版，而且是把论文写在祖国大地上，clusterProfiler 4.0发表在中科院青促会主办的期刊The Innovation 😍 。这是对我过去10年的维护更新的一次总结，你看之前的文章的话，很多功能你是不知道的，而且确实很多用户不清楚，这是所有clusterProfiler用户必读的一篇文献。
 clusterProfiler4.0同步支持最新版GO和KEGG数据，支持数千物种的功能分析，应对不同来源的基因功能注释（如cell markers, COVID-19等）提供了通用的分析方法，适用各类组学数据（RNA-seq, ChIP-seq, Methyl-seq, scRNA-seq…）。新版本尤其实现多组数据间自由比较，如不同条件、处理等，并内置系列流行辅助工具，如数据处理包dplyr、可视化包ggplot2等，方便分析人员用熟悉的方式自由探索，实现数据高效解读。目前，clusterProfiler已被整合进超过30个的同行分析软件中，助力不同场景下的功能分析，相信clusterProfiler4.0未来将发挥更大的作用，助力研究者更高效地解读生物医学数据及建立更可靠的机制假说。
 T Wu#, E Hu#, S Xu, M Chen, P Guo, Z Dai, T Feng, L Zhou, W Tang, L Zhan, X Fu, S Liu, X Bo*, G Yu*. clusterProfiler 4.0: A universal enrichment tool for interpreting omics data. The Innovation. 2021, 2(3):100141. &ndash;&gt; 文章详细的中文解读，请猛击《The Innovation | clusterProfiler：聚焦海量组学数据核心生物学意义》
@@ -34,50 +39,55 @@ T Wu#, E Hu#, S Xu, M Chen, P Guo, Z Dai, T Feng, L Zhou, W Tang, L Zhan, X Fu, 
 
 
 
-    <title>
-  文章发表：clusterProfiler 4.0 -- The Innovation · YuLab@SMU
-</title>
 
-    
-      <link rel="canonical" href="http://yulab-smu.top/posts/clusterprofiler4/">
-    
 
-    <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css?family=Lato:400,700%7CMerriweather:300,700%7CSource+Code+Pro:400,700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/fork-awesome@1.1.7/css/fork-awesome.min.css"
-      integrity="sha256-gsmEoJAws/Kd3CjuOQzLie5Q3yshhvmo7YNtBG7aaEY=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/normalize.css@8/normalize.min.css">
-    
-      
-      
-      <link rel="stylesheet" href="/css/coder.min.f01c647a0d25b40da992a37c3376291185eed8a50ced8c26cc2c0bcfe38c97df.css" integrity="sha256-8Bxkeg0ltA2pkqN8M3YpEYXu2KUM7YwmzCwLz&#43;OMl98=" crossorigin="anonymous" media="screen" />
-    
+<link rel="canonical" href="http://yulab-smu.top/posts/clusterprofiler4/">
 
-    
 
-    
+<link rel="preload" href="/fonts/forkawesome-webfont.woff2?v=1.2.0" as="font" type="font/woff2" crossorigin>
 
-    
 
-    
+  
+  
+  <link rel="stylesheet" href="/css/coder.min.c4d7e93a158eda5a65b3df343745d2092a0a1e2170feeec909b8a89443903c6a.css" integrity="sha256-xNfpOhWO2lpls980N0XSCSoKHiFw/u7JCbiolEOQPGo=" crossorigin="anonymous" media="screen" />
 
-    <link rel="icon" type="image/png" href="/images/favicon-32x32.png" sizes="32x32">
-    <link rel="icon" type="image/png" href="/images/favicon-16x16.png" sizes="16x16">
 
-    <link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
-    <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
 
-    
 
-    <meta name="generator" content="Hugo 0.101.0" />
+
+
+
+
+ 
+
+
+
+
+<link rel="icon" type="image/png" href="/images/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/images/favicon-16x16.png" sizes="16x16">
+
+<link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+
+
+
+
+<meta name="generator" content="Hugo 0.105.0">
+
+
+
+
+
   </head>
 
+
+
+
+<body class="preload-transitions colorscheme-light">
   
-  
-  <body class="colorscheme-light"
-        onload=""
-  >
-    
 <div class="float-container">
     <a id="dark-mode-toggle" class="colorscheme-toggle">
         <i class="fa fa-adjust fa-fw" aria-hidden="true"></i>
@@ -85,8 +95,8 @@ T Wu#, E Hu#, S Xu, M Chen, P Guo, Z Dai, T Feng, L Zhou, W Tang, L Zhan, X Fu, 
 </div>
 
 
-    <main class="wrapper">
-      <nav class="navigation">
+  <main class="wrapper">
+    <nav class="navigation">
   <section class="container">
     <a class="navigation-title" href="/">
       YuLab@SMU
@@ -131,19 +141,23 @@ T Wu#, E Hu#, S Xu, M Chen, P Guo, Z Dai, T Feng, L Zhou, W Tang, L Zhan, X Fu, 
 </nav>
 
 
-      <div class="content">
-        
+    <div class="content">
+      
   <section class="container post">
     <article>
       <header>
         <div class="post-title">
-          <h1 class="title">文章发表：clusterProfiler 4.0 -- The Innovation</h1>
+          <h1 class="title">
+            <a class="title-link" href="http://yulab-smu.top/posts/clusterprofiler4/">
+              文章发表：clusterProfiler 4.0 -- The Innovation
+            </a>
+          </h1>
         </div>
         <div class="post-meta">
           <div class="date">
             <span class="posted-on">
               <i class="fa fa-calendar" aria-hidden="true"></i>
-              <time datetime='2021-08-24T00:00:00Z'>
+              <time datetime="2021-08-24T00:00:00Z">
                 August 24, 2021
               </time>
             </span>
@@ -156,13 +170,21 @@ T Wu#, E Hu#, S Xu, M Chen, P Guo, Z Dai, T Feng, L Zhou, W Tang, L Zhan, X Fu, 
           
           <div class="tags">
   <i class="fa fa-tag" aria-hidden="true"></i>
-    <a href="/tags/bioconductor/">Bioconductor</a>
+    <span class="tag">
+      <a href="/tags/bioconductor/">Bioconductor</a>
+    </span>
       <span class="separator">•</span>
-    <a href="/tags/r-package/">R-package</a>
+    <span class="tag">
+      <a href="/tags/r-package/">R-package</a>
+    </span>
       <span class="separator">•</span>
-    <a href="/tags/clusterprofiler/">clusterProfiler</a>
+    <span class="tag">
+      <a href="/tags/clusterprofiler/">clusterProfiler</a>
+    </span>
       <span class="separator">•</span>
-    <a href="/tags/the-innovation/">The-Innovation</a></div>
+    <span class="tag">
+      <a href="/tags/the-innovation/">The-Innovation</a>
+    </span></div>
 
         </div>
       </header>
@@ -193,7 +215,13 @@ T Wu#, E Hu#, S Xu, M Chen, P Guo, Z Dai, T Feng, L Zhou, W Tang, L Zhan, X Fu, 
     
     
     
-      <h3>See also in software</h3>
+      <h3 id="see-also-in-software">
+        See also in software
+        <a class="heading-link" href="#see-also-in-software">
+          <i class="fa fa-link" aria-hidden="true" title="Link to heading"></i>
+          <span class="sr-only">Link to heading</span>
+        </a>
+      </h3>
       <nav>
         <ul>
         
@@ -222,58 +250,55 @@ T Wu#, E Hu#, S Xu, M Chen, P Guo, Z Dai, T Feng, L Zhou, W Tang, L Zhan, X Fu, 
     
   </section>
 
-      </div>
+    </div>
 
-      
-  <footer class="footer">
-    <section class="container">
-      
-        <p>You are welcome to join us.</p>
-      
-      
-        ©
-        
-          2018 -
-        
-        2022
-        ♥️
-         YuLab-SMU 
-      
- 
-      
- 
-      
-      
-    </section>
-  </footer>
-
-
-    </main>
-
+    <footer class="footer">
+  <section class="container">
+    ©
     
-      
-        
-        <script src="/js/dark-mode.min.c2d8a1f8f2660e4a46d776277c72695a1e0ca65939d79f754441d47551604af5.js"></script>
-      
+      2018 -
     
-
+    2022
+    ♥️
+     YuLab-SMU 
+    ·
     
-
     
+  </section>
+</footer>
 
-    
+  </main>
 
-    
+  
 
-    <script data-goatcounter="https://code.goatcounter.com/count"
+  
+  
+  <script src="/js/coder.min.236049395dc3682fb2719640872958e12f1f24067bb09c327b233e6290c7edac.js" integrity="sha256-I2BJOV3DaC&#43;ycZZAhylY4S8fJAZ7sJwyeyM&#43;YpDH7aw="></script>
+  
+
+  
+
+  
+
+  
+
+  
+
+  <script data-goatcounter="https://code.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
 
 
-    
+  
 <script defer src='https://static.cloudflareinsights.com/beacon.min.js'
         data-cf-beacon='{"token": "token"}'></script>
 
 
-  </body>
+
+  
+
+  
+
+  
+</body>
 
 </html>
