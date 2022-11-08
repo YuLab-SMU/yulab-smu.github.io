@@ -17,13 +17,13 @@ pygmentsCodeFencesGuessSyntax = true
 [params]
     author = "YuLab-SMU"
     description = "Research group led by Prof. Guangchuang Yu in School of Basic Medical Sciences, Southern Medical University"
-    keywords = "blog,developer,bioinformatics,omics,visualization"
+    keywords = "developer,bioinformatics,omics,visualization"
     info = "Bioinformagician @ SMU"
     avatarURL = "images/gc.png"
     #gravatar = "john.doe@example.com"
     footerContent = "You are welcome to join us."
 
-    dateFormat = "January 2, 2006"
+    dateFormat = "September 1, 2018"
 
     hideFooter = false
     hideCredits = false
