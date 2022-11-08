@@ -4,7 +4,7 @@ title: Contact
 ---
 
 
-招收生物信息学硕士生、博士生和博士后，欢迎咨询。同时也欢迎联系科研合作。
+招收生物信息学硕士生、博士生和博士后，欢迎咨询；同时也欢迎联系科研合作。
 
 
 Email: guangchuangyu AT gmail.com

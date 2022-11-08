@@ -41,8 +41,11 @@ title: Software
 + [ggmsa](https://cran.r-project.org/package=ggmsa): Plot mutiple sequence alignment using 'ggplot2'
 + [seqmagick](https://cran.r-project.org/package=seqmagick): Sequence Manipulation Utilities
 
+<a href="https://www.routledge.com/Data-Integration-Manipulation-and-Visualization-of-Phylogenetic-Trees/Yu/p/book/9781032233574"><img src="https://yulab-smu.top/treedata-book/9781032233574_cover_review.png" style="width:200px;border:2px solid black;" align="right"/></a>
 
 ## <i class="fa fa-tree fa-1x" aria-hidden="true"></i> Tree Data integration and visualization
+
+
 
 + [ggtree](https://www.bioconductor.org/packages/ggtree): Visualization of tree and annotation data
 + [ggtreeDendro](https://www.bioconductor.org/packages/ggtreeDendro): Drawing 'dendrogram' using 'ggtree'
