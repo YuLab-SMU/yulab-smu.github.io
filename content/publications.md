@@ -20,12 +20,14 @@ title: Publications
 
 + <sup>#</sup> Co-first authors
 + <sup>\*</sup> Co-corresponding authors 
-+ <i class="fa fa-trophy fa-2x" aria-hidden="true" style="color:#CC5500;font-size: 150%;"></i>: ESI Highly Cited Paper
++ <i class="fa fa-trophy fa-2x" aria-hidden="true" style="color:#CC5500;font-size: 150%;"></i>：ESI Highly Cited Paper
 + 分区：文章发表当年的中科院小类分区
 + IF：文章发表当年的影响因子
 
 </td>
-<td style="border:none;"><img src="/images/citation.png" height='200px'></td>
+<td style="border:none;">
+<a href="https://scholar.google.com/citations?user=DO5oG40AAAAJ"><img src="/images/citation.png" height='200px'/></a>
+</td>
 </tr>
 </table>
 
