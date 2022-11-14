@@ -66,4 +66,4 @@ title: Software
 + [ggstar](https://cran.r-project.org/package=ggstar): Multiple Geometric Shape Point Layer for 'ggplot2'
 + [meme](https://cran.r-project.org/package=meme): Create Meme
 + [plotbb](https://cran.r-project.org/package=plotbb): Grammar of Graphics for base plot
-
++ [scatterpie](https://cran.r-project.org/package=scatterpie): Creates scatterpie plots, especially useful for plotting pies on a map
