@@ -19,7 +19,7 @@ title: Publications
 
 + <sup>#</sup> Co-first authors
 + <sup>\*</sup> Co-corresponding authors 
-+ <i class="fa fa-trophy fa-2x" aria-hidden="true" style="color:#CC5500;font-size: 150%;"></i>：ESI Highly Cited Paper
++ <i class="fa fa-trophy fa-2x" aria-hidden="true" style="color:#CC5500;font-size: 150%;"></i>：ESI Highly Cited Paper (9X)
 + 分区：文章发表当年的中科院小类分区
 + IF：文章发表当年的影响因子
 
@@ -31,11 +31,12 @@ title: Publications
 </table>
 
 
+
 ## <i class="fa fa-calendar fa-1x" aria-hidden="true"></i> 2022
 
 + S Xu, L Li, X Luo, M Chen, W Tang, L Zhan, Z Dai, TT. Lam, Y Guan, __G Yu__<sup>\*</sup>. [Ggtree: A serialized data object for visualization of a phylogenetic tree and annotation data](https://onlinelibrary.wiley.com/doi/full/10.1002/imt2.56). __*iMeta*__, 2022, 1(4):e56.
-+ Q Wang<sup>#</sup>, M Li<sup>#</sup>, T Wu, L Zhan, L Li, M Chen, W Xie, Z Xie, E Hu, S Xu, __G Yu__<sup>\*</sup>. [Exploring epigenomic datasets by ChIPseeker](https://onlinelibrary.wiley.com/share/author/GYJGUBYCTRMYJFN2JFZZ?target=10.1002/cpz1.585). __*Current Protocols*__, 2022, 2(10): e585. 
-+ __G Yu__. Data Integration, Manipulation and Visualization of Phylogenetic Treess (1st edition). __*Chapman and Hall/CRC*__, 2022. doi: [10.1201/9781003279242](https://doi.org/10.1201/9781003279242)
++ Q Wang<sup>#</sup>, M Li<sup>#</sup>, T Wu, L Zhan, L Li, M Chen, W Xie, Z Xie, E Hu, S Xu, __G Yu__<sup>\*</sup>. [Exploring epigenomic datasets by ChIPseeker](https://doi.org/10.1002/cpz1.585). __*Current Protocols*__, 2022, 2(10): e585.  [<i class="fa fa-file-pdf-o fa-2x" aria-hidden="true" style="color:black;font-size: 150%;"></i>](https://onlinelibrary.wiley.com/share/author/GYJGUBYCTRMYJFN2JFZZ?target=10.1002/cpz1.585)
++ __G Yu__. Data Integration, Manipulation and Visualization of Phylogenetic Treess (1st edition). __*Chapman and Hall/CRC*__, 2022. doi: [10.1201/9781003279242](https://doi.org/10.1201/9781003279242)  [<i class="fa fa-book fa-2x" aria-hidden="true" style="color:black;font-size: 150%;"></i>](https://www.amazon.com/Integration-Manipulation-Visualization-Phylogenetic-Computational/dp/1032233575)
 + Z Dai, T Wu, S Xu, L Zhou, W Tang, E Hu, L Zhan M Chen, __G Yu__<sup>\*</sup>. [Characterization of toxin-antitoxin systems from public sequencing data: a case study in *Pseudomonas aeruginosa*](https://www.frontiersin.org/articles/10.3389/fmicb.2022.951774). __*Frontiers in Microbiology*__. 2022, 13:951774. (IF = 6.064，二区，Top期刊)
 + T Feng<sup>#</sup>, T Wu<sup>#</sup>, Y Zhang<sup>#</sup>, L Zhou<sup>#</sup>, S Liu, L Li, M Li, E Hu, Q Wang, X Fu, L Zhan, Z Xie, W Xie, X Huang<sup>\*</sup>, X Shang<sup>\*</sup>,  __G Yu__<sup>\*</sup>. [Stemness Analysis Uncovers That The Peroxisome Proliferator-Activated Receptor Signaling Pathway Can Mediate Fatty Acid Homeostasis In Sorafenib-Resistant Hepatocellular Carcinoma Cells](https://www.frontiersin.org/articles/10.3389/fonc.2022.912694/). __*Frontiers in Oncology*__. 2022, 12:912694. (IF = 5.738，三区)
 + L Zhou<sup>#</sup>, T Feng<sup>#</sup>, S Xu, F Gao, TT Lam, Q Wang, T Wu, H Huang, L Zhan, L Li, Y Guan, Z Dai<sup>\*</sup>, __G Yu__<sup>\*</sup>. [ggmsa: a visual exploration tool for multiple sequence alignment and associated data](https://doi.org/10.1093/bib/bbac222). __*Briefings in Bioinformatics*__. 2022, 23(4):bbac222. (IF = 13.994，一区，Top期刊)
@@ -60,7 +61,7 @@ title: Publications
 
 + J He<sup>#</sup>, S Xu<sup>#</sup>, B Zhang, C Xiao, Z Chen, F Si, J Fu, X Lin, G Zheng<sup>\*</sup>, __G Yu__<sup>\*</sup>, J Chen<sup>\*</sup>. [Gut microbiota and metabolite alterations associated with reduced bone mineral density or bone metabolic indexes in postmenopausal osteoporosis](https://doi.org/10.18632/aging.103168). __*Aging (Albany NY)*__. 2020, 12(9):8583-8604. (IF=5.682，二区)
 + **Yu G**. [Gene Ontology Semantic Similarity Analysis Using GOSemSim](http://dx.doi.org/10.1007/978-1-0716-0301-7_11). In: Kidder B. (eds) Stem Cell Transcriptional Networks. ***Methods in Molecular Biology***, 2020, 2117:207-215. Humana, New York, NY.
-+ __G Yu__<sup>\*</sup>. [Using ggtree to Visualize Data on Tree-Like Structure](https://onlinelibrary.wiley.com/share/author/WQ5Z45WFKYDM43DXQGAI?target=10.1002/cpbi.96). __*Current Protocols in Bioinformatics*__. 2020, 69(1):e96. (*__Invited paper__*) 
++ __G Yu__<sup>\*</sup>. [Using ggtree to Visualize Data on Tree-Like Structure](https://doi.org/10.1002/cpbi.96). __*Current Protocols in Bioinformatics*__. 2020, 69(1):e96. (*__Invited paper__*) [<i class="fa fa-file-pdf-o fa-2x" aria-hidden="true" style="color:black;font-size: 150%;"></i>](https://onlinelibrary.wiley.com/share/author/WQ5Z45WFKYDM43DXQGAI?target=10.1002/cpbi.96)
 + LG Wang, TTY Lam, S Xu, Z Dai, L Zhou, T Feng, P Guo, CW Dunn, BR Jones, T Bradley, H Zhu, Y Guan, Y Jiang, __G Yu__<sup>\*</sup>. [treeio: an R package for phylogenetic tree input and output with richly annotated and associated data](https://doi.org/10.1093/molbev/msz240). __*Molecular Biology and Evolution*__. 2020, 37(2):599-603.   <i class="fa fa-trophy fa-2x" aria-hidden="true" style="color:#CC5500;font-size: 150%;"></i> (<strong>IF=16.240</strong>，一区，Top期刊)
 + Z Hao, D Lv, Y Ge, J Shi, D Weijers, __G Yu__<sup>\*</sup>, J Chen<sup>\*</sup>. [RIdeogram: drawing SVG graphics to visualize and map genome-wide data on the idiograms](https://peerj.com/articles/cs-251/). __*PeerJ Computer Science*__. 2020, 6:e251.   <i class="fa fa-trophy fa-2x" aria-hidden="true" style="color:#CC5500;font-size: 150%;"></i> (IF=1.392，三区)
 
