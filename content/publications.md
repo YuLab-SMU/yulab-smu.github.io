@@ -32,6 +32,11 @@ title: Publications
 
 
 
+## <i class="fa fa-calendar fa-1x" aria-hidden="true"></i> 2023
+
++ S Xu, L Zhan, W Tang, Q Wang, Z Dai, L Zhou, T Feng, M Chen, T Wu, E Hu, __G Yu__<sup>\*</sup>. [MicrobiotaProcess: A comprehensive R package for deep mining microbiome](https://doi.org/10.1016/j.xinn.2023.100388). __*The Innovation*__. 2023, 
++ S Guo<sup>\*</sup>, D Zhang, H Wang, Q An, __G Yu__, J Han, C Jiang, J Huang. [Editorial: Computational and Systematic Analysis of Multi-omics Data for Drug Discovery and Development](https://www.frontiersin.org/articles/10.3389/fmed.2023.1146896/full). __*Frontiers in Medicine*__. 2023, 
+
 ## <i class="fa fa-calendar fa-1x" aria-hidden="true"></i> 2022
 
 + S Xu, L Li, X Luo, M Chen, W Tang, L Zhan, Z Dai, TT. Lam, Y Guan, __G Yu__<sup>\*</sup>. [Ggtree: A serialized data object for visualization of a phylogenetic tree and annotation data](https://onlinelibrary.wiley.com/doi/full/10.1002/imt2.56). __*iMeta*__, 2022, 1(4):e56.

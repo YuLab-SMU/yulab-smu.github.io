@@ -3,6 +3,9 @@ slug: news
 title: News
 ---
 
+<strong><font color="green">Jan 2023</font></strong>: 余光创申请的教学项目，“应用型生物信息学专项人才培养计划（特色班）”，获得2022年广东省高校教学质量与教学改革工程建设项目立项。
+
+<strong><font color="green">Jan 2023</font></strong>: 陈玫君被录取为硕博连读研究生。
 
 <strong><font color="green">Nov 2022</font></strong>: 两项软件著作权获批：“基于图形语法的和弦图可视化软件包-ggcircos软件[简称：ggcircos]V1.0”（软著登字第10352956号）；“MOBEx--多组学整合探索生物标记物云平台[简称：MOBEx]V1.0”（软著登字第10352924号）。
 
