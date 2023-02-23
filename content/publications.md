@@ -34,8 +34,9 @@ title: Publications
 
 ## <i class="fa fa-calendar fa-1x" aria-hidden="true"></i> 2023
 
-+ S Guo<sup>\*</sup>, D Zhang, H Wang, Q An, __G Yu__, J Han, C Jiang, J Huang. [Editorial: Computational and Systematic Analysis of Multi-omics Data for Drug Discovery and Development](https://www.frontiersin.org/articles/10.3389/fmed.2023.1146896/full). __*Frontiers in Medicine*__. 2023, 
 + S Xu, L Zhan, W Tang, Q Wang, Z Dai, L Zhou, T Feng, M Chen, T Wu, E Hu, __G Yu__<sup>\*</sup>. [MicrobiotaProcess: A comprehensive R package for deep mining microbiome](https://doi.org/10.1016/j.xinn.2023.100388). __*The Innovation*__. 2023, 4(2):100388.
++ S Guo<sup>\*</sup>, D Zhang, H Wang, Q An, __G Yu__, J Han, C Jiang, J Huang. [Editorial: Computational and Systematic Analysis of Multi-omics Data for Drug Discovery and Development](https://www.frontiersin.org/articles/10.3389/fmed.2023.1146896/full). __*Frontiers in Medicine*__. 2023, 10:1146896.
+
 
 ## <i class="fa fa-calendar fa-1x" aria-hidden="true"></i> 2022
 
