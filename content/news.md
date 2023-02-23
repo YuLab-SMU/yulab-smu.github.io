@@ -3,11 +3,19 @@ slug: news
 title: News
 ---
 
+<strong><font color="green">Mar 2023</font></strong>: 用于微生物组的软件包*MicrobiotaProcess*发表于***The Innovation***期刊 ([link](https://doi.org/10.1016/j.xinn.2023.100388))，恭喜徐双斌。
+
+<strong><font color="green">Feb 2023</font></strong>: 专刊《Computational and systematic analysis of multi-omics data for drug discovery and development》发表[编委社论文章](https://www.frontiersin.org/articles/10.3389/fmed.2023.1146896/full)，成功收关。
+
 <strong><font color="green">Jan 2023</font></strong>: 余光创申请的教学项目，“应用型生物信息学专项人才培养计划（特色班）”，获得2022年广东省高校教学质量与教学改革工程建设项目立项。
 
 <strong><font color="green">Jan 2023</font></strong>: 陈玫君被录取为硕博连读研究生。
 
-<strong><font color="green">Nov 2022</font></strong>: 两项软件著作权获批：“基于图形语法的和弦图可视化软件包-ggcircos软件[简称：ggcircos]V1.0”（软著登字第10352956号）；“MOBEx--多组学整合探索生物标记物云平台[简称：MOBEx]V1.0”（软著登字第10352924号）。
+<strong><font color="green">Dec 2022</font></strong>: 一项软件著作权获批：“多序列比对和相关数据的可视化探索工具--ggmsa软件[简称：ggmsa]1.2.3”（软著登字第10529672号）。
+
+<strong><font color="green">Nov 2022</font></strong>: 一项软件著作权获批：“GeoTcgaDat软件[简称：GeoTcgaData]1.1.1”（软著登字第10523614号）。
+
+<strong><font color="green">Oct 2022</font></strong>: 两项软件著作权获批：“基于图形语法的和弦图可视化软件包-ggcircos软件[简称：ggcircos]V1.0”（软著登字第10352956号）；“MOBEx--多组学整合探索生物标记物云平台[简称：MOBEx]V1.0”（软著登字第10352924号）。
 
 <strong><font color="green">Oct 2022</font></strong>: *clusterProfiler*4.0版本([link](https://doi.org/10.1016/j.xinn.2021.100141))引用过千，这也是***The Innovation***期刊首篇引用过千的文章，同时也是YuLab以南方医科大学为通讯单位所发表的文章中首篇引用过千的文章。
 
