@@ -40,6 +40,7 @@ title: Publications
 
 ## <i class="fa fa-calendar fa-1x" aria-hidden="true"></i> 2022
 
++ 付小聪, __余光创__, 郭艳芳<sup>\*</sup>. [组蛋白赖氨酸去甲基化酶家族在膀胱癌中的表达模式及其潜在作用：基于多组学分析](https://www.j-smu.com/CN/10.12122/j.issn.1673-4254.2022.12.10). __*南方医科大学学报*__, 2022, 42(12):1822-1831.
 + S Xu, L Li, X Luo, M Chen, W Tang, L Zhan, Z Dai, TT. Lam, Y Guan, __G Yu__<sup>\*</sup>. [Ggtree: A serialized data object for visualization of a phylogenetic tree and annotation data](https://onlinelibrary.wiley.com/doi/full/10.1002/imt2.56). __*iMeta*__, 2022, 1(4):e56.
 + Q Wang<sup>#</sup>, M Li<sup>#</sup>, T Wu, L Zhan, L Li, M Chen, W Xie, Z Xie, E Hu, S Xu, __G Yu__<sup>\*</sup>. [Exploring epigenomic datasets by ChIPseeker](https://doi.org/10.1002/cpz1.585). __*Current Protocols*__, 2022, 2(10): e585.  [<i class="fa fa-file-pdf-o fa-2x" aria-hidden="true" style="color:black;font-size: 150%;"></i>](https://onlinelibrary.wiley.com/share/author/GYJGUBYCTRMYJFN2JFZZ?target=10.1002/cpz1.585)
 + __G Yu__. Data Integration, Manipulation and Visualization of Phylogenetic Treess (1st edition). __*Chapman and Hall/CRC*__, 2022. doi: [10.1201/9781003279242](https://doi.org/10.1201/9781003279242)  [<i class="fa fa-book fa-2x" aria-hidden="true" style="color:black;font-size: 150%;"></i>](https://www.amazon.com/Integration-Manipulation-Visualization-Phylogenetic-Computational/dp/1032233575)
