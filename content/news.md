@@ -3,6 +3,9 @@ slug: news
 title: News
 ---
 
+
+<strong><font color="green">Mar 2023</font></strong>: 祝贺廖俞凡通过研究生第一轮复试，加入课题组。 
+
 <strong><font color="green">Mar 2023</font></strong>: 用于微生物组的软件包*MicrobiotaProcess*发表于***The Innovation***期刊 ([link](https://doi.org/10.1016/j.xinn.2023.100388))，恭喜徐双斌。
 
 <strong><font color="green">Feb 2023</font></strong>: 专刊《Computational and systematic analysis of multi-omics data for drug discovery and development》发表[编委社论文章](https://www.frontiersin.org/articles/10.3389/fmed.2023.1146896/full)，成功收关。
@@ -27,7 +30,7 @@ title: News
 
 <strong><font color="green">Oct 2022</font></strong>: 恭喜吴天志获得博士研究生国家奖学金。
 
-<strong><font color="green">Sep 2022</font></strong>: 欢迎利铭和罗晓加入YuLab。
+<strong><font color="green">Sep 2022</font></strong>: 欢迎利铭和罗晓加入YuLab，两人均通过推免进入本课题组。
 
 <strong><font color="green">Aug 2022</font></strong>: 余光创发表专著《Data Integration, Manipulation and Visualization of Phylogenetic Treess (1st edition)》，由***Chapman and Hall/CRC***出版社出版 doi: [10.1201/9781003279242](https://doi.org/10.1201/9781003279242)。
 
