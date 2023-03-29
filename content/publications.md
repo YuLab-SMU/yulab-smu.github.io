@@ -34,6 +34,7 @@ title: Publications
 
 ## <i class="fa fa-calendar fa-1x" aria-hidden="true"></i> 2023
 
++ __余光创（著）__, 李林, 罗晓（译）. R实战：系统发育树的数据集成操作及可视化. __*电子工业出版社*__, 2023. ISBN: [9787121451829](https://u.jd.com/uu7G4qC)  [<i class="fa fa-book fa-2x" aria-hidden="true" style="color:black;font-size: 150%;"></i>](https://u.jd.com/uu7G4qC)
 + S Xu, L Zhan, W Tang, Q Wang, Z Dai, L Zhou, T Feng, M Chen, T Wu, E Hu, __G Yu__<sup>\*</sup>. [MicrobiotaProcess: A comprehensive R package for deep mining microbiome](https://doi.org/10.1016/j.xinn.2023.100388). __*The Innovation*__. 2023, 4(2):100388.
 + S Guo<sup>\*</sup>, D Zhang, H Wang, Q An, __G Yu__, J Han, C Jiang, J Huang. [Editorial: Computational and Systematic Analysis of Multi-omics Data for Drug Discovery and Development](https://www.frontiersin.org/articles/10.3389/fmed.2023.1146896/full). __*Frontiers in Medicine*__. 2023, 10:1146896.
 

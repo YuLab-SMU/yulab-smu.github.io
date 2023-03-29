@@ -3,6 +3,7 @@ slug: news
 title: News
 ---
 
+<strong><font color="green">Mar 2023</font></strong>: 刘秉东（博士后）通过联合培养加入课题组。
 
 <strong><font color="green">Mar 2023</font></strong>: 祝贺廖俞凡通过研究生第一轮复试，加入课题组。 
 
