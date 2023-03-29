@@ -146,7 +146,8 @@ Zijing Xie</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://yulab-smu.top/news/</guid>
-      <description>Mar 2023: 祝贺廖俞凡通过研究生第一轮复试，加入课题组。
+      <description>Mar 2023: 刘秉东（博士后）通过联合培养加入课题组。
+Mar 2023: 祝贺廖俞凡通过研究生第一轮复试，加入课题组。
 Mar 2023: 用于微生物组的软件包MicrobiotaProcess发表于The Innovation期刊 (link)，恭喜徐双斌。
 Feb 2023: 专刊《Computational and systematic analysis of multi-omics data for drug discovery and development》发表编委社论文章，成功收关。
 Jan 2023: 余光创申请的教学项目，“应用型生物信息学专项人才培养计划（特色班）”，获得2022年广东省高校教学质量与教学改革工程建设项目立项。
@@ -159,8 +160,7 @@ Oct 2022: 恭喜戴泽翰博士顺利通过博士后答辩！
 Oct 2022: 使用ChIPseeker分析表观组学数据的protocol文章发表在Current Protocols期刊，（link），恭喜王倩雯和利铭。
 Oct 2022: 余光创入选全球前2%顶尖科学家榜单（World’s Top 2% Scientists）“终身科学影响力”（career-long impact）和“年度科学影响力”（single recent year impact）排行榜（link 1 &amp;amp; 2)。
 Oct 2022: 恭喜吴天志获得博士研究生国家奖学金。
-Sep 2022: 欢迎利铭和罗晓加入YuLab，两人均通过推免进入本课题组。
-Aug 2022: 余光创发表专著《Data Integration, Manipulation and Visualization of Phylogenetic Treess (1st edition)》，由Chapman and Hall/CRC出版社出版 doi: 10.</description>
+Sep 2022: 欢迎利铭和罗晓加入YuLab，两人均通过推免进入本课题组。</description>
     </item>
     
     <item>
@@ -178,7 +178,7 @@ Aug 2022: 余光创发表专著《Data Integration, Manipulation and Visualizati
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://yulab-smu.top/publications/</guid>
-      <description># Co-first authors * Co-corresponding authors ：ESI Highly Cited Paper (9X) 分区：文章发表当年的中科院小类分区 IF：文章发表当年的影响因子 2023 Link to heading S Xu, L Zhan, W Tang, Q Wang, Z Dai, L Zhou, T Feng, M Chen, T Wu, E Hu, G Yu*. MicrobiotaProcess: A comprehensive R package for deep mining microbiome. The Innovation. 2023, 4(2):100388. S Guo*, D Zhang, H Wang, Q An, G Yu, J Han, C Jiang, J Huang. Editorial: Computational and Systematic Analysis of Multi-omics Data for Drug Discovery and Development.</description>
+      <description># Co-first authors * Co-corresponding authors ：ESI Highly Cited Paper (9X) 分区：文章发表当年的中科院小类分区 IF：文章发表当年的影响因子 2023 Link to heading 余光创（著）, 李林, 罗晓（译）. R实战：系统发育树的数据集成操作及可视化. 电子工业出版社, 2023.ISBN: 9787121451829 S Xu, L Zhan, W Tang, Q Wang, Z Dai, L Zhou, T Feng, M Chen, T Wu, E Hu, G Yu*. MicrobiotaProcess: A comprehensive R package for deep mining microbiome. The Innovation. 2023, 4(2):100388. S Guo*, D Zhang, H Wang, Q An, G Yu, J Han, C Jiang, J Huang.</description>
     </item>
     
     <item>
