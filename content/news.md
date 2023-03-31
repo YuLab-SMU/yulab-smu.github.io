@@ -87,7 +87,7 @@ title: News
 
 <strong><font color="green">Jun 2021</font></strong>: 课题组开发的检索新冠疫情的nCov2019包发表在PeerJ期刊上（[link](https://peerj.com/articles/11421/)），恭喜吴天志。
 
-<strong><font color="green">May 2021</font></strong>: YuLabSMU入选[2020年度科研团队公众号Top10](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247490741&idx=1&sn=3e550bdb266608300e92db47ab247931&chksm=ec43adf2db3424e4d0d66907e03e02dd514ea16bdf9bd8bd2c69edb048c79f1b937add2adc61#rd)。
+<strong><font color="green">May 2021</font></strong>: 课题组公众号“YuLabSMU”入选[2020年度科研团队公众号Top10](https://mp.weixin.qq.com/s?__biz=MzI5NjUyNzkxMg==&mid=2247490741&idx=1&sn=3e550bdb266608300e92db47ab247931&chksm=ec43adf2db3424e4d0d66907e03e02dd514ea16bdf9bd8bd2c69edb048c79f1b937add2adc61#rd)。
 
 <strong><font color="green">Apr 2021</font></strong>: 余光创入选爱思唯尔2020年中国高被引学者（[证书](/images/award/2020-highly-cited-researcher.png)）。
 
