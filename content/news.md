@@ -3,6 +3,10 @@ slug: news
 title: News
 ---
 
+<strong><font color="green">Mar 2023</font></strong>: 祝贺《[R实战：系统发育树的数据集成操作及可视化](https://u.jd.com/uu7G4qC)》预售当日飙升京东计算机与互联网[畅销书TOP 1](/images/treedata-jd-top1.jpg)，首印3000册两日内脱销。
+
+<strong><font color="green">Mar 2023</font></strong>: 余光创入选爱思唯尔2022年中国高被引学者（[证书](/images/award/2022-highly-cited-researcher.png)）
+
 <strong><font color="green">Mar 2023</font></strong>: 刘秉东（博士后）通过联合培养加入课题组。
 
 <strong><font color="green">Mar 2023</font></strong>: 祝贺廖俞凡通过研究生第一轮复试，加入课题组。 
@@ -49,7 +53,7 @@ title: News
 
 <strong><font color="green">Apr 2022</font></strong>: 为可视化专刊[Biomedical Data Visualization: Methods and Applications](https://www.frontiersin.org/research-topics/17918)发表一篇Editorial文章，恭喜吴天志。
 
-<strong><font color="green">Apr 2022</font></strong>: 余光创入选爱思唯尔2021年中国高被引学者。
+<strong><font color="green">Apr 2022</font></strong>: 余光创入选爱思唯尔2021年中国高被引学者（[证书](/images/award/2021-highly-cited-researcher.jpg)）。
 
 <strong><font color="green">Mar 2022</font></strong>: 余光创荣获南方医科大学2020学年教学优秀一等奖。
 
@@ -83,7 +87,7 @@ title: News
 
 <strong><font color="green">Jun 2021</font></strong>: 课题组开发的检索新冠疫情的nCov2019包发表在PeerJ期刊上（[link](https://peerj.com/articles/11421/)），恭喜吴天志。
 
-<strong><font color="green">Apr 2021</font></strong>: 余光创入选爱思唯尔2020年中国高被引学者。
+<strong><font color="green">Apr 2021</font></strong>: 余光创入选爱思唯尔2020年中国高被引学者（[证书](/images/award/2020-highly-cited-researcher.png)）。
 
 <strong><font color="green">Dec 2020</font></strong>: 余光创于2017年发表在***Methods in Ecology and Evolution***上的*ggtree*文章，入选MEE期刊创刊十周年10篇[代表作](https://methodsblog.com/2020/11/19/ggtree-tree-visualization/)。
 
