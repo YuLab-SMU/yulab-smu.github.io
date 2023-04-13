@@ -110,12 +110,10 @@ title: Members
         <a href="https://github.com/SMUZhanLi" aria-label="Github">
             <i class="fa fa-github fa-2x" aria-hidden="true" style="font-size: 150%;"></i></a>
     </td>
-    <td style="border:none;"><img src="/images/members/xwq.jpg" width='150px'></td>
-    <td style="border:none;"><strong>Wenqin Xie<br>
-        Master Student</strong><br>
-        <a href="https://github.com/Xie-Wenqin" aria-label="Github">
-            <i class="fa fa-github fa-2x" aria-hidden="true" style="font-size: 150%;"></i></a>
-    </td>
+    <td style="border:none;"><img src="/images/members/xzj.jpg" width='150px'></td>
+    <td style="border:none;"><strong>Zijing Xie<br>
+        Master Student</strong>
+    </td>   
     <td style="border:none;"><img src="/images/members/ll.jpg" width='150px'></td>
     <td style="border:none;"><strong>Lin Li<br>
         Master Student</strong><br>
@@ -124,10 +122,12 @@ title: Members
     </td>   
   </tr> 
 <tr style="border:none;"> 
-    <td style="border:none;"><img src="/images/members/xzj.jpg" width='150px'></td>
-    <td style="border:none;"><strong>Zijing Xie<br>
-        Master Student</strong>
-    </td>   
+    <td style="border:none;"><img src="/images/members/xwq.jpg" width='150px'></td>
+    <td style="border:none;"><strong>Wenqin Xie<br>
+        Master Student</strong><br>
+        <a href="https://github.com/Xie-Wenqin" aria-label="Github">
+            <i class="fa fa-github fa-2x" aria-hidden="true" style="font-size: 150%;"></i></a>
+    </td>
     <td style="border:none;"><img src="/images/members/lx.jpg" width='150px'></td>
     <td style="border:none;"><strong>Xiao Luo<br>
         Master Student</strong><br>
