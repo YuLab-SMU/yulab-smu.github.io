@@ -3,6 +3,8 @@ slug: news
 title: News
 ---
 
+<strong><font color="green">Apr 2023</font></strong>: 祝贺王芮和邓琳两位同学成功上岸，加入课题组。 
+
 <strong><font color="green">Mar 2023</font></strong>: 祝贺《[R实战：系统发育树的数据集成操作及可视化](https://u.jd.com/uu7G4qC)》预售当日飙升京东计算机与互联网[畅销书TOP 1](/images/treedata-jd-top1.jpg)，首印3000册两日内脱销。
 
 <strong><font color="green">Mar 2023</font></strong>: 余光创入选爱思唯尔2022年中国高被引学者（[证书](/images/award/2022-highly-cited-researcher.png)）
