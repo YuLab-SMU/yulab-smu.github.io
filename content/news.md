@@ -3,6 +3,8 @@ slug: news
 title: News
 ---
 
+<strong><font color="green">Apr 2023</font></strong>: 余光创在首届TICSSO国际单细胞及空间组学大会上作报告（题目：整合先验知识的单细胞分析策略），并主持分论坛5（单细胞科研探索创新论坛）。
+
 <strong><font color="green">Apr 2023</font></strong>: 祝贺王芮和邓琳两位同学成功上岸，加入课题组。 
 
 <strong><font color="green">Mar 2023</font></strong>: 祝贺《[R实战：系统发育树的数据集成操作及可视化](https://u.jd.com/uu7G4qC)》预售当日飙升京东计算机与互联网[畅销书TOP 1](/images/treedata-jd-top1.jpg)，首印3000册两日内脱销。
@@ -11,7 +13,7 @@ title: News
 
 <strong><font color="green">Mar 2023</font></strong>: 刘秉东（博士后）通过联合培养加入课题组。
 
-<strong><font color="green">Mar 2023</font></strong>: 祝贺廖俞凡通过研究生第一轮复试，加入课题组。 
+<strong><font color="green">Mar 2023</font></strong>: 祝贺廖俞凡（初试第一名）通过研究生第一轮复试，加入课题组。 
 
 <strong><font color="green">Mar 2023</font></strong>: 用于微生物组的软件包*MicrobiotaProcess*发表于***The Innovation***期刊 ([link](https://doi.org/10.1016/j.xinn.2023.100388))，恭喜徐双斌。
 
