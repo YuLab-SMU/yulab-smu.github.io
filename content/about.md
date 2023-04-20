@@ -4,7 +4,24 @@ title: YuLab@SMU
 ---
 
 
-课题组一直专注于生物信息学方法工具开发及应用，在系统发育、组学数据分析和数据可视化上开发了多款广受同行认可的生物信息学工具，帮助生物学家探索和理解数据。
-
-
 <center><img src="/images/members/20220910.jpg" width='1000px'></center>
+
+
+## Research Interest
+
+
+### Microecological Analysis and Intervention
+
+
+Analysis and intervention of gut microecology in patients with polycystic ovary syndrome based on phage-bacteria-human host interaction (supported by the National Science Foundation of China, No. 32270677).
+
+
+
+
+
+### Bioinformaitcs tool development
+
+The research group has developed a variety of widely recognized bioinformatics tools in the fields of biomedical knowledge mining and knowledge discovery (e.g., clusterProfiler), phylogenetic data integration and visualization (e.g., treeio and ggtree), metagenomic data analysis (e.g., MicrobiotaProcess) and data visualization (e.g., ggbreak), etc., to help biologists explore and understand data. 
+
+
+
