@@ -62,6 +62,10 @@ title: Members
   </tr> 
 
 <tr style="border:none;"> 
+    <td style="border:none;"><img src="/images/members/cyt.jpg" width='150px'></td>
+    <td style="border:none;"><strong>Yantong Cai<br>
+        Post-doctoral fellow</strong><br>
+    </td>
     <td style="border:none;"><img src="/images/members/wtz.jpg" width='150px'></td>
     <td style="border:none;"><strong>Tianzhi Wu<br>
         PhD Student</strong><br>
@@ -76,12 +80,12 @@ title: Members
         <a href="https://orcid.org/0000-0002-1798-7513" aria-label="Orcid">    
             <i class="ai ai-orcid ai-2x" style="font-size: 150%;"></i></a> 
     </td>    
+  </tr>
+ <tr style="border:none;"> 
     <td style="border:none;"><img src="/images/members/wsd.jpg" width='150px'></td>
     <td style="border:none;"><strong>Shaodi Wen<br>
         PhD Student</strong><br>
     </td>
-  </tr>
- <tr style="border:none;"> 
     <td style="border:none;"><img src="/images/members/gpf.jpg" width='150px'></td>
     <td style="border:none;"><strong>Pingfan Guo<br>
         Master Student</strong><br>
@@ -93,15 +97,7 @@ title: Members
         Master Student</strong><br>
         <a href="https://github.com/WENLITANG" aria-label="Github">
             <i class="fa fa-github fa-2x" aria-hidden="true" style="font-size: 150%;"></i></a>
-    </td>
-    <td style="border:none;"><img src="/images/members/cmj.jpg" width='150px'></td>
-    <td style="border:none;"><strong>Meijun Chen<br>
-        Master Student</strong><br>
-        <a href="https://github.com/mjchen1996" aria-label="Github">
-            <i class="fa fa-github fa-2x" aria-hidden="true" style="font-size: 150%;"></i></a>
-        <a href="https://www.researchgate.net/profile/Meijun-Chen?ev=hdr_xprf&_sg=Gt4OOeY8VUKHhTru1eAVc09MhVD51o2QS7RbR39ycXAHLU8B-ZxuLOa_t7YlhhswFtVAqy2iB1Wmn5Uz8YHwQrOA" aria-label="Researchgate">
-            <i class="fab fa-researchgate" aria-hidden="true" style="font-size: 150%;"></i></a>
-    </td>     
+    </td>   
   </tr>    
  <tr style="border:none;"> 
     <td style="border:none;"><img src="/images/members/zhanli.jpg" width='150px'></td>
@@ -160,6 +156,8 @@ title: Members
 
 ## Former Lab Members
 
++ **陈玫君** (MS 2020-2023；南方医科大学“优秀研究生”，南方医科大学，博士在读)
++ **付小聪** (MS 2020-2022; 联合培养，)
 + **戴泽翰** (Postdoc 2019-2022; 金圻睿, 高级研发工程师)
 + **周烺** (MS 2019-2022; 南方医科大学2022届“优秀毕业研究生”, 珠江医院, 生物信息学工程师)
 + **冯婷泽** (MS 2019-2022; 南方医科大学2022届“优秀毕业研究生”, 中科院大连物化所, 博士在读)
