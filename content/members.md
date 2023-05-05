@@ -66,12 +66,6 @@ title: Members
     <td style="border:none;"><strong>Yantong Cai<br>
         Post-doctoral fellow</strong><br>
     </td>
-    <td style="border:none;"><img src="/images/members/wtz.jpg" width='150px'></td>
-    <td style="border:none;"><strong>Tianzhi Wu<br>
-        PhD Student</strong><br>
-        <a href="https://github.com/timze216" aria-label="Github">
-            <i class="fa fa-github fa-2x" aria-hidden="true" style="font-size: 150%;"></i></a>
-    </td>
     <td style="border:none;"><img src="/images/members/heq.jpg" width='150px'></td>
     <td style="border:none;"><strong>Erqiang Hu<br>
         PhD Student</strong><br>
@@ -79,27 +73,18 @@ title: Members
             <i class="fa fa-github fa-2x" aria-hidden="true" style="font-size: 150%;"></i></a>
         <a href="https://orcid.org/0000-0002-1798-7513" aria-label="Orcid">    
             <i class="ai ai-orcid ai-2x" style="font-size: 150%;"></i></a> 
-    </td>    
-  </tr>
- <tr style="border:none;"> 
+    </td> 
     <td style="border:none;"><img src="/images/members/wsd.jpg" width='150px'></td>
     <td style="border:none;"><strong>Shaodi Wen<br>
         PhD Student</strong><br>
+    </td>    
+  </tr>
+ <tr style="border:none;"> 
+    <td style="border:none;"><img src="/images/members/zhy.png" width='150px'></td>
+    <td style="border:none;"><strong>Hongyuan Zhu<br>
+        PhD Student</strong><br>
     </td>
     <td style="border:none;"><img src="/images/members/gpf.jpg" width='150px'></td>
-    <td style="border:none;"><strong>Pingfan Guo<br>
-        Master Student</strong><br>
-        <a href="https://github.com/qibaiqi" aria-label="Github">
-            <i class="fa fa-github fa-2x" aria-hidden="true" style="font-size: 150%;"></i></a>
-    </td>
-    <td style="border:none;"><img src="/images/members/twl.jpg" width='150px'></td>
-    <td style="border:none;"><strong>Wenli Tang<br>
-        Master Student</strong><br>
-        <a href="https://github.com/WENLITANG" aria-label="Github">
-            <i class="fa fa-github fa-2x" aria-hidden="true" style="font-size: 150%;"></i></a>
-    </td>   
-  </tr>    
- <tr style="border:none;"> 
     <td style="border:none;"><img src="/images/members/zhanli.jpg" width='150px'></td>
     <td style="border:none;"><strong>Li Zhan<br>
         Master Student</strong><br>
@@ -110,14 +95,14 @@ title: Members
     <td style="border:none;"><strong>Zijing Xie<br>
         Master Student</strong>
     </td>   
+  </tr>    
+ <tr style="border:none;"> 
     <td style="border:none;"><img src="/images/members/ll.jpg" width='150px'></td>
     <td style="border:none;"><strong>Lin Li<br>
         Master Student</strong><br>
         <a href="https://github.com/SanL20" aria-label="Github">
             <i class="fa fa-github fa-2x" aria-hidden="true" style="font-size: 150%;"></i></a>
     </td>   
-  </tr> 
-<tr style="border:none;"> 
     <td style="border:none;"><img src="/images/members/xwq.jpg" width='150px'></td>
     <td style="border:none;"><strong>Wenqin Xie<br>
         Master Student</strong><br>
@@ -130,14 +115,14 @@ title: Members
         <a href="https://github.com/778055611" aria-label="Github">
             <i class="fa fa-github fa-2x" aria-hidden="true" style="font-size: 150%;"></i></a>
     </td>
+  </tr> 
+<tr style="border:none;"> 
     <td style="border:none;"><img src="/images/members/lm.jpg" width='150px'></td>
     <td style="border:none;"><strong>Ming Li<br>
         Master Student</strong><br>
         <a href="https://github.com/MingLi-929" aria-label="Github">
             <i class="fa fa-github fa-2x" aria-hidden="true" style="font-size: 150%;"></i></a>
     </td>
-  </tr>    
-<tr style="border:none;"> 
     <td style="border:none;"><img src="/images/members/lyf.jpg" width='150px'></td>
     <td style="border:none;"><strong>Yufan Liao<br>
         Master Student</strong>
@@ -146,6 +131,8 @@ title: Members
     <td style="border:none;"><strong>Rui Wang<br>
         Master Student</strong>
     </td>    
+  </tr>    
+<tr style="border:none;"> 
     <td style="border:none;"><img src="/images/members/dl.jpg" width='150px'></td>
     <td style="border:none;"><strong>Lin Deng<br>
         Master Student</strong>
@@ -156,8 +143,11 @@ title: Members
 
 ## Former Lab Members
 
++ **吴天志** (PhD 2020-2023; )
++ **郭平凡** (MS 2019-2023; 2021年获硕士研究生国家奖学金)
++ **唐文丽** (MS 2020-2023; 南方医科大学“优秀研究生”)
 + **陈玫君** (MS 2020-2023；南方医科大学“优秀研究生”，南方医科大学，博士在读)
-+ **付小聪** (MS 2020-2022; 联合培养，)
++ **付小聪** (MS 2020-2022; 联合培养)
 + **戴泽翰** (Postdoc 2019-2022; 金圻睿, 高级研发工程师)
 + **周烺** (MS 2019-2022; 南方医科大学2022届“优秀毕业研究生”, 珠江医院, 生物信息学工程师)
 + **冯婷泽** (MS 2019-2022; 南方医科大学2022届“优秀毕业研究生”, 中科院大连物化所, 博士在读)
