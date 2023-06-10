@@ -3,7 +3,15 @@ slug: news
 title: News
 ---
 
-<strong><font color="green">Apr 2023</font></strong>: 余光创在首届TICSSO国际单细胞及空间组学大会上作报告（题目：整合先验知识的单细胞分析策略），并主持分论坛5（单细胞科研探索创新论坛）。
+<strong><font color="green">Jun 2023</font></strong>: 课题组进行K歌团建，现有成员、往届毕业学生和今年入学的新生一共23人，欢唱6个小时。
+
+<strong><font color="green">May 2023</font></strong>: 余光创在2023肠道大会iMeta作者论坛上作特邀报告。
+
+<strong><font color="green">May 2023</font></strong>: 恭喜吴天志顺利通过博士生答辩，恭喜郭平凡和唐文丽顺利通过硕士生答辩。
+
+<strong><font color="green">May 2023</font></strong>: 余光创在第九届全国计算生物与生物信息学大会上作特邀报告。
+
+<strong><font color="green">Apr 2023</font></strong>: 余光创在首届TICSSO国际单细胞及空间组学大会上作报告，并主持分论坛5（单细胞科研探索创新论坛）。
 
 <strong><font color="green">Apr 2023</font></strong>: 祝贺王芮和邓琳两位同学成功上岸，加入课题组。 
 
