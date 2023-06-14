@@ -3,7 +3,7 @@ slug: news
 title: News
 ---
 
-<strong><font color="green">Jun 2023</font></strong>: 课题组进行K歌团建，现有成员、往届毕业学生和今年入学的新生一共23人，欢唱6个小时。
+<strong><font color="green">Jun 2023</font></strong>: 课题组进行K歌团建，现有成员、往届毕业学生和今年入学的新生一共23人，齐聚一堂，欢唱6个小时。
 
 <strong><font color="green">May 2023</font></strong>: 余光创在2023肠道大会iMeta作者论坛上作特邀报告。
 
