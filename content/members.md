@@ -50,7 +50,7 @@ title: Members
             <i class="ai ai-orcid ai-2x" style="font-size: 150%;"></i></a>   
     </td>     
     <td style="border:none;"><img src="/images/members/twl.jpg" width='150px'></td>
-    <td style="border:none;"><strong>Wenli Tang, MS.<br>
+    <td style="border:none;"><strong>Wenli Tang, MS<br>
         Bioinformatician</strong><br>
         <a href="https://github.com/WENLITANG" aria-label="Github">
             <i class="fa fa-github fa-2x" aria-hidden="true" style="font-size: 150%;"></i></a>
@@ -65,11 +65,11 @@ title: Members
 
 <tr style="border:none;"> 
     <td style="border:none;"><img src="/images/members/lbd.jpg" width='150px'></td>
-    <td style="border:none;"><strong>Bingdong Liu<br>
+    <td style="border:none;"><strong>Bingdong Liu, Phd.<br>
         Post-doctoral fellow</strong><br>
     </td>
     <td style="border:none;"><img src="/images/members/cyt.jpg" width='150px'></td>
-    <td style="border:none;"><strong>Yantong Cai<br>
+    <td style="border:none;"><strong>Yantong Cai, Phd.<br>
         Post-doctoral fellow</strong><br>
     </td>
     <td style="border:none;"><img src="/images/members/heq.jpg" width='150px'></td>
