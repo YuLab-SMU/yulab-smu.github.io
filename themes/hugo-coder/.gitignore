@@ -1,4 +1,6 @@
+.idea
 **/themes/
-demo/
-.hugo/*
-!.hugo/version
+exampleSite/public/
+exampleSite/resources/
+*.lock
+public
