@@ -3,7 +3,11 @@ slug: news
 title: News
 ---
 
+<strong><font color="green">Oct 2023</font></strong>: 余光创入选全球前2%顶尖科学家榜单（World’s Top 2% Scientists）“<strong>终身科学影响力</strong>”（career-long impact）和“<strong>年度科学影响力</strong>”（single recent year impact）排行榜（全球排名774）。
+
 <strong><font color="green">Aug 2023</font></strong>: 🌹 温少迪（博士生）通过联合培养加入课题组。
+
+<strong><font color="green">Jul 2023</font></strong>: 博士后徐双斌在第一届CGM线下沙龙做学术报告。
 
 <strong><font color="green">Jul 2023</font></strong>: 🌹 唐文丽硕士毕业后留在课题组工作。
 
