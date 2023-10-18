@@ -1,10 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <title>
+
+<head>
+  <title>
   YuLab发布坐标轴截断R包：ggbreak · YuLab@SMU
 </title>
-    <meta charset="utf-8">
+  <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="color-scheme" content="light dark">
 
@@ -48,7 +49,7 @@
 
   
   
-  <link rel="stylesheet" href="/css/coder.min.c4d7e93a158eda5a65b3df343745d2092a0a1e2170feeec909b8a89443903c6a.css" integrity="sha256-xNfpOhWO2lpls980N0XSCSoKHiFw/u7JCbiolEOQPGo=" crossorigin="anonymous" media="screen" />
+  <link rel="stylesheet" href="/css/coder.min.135e22c97ff685fe983fc60048e309ced8f00d8d38f536aa67dba8a13a03dfa4.css" integrity="sha256-E14iyX/2hf6YP8YASOMJztjwDY049TaqZ9uooToD36Q=" crossorigin="anonymous" media="screen" />
 
 
 
@@ -62,6 +63,7 @@
 
 
 
+<link rel="icon" type="image/svg+xml" href="/images/favicon.svg" sizes="any">
 <link rel="icon" type="image/png" href="/images/favicon-32x32.png" sizes="32x32">
 <link rel="icon" type="image/png" href="/images/favicon-16x16.png" sizes="16x16">
 
@@ -74,13 +76,12 @@
 
 
 
-<meta name="generator" content="Hugo 0.118.2">
 
 
 
 
 
-  </head>
+</head>
 
 
 
@@ -188,12 +189,12 @@
         </div>
       </header>
 
-      <div>
+      <div class="post-content">
         
         <p>坐标轴截断在生物医学论文中，是一种处理Figure的常用手段，由于数据的分布不呈现正态，有些数据特别大，而大部分的数据又比较小，这样画出来的图没法看，如果数据是呈现log normal分布的话，可以通过对数转换来解决，但数据不一定符合某种分布，通过数据转换不一定能解决问题，有时候数据只是单纯有些outliers而已。比如在系统发育树上，如果我们引入一个外类分支（outgroup)，这个外类分支的支长就可能特别长（当然系统发育树本身可能某种原因也会有分支特别长的情况），这样对可视化带来很大的问题，树的整体会因为特别长的分支被压缩到无法看清主体的树结构。这种情况在别的图形中也是可能出现的，截断是一种很好的解决方案。</p>
 <p>截断图如果通过操作数据来达到目标是不可取的，因为它只能针对简单的图，诸如柱状图等，对于复杂的图，因为数据变了，图就会变。所以最好的方法就是在原图上设置窗口，把中间要截掉的那块拿走，然后拼在一起，借由拿走的那块，为图的细节部分增加空间，所以本质上是拼图，而且使用拼图，对任何图形都可适用。</p>
 <p>别人的解决方案都是简单粗暴地拼图，一拼图就死了，没拼之前，你可以继续加图层，但你看不清楚细节部分，你把图画出来一看，看不清楚你自己加的图层效果怎么样（比如说柱状图上加标记p值）。你截断图之后，看是看得清了，但你没法再加图层了，因为图被搞死了。</p>
-<p>针对这样的问题，我们开发了<a href="https://cran.r-project.org/web/packages/ggbreak">ggbreak</a>包，图一画，有outlier，先截断，然后在看清楚细节的情况下，可以继续用<code>ggplot2</code>的语法，继续搞事。</p>
+<p>针对这样的问题，我们开发了<a href="https://cran.r-project.org/web/packages/ggbreak"  class="external-link" target="_blank" rel="noopener">ggbreak</a>包，图一画，有outlier，先截断，然后在看清楚细节的情况下，可以继续用<code>ggplot2</code>的语法，继续搞事。</p>
 
       </div>
 
@@ -235,6 +236,8 @@
         
         
         
+        
+        
       </footer>
     </article>
 
@@ -250,10 +253,10 @@
       2018 -
     
     2023
-    ♥️
      YuLab-SMU 
     ·
     
+    Powered by <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> & <a href="https://github.com/luizdepra/hugo-coder/" target="_blank" rel="noopener">Coder</a>.
     
   </section>
 </footer>
@@ -264,10 +267,13 @@
 
   
   
-  <script src="/js/coder.min.236049395dc3682fb2719640872958e12f1f24067bb09c327b233e6290c7edac.js" integrity="sha256-I2BJOV3DaC&#43;ycZZAhylY4S8fJAZ7sJwyeyM&#43;YpDH7aw="></script>
+  <script src="/js/coder.min.6ae284be93d2d19dad1f02b0039508d9aab3180a12a06dcc71b0b0ef7825a317.js" integrity="sha256-auKEvpPS0Z2tHwKwA5UI2aqzGAoSoG3McbCw73gloxc="></script>
   
 
   
+
+  
+
 
   
 
@@ -284,6 +290,18 @@
         data-cf-beacon='{"token": "token"}'></script>
 
 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
 
   
 

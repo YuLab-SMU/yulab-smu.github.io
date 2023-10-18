@@ -145,7 +145,9 @@ Master Student</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://yulab-smu.top/news/</guid>
-      <description>Aug 2023: 🌹 温少迪（博士生）通过联合培养加入课题组。
+      <description>Oct 2023: 余光创入选全球前2%顶尖科学家榜单（World’s Top 2% Scientists）“终身科学影响力”（career-long impact）和“年度科学影响力”（single recent year impact）排行榜（全球排名774）。
+Aug 2023: 🌹 温少迪（博士生）通过联合培养加入课题组。
+Jul 2023: 博士后徐双斌在第一届CGM线下沙龙做学术报告。
 Jul 2023: 🌹 唐文丽硕士毕业后留在课题组工作。
 Jun 2023: 🌠🎉 恭喜唐文丽荣获南方医科大学2023届“优秀毕业研究生”荣誉称号。
 Jun 2023: 📝🎉 通过微生物组预测代谢物的软件包MMINP发表于Gut Microbes期刊 (link)，恭喜唐文丽。
@@ -159,8 +161,7 @@ Mar 2023: 祝贺《R实战：系统发育树的数据集成操作及可视化》
 Mar 2023: 🎉 余光创入选爱思唯尔2022年中国高被引学者（证书）
 Mar 2023: 🌹 刘秉东（博士后）通过联合培养加入课题组。
 Mar 2023: 🌹 祝贺廖俞凡（初试第一名）通过研究生第一轮复试，加入课题组。
-Mar 2023: 📝🎉 用于微生物组的软件包MicrobiotaProcess发表于The Innovation期刊 (link)，恭喜徐双斌。
-Feb 2023: 📝🎉 专刊《Computational and systematic analysis of multi-omics data for drug discovery and development》发表编委社论文章，成功收关。</description>
+Mar 2023: 📝🎉 用于微生物组的软件包MicrobiotaProcess发表于The Innovation期刊 (link)，恭喜徐双斌。</description>
     </item>
     
     <item>
@@ -198,6 +199,15 @@ ls -la </description>
       
       <guid>http://yulab-smu.top/software/</guid>
       <description>Infectious disease and Epidemiology Link to heading nCov2019: An R package for exploring COVID-19 statistics seqcombo: Visualization Tool for Sequence Recombination and Reassortment Knowledge mining Link to heading clusterProfiler: Statistical analysis and visualization of functional profiles for genes and gene clusters DOSE: Disease Ontology Semantic and Enrichment analysis enrichplot: Visualization of Functional Enrichment Result gson: Base Class and Methods for &amp;lsquo;gson&amp;rsquo; Format GOSemSim: GO-terms Semantic Similarity Measures HDO.db: A set of annotation maps describing the entire Human Disease Ontology meshes: MeSH Enrichment and Semantic analyses ReactomePA: Reactome Pathway Analysis Microbiome Link to heading MicrobiotaProcess: Analysis, visualization and biomarker discovery of microbiome MMINP: Microbe-Metabolite INteractions-based metabolic profiles Predictor OMICS data analysis Link to heading ChIPseeker: ChIP peak Annotation, Comparison, and Visualization GeoTcgaData: Processing various types of data on GEO and TCGA Sequence analysis Link to heading ggmsa: Plot mutiple sequence alignment using &amp;lsquo;ggplot2&amp;rsquo; seqmagick: Sequence Manipulation Utilities Tree Data integration and visualization Link to heading ggtree: Visualization of tree and annotation data ggtreeDendro: Drawing &amp;lsquo;dendrogram&amp;rsquo; using &amp;lsquo;ggtree&amp;rsquo; ggtreeExtra: Phylogenetic tree data annotation shinyTempSignal: Explore Temporal Signal of Molecular Phylogenies tidytree: A Tidy Tool for Phylogenetic Tree Data Manipulation treeio: Base Classes and Functions for Phylogenetic Tree Input and Output Visualization Link to heading aplot: Decorating a plot with associated information emojifont: Emoji and Font Awesome in Graphics ggbreak: An implementation of scale functions for setting axis breaks of a &amp;lsquo;gg&amp;rsquo; plot.</description>
+    </item>
+    
+    <item>
+      <title>Tree Data Integration</title>
+      <link>http://yulab-smu.top/achievement-tree-data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://yulab-smu.top/achievement-tree-data/</guid>
+      <description>A series of software tools have been developed for the operation, integration, and visualization of trees and data. This includes (1) the introduction of graphic grammar into the field of phylogeny for the first time, (2) enhancing the data integration ability of phylogenetics and its application in different disciplines, (3) proposing two generic methods for phylogenetic data integration and visualization, and (4) designing data structures that can store phylogenetic trees, related data, and visualization commands to ensure the possibility of repeatable research.</description>
     </item>
     
     <item>
