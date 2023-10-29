@@ -5,7 +5,9 @@ title: News
 
 <strong><font color="green">Oct 2023</font></strong>: 恭喜周烺获得2023年硕士研究生国家奖学金。
 
-<strong><font color="green">Oct 2023</font></strong>: 余光创入选全球前2%顶尖科学家榜单（World’s Top 2% Scientists）“<strong>终身科学影响力</strong>”（career-long impact）（全球排名36188）和“<strong>年度科学影响力</strong>”（single recent year impact）排行榜（全球排名744）。生物信息领域中国地区学者终身科学影响力排名第3，年度科学影响力排名第1（链接：[重磅！生物信息领域中国地区学者入围2023年斯坦福全球前2%顶尖科学家完整榜单](https://mp.weixin.qq.com/s/ElSd8w7qRmhQYO1MPgAM4Q)）、[12+54！我校多名学者入选2023年全球前2%顶尖科学家榜单](https://mp.weixin.qq.com/s/pXVbdIMqto1P3M7lI3pZBQ)。
+<strong><font color="green">Oct 2023</font></strong>: 余光创入选全球前2%顶尖科学家榜单（World’s Top 2% Scientists）“<strong>终身科学影响力</strong>”（career-long impact）（全球排名36188）和“<strong>年度科学影响力</strong>”（single recent year impact）排行榜（全球排名744）。生物信息领域中国地区学者终身科学影响力排名第3，年度科学影响力排名第1。
++ [重磅！生物信息领域中国地区学者入围2023年斯坦福全球前2%顶尖科学家完整榜单](https://mp.weixin.qq.com/s/ElSd8w7qRmhQYO1MPgAM4Q)
++ [12+54！我校多名学者入选2023年全球前2%顶尖科学家榜单](https://mp.weixin.qq.com/s/pXVbdIMqto1P3M7lI3pZBQ)
 
 <strong><font color="green">Aug 2023</font></strong>: 🌹 温少迪（博士生）通过联合培养加入课题组。
 
