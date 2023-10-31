@@ -143,6 +143,10 @@ title: Members
     <td style="border:none;"><strong>Lin Deng<br>
         Master Student</strong>
     </td>    
+    <td style="border:none;"><img src="/images/members/ljr.jpg" width='150px'></td>
+    <td style="border:none;"><strong>Junrui Li<br>
+        Eight-year Program Medical Student</strong>
+    </td>    
   </tr>   
 </table> 
 
