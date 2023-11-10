@@ -1,5 +1,5 @@
 ---
-slug: achievement-tree-data
+slug: contribution-tree-data
 title: "Tree Data Integration"
 ---
 

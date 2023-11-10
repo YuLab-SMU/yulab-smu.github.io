@@ -138,9 +138,9 @@ pygmentsCodeFencesGuessSyntax = true
             url = "publications/"
 
             [[languages.en.menu.main]]
-            name = "Achievements"
+            name = "Contributions"
             weight = 3
-            url = "achievements/"
+            url = "contributions/"
 
             [[languages.en.menu.main]]
             name = "Software"

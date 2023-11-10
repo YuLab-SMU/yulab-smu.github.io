@@ -1,5 +1,5 @@
 ---
-slug: achievement-knowledge-mining
+slug: contribution-knowledge-mining
 title: "Biological Knowledge Mining and Discovery"
 ---
 
