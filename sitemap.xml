@@ -92,15 +92,15 @@
     <loc>http://yulab-smu.top/posts/biocasia-2020/</loc>
     <lastmod>2020-10-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://yulab-smu.top/achievements/</loc>
-  </url><url>
     <loc>http://yulab-smu.top/authors/</loc>
   </url><url>
-    <loc>http://yulab-smu.top/achievement-knowledge-mining/</loc>
+    <loc>http://yulab-smu.top/contribution-knowledge-mining/</loc>
   </url><url>
     <loc>http://yulab-smu.top/categories/</loc>
   </url><url>
     <loc>http://yulab-smu.top/contact/</loc>
+  </url><url>
+    <loc>http://yulab-smu.top/contributions/</loc>
   </url><url>
     <loc>http://yulab-smu.top/documents/</loc>
   </url><url>
@@ -120,7 +120,7 @@
   </url><url>
     <loc>http://yulab-smu.top/software/</loc>
   </url><url>
-    <loc>http://yulab-smu.top/achievement-tree-data/</loc>
+    <loc>http://yulab-smu.top/contribution-tree-data/</loc>
   </url><url>
     <loc>http://yulab-smu.top/about/</loc>
   </url>

@@ -76,20 +76,11 @@ Workshop资料可在线获取：https://yulab-smu.top/MicrobiotaProcessWorkshop/
     </item>
     
     <item>
-      <title>Achievements</title>
-      <link>http://yulab-smu.top/achievements/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://yulab-smu.top/achievements/</guid>
-      <description>Tree Data Integration Link to heading A series of methods and software tools have been proposed and developed for the operation, integration, and visualization of trees and data. This includes (1) the introduction of graphic grammar into the field of phylogeny for the first time, (2) enhancing the data integration ability of phylogenetics and its application in different disciplines, (3) proposing two universal methods for phylogenetic data integration and visualization, and (4) designing data structures that can store phylogenetic trees, related data, and visualization directives to ensure analytical reproducibility.</description>
-    </item>
-    
-    <item>
       <title>Biological Knowledge Mining and Discovery</title>
-      <link>http://yulab-smu.top/achievement-knowledge-mining/</link>
+      <link>http://yulab-smu.top/contribution-knowledge-mining/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://yulab-smu.top/achievement-knowledge-mining/</guid>
+      <guid>http://yulab-smu.top/contribution-knowledge-mining/</guid>
       <description></description>
     </item>
     
@@ -102,6 +93,15 @@ Workshop资料可在线获取：https://yulab-smu.top/MicrobiotaProcessWorkshop/
       <description>招收生物信息学硕士生、博士生和博士后，欢迎咨询；同时也欢迎联系科研合作。
 Email: guangchuangyu AT gmail.com
 Address: 广州市沙太南路1023号南方医科大学生命科学楼10楼生物信息学系</description>
+    </item>
+    
+    <item>
+      <title>Contributions</title>
+      <link>http://yulab-smu.top/contributions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://yulab-smu.top/contributions/</guid>
+      <description>Tree Data Integration Link to heading A series of methods and software tools have been proposed and developed for the operation, integration, and visualization of trees and data. This includes (1) the introduction of graphic grammar into the field of phylogeny for the first time, (2) enhancing the data integration ability of phylogenetics and its application in different disciplines, (3) proposing two universal methods for phylogenetic data integration and visualization, and (4) designing data structures that can store phylogenetic trees, related data, and visualization directives to ensure analytical reproducibility.</description>
     </item>
     
     <item>
@@ -221,10 +221,10 @@ ls -la </description>
     
     <item>
       <title>Tree Data Integration</title>
-      <link>http://yulab-smu.top/achievement-tree-data/</link>
+      <link>http://yulab-smu.top/contribution-tree-data/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://yulab-smu.top/achievement-tree-data/</guid>
+      <guid>http://yulab-smu.top/contribution-tree-data/</guid>
       <description>A series of methods and software tools have been proposed and developed for the operation, integration, and visualization of trees and data. This includes (1) the introduction of graphic grammar into the field of phylogeny for the first time, (2) enhancing the data integration ability of phylogenetics and its application in different disciplines, (3) proposing two universal methods for phylogenetic data integration and visualization, and (4) designing data structures that can store phylogenetic trees, related data, and visualization directives to ensure analytical reproducibility.</description>
     </item>
     
