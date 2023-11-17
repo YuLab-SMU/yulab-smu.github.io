@@ -3,6 +3,10 @@ slug: news
 title: News
 ---
 
+
+<strong><font color="green">Nov 2023</font></strong>: 余光创入选全球高被引科学家。
+<img src="/images/award/HCR-Ribbon_Email_166h_ForResearchers.png" style="height:150px;" align="right"/>
+
 <strong><font color="green">Nov 2023</font></strong>: 李俊睿（八年制临床医学）加入课题组。
 
 <strong><font color="green">Nov 2023</font></strong>: 恭喜周烺获得2023年硕士研究生国家奖学金。
