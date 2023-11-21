@@ -16,7 +16,10 @@ title: News
 + [重磅！生物信息领域中国地区学者入围2023年斯坦福全球前2%顶尖科学家完整榜单](https://mp.weixin.qq.com/s/ElSd8w7qRmhQYO1MPgAM4Q)
 + [12+54！我校多名学者入选2023年全球前2%顶尖科学家榜单](https://mp.weixin.qq.com/s/pXVbdIMqto1P3M7lI3pZBQ)
 
-<strong><font color="green">Sep 2023</font></strong>: 余光创受邀Wiley科研访谈 （链接：[1.实验中有哪些技巧](https://app6sjglueg4184.h5.xiaoeknow.com/p/course/audio/a_654b2d17e4b04c100fc3f2e3?entry=2&entry_type=2002&product_id=p_61407031e4b0dfaf7fa3bc5f&scene=%E5%88%86%E4%BA%AB&share_type=5&share_user_id=u_5f602f7403ea2_43uEpD93ZP), [2.](), [3.]()）。
+<strong><font color="green">Sep 2023</font></strong>: 余光创受邀Wiley科研访谈 
++ [1.实验中有哪些技巧](https://app6sjglueg4184.h5.xiaoeknow.com/p/course/audio/a_654b2d17e4b04c100fc3f2e3?entry=2&entry_type=2002&product_id=p_61407031e4b0dfaf7fa3bc5f)
++ [2.如何发表实验室指南](https://app6sjglueg4184.h5.xiaoeknow.com/p/course/audio/a_6555ad8fe4b04c103862599c?product_id=p_61407031e4b0dfaf7fa3bc5f)
++ [3.]()
 
 <strong><font color="green">Aug 2023</font></strong>: 🌹 温少迪（博士生）通过联合培养加入课题组。
 
