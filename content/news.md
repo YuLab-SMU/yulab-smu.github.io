@@ -33,6 +33,8 @@ title: News
 
 <strong><font color="green">Jun 2023</font></strong>: 📝🎉 通过微生物组预测代谢物的软件包*MMINP*发表于***Gut Microbes***期刊 ([link](https://dx.doi.org/10.1080/19490976.2023.2223349))，恭喜唐文丽。
 
+<strong><font color="green">Jun 2023</font></strong>: 🎉 2022年影响因子发布，The Innovation期刊获得首个影响因子 (32.1，11月校正后为33.1)，课题组发表的[文章](https://doi.org/10.1016/j.xinn.2021.100141) 为期刊的影响因子贡献了9+分。
+
 <strong><font color="green">Jun 2023</font></strong>: 课题组进行K歌团建，现有成员、往届毕业学生和今年入学的新生一共23人，齐聚一堂，欢唱6个小时。
 
 <strong><font color="green">May 2023</font></strong>: 余光创在2023肠道大会iMeta作者论坛上作特邀报告。
@@ -65,7 +67,9 @@ title: News
 
 <strong><font color="green">Nov 2022</font></strong>: 一项软件著作权获批：“GeoTcgaDat软件[简称：GeoTcgaData]1.1.1”（软著登字第10523614号）。
 
-<strong><font color="green">Oct 2022</font></strong>: 两项软件著作权获批：“基于图形语法的和弦图可视化软件包-ggcircos软件[简称：ggcircos]V1.0”（软著登字第10352956号）；“MOBEx--多组学整合探索生物标记物云平台[简称：MOBEx]V1.0”（软著登字第10352924号）。
+<strong><font color="green">Oct 2022</font></strong>: 两项软件著作权获批:
++ 基于图形语法的和弦图可视化软件包-ggcircos软件[简称：ggcircos]V1.0”（软著登字第10352956号）
++ “MOBEx--多组学整合探索生物标记物云平台[简称：MOBEx]V1.0”（软著登字第10352924号）
 
 <strong><font color="green">Oct 2022</font></strong>: 📝🎉 *clusterProfiler*4.0版本([link](https://doi.org/10.1016/j.xinn.2021.100141))引用过千，这也是***The Innovation***期刊首篇引用过千的文章，同时也是YuLab以南方医科大学为通讯单位所发表的文章中首篇引用过千的文章。
 
