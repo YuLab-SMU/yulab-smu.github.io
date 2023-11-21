@@ -3,6 +3,7 @@ slug: news
 title: News
 ---
 
+<strong><font color="green">Dec 2023</font></strong>: 陆军军医大学刘迪博士生到本课题组进修。
 
 <strong><font color="green">Nov 2023</font></strong>: 余光创入选全球高被引科学家。
 <img src="/images/award/HCR-Ribbon_Email_166h_ForResearchers.png" style="height:150px;" align="right"/>
