@@ -63,9 +63,11 @@ title: News
 
 <strong><font color="green">Jan 2023</font></strong>: 🎉 陈玫君被录取为硕博连读研究生。
 
-<strong><font color="green">Dec 2022</font></strong>: 一项软件著作权获批：“多序列比对和相关数据的可视化探索工具--ggmsa软件[简称：ggmsa]1.2.3”（软著登字第10529672号）。
+<strong><font color="green">Dec 2022</font></strong>: 软件著作权获批：
++ “多序列比对和相关数据的可视化探索工具--ggmsa软件[简称：ggmsa]1.2.3”（软著登字第10529672号）。
 
-<strong><font color="green">Nov 2022</font></strong>: 一项软件著作权获批：“GeoTcgaDat软件[简称：GeoTcgaData]1.1.1”（软著登字第10523614号）。
+<strong><font color="green">Nov 2022</font></strong>: 软件著作权获批：
++ “GeoTcgaDat软件[简称：GeoTcgaData]1.1.1”（软著登字第10523614号）。
 
 <strong><font color="green">Oct 2022</font></strong>: 两项软件著作权获批:
 + 基于图形语法的和弦图可视化软件包-ggcircos软件[简称：ggcircos]V1.0”（软著登字第10352956号）
