@@ -22,6 +22,8 @@ title: News
 
 <strong><font color="green">Jul 2023</font></strong>: 博士后徐双斌在第一届CGM线下沙龙做学术报告。
 
+<strong><font color="green">Jul 2023</font></strong>: 佛山市第一人民医院郑慧敏博士后到本课题组进修。
+
 <strong><font color="green">Jul 2023</font></strong>: 🌹 唐文丽硕士毕业后留在课题组工作。
 
 <strong><font color="green">Jun 2023</font></strong>: 🌠🎉 恭喜唐文丽荣获南方医科大学2023届“优秀毕业研究生”荣誉称号。
