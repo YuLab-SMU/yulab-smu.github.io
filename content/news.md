@@ -5,7 +5,7 @@ title: News
 
 <strong><font color="green">Dec 2023</font></strong>: 陆军军医大学刘迪博士生到本课题组进修。
 
-<strong><font color="green">Nov 2023</font></strong>: 余光创入选全球高被引科学家。
+<strong><font color="green">Nov 2023</font></strong>: 余光创入选全球高被引科学家，南方医科大学十年来实现零突破。
 <img src="/images/award/HCR-Ribbon_Email_166h_ForResearchers.png" style="height:150px;" align="right"/>
 
 <strong><font color="green">Nov 2023</font></strong>: 李俊睿（八年制临床医学）加入课题组。
@@ -19,7 +19,7 @@ title: News
 <strong><font color="green">Sep 2023</font></strong>: 余光创受邀Wiley科研访谈 
 + [1.实验中有哪些技巧](https://app6sjglueg4184.h5.xiaoeknow.com/p/course/audio/a_654b2d17e4b04c100fc3f2e3?entry=2&entry_type=2002&product_id=p_61407031e4b0dfaf7fa3bc5f)
 + [2.如何发表实验室指南](https://app6sjglueg4184.h5.xiaoeknow.com/p/course/audio/a_6555ad8fe4b04c103862599c?product_id=p_61407031e4b0dfaf7fa3bc5f)
-+ [3.]()
++ [3.优化实验流程](https://app6sjglueg4184.h5.xiaoeknow.com/p/course/audio/a_65683770e4b04c100fcb3ffa?product_id=p_61407031e4b0dfaf7fa3bc5f)
 
 <strong><font color="green">Aug 2023</font></strong>: 🌹 温少迪（博士生）通过联合培养加入课题组。
 
