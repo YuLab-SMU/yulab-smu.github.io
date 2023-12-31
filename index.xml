@@ -105,6 +105,18 @@ Address: 广州市沙太南路1023号南方医科大学生命科学楼10楼生�
     </item>
     
     <item>
+      <title>Data Visualization</title>
+      <link>http://yulab-smu.top/contribution-data-visualization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://yulab-smu.top/contribution-data-visualization/</guid>
+      <description>1. A Grammar of Graphics for base plot Link to heading plotbb
+2. Align plots with axis reconciliation Link to heading aplot
+3. Supports image files and graphic objects in &amp;lsquo;ggplot2&amp;rsquo; Link to heading ggimage
+4. Text halos on plot lables Link to heading shadowtext, meme</description>
+    </item>
+    
+    <item>
       <title>Documents</title>
       <link>http://yulab-smu.top/documents/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
