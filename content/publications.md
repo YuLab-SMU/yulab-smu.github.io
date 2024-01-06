@@ -30,11 +30,13 @@ title: Publications
 </tr>
 </table>
 
+## <i class="fa fa-calendar fa-1x" aria-hidden="true"></i> 2024
 
++ hello world
 
 ## <i class="fa fa-calendar fa-1x" aria-hidden="true"></i> 2023
 
-
++ X Zhang, B Liang, Y Huang, H Meng, Z Li, J Du, L Zhou, Y Zhong, B Wang, X Lin, __G Yu__, X Chen, W Lu, ZS Chen, X Yang, Z Huang<sup>\*</sup>. [Behind the Indolent Facade: Uncovering the Molecular Features and Malignancy Potential in Lung Minimally Invasive Adenocarcinoma by Single-Cell Transcriptomics](https://doi.org/10.1002/advs.202303753). __*Advanced Science*__. 2023, 10(36):2303753. 
 + M Kang, F Lin, Z Jiang, X Tan, X Lin, Z Liang, C Xiao, Y Xia, W Guan, Z Yang, __G Yu__, M Zanin, S Tang<sup>\*</sup>, SS Wong<sup>\*</sup>. [The impact of pre-existing influenza antibodies and inflammatory status on the influenza vaccine responses in older adults](https://onlinelibrary.wiley.com/doi/abs/10.1111/irv.13172). __*Influenza and Other Respiratory Viruses*__. 2023, 17(7):e13172.
 + W Tang, H Zheng, S Xu, P Li, L Zhan, X Luo, Z Dai, Q Wang, __G Yu__<sup>\*</sup>. [MMINP: A computational framework of microbe-Metabolite interactions-based metabolic profiles predictor based on the O2-PLS algorithm](https://dx.doi.org/10.1080/19490976.2023.2223349). __*Gut Microbes*__. 2023, 15(1):2223349.
 + __余光创（著）__, 李林, 罗晓（译）. R实战：系统发育树的数据集成操作及可视化. __*电子工业出版社*__, 2023. ISBN: [9787121451829](https://u.jd.com/uu7G4qC)  [<i class="fa fa-book fa-2x" aria-hidden="true" style="color:black;font-size: 150%;"></i>](/images/treedata-jd-top1.jpg)
