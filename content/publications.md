@@ -32,7 +32,7 @@ title: Publications
 
 ## <i class="fa fa-calendar fa-1x" aria-hidden="true"></i> 2024
 
-+ S Wen, S Mo,J Zhou, Y Lv, K Khazaie<sup>\*</sup>, __G Yu__<sup>\*</sup>. [Editorials: Single-Cell and Spatial-Omics in Delineating Immune-Related Diseases](https://doi.org/10.3389/fcell.2024.1365242). __*Frontiers in Cell and Developmental Biology*__. 2024, 12:1365242.
++ S Wen, S Mo, J Zhou, Y Lv, K Khazaie<sup>\*</sup>, __G Yu__<sup>\*</sup>. [Editorial: Single-cell and spatial-omics in delineating immune-related diseases](https://www.frontiersin.org/articles/10.3389/fcell.2024.1365242/full). __*Frontiers in Cell and Developmental Biology*__. 2024, 12:1365242.
 
 
 ## <i class="fa fa-calendar fa-1x" aria-hidden="true"></i> 2023

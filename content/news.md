@@ -3,6 +3,9 @@ slug: news
 title: News
 ---
 
+
+<strong><font color="green">Jan 2024</font></strong>: 周烺的文章（Briefings in Bioinformatics 2022）入选ESI高被引论文。
+
 <strong><font color="green">Dec 2023</font></strong>: 陆军军医大学刘迪博士生到本课题组进修。
 
 <strong><font color="green">Nov 2023</font></strong>: 余光创入选全球高被引科学家，南方医科大学十年来实现零突破。
