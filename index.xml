@@ -76,15 +76,6 @@ Workshop资料可在线获取：https://yulab-smu.top/MicrobiotaProcessWorkshop/
     </item>
     
     <item>
-      <title>Award</title>
-      <link>http://yulab-smu.top/award/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://yulab-smu.top/award/</guid>
-      <description>一言九顶 (Highly cited): 文章入选ESI高被引论文 周烺 (Briefings in Bioinformatics 2022) </description>
-    </item>
-    
-    <item>
       <title>Biological Knowledge Mining and Discovery</title>
       <link>http://yulab-smu.top/contribution-knowledge-mining/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -254,6 +245,19 @@ ls -la </description>
       <guid>http://yulab-smu.top/about/</guid>
       <description>Research Interest Link to heading Microecological Analysis and Intervention Link to heading Analysis and intervention of gut microecology in patients with polycystic ovary syndrome based on phage-bacteria-human host interaction (supported by the National Science Foundation of China, No. 32270677).
 Bioinformaitcs tool development Link to heading The research group has developed a variety of widely recognized bioinformatics tools in the fields of biomedical knowledge mining and knowledge discovery (e.g., clusterProfiler), phylogenetic data integration and visualization (e.</description>
+    </item>
+    
+    <item>
+      <title>课题组学术奖</title>
+      <link>http://yulab-smu.top/award/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://yulab-smu.top/award/</guid>
+      <description>课题组的一点点壮大是成员们一起努力，劲往一处使的结果。这里我们记录成员们的成长历程，优秀的成员一定是具有强大的自驱力和执行力的，相信在大家共同的努力下，课题组一定会取得更大的成绩。
+学术新星 (Rising star): 在小子刊或影响因子大于20分的期刊发表文章
+徐双斌 (The Innovation 2023) 暂露头角 (Emergence): 在一区或影响因子大于10分的期刊发表文章
+唐文丽 (Gut Microbes 2023) 徐双斌 (Molecular Biology and Evolution 2021) 一言九顶 (Highly cited): 文章入选ESI高被引论文
+周烺 (Briefings in Bioinformatics 2022) </description>
     </item>
     
   </channel>

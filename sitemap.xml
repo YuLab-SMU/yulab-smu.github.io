@@ -94,8 +94,6 @@
   </url><url>
     <loc>http://yulab-smu.top/authors/</loc>
   </url><url>
-    <loc>http://yulab-smu.top/award/</loc>
-  </url><url>
     <loc>http://yulab-smu.top/contribution-knowledge-mining/</loc>
   </url><url>
     <loc>http://yulab-smu.top/categories/</loc>
@@ -127,5 +125,7 @@
     <loc>http://yulab-smu.top/contribution-tree-data/</loc>
   </url><url>
     <loc>http://yulab-smu.top/about/</loc>
+  </url><url>
+    <loc>http://yulab-smu.top/award/</loc>
   </url>
 </urlset>
