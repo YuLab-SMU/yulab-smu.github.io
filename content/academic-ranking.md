@@ -1,10 +1,10 @@
 ---
-slug: award
+slug: awards
 title: '课题组学术榜'
 ---
 
 
-课题组的一点点壮大是成员们一起努力，劲往一处使的结果。这里我们记录成员们的成长历程，优秀的成员一定是具有强大的自驱力和执行力的，相信在大家共同的努力下，课题组一定会取得更大的成绩。
+课题组的一点点壮大是大家一起努力，劲往一处使的结果。这里我们记录团队成员的成长历程，优秀的成员一定是具有强大的自驱力和执行力的，相信在大家共同的努力下，课题组一定会取得更好的成绩。
 
 <!-- 
 参考：https://ee.nju.edu.cn/awardH.htm
@@ -16,8 +16,10 @@ title: '课题组学术榜'
 
 + 暂露头角 (Emergence): 在一区或影响因子大于10分的期刊发表文章
     - 唐文丽 (Gut Microbes 2023)
+    - 周烺 (Briefings in Bioinformatics 2022)
     - 徐双斌 (Molecular Biology and Evolution 2021)
-
+    - 余光创 (Molecular Biology and Evolution 2018)
+    
 + 一言九顶 (Highly cited): 文章入选ESI高被引论文
     - 周烺 (Briefings in Bioinformatics 2022)
-
+    - 余光创 (Molecular Biology and Evolution 2018)
