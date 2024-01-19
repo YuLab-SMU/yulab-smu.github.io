@@ -24,6 +24,8 @@ title: News
 + [2.如何发表实验室指南](https://app6sjglueg4184.h5.xiaoeknow.com/p/course/audio/a_6555ad8fe4b04c103862599c?product_id=p_61407031e4b0dfaf7fa3bc5f)
 + [3.优化实验流程](https://app6sjglueg4184.h5.xiaoeknow.com/p/course/audio/a_65683770e4b04c100fcb3ffa?product_id=p_61407031e4b0dfaf7fa3bc5f)
 
+<strong><font color="green">Sep 2023</font></strong>: 🌹 朱鸿远（博士生）加入课题组。
+
 <strong><font color="green">Aug 2023</font></strong>: 🌹 温少迪（博士生）通过联合培养加入课题组。
 
 <strong><font color="green">Jul 2023</font></strong>: 博士后徐双斌在第一届CGM线下沙龙做学术报告。
