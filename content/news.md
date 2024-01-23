@@ -3,6 +3,7 @@ slug: news
 title: News
 ---
 
+<strong><font color="green">Jan 2024</font></strong>: 发表一篇专刊[Single-Cell and Spatial-Omics in Delineating Immune-Related Diseases](https://www.frontiersin.org/research-topics/42143)的Editorial文章，恭喜温少迪。
 
 <strong><font color="green">Jan 2024</font></strong>: 周烺的文章（Briefings in Bioinformatics 2022）入选ESI高被引论文。
 
