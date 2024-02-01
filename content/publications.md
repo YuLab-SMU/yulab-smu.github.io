@@ -32,6 +32,8 @@ title: Publications
 
 ## <i class="fa fa-calendar fa-1x" aria-hidden="true"></i> 2024
 
++ Y Ye<sup>#</sup>, MH Shum<sup>#</sup>, JL Tsui<sup>#</sup>, __G Yu__<sup>#</sup>, DK Smith, H Zhu, JT Wu, Y Guan, TTY Lam<sup>\*</sup>. [Robust expansion of phylogeny for fast-growing genome sequence data](). __*PLOS Computational Biology*__. Accepted
++ CH Gao, C Chen, T Akyol, A Dusa, __G Yu__, B Cao, P Cai<sup>\*</sup>. [ggVennDiagram: intuitive Venn diagram software extended](). __*iMeta*__. Accepted
 + S Wen, S Mo, J Zhou, Y Lv, K Khazaie<sup>\*</sup>, __G Yu__<sup>\*</sup>. [Editorial: Single-cell and spatial-omics in delineating immune-related diseases](https://www.frontiersin.org/articles/10.3389/fcell.2024.1365242/full). __*Frontiers in Cell and Developmental Biology*__. 2024, 12:1365242.
 
 

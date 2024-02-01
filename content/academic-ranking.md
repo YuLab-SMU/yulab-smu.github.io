@@ -8,13 +8,19 @@ title: '课题组学术榜'
 
 <!-- 
 参考：https://ee.nju.edu.cn/awardH.htm
+
++ 学术之巅 (The Everest): 在CNS等正刊上发表论文
++ 天才少年 (Hotshot): 在大子刊上发表论文
++ 首开先河 (Pathfinder): 首次在课题组未曾突破的子刊上发表论文
++ 封面故事 (Cover story): 论文被期刊选为封面文章
++ 舌战群儒 (Battle star): 经过多于5名审稿人评审并最终获得接收
 -->
 
 
 + 学术新星 (Rising star): 在小子刊或影响因子大于20分的期刊发表文章
     - 徐双斌 (The Innovation 2023)
 
-+ 暂露头角 (Emergence): 在一区或影响因子大于10分的期刊发表文章
++ 崭露头角 (Emergence): 在一区或影响因子大于10分的期刊发表文章
     - 唐文丽 (Gut Microbes 2023)
     - 周烺 (Briefings in Bioinformatics 2022)
     - 徐双斌 (Molecular Biology and Evolution 2021)
