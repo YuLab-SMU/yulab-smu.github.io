@@ -121,8 +121,6 @@ title: News
 
 <strong><font color="green">Dec 2021</font></strong>: 恭喜陈玫君在2021年南方医科大学实验室安全微视频创作大赛中荣获二等奖。
 
-<strong><font color="green">Nov 2021</font></strong>: 胡二强受邀请在[Bioconductor亚洲区年会](https://biocasia2021.bioconductor.org/)上做专题报告，介绍*clusterProfiler* 4.0版本的新特性。
-
 <strong><font color="green">Nov 2021</font></strong>: *ggbreak*包实现了与*ggplot2*语法无缝衔接的坐标轴截断功能，发表在***Frontiers in Genetics***期刊 ([link](https://www.frontiersin.org/articles/10.3389/fgene.2021.774846/full))， 恭喜徐双斌和陈玫君。
 
 <strong><font color="green">Oct 2021</font></strong>: 余光创入选全球前2%顶尖科学家榜单（World’s Top 2% Scientists）“<strong>终身科学影响力</strong>”（career-long impact）和“<strong>年度科学影响力</strong>”（single recent year impact）排行榜（[link](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/3))。
@@ -135,7 +133,7 @@ title: News
 
 <strong><font color="green">Sep 2021</font></strong>: 🌹 欢迎李林、谢子敬和谢汶琴加入YuLab。恭喜汶琴获得推免生奖学金。
 
-<strong><font color="green">Aug 2021</font></strong>: *clusterProfiler*发布4.0版本，文章发表于***The Innovation***期刊 ([link](https://doi.org/10.1016/j.xinn.2021.100141))，恭喜吴天志和胡二强。
+<strong><font color="green">Aug 2021</font></strong>: *clusterProfiler*发布4.0版本，文章发表于***The Innovation***期刊 ([link](https://doi.org/10.1016/j.xinn.2021.100141))，恭喜吴天志。
 
 <strong><font color="green">Jun 2021</font></strong>: 陈玫君同学参加南方医科大学学生抗疫服务队，支援广州市白云区大规模核酸采样。
 
@@ -151,7 +149,7 @@ title: News
 
 <strong><font color="green">Oct 2020</font></strong>: 余光创受邀请在[Bioconductor亚洲区年会](https://biocasia2020.bioconductor.org/)上做专题报告，介绍系统发育数据整合与可视化方面的工作；二年级博士生徐双斌在Workshop环节介绍使用课题组开发的MicrobiotaProcess分析宏基因组数据。
 
-<strong><font color="green">Sep 2020</font></strong>: 🌹 欢迎吴天志、胡二强、唐文丽、陈玫君和詹历加入YuLab。
+<strong><font color="green">Sep 2020</font></strong>: 🌹 欢迎吴天志、唐文丽、陈玫君和詹历加入YuLab。
 
 <strong><font color="green">Mar 2020</font></strong>: 受William Pearson教授的邀请，在***Current Protocols in Bioinformatics***期刊上发表*ggtree*文章，通过实例介绍*ggtree*的使用 ([link](https://doi.org/10.1002/cpbi.96))
 
