@@ -3,6 +3,8 @@ slug: news
 title: News
 ---
 
+<strong><font color="green">Feb 2024</font></strong>: 📝🎉 用于探索时间和其它发育信号的软件包*ShinyTempSignal*发表于***Journal of Genetics and Genomics***期刊 ([link]())，恭喜詹历、罗晓、谢玟琴和朱炫安（2018级生信本科生）。
+
 <strong><font color="green">Jan 2024</font></strong>: 发表一篇专刊[Single-Cell and Spatial-Omics in Delineating Immune-Related Diseases](https://www.frontiersin.org/research-topics/42143)的Editorial文章，恭喜温少迪。
 
 <strong><font color="green">Jan 2024</font></strong>: 周烺的文章（Briefings in Bioinformatics 2022）入选ESI高被引论文。
@@ -70,14 +72,14 @@ title: News
 <strong><font color="green">Jan 2023</font></strong>: 🎉 陈玫君被录取为硕博连读研究生。
 
 <strong><font color="green">Dec 2022</font></strong>: 软件著作权获批：
-+ “多序列比对和相关数据的可视化探索工具--ggmsa软件[简称：ggmsa]1.2.3”（软著登字第10529672号）。
++ "多序列比对和相关数据的可视化探索工具--ggmsa软件[简称：ggmsa]1.2.3"（软著登字第10529672号）。
 
 <strong><font color="green">Nov 2022</font></strong>: 软件著作权获批：
-+ “GeoTcgaDat软件[简称：GeoTcgaData]1.1.1”（软著登字第10523614号）。
++ "GeoTcgaDat软件[简称：GeoTcgaData]1.1.1"（软著登字第10523614号）。
 
 <strong><font color="green">Oct 2022</font></strong>: 两项软件著作权获批:
-+ 基于图形语法的和弦图可视化软件包-ggcircos软件[简称：ggcircos]V1.0”（软著登字第10352956号）
-+ “MOBEx--多组学整合探索生物标记物云平台[简称：MOBEx]V1.0”（软著登字第10352924号）
++ "基于图形语法的和弦图可视化软件包-ggcircos软件[简称：ggcircos]V1.0"（软著登字第10352956号）
++ "MOBEx--多组学整合探索生物标记物云平台[简称：MOBEx]V1.0"（软著登字第10352924号）
 
 <strong><font color="green">Oct 2022</font></strong>: 📝🎉 *clusterProfiler*4.0版本([link](https://doi.org/10.1016/j.xinn.2021.100141))引用过千，这也是***The Innovation***期刊首篇引用过千的文章，同时也是YuLab以南方医科大学为通讯单位所发表的文章中首篇引用过千的文章。
 
