@@ -32,7 +32,7 @@ title: Publications
 
 ## <i class="fa fa-calendar fa-1x" aria-hidden="true"></i> 2024
 
-+ L Zhan<sup>#</sup>, X Luo<sup>#</sup>, W Xie<sup>#</sup>, XA Zhu<sup>#</sup>, Z Xie, J Lin, L Li, W Tang, R Wang, L Deng, Y Liao, B Liu, Y Cai, Q Wang, S Xu<sup>\*</sup>, __G Yu__<sup>\*</sup>. [shinyTempSignal: an R shiny application for exploring temporal and other phylogenetic signals](). __*Journal of Genetics and Genomics*__. 2024, Accepted.
++ L Zhan<sup>#</sup>, X Luo<sup>#</sup>, W Xie<sup>#</sup>, XA Zhu<sup>#</sup>, Z Xie, J Lin, L Li, W Tang, R Wang, L Deng, Y Liao, B Liu, Y Cai, Q Wang, S Xu<sup>\*</sup>, __G Yu__<sup>\*</sup>. [shinyTempSignal: an R shiny application for exploring temporal and other phylogenetic signals](https://www.sciencedirect.com/science/article/pii/S167385272400033X). __*Journal of Genetics and Genomics*__. 2024, doi:10.1016/j.jgg.2024.02.004.
 + CH Gao, C Chen, T Akyol, A Dusa, __G Yu__, B Cao, P Cai<sup>\*</sup>. [ggVennDiagram: intuitive Venn diagram software extended](https://onlinelibrary.wiley.com/doi/10.1002/imt2.177). __*iMeta*__. 2024, 3(1):e177.
 + Y Ye<sup>#</sup>, MH Shum<sup>#</sup>, JL Tsui<sup>#</sup>, __G Yu__<sup>#</sup>, DK Smith, H Zhu, JT Wu, Y Guan, TTY Lam<sup>\*</sup>. [Robust expansion of phylogeny for fast-growing genome sequence data](https://doi.org/10.1371/journal.pcbi.1011871). __*PLoS Computational Biology*__. 2024, 20(2):e1011871.
 + S Wen, S Mo, J Zhou, Y Lv, K Khazaie<sup>\*</sup>, __G Yu__<sup>\*</sup>. [Editorial: Single-cell and spatial-omics in delineating immune-related diseases](https://www.frontiersin.org/articles/10.3389/fcell.2024.1365242/full). __*Frontiers in Cell and Developmental Biology*__. 2024, 12:1365242.
