@@ -3,7 +3,7 @@ slug: news
 title: News
 ---
 
-<strong><font color="green">Feb 2024</font></strong>: 📝🎉 用于探索时间和其它发育信号的软件包*ShinyTempSignal*发表于***Journal of Genetics and Genomics***期刊 ([link]())，恭喜詹历、罗晓、谢玟琴和朱炫安（2018级生信本科生）。
+<strong><font color="green">Feb 2024</font></strong>: 📝🎉 用于探索时间和其它发育信号的软件包*ShinyTempSignal*发表于***Journal of Genetics and Genomics***期刊 (Links: [article](https://www.sciencedirect.com/science/article/pii/S167385272400033X), [JGG遗传学报公众号报道(https://mp.weixin.qq.com/s/5Mr-HYY3ZPnlZ6uhPt4YtA))，恭喜詹历、罗晓、谢玟琴和朱炫安（2018级生信本科生）。
 
 <strong><font color="green">Jan 2024</font></strong>: 发表一篇专刊[Single-Cell and Spatial-Omics in Delineating Immune-Related Diseases](https://www.frontiersin.org/research-topics/42143)的Editorial文章，恭喜温少迪。
 
@@ -39,13 +39,13 @@ title: News
 
 <strong><font color="green">Jun 2023</font></strong>: 🌠🎉 恭喜唐文丽荣获南方医科大学2023届“优秀毕业研究生”荣誉称号。
 
-<strong><font color="green">Jun 2023</font></strong>: 📝🎉 通过微生物组预测代谢物的软件包*MMINP*发表于***Gut Microbes***期刊 ([link](https://dx.doi.org/10.1080/19490976.2023.2223349))，恭喜唐文丽。
+<strong><font color="green">Jun 2023</font></strong>: 📝🎉 通过微生物组预测代谢物的软件包*MMINP*发表于***Gut Microbes***期刊 (Links: [article](https://dx.doi.org/10.1080/19490976.2023.2223349), [TandF学术公众号报道](https://mp.weixin.qq.com/s/oyc_zGTfYUVEALqpBtmU0w))，恭喜唐文丽。
 
 <strong><font color="green">Jun 2023</font></strong>: 🎉 2022年影响因子发布，The Innovation期刊获得首个影响因子 (32.1，11月校正后为33.1)，课题组发表的[文章](https://doi.org/10.1016/j.xinn.2021.100141) 为期刊的影响因子贡献了9+分。
 
 <strong><font color="green">Jun 2023</font></strong>: 课题组进行K歌团建，现有成员、往届毕业学生和今年入学的新生一共23人，齐聚一堂，欢唱6个小时。
 
-<strong><font color="green">May 2023</font></strong>: 余光创在2023肠道大会iMeta作者论坛上作特邀报告。
+<strong><font color="green">May 2023</font></strong>: 余光创在2023肠道大会iMeta作者论坛上作特邀报告（[PPT](https://mp.weixin.qq.com/s/7b6sPiKbLZ7ZsixhOySjqg)）。
 
 <strong><font color="green">May 2023</font></strong>: 🎉 恭喜吴天志顺利通过博士生答辩，恭喜郭平凡和唐文丽顺利通过硕士生答辩。
 
@@ -63,7 +63,7 @@ title: News
 
 <strong><font color="green">Mar 2023</font></strong>: 🌹 祝贺廖俞凡（初试第一名）通过研究生第一轮复试，加入课题组。 
 
-<strong><font color="green">Mar 2023</font></strong>: 📝🎉 用于微生物组的软件包*MicrobiotaProcess*发表于***The Innovation***期刊 ([link](https://doi.org/10.1016/j.xinn.2023.100388))，恭喜徐双斌。
+<strong><font color="green">Mar 2023</font></strong>: 📝🎉 用于微生物组的软件包*MicrobiotaProcess*发表于***The Innovation***期刊 (Links: [article](https://doi.org/10.1016/j.xinn.2023.100388), [TheInnovation创新公众号报道](https://mp.weixin.qq.com/s/72FcGdLnY3-eMMEotD22Jg))，恭喜徐双斌。
 
 <strong><font color="green">Feb 2023</font></strong>: 📝🎉 专刊《Computational and systematic analysis of multi-omics data for drug discovery and development》发表[编委社论文章](https://www.frontiersin.org/articles/10.3389/fmed.2023.1146896/full)，成功收关。
 
@@ -90,6 +90,9 @@ title: News
 <strong><font color="green">Oct 2022</font></strong>: 余光创入选全球前2%顶尖科学家榜单（World’s Top 2% Scientists）“<strong>终身科学影响力</strong>”（career-long impact）和“<strong>年度科学影响力</strong>”（single recent year impact）排行榜（[link 1](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/4) & [2](http://www.smu.edu.cn/info/1139/15995.htm))。
 
 <strong><font color="green">Oct 2022</font></strong>: 恭喜吴天志获得博士研究生国家奖学金。
+
+<strong><font color="green">Sep 2022</font></strong>: 提出用于系统发育树及相关数据存储与可视化的数据结构，文章发表于***iMeta***期刊 (Links: [article](https://onlinelibrary.wiley.com/doi/full/10.1002/imt2.56), [iMeta公众号报道](https://mp.weixin.qq.com/s/-512I6XAxTpUS7pkgb5nwg))，恭喜徐双斌。
+
 
 <strong><font color="green">Sep 2022</font></strong>: 🌹 欢迎利铭和罗晓加入YuLab，两人均通过推免进入本课题组。
 
@@ -135,7 +138,7 @@ title: News
 
 <strong><font color="green">Sep 2021</font></strong>: 🌹 欢迎李林、谢子敬和谢汶琴加入YuLab。恭喜汶琴获得推免生奖学金。
 
-<strong><font color="green">Aug 2021</font></strong>: *clusterProfiler*发布4.0版本，文章发表于***The Innovation***期刊 ([link](https://doi.org/10.1016/j.xinn.2021.100141))，恭喜吴天志。
+<strong><font color="green">Aug 2021</font></strong>: *clusterProfiler*发布4.0版本，文章发表于***The Innovation***期刊 (Links: [article](https://doi.org/10.1016/j.xinn.2021.100141), [TheInnovation创新公众号报道](https://mp.weixin.qq.com/s/kVEr9qY0x8Ef3LOX4Wt9FQ))，恭喜吴天志。
 
 <strong><font color="green">Jun 2021</font></strong>: 陈玫君同学参加南方医科大学学生抗疫服务队，支援广州市白云区大规模核酸采样。
 
