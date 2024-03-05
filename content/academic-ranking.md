@@ -26,13 +26,17 @@ title: '课题组学术榜'
     - 徐双斌 (Molecular Biology and Evolution 2021)
     - 余光创 (Molecular Biology and Evolution 2018)
 
+<!--
 + 最靓的仔 (Highlighted): 论文被期刊选为亮点文章
     - 吴天志 (The Innovation 2021, [2021-8-24 Cell网站横幅](https://yulab-smu.top/images/cell+press-screenshot-2021-08-24.jpg))
     - 余光创 (Methods in Ecology and Evolution 2017, [入选MEE期刊创刊10周年十篇代表作](https://methodsblog.com/2020/11/19/ggtree-tree-visualization/))
+-->
 
 + 一言九顶 (Highly cited): 文章入选ESI高被引论文
     - 周烺 (Briefings in Bioinformatics 2022)
     - 余光创 (Molecular Biology and Evolution 2018)
+
+<!--
     - 余光创 (Methods in Ecology and Evolution 2017)
     - 余光创 (Molecular BioSystems 2016)
     - 余光创 (Bioinformatics 2015a)
@@ -42,4 +46,6 @@ title: '课题组学术榜'
 + 流量王者 (News story): 论文发表后获得媒体报道
     - 余光创 (OMICS: A Journal of Integrative Biology 2012, [2011-2021年我国高被引论文中被引次数最高的10篇国际论文](https://yulab-smu.top/images/knowledge-mining/2021-top10.png)（来源：中国科学技术信息研究所2021年中国科技论文统计报告发布会）)
 
+
+-->
 
