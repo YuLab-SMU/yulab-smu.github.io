@@ -5,6 +5,7 @@
     <link>http://yulab-smu.top/categories/</link>
     <description>Recent content in Categories on YuLab@SMU</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://yulab-smu.top/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <atom:link href="http://yulab-smu.top/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

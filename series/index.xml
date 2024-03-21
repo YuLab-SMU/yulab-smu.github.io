@@ -6,51 +6,42 @@
     <description>Recent content in Series on YuLab@SMU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://yulab-smu.top/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://yulab-smu.top/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>paper</title>
+      <title>Paper</title>
       <link>http://yulab-smu.top/series/paper/</link>
       <pubDate>Tue, 24 Aug 2021 00:00:00 +0000</pubDate>
-      
       <guid>http://yulab-smu.top/series/paper/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>software</title>
+      <title>Software</title>
       <link>http://yulab-smu.top/series/software/</link>
       <pubDate>Tue, 24 Aug 2021 00:00:00 +0000</pubDate>
-      
       <guid>http://yulab-smu.top/series/software/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>award</title>
+      <title>Award</title>
       <link>http://yulab-smu.top/series/award/</link>
       <pubDate>Sun, 25 Apr 2021 00:00:00 +0000</pubDate>
-      
       <guid>http://yulab-smu.top/series/award/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>highlight</title>
+      <title>Highlight</title>
       <link>http://yulab-smu.top/series/highlight/</link>
       <pubDate>Fri, 25 Dec 2020 00:00:00 +0000</pubDate>
-      
       <guid>http://yulab-smu.top/series/highlight/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>presentation</title>
+      <title>Presentation</title>
       <link>http://yulab-smu.top/series/presentation/</link>
       <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
-      
       <guid>http://yulab-smu.top/series/presentation/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

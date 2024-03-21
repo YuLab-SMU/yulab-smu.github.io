@@ -6,256 +6,154 @@
     <description>Recent content on YuLab@SMU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://yulab-smu.top/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://yulab-smu.top/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>文章发表：clusterProfiler 4.0 -- The Innovation</title>
       <link>http://yulab-smu.top/posts/clusterprofiler4/</link>
       <pubDate>Tue, 24 Aug 2021 00:00:00 +0000</pubDate>
-      
       <guid>http://yulab-smu.top/posts/clusterprofiler4/</guid>
-      <description>生物信息学软件很多都死在故纸堆里，发表文章之后，就走向毁灭，这叫publish and perish。clusterProfiler之所以能够成功，因为我对它充满感情，10年如一日地维护，而且自2012年发表一篇文章以来，虽然软件一直在更新，但我一直没有再发一版。时隔9年，我终于再写一版，而且是把论文写在祖国大地上，clusterProfiler 4.0发表在中科院青促会主办的期刊The Innovation 😍 。这是对我过去10年的维护更新的一次总结，你看之前的文章的话，很多功能你是不知道的，而且确实很多用户不清楚，这是所有clusterProfiler用户必读的一篇文献。
-clusterProfiler4.0同步支持最新版GO和KEGG数据，支持数千物种的功能分析，应对不同来源的基因功能注释（如cell markers, COVID-19等）提供了通用的分析方法，适用各类组学数据（RNA-seq, ChIP-seq, Methyl-seq, scRNA-seq…）。新版本尤其实现多组数据间自由比较，如不同条件、处理等，并内置系列流行辅助工具，如数据处理包dplyr、可视化包ggplot2等，方便分析人员用熟悉的方式自由探索，实现数据高效解读。目前，clusterProfiler已被整合进超过30个的同行分析软件中，助力不同场景下的功能分析，相信clusterProfiler4.0未来将发挥更大的作用，助力研究者更高效地解读生物医学数据及建立更可靠的机制假说。
-T Wu#, E Hu#, S Xu, M Chen, P Guo, Z Dai, T Feng, L Zhou, W Tang, L Zhan, X Fu, S Liu, X Bo*, G Yu*. clusterProfiler 4.0: A universal enrichment tool for interpreting omics data. The Innovation. 2021, 2(3):100141. &amp;ndash;&amp;gt; 文章详细的中文解读，请猛击《The Innovation | clusterProfiler：聚焦海量组学数据核心生物学意义》
-文章于2021年8月24日被cell主页选为banner：</description>
+      <description>生物信息学软件很多都死在故纸堆里，发表文章之后，就走向毁灭，这叫publish and perish。clusterProfiler之所以能够成功，因为我对它充满感情，10年如一日地维护，而且自2012年发表一篇文章以来，虽然软件一直在更新，但我一直没有再发一版。时隔9年，我终于再写一版，而且是把论文写在祖国大地上，clusterProfiler 4.0发表在中科院青促会主办的期刊The Innovation 😍 。这是对我过去10年的维护更新的一次总结，你看之前的文章的话，很多功能你是不知道的，而且确实很多用户不清楚，这是所有clusterProfiler用户必读的一篇文献。&#xA;clusterProfiler4.0同步支持最新版GO和KEGG数据，支持数千物种的功能分析，应对不同来源的基因功能注释（如cell markers, COVID-19等）提供了通用的分析方法，适用各类组学数据（RNA-seq, ChIP-seq, Methyl-seq, scRNA-seq…）。新版本尤其实现多组数据间自由比较，如不同条件、处理等，并内置系列流行辅助工具，如数据处理包dplyr、可视化包ggplot2等，方便分析人员用熟悉的方式自由探索，实现数据高效解读。目前，clusterProfiler已被整合进超过30个的同行分析软件中，助力不同场景下的功能分析，相信clusterProfiler4.0未来将发挥更大的作用，助力研究者更高效地解读生物医学数据及建立更可靠的机制假说。&#xA;T Wu#, E Hu#, S Xu, M Chen, P Guo, Z Dai, T Feng, L Zhou, W Tang, L Zhan, X Fu, S Liu, X Bo*, G Yu*. clusterProfiler 4.0: A universal enrichment tool for interpreting omics data. The Innovation. 2021, 2(3):100141. &amp;ndash;&amp;gt; 文章详细的中文解读，请猛击《The Innovation | clusterProfiler：聚焦海量组学数据核心生物学意义》&#xA;文章于2021年8月24日被cell主页选为banner：</description>
     </item>
-    
     <item>
       <title>YuLab发布坐标轴截断R包：ggbreak</title>
       <link>http://yulab-smu.top/posts/ggbreak/</link>
       <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
-      
       <guid>http://yulab-smu.top/posts/ggbreak/</guid>
-      <description>坐标轴截断在生物医学论文中，是一种处理Figure的常用手段，由于数据的分布不呈现正态，有些数据特别大，而大部分的数据又比较小，这样画出来的图没法看，如果数据是呈现log normal分布的话，可以通过对数转换来解决，但数据不一定符合某种分布，通过数据转换不一定能解决问题，有时候数据只是单纯有些outliers而已。比如在系统发育树上，如果我们引入一个外类分支（outgroup)，这个外类分支的支长就可能特别长（当然系统发育树本身可能某种原因也会有分支特别长的情况），这样对可视化带来很大的问题，树的整体会因为特别长的分支被压缩到无法看清主体的树结构。这种情况在别的图形中也是可能出现的，截断是一种很好的解决方案。
-截断图如果通过操作数据来达到目标是不可取的，因为它只能针对简单的图，诸如柱状图等，对于复杂的图，因为数据变了，图就会变。所以最好的方法就是在原图上设置窗口，把中间要截掉的那块拿走，然后拼在一起，借由拿走的那块，为图的细节部分增加空间，所以本质上是拼图，而且使用拼图，对任何图形都可适用。
-别人的解决方案都是简单粗暴地拼图，一拼图就死了，没拼之前，你可以继续加图层，但你看不清楚细节部分，你把图画出来一看，看不清楚你自己加的图层效果怎么样（比如说柱状图上加标记p值）。你截断图之后，看是看得清了，但你没法再加图层了，因为图被搞死了。
-针对这样的问题，我们开发了ggbreak包，图一画，有outlier，先截断，然后在看清楚细节的情况下，可以继续用ggplot2的语法，继续搞事。</description>
+      <description>坐标轴截断在生物医学论文中，是一种处理Figure的常用手段，由于数据的分布不呈现正态，有些数据特别大，而大部分的数据又比较小，这样画出来的图没法看，如果数据是呈现log normal分布的话，可以通过对数转换来解决，但数据不一定符合某种分布，通过数据转换不一定能解决问题，有时候数据只是单纯有些outliers而已。比如在系统发育树上，如果我们引入一个外类分支（outgroup)，这个外类分支的支长就可能特别长（当然系统发育树本身可能某种原因也会有分支特别长的情况），这样对可视化带来很大的问题，树的整体会因为特别长的分支被压缩到无法看清主体的树结构。这种情况在别的图形中也是可能出现的，截断是一种很好的解决方案。&#xA;截断图如果通过操作数据来达到目标是不可取的，因为它只能针对简单的图，诸如柱状图等，对于复杂的图，因为数据变了，图就会变。所以最好的方法就是在原图上设置窗口，把中间要截掉的那块拿走，然后拼在一起，借由拿走的那块，为图的细节部分增加空间，所以本质上是拼图，而且使用拼图，对任何图形都可适用。&#xA;别人的解决方案都是简单粗暴地拼图，一拼图就死了，没拼之前，你可以继续加图层，但你看不清楚细节部分，你把图画出来一看，看不清楚你自己加的图层效果怎么样（比如说柱状图上加标记p值）。你截断图之后，看是看得清了，但你没法再加图层了，因为图被搞死了。&#xA;针对这样的问题，我们开发了ggbreak包，图一画，有outlier，先截断，然后在看清楚细节的情况下，可以继续用ggplot2的语法，继续搞事。</description>
     </item>
-    
     <item>
       <title>余光创入选2020全球前2%顶尖科学家榜单</title>
       <link>http://yulab-smu.top/posts/2020-top-2-percent/</link>
       <pubDate>Sun, 25 Apr 2021 00:00:00 +0000</pubDate>
-      
       <guid>http://yulab-smu.top/posts/2020-top-2-percent/</guid>
-      <description>日前，美国斯坦福大学发布了全球前2%顶尖科学家榜单（World&amp;rsquo;s Top 2% Scientists 2020）。南方医科大学生物信息学系主任余光创入选2020全球前2%顶尖科学家“年度影响力”榜单。
-该榜单由斯坦福大学John P. A. Ioannidis教授团队与Elsevier旗下Mendeley Data发布。榜单以Scopus数据库为依据，基于引用次数、H因子、HM因子等综合指标，根据其“生涯影响力”和“年度影响力”从近700 万名科学家中遴选出世界排名前2%的科学家，分为22个领域和176个细分子领域。
-数据来源：Data for &amp;ldquo;Updated science-wide author databases of standardized citation indicators&amp;rdquo;</description>
+      <description>日前，美国斯坦福大学发布了全球前2%顶尖科学家榜单（World&amp;rsquo;s Top 2% Scientists 2020）。南方医科大学生物信息学系主任余光创入选2020全球前2%顶尖科学家“年度影响力”榜单。&#xA;该榜单由斯坦福大学John P. A. Ioannidis教授团队与Elsevier旗下Mendeley Data发布。榜单以Scopus数据库为依据，基于引用次数、H因子、HM因子等综合指标，根据其“生涯影响力”和“年度影响力”从近700 万名科学家中遴选出世界排名前2%的科学家，分为22个领域和176个细分子领域。&#xA;数据来源：Data for &amp;ldquo;Updated science-wide author databases of standardized citation indicators&amp;rdquo;</description>
     </item>
-    
     <item>
       <title>余光创入选2020年中国高被引学者</title>
       <link>http://yulab-smu.top/posts/ygc-highly-cited/</link>
       <pubDate>Sat, 24 Apr 2021 00:00:00 +0000</pubDate>
-      
       <guid>http://yulab-smu.top/posts/ygc-highly-cited/</guid>
-      <description>4月22日，全球性信息分析公司爱思唯尔(Elsevier)正式公布了2020年中国高被引学者(Highly Cited Chinese Researchers)榜单。来自全国373所高校、企业和科研机构的4023名学者入选该榜单。
-南方医科大学共有8名学者入围该榜单。南方医科大学基础医学院生物信息学系主任余光创教授在生物医学工程学科入围该榜单。</description>
+      <description>4月22日，全球性信息分析公司爱思唯尔(Elsevier)正式公布了2020年中国高被引学者(Highly Cited Chinese Researchers)榜单。来自全国373所高校、企业和科研机构的4023名学者入选该榜单。&#xA;南方医科大学共有8名学者入围该榜单。南方医科大学基础医学院生物信息学系主任余光创教授在生物医学工程学科入围该榜单。</description>
     </item>
-    
     <item>
       <title>ggtree入选MEE期刊10周年纪念</title>
       <link>http://yulab-smu.top/posts/ggtree-2017-mee/</link>
       <pubDate>Fri, 25 Dec 2020 00:00:00 +0000</pubDate>
-      
       <guid>http://yulab-smu.top/posts/ggtree-2017-mee/</guid>
-      <description>2017年我还在香港大学读博士期间发表了ggtree的第一篇文章，发表在Methods in Ecology and Evolution期刊上，ggtree发表之后，我受邀请去Field Museum做报告，由NIH项目The Open Tree of Life资助，另外在2019年我还受到William Pearson教授的邀请，为Current Protocols in Bioinformatics撰写一文介绍ggtree，可以看出来这项工作还是在业内引起比较大的关注的。
-今年2020年是MEE期刊创刊10周年，期刊庆祝10周年的一项活动是在每一卷中找一篇代表作，邀请作者写一写文章背后的故事，而ggtree有幸做为第八卷的代表，我写了一篇文章发表在MEE官方博客上，https://methodsblog.com/2020/11/19/ggtree-tree-visualization/，详细地介绍了开发这一R包的背景，以及后面的发展。
-在后面也介绍了我在南方医科大学独立运作一个课题组之后发表的两篇文章：
-LG Wang, TTY Lam, S Xu, Z Dai, L Zhou, T Feng, P Guo, CW Dunn, BR Jones, T Bradley, H Zhu, Y Guan, Y Jiang, G Yu*. treeio: an R package for phylogenetic tree input and output with richly annotated and associated data. Molecular Biology and Evolution. 2020, 37(2):599-603. G Yu*, TTY Lam, H Zhu, Y Guan*.</description>
+      <description>2017年我还在香港大学读博士期间发表了ggtree的第一篇文章，发表在Methods in Ecology and Evolution期刊上，ggtree发表之后，我受邀请去Field Museum做报告，由NIH项目The Open Tree of Life资助，另外在2019年我还受到William Pearson教授的邀请，为Current Protocols in Bioinformatics撰写一文介绍ggtree，可以看出来这项工作还是在业内引起比较大的关注的。&#xA;今年2020年是MEE期刊创刊10周年，期刊庆祝10周年的一项活动是在每一卷中找一篇代表作，邀请作者写一写文章背后的故事，而ggtree有幸做为第八卷的代表，我写了一篇文章发表在MEE官方博客上，https://methodsblog.com/2020/11/19/ggtree-tree-visualization/，详细地介绍了开发这一R包的背景，以及后面的发展。&#xA;在后面也介绍了我在南方医科大学独立运作一个课题组之后发表的两篇文章：&#xA;LG Wang, TTY Lam, S Xu, Z Dai, L Zhou, T Feng, P Guo, CW Dunn, BR Jones, T Bradley, H Zhu, Y Guan, Y Jiang, G Yu*. treeio: an R package for phylogenetic tree input and output with richly annotated and associated data. Molecular Biology and Evolution. 2020, 37(2):599-603. G Yu*, TTY Lam, H Zhu, Y Guan*.</description>
     </item>
-    
     <item>
       <title>余光创等在Bioconductor亚洲区年会做报告</title>
       <link>http://yulab-smu.top/posts/biocasia-2020/</link>
       <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
-      
       <guid>http://yulab-smu.top/posts/biocasia-2020/</guid>
-      <description>应Julie Zhu教授的邀请，余光创在Bioconductor亚洲区年会上做报告（Invited Talk），介绍系统发育数据整合与可视化，介绍了课题组开发的tidytree, treeio和ggtree等几个软件包。
-在workshop环节，徐双斌（课题组博士二年级学生）介绍了使用课题组开发的MicrobiotaProcess对宏基因组数据进行分析和可视化。
-Workshop资料可在线获取：https://yulab-smu.top/MicrobiotaProcessWorkshop/</description>
+      <description>应Julie Zhu教授的邀请，余光创在Bioconductor亚洲区年会上做报告（Invited Talk），介绍系统发育数据整合与可视化，介绍了课题组开发的tidytree, treeio和ggtree等几个软件包。&#xA;在workshop环节，徐双斌（课题组博士二年级学生）介绍了使用课题组开发的MicrobiotaProcess对宏基因组数据进行分析和可视化。&#xA;Workshop资料可在线获取：https://yulab-smu.top/MicrobiotaProcessWorkshop/</description>
     </item>
-    
     <item>
       <title>Biological Knowledge Mining and Discovery</title>
       <link>http://yulab-smu.top/contribution-knowledge-mining/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://yulab-smu.top/contribution-knowledge-mining/</guid>
-      <description></description>
+      <description>&#xD;</description>
     </item>
-    
     <item>
       <title>Contact</title>
       <link>http://yulab-smu.top/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://yulab-smu.top/contact/</guid>
-      <description>招收生物信息学硕士生、博士生和博士后，欢迎咨询；同时也欢迎联系科研合作。
-Email: guangchuangyu AT gmail.com
-Address: 广州市沙太南路1023号南方医科大学生命科学楼10楼生物信息学系</description>
+      <description>招收生物信息学硕士生、博士生和博士后，欢迎咨询；同时也欢迎联系科研合作。&#xA;Email: guangchuangyu AT gmail.com&#xA;Address: 广州市沙太南路1023号南方医科大学生命科学楼10楼生物信息学系</description>
     </item>
-    
     <item>
       <title>Contributions</title>
       <link>http://yulab-smu.top/contributions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://yulab-smu.top/contributions/</guid>
       <description>Tree Data Integration Link to heading A series of methods and software tools have been proposed and developed for the operation, integration, and visualization of trees and data. This includes (1) the introduction of graphic grammar into the field of phylogeny for the first time, (2) enhancing the data integration ability of phylogenetics and its application in different disciplines, (3) proposing two universal methods for phylogenetic data integration and visualization, and (4) designing data structures that can store phylogenetic trees, related data, and visualization directives to ensure analytical reproducibility.</description>
     </item>
-    
     <item>
       <title>Data Visualization</title>
       <link>http://yulab-smu.top/contribution-data-visualization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://yulab-smu.top/contribution-data-visualization/</guid>
-      <description>1. A Grammar of Graphics for base plot Link to heading plotbb
-2. Align plots with axis reconciliation Link to heading aplot
-3. Supports image files and graphic objects in &amp;lsquo;ggplot2&amp;rsquo; Link to heading ggimage
-4. Text halos on plot lables Link to heading shadowtext, meme</description>
+      <description>1. A Grammar of Graphics for base plot Link to heading plotbb&#xA;2. Align plots with axis reconciliation Link to heading aplot&#xA;3. Supports image files and graphic objects in &amp;lsquo;ggplot2&amp;rsquo; Link to heading ggimage&#xA;4. Text halos on plot lables Link to heading shadowtext, meme</description>
     </item>
-    
     <item>
       <title>Documents</title>
       <link>http://yulab-smu.top/documents/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://yulab-smu.top/documents/</guid>
       <description>Books Link to heading Yu G. Biomedical Knowledge Mining using GOSemSim and clusterProfiler Yu G. Data Integration, Manipulation and Visualization of Phylogenetic Trees Yu G. Gene Ontology Semantic Similarity Analysis Using GOSemSim. In: Kidder B. (eds) Stem Cell Transcriptional Networks. Methods in Molecular Biology, 2020, 2117:207-215. Humana, New York, NY. 余光创, &amp;ldquo;生物信息学II&amp;rdquo;, 《功能蛋白质研究》, 385-425, 何庆瑜 (主编), 科学出版社, 2012. (&amp;ldquo;十二五&amp;quot;国家重点图书出版规划项目) Workshops Link to heading Microbiome dataset analysis using MicrobiotaProcess (BiocAsia 2020) Pathway Analysis (invited workshop for PhD course, University of Southern Denmark) Supplemental Files Link to heading ggtree protocols &amp;ndash; Supplemental file of Current Protocols in Bioinformatics, 2020 Plotting tree with data &amp;ndash; Supplemental file of Molecular Biology and Evolution, 2018.</description>
     </item>
-    
     <item>
       <title>First snippet</title>
       <link>http://yulab-smu.top/snippets/first/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://yulab-smu.top/snippets/first/</guid>
-      <description>This content is in snippets/first/index.md
-pwd </description>
+      <description>This content is in snippets/first/index.md&#xA;pwd </description>
     </item>
-    
     <item>
       <title>Members</title>
       <link>http://yulab-smu.top/members/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://yulab-smu.top/members/</guid>
-      <description>Guangchuang Yu（余光创）, Phd.
-Professor, PI &amp; Director
-Department of Bioinformatics, School of Basic Medical Sciences, Southern Medical University
-Qianwen Wang, Phd.
-Lecturer
-Shuangbin Xu, Phd.
-Post-doctoral fellow
-Bingdong Liu, Phd.
-Post-doctoral fellow
-Yantong Cai, Phd.
-Post-doctoral fellow
-Shaodi Wen
-PhD Student
-Hongyuan Zhu
-PhD Student
-Li Zhan
-Master Student
-Zijing Xie
-Master Student Lin Li
-Master Student
-Wenqin Xie
-Master Student
-Xiao Luo
-Master Student
-Ming Li
-Master Student</description>
+      <description>Guangchuang Yu（余光创）, Phd.&#xA;Professor, PI &amp; Director&#xA;Department of Bioinformatics, School of Basic Medical Sciences, Southern Medical University&#xA;Qianwen Wang, Phd.&#xA;Lecturer&#xA;Shuangbin Xu, Phd.&#xA;Post-doctoral fellow&#xA;Bingdong Liu, Phd.&#xA;Post-doctoral fellow&#xA;Yantong Cai, Phd.&#xA;Post-doctoral fellow&#xA;Shaodi Wen&#xA;PhD Student&#xA;Hongyuan Zhu&#xA;PhD Student&#xA;Li Zhan&#xA;Master Student&#xA;Zijing Xie&#xA;Master Student Lin Li&#xA;Master Student&#xA;Wenqin Xie&#xA;Master Student&#xA;Xiao Luo&#xA;Master Student&#xA;Ming Li&#xA;Master Student</description>
     </item>
-    
     <item>
       <title>News</title>
       <link>http://yulab-smu.top/news/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://yulab-smu.top/news/</guid>
-      <description>Feb 2024: 📝🎉 用于探索时间和其它发育信号的软件包ShinyTempSignal发表于Journal of Genetics and Genomics期刊 (Links: article, JGG遗传学报公众号报道)，恭喜詹历、罗晓、谢玟琴和朱炫安（2018级生信本科生）。
-Jan 2024: 发表一篇专刊Single-Cell and Spatial-Omics in Delineating Immune-Related Diseases的Editorial文章，恭喜温少迪。
-Jan 2024: 周烺的文章（Briefings in Bioinformatics 2022）入选ESI高被引论文。
-Dec 2023: 陆军军医大学刘迪博士生到本课题组进修。
-Nov 2023: 余光创入选全球高被引科学家，南方医科大学十年来实现零突破。 Nov 2023: 李俊睿（八年制临床医学）加入课题组。
-Nov 2023: 恭喜周烺获得2023年硕士研究生国家奖学金。
-Oct 2023: 余光创入选全球前2%顶尖科学家榜单（World’s Top 2% Scientists）“终身科学影响力”（career-long impact）（全球排名36188）和“年度科学影响力”（single recent year impact）排行榜（全球排名744）。生物信息领域中国地区学者终身科学影响力排名第3，年度科学影响力排名第1。
-重磅！生物信息领域中国地区学者入围2023年斯坦福全球前2%顶尖科学家完整榜单 12+54！我校多名学者入选2023年全球前2%顶尖科学家榜单 Sep 2023: 余光创受邀Wiley科研访谈
-1.实验中有哪些技巧 2.如何发表实验室指南 3.优化实验流程 Sep 2023: 🌹 朱鸿远（博士生）加入课题组。
-Aug 2023: 🌹 温少迪（博士生）通过联合培养加入课题组。
-Jul 2023: 博士后徐双斌在第一届CGM线下沙龙做学术报告。
-Jul 2023: 佛山市第一人民医院郑慧敏博士后到本课题组进修。</description>
+      <description>Feb 2024: 📝🎉 用于探索时间和其它发育信号的软件包ShinyTempSignal发表于Journal of Genetics and Genomics期刊 (Links: article, JGG遗传学报公众号报道)，恭喜詹历、罗晓、谢玟琴和朱炫安（2018级生信本科生）。&#xA;Jan 2024: 发表一篇专刊Single-Cell and Spatial-Omics in Delineating Immune-Related Diseases的Editorial文章，恭喜温少迪。&#xA;Jan 2024: 周烺的文章（Briefings in Bioinformatics 2022）入选ESI高被引论文。&#xA;Dec 2023: 陆军军医大学刘迪博士生到本课题组进修。&#xA;Nov 2023: 余光创入选全球高被引科学家，南方医科大学十年来实现零突破。 Nov 2023: 李俊睿（八年制临床医学）加入课题组。&#xA;Nov 2023: 王荻霏（南方医院临床本科）加入课题组。&#xA;Nov 2023: 恭喜周烺获得2023年硕士研究生国家奖学金。&#xA;Oct 2023: 余光创入选全球前2%顶尖科学家榜单（World’s Top 2% Scientists）“终身科学影响力”（career-long impact）（全球排名36188）和“年度科学影响力”（single recent year impact）排行榜（全球排名744）。生物信息领域中国地区学者终身科学影响力排名第3，年度科学影响力排名第1。&#xA;重磅！生物信息领域中国地区学者入围2023年斯坦福全球前2%顶尖科学家完整榜单 12+54！我校多名学者入选2023年全球前2%顶尖科学家榜单 Sep 2023: 余光创受邀Wiley科研访谈&#xA;1.实验中有哪些技巧 2.如何发表实验室指南 3.优化实验流程 Sep 2023: 通过Google Summer of Code (GSoC，谷歌代码之夏) 指导Jigyasa Gupta进行clusterProfiler的开发，以支持Pathway Commons。&#xA;GSoC’23 @ NRNB : Week 1 Experience GSoC’23 @ NRNB : Getting the data GSoC’23 @ NRNB : Week 3 (Data Extraction) GSoC’23 @ NRNB : Week 4 ( Data Extraction and Preparation) GSoC’23 @ NRNB : Week 5 (Over-Representation Analysis) GSoC’23 @ NRNB : Week 6 (Gene Set Enrichment Analysis) GSoC’23 @ NRNB : ssGSEA in clusterProfiler Sep 2023: 🌹 朱鸿远（博士生）加入课题组。</description>
     </item>
-    
     <item>
       <title>Projects</title>
       <link>http://yulab-smu.top/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://yulab-smu.top/projects/</guid>
       <description>Nothing to see here&amp;hellip; Move along!</description>
     </item>
-    
     <item>
       <title>Publications</title>
       <link>http://yulab-smu.top/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://yulab-smu.top/publications/</guid>
-      <description># Co-first authors * Co-corresponding authors ：ESI Highly Cited Paper (9X) 分区：文章发表当年的中科院小类分区 IF：文章发表当年的影响因子 2024 Link to heading L Zhan#, X Luo#, W Xie#, XA Zhu#, Z Xie, J Lin, L Li, W Tang, R Wang, L Deng, Y Liao, B Liu, Y Cai, Q Wang, S Xu*, G Yu*. shinyTempSignal: an R shiny application for exploring temporal and other phylogenetic signals. Journal of Genetics and Genomics. 2024, doi:10.1016/j.jgg.2024.02.004. CH Gao, C Chen, T Akyol, A Dusa, G Yu, B Cao, P Cai*.</description>
+      <description># Co-first authors * Co-corresponding authors ：ESI Highly Cited Paper (9X) 分区：文章发表当年的中科院小类分区 IF：文章发表当年的影响因子 2024 Link to heading L Li, W Xie, L Zhan, S Wen, X Luo, S Xu, Y Cai, W Tang, Q Wang, M Li, Z Xie, L Deng, H Zhu, G Yu*. Resolving Tumor Evolution: A Phylogenetic Approach. Journal of the National Cancer Center. 2024, accepted. L Zhan#, X Luo#, W Xie#, XA Zhu#, Z Xie, J Lin, L Li, W Tang, R Wang, L Deng, Y Liao, B Liu, Y Cai, Q Wang, S Xu*, G Yu*.</description>
     </item>
-    
     <item>
       <title>Second snippet</title>
       <link>http://yulab-smu.top/snippets/second/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://yulab-smu.top/snippets/second/</guid>
-      <description>This content is in snippets/second/index.md
-ls -la </description>
+      <description>This content is in snippets/second/index.md&#xA;ls -la </description>
     </item>
-    
     <item>
       <title>Software</title>
       <link>http://yulab-smu.top/software/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://yulab-smu.top/software/</guid>
       <description>Infectious disease and Epidemiology Link to heading nCov2019: An R package for exploring COVID-19 statistics seqcombo: Visualization Tool for Sequence Recombination and Reassortment Knowledge mining Link to heading clusterProfiler: Statistical analysis and visualization of functional profiles for genes and gene clusters DOSE: Disease Ontology Semantic and Enrichment analysis enrichplot: Visualization of Functional Enrichment Result gson: Base Class and Methods for &amp;lsquo;gson&amp;rsquo; Format GOSemSim: GO-terms Semantic Similarity Measures HDO.db: A set of annotation maps describing the entire Human Disease Ontology meshes: MeSH Enrichment and Semantic analyses ReactomePA: Reactome Pathway Analysis Microbiome Link to heading MicrobiotaProcess: Analysis, visualization and biomarker discovery of microbiome MMINP: Microbe-Metabolite INteractions-based metabolic profiles Predictor OMICS data analysis Link to heading ChIPseeker: ChIP peak Annotation, Comparison, and Visualization GeoTcgaData: Processing various types of data on GEO and TCGA Sequence analysis Link to heading ggmsa: Plot mutiple sequence alignment using &amp;lsquo;ggplot2&amp;rsquo; seqmagick: Sequence Manipulation Utilities Tree Data integration and visualization Link to heading ggtree: Visualization of tree and annotation data ggtreeDendro: Drawing &amp;lsquo;dendrogram&amp;rsquo; using &amp;lsquo;ggtree&amp;rsquo; ggtreeExtra: Phylogenetic tree data annotation shinyTempSignal: Explore Temporal Signal of Molecular Phylogenies tidytree: A Tidy Tool for Phylogenetic Tree Data Manipulation treeio: Base Classes and Functions for Phylogenetic Tree Input and Output Visualization Link to heading aplot: Decorating a plot with associated information emojifont: Emoji and Font Awesome in Graphics ggbreak: An implementation of scale functions for setting axis breaks of a &amp;lsquo;gg&amp;rsquo; plot.</description>
     </item>
-    
     <item>
       <title>Tree Data Integration</title>
       <link>http://yulab-smu.top/contribution-tree-data/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://yulab-smu.top/contribution-tree-data/</guid>
       <description>A series of methods and software tools have been proposed and developed for the operation, integration, and visualization of trees and data. This includes (1) the introduction of graphic grammar into the field of phylogeny for the first time, (2) enhancing the data integration ability of phylogenetics and its application in different disciplines, (3) proposing two universal methods for phylogenetic data integration and visualization, and (4) designing data structures that can store phylogenetic trees, related data, and visualization directives to ensure analytical reproducibility.</description>
     </item>
-    
     <item>
       <title>YuLab@SMU</title>
       <link>http://yulab-smu.top/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://yulab-smu.top/about/</guid>
-      <description>Research Interest Link to heading Microecological Analysis and Intervention Link to heading Analysis and intervention of gut microecology in patients with polycystic ovary syndrome based on phage-bacteria-human host interaction (supported by the National Science Foundation of China, No. 32270677).
-Bioinformaitcs tool development Link to heading The research group has developed a variety of widely recognized bioinformatics tools in the fields of biomedical knowledge mining and knowledge discovery (e.g., clusterProfiler), phylogenetic data integration and visualization (e.</description>
+      <description>Research Interest Link to heading Microecological Analysis and Intervention Link to heading Analysis and intervention of gut microecology in patients with polycystic ovary syndrome based on phage-bacteria-human host interaction (supported by the National Science Foundation of China, No. 32270677).&#xA;Bioinformaitcs tool development Link to heading The research group has developed a variety of widely recognized bioinformatics tools in the fields of biomedical knowledge mining and knowledge discovery (e.g., clusterProfiler), phylogenetic data integration and visualization (e.</description>
     </item>
-    
     <item>
       <title>课题组学术榜</title>
       <link>http://yulab-smu.top/awards/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://yulab-smu.top/awards/</guid>
-      <description>课题组的一点点壮大是大家一起努力，劲往一处使的结果。这里我们记录团队成员的成长历程，优秀的成员一定是具有强大的自驱力和执行力的，相信在大家共同的努力下，课题组一定会取得更好的成绩。
-学术新星 (Rising star): 在小子刊或影响因子大于20分的期刊发表文章
-徐双斌 (The Innovation 2023) 崭露头角 (Emergence): 在一区或影响因子大于10分的期刊发表文章
-唐文丽 (Gut Microbes 2023) 周烺 (Briefings in Bioinformatics 2022) 徐双斌 (Molecular Biology and Evolution 2021) 余光创 (Molecular Biology and Evolution 2018) 一言九顶 (Highly cited): 文章入选ESI高被引论文 周烺 (Briefings in Bioinformatics 2022) 余光创 (Molecular Biology and Evolution 2018) </description>
+      <description>课题组的一点点壮大是大家一起努力，劲往一处使的结果。这里我们记录团队成员的成长历程，优秀的成员一定是具有强大的自驱力和执行力的，相信在大家共同的努力下，课题组一定会取得更好的成绩。&#xA;学术新星 (Rising star): 在小子刊或影响因子大于20分的期刊发表文章&#xA;徐双斌 (The Innovation 2023) 崭露头角 (Emergence): 在一区或影响因子大于10分的期刊发表文章&#xA;唐文丽 (Gut Microbes 2023) 周烺 (Briefings in Bioinformatics 2022) 徐双斌 (Molecular Biology and Evolution 2021) 余光创 (Molecular Biology and Evolution 2018) 一言九顶 (Highly cited): 文章入选ESI高被引论文 周烺 (Briefings in Bioinformatics 2022) 余光创 (Molecular Biology and Evolution 2018) </description>
     </item>
-    
   </channel>
 </rss>

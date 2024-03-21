@@ -1,35 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>R-package on YuLab@SMU</title>
+    <title>R-Package on YuLab@SMU</title>
     <link>http://yulab-smu.top/tags/r-package/</link>
-    <description>Recent content in R-package on YuLab@SMU</description>
+    <description>Recent content in R-Package on YuLab@SMU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://yulab-smu.top/tags/r-package/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://yulab-smu.top/tags/r-package/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>文章发表：clusterProfiler 4.0 -- The Innovation</title>
       <link>http://yulab-smu.top/posts/clusterprofiler4/</link>
       <pubDate>Tue, 24 Aug 2021 00:00:00 +0000</pubDate>
-      
       <guid>http://yulab-smu.top/posts/clusterprofiler4/</guid>
-      <description>生物信息学软件很多都死在故纸堆里，发表文章之后，就走向毁灭，这叫publish and perish。clusterProfiler之所以能够成功，因为我对它充满感情，10年如一日地维护，而且自2012年发表一篇文章以来，虽然软件一直在更新，但我一直没有再发一版。时隔9年，我终于再写一版，而且是把论文写在祖国大地上，clusterProfiler 4.0发表在中科院青促会主办的期刊The Innovation 😍 。这是对我过去10年的维护更新的一次总结，你看之前的文章的话，很多功能你是不知道的，而且确实很多用户不清楚，这是所有clusterProfiler用户必读的一篇文献。
-clusterProfiler4.0同步支持最新版GO和KEGG数据，支持数千物种的功能分析，应对不同来源的基因功能注释（如cell markers, COVID-19等）提供了通用的分析方法，适用各类组学数据（RNA-seq, ChIP-seq, Methyl-seq, scRNA-seq…）。新版本尤其实现多组数据间自由比较，如不同条件、处理等，并内置系列流行辅助工具，如数据处理包dplyr、可视化包ggplot2等，方便分析人员用熟悉的方式自由探索，实现数据高效解读。目前，clusterProfiler已被整合进超过30个的同行分析软件中，助力不同场景下的功能分析，相信clusterProfiler4.0未来将发挥更大的作用，助力研究者更高效地解读生物医学数据及建立更可靠的机制假说。
-T Wu#, E Hu#, S Xu, M Chen, P Guo, Z Dai, T Feng, L Zhou, W Tang, L Zhan, X Fu, S Liu, X Bo*, G Yu*. clusterProfiler 4.0: A universal enrichment tool for interpreting omics data. The Innovation. 2021, 2(3):100141. &amp;ndash;&amp;gt; 文章详细的中文解读，请猛击《The Innovation | clusterProfiler：聚焦海量组学数据核心生物学意义》
-文章于2021年8月24日被cell主页选为banner：</description>
+      <description>生物信息学软件很多都死在故纸堆里，发表文章之后，就走向毁灭，这叫publish and perish。clusterProfiler之所以能够成功，因为我对它充满感情，10年如一日地维护，而且自2012年发表一篇文章以来，虽然软件一直在更新，但我一直没有再发一版。时隔9年，我终于再写一版，而且是把论文写在祖国大地上，clusterProfiler 4.0发表在中科院青促会主办的期刊The Innovation 😍 。这是对我过去10年的维护更新的一次总结，你看之前的文章的话，很多功能你是不知道的，而且确实很多用户不清楚，这是所有clusterProfiler用户必读的一篇文献。&#xA;clusterProfiler4.0同步支持最新版GO和KEGG数据，支持数千物种的功能分析，应对不同来源的基因功能注释（如cell markers, COVID-19等）提供了通用的分析方法，适用各类组学数据（RNA-seq, ChIP-seq, Methyl-seq, scRNA-seq…）。新版本尤其实现多组数据间自由比较，如不同条件、处理等，并内置系列流行辅助工具，如数据处理包dplyr、可视化包ggplot2等，方便分析人员用熟悉的方式自由探索，实现数据高效解读。目前，clusterProfiler已被整合进超过30个的同行分析软件中，助力不同场景下的功能分析，相信clusterProfiler4.0未来将发挥更大的作用，助力研究者更高效地解读生物医学数据及建立更可靠的机制假说。&#xA;T Wu#, E Hu#, S Xu, M Chen, P Guo, Z Dai, T Feng, L Zhou, W Tang, L Zhan, X Fu, S Liu, X Bo*, G Yu*. clusterProfiler 4.0: A universal enrichment tool for interpreting omics data. The Innovation. 2021, 2(3):100141. &amp;ndash;&amp;gt; 文章详细的中文解读，请猛击《The Innovation | clusterProfiler：聚焦海量组学数据核心生物学意义》&#xA;文章于2021年8月24日被cell主页选为banner：</description>
     </item>
-    
     <item>
       <title>YuLab发布坐标轴截断R包：ggbreak</title>
       <link>http://yulab-smu.top/posts/ggbreak/</link>
       <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
-      
       <guid>http://yulab-smu.top/posts/ggbreak/</guid>
-      <description>坐标轴截断在生物医学论文中，是一种处理Figure的常用手段，由于数据的分布不呈现正态，有些数据特别大，而大部分的数据又比较小，这样画出来的图没法看，如果数据是呈现log normal分布的话，可以通过对数转换来解决，但数据不一定符合某种分布，通过数据转换不一定能解决问题，有时候数据只是单纯有些outliers而已。比如在系统发育树上，如果我们引入一个外类分支（outgroup)，这个外类分支的支长就可能特别长（当然系统发育树本身可能某种原因也会有分支特别长的情况），这样对可视化带来很大的问题，树的整体会因为特别长的分支被压缩到无法看清主体的树结构。这种情况在别的图形中也是可能出现的，截断是一种很好的解决方案。
-截断图如果通过操作数据来达到目标是不可取的，因为它只能针对简单的图，诸如柱状图等，对于复杂的图，因为数据变了，图就会变。所以最好的方法就是在原图上设置窗口，把中间要截掉的那块拿走，然后拼在一起，借由拿走的那块，为图的细节部分增加空间，所以本质上是拼图，而且使用拼图，对任何图形都可适用。
-别人的解决方案都是简单粗暴地拼图，一拼图就死了，没拼之前，你可以继续加图层，但你看不清楚细节部分，你把图画出来一看，看不清楚你自己加的图层效果怎么样（比如说柱状图上加标记p值）。你截断图之后，看是看得清了，但你没法再加图层了，因为图被搞死了。
-针对这样的问题，我们开发了ggbreak包，图一画，有outlier，先截断，然后在看清楚细节的情况下，可以继续用ggplot2的语法，继续搞事。</description>
+      <description>坐标轴截断在生物医学论文中，是一种处理Figure的常用手段，由于数据的分布不呈现正态，有些数据特别大，而大部分的数据又比较小，这样画出来的图没法看，如果数据是呈现log normal分布的话，可以通过对数转换来解决，但数据不一定符合某种分布，通过数据转换不一定能解决问题，有时候数据只是单纯有些outliers而已。比如在系统发育树上，如果我们引入一个外类分支（outgroup)，这个外类分支的支长就可能特别长（当然系统发育树本身可能某种原因也会有分支特别长的情况），这样对可视化带来很大的问题，树的整体会因为特别长的分支被压缩到无法看清主体的树结构。这种情况在别的图形中也是可能出现的，截断是一种很好的解决方案。&#xA;截断图如果通过操作数据来达到目标是不可取的，因为它只能针对简单的图，诸如柱状图等，对于复杂的图，因为数据变了，图就会变。所以最好的方法就是在原图上设置窗口，把中间要截掉的那块拿走，然后拼在一起，借由拿走的那块，为图的细节部分增加空间，所以本质上是拼图，而且使用拼图，对任何图形都可适用。&#xA;别人的解决方案都是简单粗暴地拼图，一拼图就死了，没拼之前，你可以继续加图层，但你看不清楚细节部分，你把图画出来一看，看不清楚你自己加的图层效果怎么样（比如说柱状图上加标记p值）。你截断图之后，看是看得清了，但你没法再加图层了，因为图被搞死了。&#xA;针对这样的问题，我们开发了ggbreak包，图一画，有outlier，先截断，然后在看清楚细节的情况下，可以继续用ggplot2的语法，继续搞事。</description>
     </item>
-    
   </channel>
 </rss>
