@@ -16,6 +16,8 @@ title: News
 
 <strong><font color="green">Nov 2023</font></strong>: 李俊睿（八年制临床医学）加入课题组。
 
+<strong><font color="green">Nov 2023</font></strong>: 王荻霏（南方医院临床本科）加入课题组。
+
 <strong><font color="green">Nov 2023</font></strong>: 恭喜周烺获得2023年硕士研究生国家奖学金。
 
 <strong><font color="green">Oct 2023</font></strong>: 余光创入选全球前2%顶尖科学家榜单（World’s Top 2% Scientists）“<strong>终身科学影响力</strong>”（career-long impact）（全球排名36188）和“<strong>年度科学影响力</strong>”（single recent year impact）排行榜（全球排名744）。生物信息领域中国地区学者终身科学影响力排名第3，年度科学影响力排名第1。
@@ -26,6 +28,15 @@ title: News
 + [1.实验中有哪些技巧](https://app6sjglueg4184.h5.xiaoeknow.com/p/course/audio/a_654b2d17e4b04c100fc3f2e3?entry=2&entry_type=2002&product_id=p_61407031e4b0dfaf7fa3bc5f)
 + [2.如何发表实验室指南](https://app6sjglueg4184.h5.xiaoeknow.com/p/course/audio/a_6555ad8fe4b04c103862599c?product_id=p_61407031e4b0dfaf7fa3bc5f)
 + [3.优化实验流程](https://app6sjglueg4184.h5.xiaoeknow.com/p/course/audio/a_65683770e4b04c100fcb3ffa?product_id=p_61407031e4b0dfaf7fa3bc5f)
+
+<strong><font color="green">Sep 2023</font></strong>: 通过Google Summer of Code (GSoC，谷歌代码之夏) 指导Jigyasa Gupta进行clusterProfiler的开发，以支持Pathway Commons。
++ [GSoC’23 @ NRNB : Week 1 Experience](https://medium.com/@jigyasatata/gsoc23-nrnb-week-1-experience-6cafe95dde8f)
++ [GSoC’23 @ NRNB : Getting the data](https://medium.com/@jigyasatata/gsoc23-nrnb-week-2-experience-cfcc8e4eefaa)
++ [GSoC’23 @ NRNB : Week 3 (Data Extraction)](https://medium.com/@jigyasatata/gsoc23-nrnb-week-3-data-extraction-eb60c465b26d)
++ [GSoC’23 @ NRNB : Week 4 ( Data Extraction and Preparation)](https://medium.com/@jigyasatata/gsoc23-nrnb-week-4-data-extraction-and-preparation-3113156a9f0a)
++ [GSoC’23 @ NRNB : Week 5 (Over-Representation Analysis)](https://medium.com/@jigyasatata/gsoc23-nrnb-week-5-data-extraction-13f3284e228c)
++ [GSoC’23 @ NRNB : Week 6 (Gene Set Enrichment Analysis)](https://medium.com/@jigyasatata/gsoc23-nrnb-week-6-gene-set-enrichment-analysis-98ca8eb09dcd)
++ [GSoC’23 @ NRNB : ssGSEA in clusterProfiler](https://medium.com/@jigyasatata/gsoc23-nrnb-ssgsea-in-clusterprofiler-1e199240d542)
 
 <strong><font color="green">Sep 2023</font></strong>: 🌹 朱鸿远（博士生）加入课题组。
 
