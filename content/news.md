@@ -3,9 +3,13 @@ slug: news
 title: News
 ---
 
-<strong><font color="green">Mar 2024</font></strong>: “通过系统发育方法来解析肿瘤演化”，综述文章发表于**_Journal of the National Cancer Center_**期刊（Linkes: [article](https://www.sciencedirect.com/science/article/pii/S2667005424000206)），恭喜李林。
+<strong><font color="green">Mar 2024</font></strong>: 洪一凡和刘婉彤两位同学通过研究生复试，加入课题组。 
 
-<strong><font color="green">Feb 2024</font></strong>: 📝🎉 用于探索时间和其它发育信号的软件包*ShinyTempSignal*发表于***Journal of Genetics and Genomics***期刊 (Links: [article](https://www.sciencedirect.com/science/article/pii/S167385272400033X), [JGG遗传学报公众号报道](https://mp.weixin.qq.com/s/5Mr-HYY3ZPnlZ6uhPt4YtA))，恭喜詹历、罗晓、谢玟琴和朱炫安（2018级生信本科生）。
+<strong><font color="green">Mar 2024</font></strong>: 🎉 余光创入选爱思唯尔2023年中国高被引学者，连续4年入选。
+
+<strong><font color="green">Mar 2024</font></strong>: 📝 “通过系统发育方法来解析肿瘤演化”，综述文章发表于**_Journal of the National Cancer Center_**期刊（Linkes: [article](https://www.sciencedirect.com/science/article/pii/S2667005424000206)，[JNCC癌症科学进展公众号报道](https://mp.weixin.qq.com/s/WMNEGRwUBJgRYvIFbBpLOA)），恭喜李林。
+
+<strong><font color="green">Feb 2024</font></strong>: 📝 用于探索时间和其它发育信号的软件包*ShinyTempSignal*发表于***Journal of Genetics and Genomics***期刊 (Links: [article](https://www.sciencedirect.com/science/article/pii/S167385272400033X), [JGG遗传学报公众号报道](https://mp.weixin.qq.com/s/5Mr-HYY3ZPnlZ6uhPt4YtA))，恭喜詹历、罗晓、谢玟琴和朱炫安（2018级生信本科生）。
 
 <strong><font color="green">Jan 2024</font></strong>: 发表一篇专刊[Single-Cell and Spatial-Omics in Delineating Immune-Related Diseases](https://www.frontiersin.org/research-topics/42143)的Editorial文章，恭喜温少迪。
 
