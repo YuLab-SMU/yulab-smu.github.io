@@ -11,7 +11,7 @@ title: News
 
 <strong><font color="green">Feb 2024</font></strong>: 📝 用于探索时间和其它发育信号的软件包*ShinyTempSignal*发表于***Journal of Genetics and Genomics***期刊 (Links: [article](https://www.sciencedirect.com/science/article/pii/S167385272400033X), [JGG遗传学报公众号报道](https://mp.weixin.qq.com/s/5Mr-HYY3ZPnlZ6uhPt4YtA))，恭喜詹历、罗晓、谢玟琴和朱炫安（2018级生信本科生）。
 
-<strong><font color="green">Jan 2024</font></strong>: 发表一篇专刊[Single-Cell and Spatial-Omics in Delineating Immune-Related Diseases](https://www.frontiersin.org/research-topics/42143)的Editorial文章，恭喜温少迪。
+<strong><font color="green">Jan 2024</font></strong>: 📝 发表一篇专刊[Single-Cell and Spatial-Omics in Delineating Immune-Related Diseases](https://www.frontiersin.org/research-topics/42143)的Editorial文章，恭喜温少迪。
 
 <strong><font color="green">Jan 2024</font></strong>: 博士后蔡炎彤通过南方医科大学皮肤病医院入站。
 
@@ -19,7 +19,7 @@ title: News
 
 <strong><font color="green">Dec 2023</font></strong>: 陆军军医大学刘迪博士生到本课题组进修。
 
-<strong><font color="green">Nov 2023</font></strong>: 余光创入选全球高被引科学家，[南方医科大学十年来实现零突破](https://mp.weixin.qq.com/s/zR2mPvr4rijCt0GWUIEU3Q)。
+<strong><font color="green">Nov 2023</font></strong>: 🎉 余光创入选全球高被引科学家，[南方医科大学十年来实现零突破](https://mp.weixin.qq.com/s/zR2mPvr4rijCt0GWUIEU3Q)。
 <img src="/images/award/HCR-Ribbon_Email_166h_ForResearchers.png" style="height:150px;" align="right"/>
 
 <strong><font color="green">Nov 2023</font></strong>: 李俊睿（八年制临床医学）加入课题组。
