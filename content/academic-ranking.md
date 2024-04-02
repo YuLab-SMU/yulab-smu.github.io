@@ -19,12 +19,16 @@ title: '课题组学术榜'
 
 + 学术新星 (Rising star): 在小子刊或影响因子大于20分的期刊发表文章
     - 徐双斌 (The Innovation 2023)
-
+    - 王倩雯 (The Innovation 2024)
 + 崭露头角 (Emergence): 在一区或影响因子大于10分的期刊发表文章
     - 唐文丽 (Gut Microbes 2023)
     - 周烺 (Briefings in Bioinformatics 2022)
     - 徐双斌 (Molecular Biology and Evolution 2021)
+
+<!--    
     - 余光创 (Molecular Biology and Evolution 2018)
+-->
+
 
 <!--
 + 最靓的仔 (Highlighted): 论文被期刊选为亮点文章
@@ -34,7 +38,11 @@ title: '课题组学术榜'
 
 + 一言九顶 (Highly cited): 文章入选ESI高被引论文
     - 周烺 (Briefings in Bioinformatics 2022)
+
+<!--    
     - 余光创 (Molecular Biology and Evolution 2018)
+-->
+
 
 <!--
     - 余光创 (Methods in Ecology and Evolution 2017)
