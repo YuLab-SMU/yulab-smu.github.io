@@ -158,7 +158,7 @@ Expand the series of tools related to tree data integration and visualization to
 
 > It is embarrassing to me that I just learned about "ggtree" this month, but I am looking forward to incorporating it into several projects in my lab.  I am looking forward to using it to visualizing annotation results after doing BLAST or FASTA similarity searches, and for high lighting errors in protein sequences among closely related organisms.  I have been searching for a tool like "ggtree" for several years, not appreciating that you had already built it.  So my interest in recruiting your paper is somewhat selfish.  I would like more help in understanding how to add graphical annotations to the leaves of trees. 
 >
-> -- The email (Sep 14, 2019) from Professor [William Pearson](https://fasta.bioch.virginia.edu/wrpearson/) (ISCB Fellow) inviting me to contribute to *Current Protocols in Bioinformatics* 
+> -- The email (Sep 14, 2019) from Professor [William Pearson](https://fasta.bioch.virginia.edu/wrpearson/) (ISCB Fellow) inviting Guangchuang Yu to contribute to *Current Protocols in Bioinformatics* 
 
 
 </td>
