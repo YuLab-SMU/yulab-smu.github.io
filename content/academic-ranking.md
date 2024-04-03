@@ -20,6 +20,7 @@ title: '课题组学术榜'
 + 学术新星 (Rising star): 在小子刊或影响因子大于20分的期刊发表文章
     - 王倩雯 (The Innovation 2024)
     - 徐双斌 (The Innovation 2023)
+    
 + 崭露头角 (Emergence): 在一区或影响因子大于10分的期刊发表文章
     - 唐文丽 (Gut Microbes 2023)
     - 周烺 (Briefings in Bioinformatics 2022)
