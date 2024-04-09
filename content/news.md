@@ -3,6 +3,8 @@ slug: news
 title: News
 ---
 
+<strong><font color="green">Apr 2024</font></strong>: 📝 [Gut microbiome and metabolome to discover pathogenic bacteria and probiotics in ankylosing spondylitis](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2024.1369116) 发表在__*Frontiers in Immunology*__期刊，恭喜唐文丽（共一）。
+
 <strong><font color="green">Mar 2024</font></strong>: 洪一凡和刘婉彤两位同学通过研究生复试，加入课题组。 
 
 <strong><font color="green">Mar 2024</font></strong>: 🎉 余光创入选爱思唯尔2023年中国高被引学者，连续4年入选。

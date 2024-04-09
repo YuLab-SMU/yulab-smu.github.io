@@ -30,6 +30,9 @@ title: '课题组学术榜'
     - 余光创 (Molecular Biology and Evolution 2018)
 -->
 
++ 传奇巨擘 (Impact legend): 文章为期刊贡献大于5分的影响因子
+    - 吴天志 (The Innovation 2021, +9.1)
+
 
 <!--
 + 最靓的仔 (Highlighted): 论文被期刊选为亮点文章
@@ -40,12 +43,9 @@ title: '课题组学术榜'
 + 一言九顶 (Highly cited): 文章入选ESI高被引论文
     - 周烺 (Briefings in Bioinformatics 2022)
 
+
 <!--    
     - 余光创 (Molecular Biology and Evolution 2018)
--->
-
-
-<!--
     - 余光创 (Methods in Ecology and Evolution 2017)
     - 余光创 (Molecular BioSystems 2016)
     - 余光创 (Bioinformatics 2015a)
