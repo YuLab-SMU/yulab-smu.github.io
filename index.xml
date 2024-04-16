@@ -55,7 +55,7 @@
       <link>http://yulab-smu.top/contribution-knowledge-mining/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://yulab-smu.top/contribution-knowledge-mining/</guid>
-      <description>&#xD;</description>
+      <description>Knowledge discovery for precision medicine big data is an important aspect in promoting clinical translational applications. By mining biomedical knowledge, it is possible to drive the discovery of new biomedical knowledge. We have implemented a series of methods and tools, including: (1) for the first time, implementing biological theme comparison for complex experimental designs, (2) universal enrichment analysis methods for interpreting omics data, (3) measuring semantic similarity to assist in biological knowledge discovery, (4) cistromic data mining to aid in the discovery of (unknown) co-regulators, (5) integration of biological knowledge to enhance the biological interpretability of single-cell clustering, and (6) characterization of single-cell functional states and identification of spatial specific biological functions.</description>
     </item>
     <item>
       <title>Contact</title>
@@ -76,7 +76,7 @@
       <link>http://yulab-smu.top/contribution-data-visualization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://yulab-smu.top/contribution-data-visualization/</guid>
-      <description>1. A Grammar of Graphics for base plot Link to heading plotbb&#xA;2. Align plots with axis reconciliation Link to heading aplot&#xA;3. Supports image files and graphic objects in &amp;lsquo;ggplot2&amp;rsquo; Link to heading ggimage&#xA;4. Text halos on plot lables Link to heading shadowtext, meme</description>
+      <description>1. A Grammar of Graphics for base plot Link to heading plotbb&#xA;2. Align plots with axis reconciliation Link to heading aplot&#xA;3. Supports image files and graphic objects in &amp;lsquo;ggplot2&amp;rsquo; Link to heading ggimage&#xA;4. Text halos on plot lables Link to heading shadowtext, meme&#xA;Publications Link to heading S Xu#, M Chen#, T Feng, L Zhan, L Zhou, G Yu*. Use ggbreak to effectively utilize plotting space to deal with large datasets and outliers.</description>
     </item>
     <item>
       <title>Documents</title>
