@@ -49,3 +49,13 @@ shadowtext, meme
 
 
 
+
+## Publications
+
+
+<font size="3">
+
++ S Xu<sup>#</sup>, M Chen<sup>#</sup>, T Feng, L Zhan, L Zhou, __G Yu__<sup>\*</sup>. [Use ggbreak to effectively utilize plotting space to deal with large datasets and outliers](https://www.frontiersin.org/articles/10.3389/fgene.2021.774846). __*Frontiers in Genetics*__. 2021, 12:774846.
+
+
+</font>
