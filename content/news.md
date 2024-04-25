@@ -3,7 +3,12 @@ slug: news
 title: News
 ---
 
-<strong><font color="green">Apr 2024</font></strong>: 📝 [Gut microbiome and metabolome to discover pathogenic bacteria and probiotics in ankylosing spondylitis](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2024.1369116) 发表在__*Frontiers in Immunology*__期刊，恭喜唐文丽（共一）。
+
+<strong><font color="green">Apr 2024</font></strong>: 雷峰网访谈：[专访南医大生信系主任余光创：没有哪个专业绝对优越，生信人做好「工具人」也不简单](https://mp.weixin.qq.com/s/I7ig47i6mHNNXQkrfpO5VQ)
+
+<strong><font color="green">Apr 2024</font></strong>: 📝 [Encoding biological metaverse: Advancements and challenges in neural fields from macroscopic to microscopic](https://doi.org/10.1016/j.xinn.2024.100627) 发表在***The Innovation***期刊，恭喜蔡炎彤。
+
+<strong><font color="green">Apr 2024</font></strong>: 📝 [Gut microbiome and metabolome to discover pathogenic bacteria and probiotics in ankylosing spondylitis](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2024.1369116) 发表在***Frontiers in Immunology***期刊，恭喜唐文丽（共一）。
 
 <strong><font color="green">Mar 2024</font></strong>: 洪一凡和刘婉彤两位同学通过研究生复试，加入课题组。 
 

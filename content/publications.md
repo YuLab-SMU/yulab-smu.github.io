@@ -34,12 +34,13 @@ title: Publications
 ## <i class="fa fa-calendar fa-1x" aria-hidden="true"></i> 2024
 
 + Q Wang, W Tang, L Chen, L Deng, __G Yu__<sup>\*</sup>. [Decoding the Brain: Unveiling Comprehensive Cellular Atlases through Multiomics Mega Data](). __*The Innovation*__. 2024, accepted.
++ Y Cai<sup>#</sup>, W Hu<sup>#</sup>, Y Pei, Hao Zhao<sup>\*</sup>, __G Yu__<sup>\*</sup>. [Encoding biological metaverse: Advancements and challenges in neural fields from macroscopic to microscopic](https://doi.org/10.1016/j.xinn.2024.100627). __*The Innovation*__. 2024, accepted.
 + L Li, W Xie, L Zhan, S Wen, X Luo, S Xu, Y Cai, W Tang, Q Wang, M Li, Z Xie, L Deng, H Zhu, __G Yu__<sup>\*</sup>. [Resolving Tumor Evolution: A Phylogenetic Approach](https://www.sciencedirect.com/science/article/pii/S2667005424000206). __*Journal of the National Cancer Center*__. 2024, accepted. 
 + L Zhan<sup>#</sup>, X Luo<sup>#</sup>, W Xie<sup>#</sup>, XA Zhu<sup>#</sup>, Z Xie, J Lin, L Li, W Tang, R Wang, L Deng, Y Liao, B Liu, Y Cai, Q Wang, S Xu<sup>\*</sup>, __G Yu__<sup>\*</sup>. [shinyTempSignal: an R shiny application for exploring temporal and other phylogenetic signals](https://www.sciencedirect.com/science/article/pii/S167385272400033X). __*Journal of Genetics and Genomics*__. 2024, accepted.
 + Y Lai<sup>#</sup>, W Tang<sup>#</sup>, X Luo, H Zheng, Y Zhang<sup>\*</sup>, M Wang<sup>\*</sup>, __G Yu__<sup>\*</sup>, Min Yang<sup>\*</sup>. [Gut microbiome and metabolome to discover pathogenic bacteria and probiotics in ankylosing spondylitis](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2024.1369116). __*Frontiers in Immunology*__. 2024, 15:1369116.
 + CH Gao, C Chen, T Akyol, A Dusa, __G Yu__, B Cao, P Cai<sup>\*</sup>. [ggVennDiagram: intuitive Venn diagram software extended](https://onlinelibrary.wiley.com/doi/10.1002/imt2.177). __*iMeta*__. 2024, 3(1):e177.
 + Y Ye<sup>#</sup>, MH Shum<sup>#</sup>, JL Tsui<sup>#</sup>, __G Yu__<sup>#</sup>, DK Smith, H Zhu, JT Wu, Y Guan, TTY Lam<sup>\*</sup>. [Robust expansion of phylogeny for fast-growing genome sequence data](https://doi.org/10.1371/journal.pcbi.1011871). __*PLoS Computational Biology*__. 2024, 20(2):e1011871.
-+ S Wen, S Mo, J Zhou, Y Lv, K Khazaie<sup>\*</sup>, __G Yu__<sup>\*</sup>. [Editorial: Single-cell and spatial-omics in delineating immune-related diseases](https://www.frontiersin.org/articles/10.3389/fcell.2024.1365242/full). __*Frontiers in Cell and Developmental Biology*__. 2024, 12:1365242.
++ S Wen, S Mo, J Zhou, Y Lv, K Khazaie<sup>\*</sup>, __G Yu__<sup>\*</sup>. [Single-cell and spatial-omics in delineating immune-related diseases](https://www.frontiersin.org/articles/10.3389/fcell.2024.1365242/full). __*Frontiers in Cell and Developmental Biology*__. 2024, 12:1365242.
 
 
 ## <i class="fa fa-calendar fa-1x" aria-hidden="true"></i> 2023
@@ -49,7 +50,7 @@ title: Publications
 + W Tang, H Zheng, S Xu, P Li, L Zhan, X Luo, Z Dai, Q Wang, __G Yu__<sup>\*</sup>. [MMINP: A computational framework of microbe-Metabolite interactions-based metabolic profiles predictor based on the O2-PLS algorithm](https://dx.doi.org/10.1080/19490976.2023.2223349). __*Gut Microbes*__. 2023, 15(1):2223349.
 + __余光创（著）__, 李林, 罗晓（译）. R实战：系统发育树的数据集成操作及可视化. __*电子工业出版社*__, 2023. ISBN: [9787121451829](https://u.jd.com/uu7G4qC)  [<i class="fa fa-book fa-2x" aria-hidden="true" style="color:black;font-size: 150%;"></i>](/images/treedata-jd-top1.jpg)
 + S Xu, L Zhan, W Tang, Q Wang, Z Dai, L Zhou, T Feng, M Chen, T Wu, E Hu, __G Yu__<sup>\*</sup>. [MicrobiotaProcess: A comprehensive R package for deep mining microbiome](https://doi.org/10.1016/j.xinn.2023.100388). __*The Innovation*__. 2023, 4(2):100388.
-+ S Guo<sup>\*</sup>, D Zhang, H Wang, Q An, __G Yu__, J Han, C Jiang, J Huang. [Editorial: Computational and Systematic Analysis of Multi-omics Data for Drug Discovery and Development](https://www.frontiersin.org/articles/10.3389/fmed.2023.1146896/full). __*Frontiers in Medicine*__. 2023, 10:1146896.
++ S Guo<sup>\*</sup>, D Zhang, H Wang, Q An, __G Yu__, J Han, C Jiang, J Huang. [Computational and Systematic Analysis of Multi-omics Data for Drug Discovery and Development](https://www.frontiersin.org/articles/10.3389/fmed.2023.1146896/full). __*Frontiers in Medicine*__. 2023, 10:1146896.
 
 
 ## <i class="fa fa-calendar fa-1x" aria-hidden="true"></i> 2022
@@ -62,7 +63,7 @@ title: Publications
 + T Feng<sup>#</sup>, T Wu<sup>#</sup>, Y Zhang<sup>#</sup>, L Zhou<sup>#</sup>, S Liu, L Li, M Li, E Hu, Q Wang, X Fu, L Zhan, Z Xie, W Xie, X Huang<sup>\*</sup>, X Shang<sup>\*</sup>,  __G Yu__<sup>\*</sup>. [Stemness Analysis Uncovers That The Peroxisome Proliferator-Activated Receptor Signaling Pathway Can Mediate Fatty Acid Homeostasis In Sorafenib-Resistant Hepatocellular Carcinoma Cells](https://www.frontiersin.org/articles/10.3389/fonc.2022.912694/). __*Frontiers in Oncology*__. 2022, 12:912694. (IF = 4.7，三区)
 + L Zhou<sup>#</sup>, T Feng<sup>#</sup>, S Xu, F Gao, TT Lam, Q Wang, T Wu, H Huang, L Zhan, L Li, Y Guan, Z Dai<sup>\*</sup>, __G Yu__<sup>\*</sup>. [ggmsa: a visual exploration tool for multiple sequence alignment and associated data](https://doi.org/10.1093/bib/bbac222). __*Briefings in Bioinformatics*__. 2022, 23(4):bbac222. <i class="fa fa-trophy fa-2x" aria-hidden="true" style="color:#CC5500;font-size: 150%;"></i> (IF = 9.5，一区，Top期刊)
 + N Sato, Y Tamada, __G Yu__, Y Okuno<sup>\*</sup>. [CBNplot: Bayesian network plots for enrichment analysis](https://doi.org/10.1093/bioinformatics/btac175). __*Bioinformatics*__. 2022, 38(10):2959-2960. (IF=5.8，一区，Top期刊)
-+ T Wu, CL Xiao, TT Lam, __G Yu__<sup>\*</sup>. [Editorial: Biomedical Data Visualization: Methods and Applications](https://www.frontiersin.org/articles/10.3389/fgene.2022.890775/full). __*Frontiers in Genetics*__. 2022, 13:890775. (IF=3.7，三区)
++ T Wu, CL Xiao, TT Lam, __G Yu__<sup>\*</sup>. [Biomedical Data Visualization: Methods and Applications](https://www.frontiersin.org/articles/10.3389/fgene.2022.890775/full). __*Frontiers in Genetics*__. 2022, 13:890775. (IF=3.7，三区)
 + X Zhao<sup>#</sup>, W Tang<sup>#</sup>, H Wan<sup>#</sup>, Z Lan H Qin, Q Lin, Y Hu, __G Yu__<sup>\*</sup>, N Jiang<sup>\*</sup>, B Yu<sup>\*</sup>. [Altered gut microbiota as an auxiliary diagnostic indicator for patients with fracture-related infection](https://www.frontiersin.org/articles/10.3389/fmicb.2022.723791/full). __*Frontiers in Microbiology*__. 2022, 13:723791. (IF = 5.2，二区，Top期刊)
 
 

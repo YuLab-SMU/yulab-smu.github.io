@@ -142,10 +142,10 @@ pygmentsCodeFencesGuessSyntax = true
             weight = 3
             url = "contributions/"
 
-            [[languages.en.menu.main]]
-            name = "Software"
-            weight = 4
-            url = "software/"
+#            [[languages.en.menu.main]]
+#            name = "Software"
+#            weight = 4
+#            url = "software/"
 
             [[languages.en.menu.main]]
             name = "Members"
