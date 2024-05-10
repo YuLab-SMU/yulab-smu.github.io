@@ -3,10 +3,15 @@ slug: news
 title: News
 ---
 
+<strong><font color="green">May 2024</font></strong>: 恭喜胡二强（博士生）、谢汶琴、李林顺利通过毕业答辩。
+
+<strong><font color="green">May 2024</font></strong>: 📝 [Decoding the Brain: Unveiling Comprehensive Cellular Atlases through Multiomics Mega Data](https://doi.org/10.1016/j.xinn.2024.100637) 发表在***The Innovation***期刊，恭喜王倩雯。
 
 <strong><font color="green">Apr 2024</font></strong>: 雷峰网访谈：[专访南医大生信系主任余光创：没有哪个专业绝对优越，生信人做好「工具人」也不简单](https://mp.weixin.qq.com/s/I7ig47i6mHNNXQkrfpO5VQ)
 
-<strong><font color="green">Apr 2024</font></strong>: 📝 [Encoding biological metaverse: Advancements and challenges in neural fields from macroscopic to microscopic](https://doi.org/10.1016/j.xinn.2024.100627) 发表在***The Innovation***期刊，恭喜蔡炎彤。
+<strong><font color="green">Apr 2024</font></strong>: 陶绍国（客座学生，广州医科大学）加入课题组。
+
+<strong><font color="green">Apr 2024</font></strong>: 📝 [Encoding biological metaverse: Advancements and challenges in neural fields from macroscopic to microscopic](https://doi.org/10.1016/j.xinn.2024.100627) 发表在***The Innovation***期刊。
 
 <strong><font color="green">Apr 2024</font></strong>: 📝 [Gut microbiome and metabolome to discover pathogenic bacteria and probiotics in ankylosing spondylitis](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2024.1369116) 发表在***Frontiers in Immunology***期刊，恭喜唐文丽（共一）。
 
@@ -19,8 +24,6 @@ title: News
 <strong><font color="green">Feb 2024</font></strong>: 📝 用于探索时间和其它发育信号的软件包*ShinyTempSignal*发表于***Journal of Genetics and Genomics***期刊 (Links: [article](https://www.sciencedirect.com/science/article/pii/S167385272400033X), [JGG遗传学报公众号报道](https://mp.weixin.qq.com/s/5Mr-HYY3ZPnlZ6uhPt4YtA))，恭喜詹历、罗晓、谢玟琴和朱炫安（2018级生信本科生）。
 
 <strong><font color="green">Jan 2024</font></strong>: 📝 发表一篇专刊[Single-Cell and Spatial-Omics in Delineating Immune-Related Diseases](https://www.frontiersin.org/research-topics/42143)的Editorial文章，恭喜温少迪。
-
-<strong><font color="green">Jan 2024</font></strong>: 博士后蔡炎彤通过南方医科大学皮肤病医院入站。
 
 <strong><font color="green">Jan 2024</font></strong>: 周烺的文章（Briefings in Bioinformatics 2022）入选ESI高被引论文。
 

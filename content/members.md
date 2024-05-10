@@ -62,10 +62,6 @@ title: Members
   </tr> 
 
 <tr style="border:none;"> 
-    <td style="border:none;"><img src="/images/members/cyt.jpg" width='150px'></td>
-    <td style="border:none;"><strong>Yantong Cai, Phd.<br>
-        Post-doctoral fellow</strong><br>
-    </td>
     <td style="border:none;"><img src="/images/members/wsd.jpg" width='150px'></td>
     <td style="border:none;"><strong>Shaodi Wen<br>
         PhD Student</strong><br>
@@ -74,25 +70,13 @@ title: Members
     <td style="border:none;"><strong>Hongyuan Zhu<br>
         PhD Student</strong><br>
     </td>
-  </tr>
- <tr style="border:none;"> 
     <td style="border:none;"><img src="/images/members/zhanli.jpg" width='150px'></td>
     <td style="border:none;"><strong>Li Zhan<br>
         Master Student</strong><br>
         <a href="https://github.com/SMUZhanLi" aria-label="Github">
             <i class="fa fa-github fa-2x" aria-hidden="true" style="font-size: 150%;"></i></a>
     </td>
-    <td style="border:none;"><img src="/images/members/xzj.jpg" width='150px'></td>
-    <td style="border:none;"><strong>Zijing Xie<br>
-        Master Student</strong>
-    </td>   
-    <td style="border:none;"><img src="/images/members/ll.jpg" width='150px'></td>
-    <td style="border:none;"><strong>Lin Li<br>
-        Master Student</strong><br>
-        <a href="https://github.com/SanL20" aria-label="Github">
-            <i class="fa fa-github fa-2x" aria-hidden="true" style="font-size: 150%;"></i></a>
-    </td>   
-  </tr>    
+  </tr>
  <tr style="border:none;"> 
     <td style="border:none;"><img src="/images/members/xwq.jpg" width='150px'></td>
     <td style="border:none;"><strong>Wenqin Xie<br>
@@ -100,6 +84,22 @@ title: Members
         <a href="https://github.com/Xie-Wenqin" aria-label="Github">
             <i class="fa fa-github fa-2x" aria-hidden="true" style="font-size: 150%;"></i></a>
     </td>
+    <td style="border:none;"><img src="/images/members/ll.jpg" width='150px'></td>
+    <td style="border:none;"><strong>Lin Li<br>
+        Master Student</strong><br>
+        <a href="https://github.com/SanL20" aria-label="Github">
+            <i class="fa fa-github fa-2x" aria-hidden="true" style="font-size: 150%;"></i></a>
+    </td>   
+    <td style="border:none;"><img src="/images/avatar.jpg" width='150px'></td>
+    <td style="border:none;"><strong>You?<br>
+        Master Student</strong>
+    </td>   
+  </tr>    
+ <tr style="border:none;"> 
+    <td style="border:none;"><img src="/images/members/xzj.jpg" width='150px'></td>
+    <td style="border:none;"><strong>Zijing Xie<br>
+        Master Student</strong>
+    </td>   
     <td style="border:none;"><img src="/images/members/lx.jpg" width='150px'></td>
     <td style="border:none;"><strong>Xiao Luo<br>
         Master Student</strong><br>

@@ -33,10 +33,11 @@ title: Publications
 
 ## <i class="fa fa-calendar fa-1x" aria-hidden="true"></i> 2024
 
-+ Q Wang, W Tang, L Chen, L Deng, __G Yu__<sup>\*</sup>. [Decoding the Brain: Unveiling Comprehensive Cellular Atlases through Multiomics Mega Data](). __*The Innovation*__. 2024, accepted.
-+ Y Cai<sup>#</sup>, W Hu<sup>#</sup>, Y Pei, Hao Zhao<sup>\*</sup>, __G Yu__<sup>\*</sup>. [Encoding biological metaverse: Advancements and challenges in neural fields from macroscopic to microscopic](https://doi.org/10.1016/j.xinn.2024.100627). __*The Innovation*__. 2024, accepted.
+
++ Q Wang, W Tang, L Chen, L Deng, __G Yu__<sup>\*</sup>. [Decoding the Brain: Unveiling Comprehensive Cellular Atlases through Multiomics Mega Data](https://doi.org/10.1016/j.xinn.2024.100637). __*The Innovation*__. 2024, 5(4):100637.
 + L Li, W Xie, L Zhan, S Wen, X Luo, S Xu, Y Cai, W Tang, Q Wang, M Li, Z Xie, L Deng, H Zhu, __G Yu__<sup>\*</sup>. [Resolving Tumor Evolution: A Phylogenetic Approach](https://www.sciencedirect.com/science/article/pii/S2667005424000206). __*Journal of the National Cancer Center*__. 2024, accepted. 
 + L Zhan<sup>#</sup>, X Luo<sup>#</sup>, W Xie<sup>#</sup>, XA Zhu<sup>#</sup>, Z Xie, J Lin, L Li, W Tang, R Wang, L Deng, Y Liao, B Liu, Y Cai, Q Wang, S Xu<sup>\*</sup>, __G Yu__<sup>\*</sup>. [shinyTempSignal: an R shiny application for exploring temporal and other phylogenetic signals](https://www.sciencedirect.com/science/article/pii/S167385272400033X). __*Journal of Genetics and Genomics*__. 2024, accepted.
++ Y Cai<sup>#</sup>, W Hu<sup>#</sup>, Y Pei, Hao Zhao<sup>\*</sup>, __G Yu__<sup>\*</sup>. [Encoding biological metaverse: Advancements and challenges in neural fields from macroscopic to microscopic](https://doi.org/10.1016/j.xinn.2024.100627). __*The Innovation*__. 2024, 5(3):100627.
 + Y Lai<sup>#</sup>, W Tang<sup>#</sup>, X Luo, H Zheng, Y Zhang<sup>\*</sup>, M Wang<sup>\*</sup>, __G Yu__<sup>\*</sup>, Min Yang<sup>\*</sup>. [Gut microbiome and metabolome to discover pathogenic bacteria and probiotics in ankylosing spondylitis](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2024.1369116). __*Frontiers in Immunology*__. 2024, 15:1369116.
 + CH Gao, C Chen, T Akyol, A Dusa, __G Yu__, B Cao, P Cai<sup>\*</sup>. [ggVennDiagram: intuitive Venn diagram software extended](https://onlinelibrary.wiley.com/doi/10.1002/imt2.177). __*iMeta*__. 2024, 3(1):e177.
 + Y Ye<sup>#</sup>, MH Shum<sup>#</sup>, JL Tsui<sup>#</sup>, __G Yu__<sup>#</sup>, DK Smith, H Zhu, JT Wu, Y Guan, TTY Lam<sup>\*</sup>. [Robust expansion of phylogeny for fast-growing genome sequence data](https://doi.org/10.1371/journal.pcbi.1011871). __*PLoS Computational Biology*__. 2024, 20(2):e1011871.
