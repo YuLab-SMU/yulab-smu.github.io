@@ -78,24 +78,6 @@ title: Members
     </td>
   </tr>
  <tr style="border:none;"> 
-    <td style="border:none;"><img src="/images/members/xwq.jpg" width='150px'></td>
-    <td style="border:none;"><strong>Wenqin Xie<br>
-        Master Student</strong><br>
-        <a href="https://github.com/Xie-Wenqin" aria-label="Github">
-            <i class="fa fa-github fa-2x" aria-hidden="true" style="font-size: 150%;"></i></a>
-    </td>
-    <td style="border:none;"><img src="/images/members/ll.jpg" width='150px'></td>
-    <td style="border:none;"><strong>Lin Li<br>
-        Master Student</strong><br>
-        <a href="https://github.com/SanL20" aria-label="Github">
-            <i class="fa fa-github fa-2x" aria-hidden="true" style="font-size: 150%;"></i></a>
-    </td>   
-    <td style="border:none;"><img src="/images/avatar.jpg" width='150px'></td>
-    <td style="border:none;"><strong>You?<br>
-        Master Student</strong>
-    </td>   
-  </tr>    
- <tr style="border:none;"> 
     <td style="border:none;"><img src="/images/members/xzj.jpg" width='150px'></td>
     <td style="border:none;"><strong>Zijing Xie<br>
         Master Student</strong>
@@ -132,7 +114,29 @@ title: Members
     <td style="border:none;"><strong>Junrui Li<br>
         EYMEP</strong>
     </td>    
+    <td style="border:none;"><img src="/images/members/lwt.png" width='150px'></td>
+    <td style="border:none;"><strong>Wantong Liu<br>
+        Master Student</strong>
+    </td>    
   </tr>   
+ <tr style="border:none;"> 
+    <td style="border:none;"><img src="/images/members/xwq.jpg" width='150px'></td>
+    <td style="border:none;"><strong>Wenqin Xie<br>
+        Master Student</strong><br>
+        <a href="https://github.com/Xie-Wenqin" aria-label="Github">
+            <i class="fa fa-github fa-2x" aria-hidden="true" style="font-size: 150%;"></i></a>
+    </td>
+    <td style="border:none;"><img src="/images/members/ll.jpg" width='150px'></td>
+    <td style="border:none;"><strong>Lin Li<br>
+        Master Student</strong><br>
+        <a href="https://github.com/SanL20" aria-label="Github">
+            <i class="fa fa-github fa-2x" aria-hidden="true" style="font-size: 150%;"></i></a>
+    </td>   
+    <td style="border:none;"><img src="/images/avatar.jpg" width='150px'></td>
+    <td style="border:none;"><strong>You?<br>
+        Master Student</strong>
+    </td>   
+  </tr>    
 </table> 
 
 
@@ -144,7 +148,7 @@ title: Members
 + **陈玫君** (MS 2020-2023; 南方医科大学“优秀研究生”) <!-- 南方医科大学，博士在读 -->
 + **付小聪** (MS 2020-2022; 联合培养) <!-- 宁波口腔医疗管理服务有限公司，总经理助理 -->
 + **戴泽翰** (Postdoc 2019-2022) <!-- 金圻睿, 高级研发工程师 -->
-+ **周烺** (MS 2019-2022; 2023年硕士研究生国家奖学金, 南方医科大学2022届“优秀毕业研究生”) <!-- 珠江医院, 生物信息学工程师 -->
++ **周烺** (MS 2019-2022; 2023年国家奖学金补充计划, 南方医科大学2022届“优秀毕业研究生”) <!-- 珠江医院, 生物信息学工程师 -->
 + **冯婷泽** (MS 2019-2022; 南方医科大学2022届“优秀毕业研究生”) <!-- 中科院大连化物所, 博士在读 -->
 + **刘珊珊** (MS 2019-2022; 2021年硕士研究生国家奖学金) <!-- 南方医科大学, 博士在读 -->
  

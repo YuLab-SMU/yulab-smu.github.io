@@ -11,13 +11,16 @@ title: '课题组学术榜'
 
 + 学术之巅 (The Everest): 在CNS等正刊上发表论文
 + 天才少年 (Hotshot): 在大子刊上发表论文
-+ 首开先河 (Pathfinder): 首次在课题组未曾突破的子刊上发表论文
+
 + 封面故事 (Cover story): 论文被期刊选为封面文章
 + 舌战群儒 (Battle star): 经过多于5名审稿人评审并最终获得接收
 -->
 
++ 首开先河 (Pathfinder): 首次在课题组未曾突破的子刊上发表论文
+    - 徐双斌 (Nature Protocols 2024)
 
 + 学术新星 (Rising star): 在小子刊或影响因子大于20分的期刊发表文章
+    - 徐双斌 (Nature Protocols 2024)
     - 王倩雯 (The Innovation 2024)
     - 徐双斌 (The Innovation 2023)
     
