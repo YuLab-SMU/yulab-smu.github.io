@@ -118,6 +118,10 @@ title: Members
     <td style="border:none;"><strong>Wantong Liu<br>
         Master Student</strong>
     </td>    
+    <td style="border:none;"><img src="/images/avatar.jpg" width='150px'></td>
+    <td style="border:none;"><strong>Yifan Hong<br>
+        Master Student</strong>
+    </td>   
   </tr>   
  <tr style="border:none;"> 
     <td style="border:none;"><img src="/images/members/xwq.jpg" width='150px'></td>
