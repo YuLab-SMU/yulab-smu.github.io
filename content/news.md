@@ -3,6 +3,10 @@ slug: news
 title: News
 ---
 
+<strong><font color="green">May 2024</font></strong>: [我校入选教育部“101计划”生物信息学虚拟教研室](https://www.smu.edu.cn/info/1251/46529.htm)，王倩雯作为代表接受授牌。
+
+<strong><font color="green">May 2024</font></strong>: [CCF（中国计算机学会）开源创新大赛暨第二届Bio-OS开源开放大赛在我校启动](https://www.smu.edu.cn/info/1139/45719.htm)，余光创主持开幕式，会议同时成立了【南方医科大学Bio-OS开源俱乐部】。
+
 <strong><font color="green">May 2024</font></strong>: 恭喜胡二强（博士生）、谢汶琴、李林顺利通过毕业答辩。
 
 <strong><font color="green">May 2024</font></strong>: 📝 [Decoding the Brain: Unveiling Comprehensive Cellular Atlases through Multiomics Mega Data](https://doi.org/10.1016/j.xinn.2024.100637) 发表在***The Innovation***期刊，恭喜王倩雯。

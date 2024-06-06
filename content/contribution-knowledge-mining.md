@@ -1,6 +1,6 @@
 ---
 slug: contribution-knowledge-mining
-title: "Biological Knowledge Mining and Discovery"
+title: "Exploring Biological Knowledge and Discovery"
 ---
 
 
@@ -14,7 +14,8 @@ title: "Biological Knowledge Mining and Discovery"
 
 
 
-Knowledge discovery for precision medicine big data is an important aspect in promoting clinical translational applications. By mining biomedical knowledge, it is possible to drive the discovery of new biomedical knowledge. We have implemented a series of methods and tools, including: (1) for the first time, implementing biological theme comparison for complex experimental designs, (2) universal enrichment analysis methods for interpreting omics data, (3) measuring semantic similarity to assist in biological knowledge discovery, (4) cistromic data mining to aid in the discovery of (unknown) co-regulators, (5) integration of biological knowledge to enhance the biological interpretability of single-cell clustering, and (6) characterization of single-cell functional states and identification of spatial specific biological functions. This series of methods and software enables a more diverse range of biomedical knowledge to be applied at a greater variety of species, allowing biomedical knowledge to support biological big data mining and extract novel and potential disoveries.  
+Knowledge discovery within precision medicine big data is crucial for advancing clinical translational applications. By leveraging biomedical knowledge, we can facilitate the uncovering of new insights in biomedicine. We have developed a suite of methods and tools, including: (1) pioneering biological theme comparison for complex experimental designs, (2) universal enrichment analysis methods for omics data interpretation, (3) semantic similarity measurement to aid in biological knowledge discovery, (4) cistromic data mining for identifying co-regulators, (5) integration of biological knowledge to enhance single-cell clustering interpretability, and (6) characterization of single-cell functional states and identification of spatial specific biological functions. These methods and software broaden the application of biomedical knowledge across diverse species, facilitating biological big data mining and uncovering novel disoveries.  
+
 
 <!--
 面向精准医学大数据的知识发现是促进临床转化应用的重要方面，通过挖掘生物医学知识能够驱动发现新的生物医学知识。我们实现了一系列方法和工具，包括（1）首次实现针对复杂实验设计比较生物学主题， （2）通用富集分析方法助力通过组学数据挖掘分子机制，（3）语义度量帮助生物学知识发现，（4）顺反子数据挖掘帮助发现（未知）共调控因子，（5）整合生物学知识提升单细胞聚类的生物学可解释性，（6）单细胞功能状态刻画和空间特异性的生物学功能鉴定。这一系列方法和软件使得更加多样化的生物医学知识能够服务应用于更多的物种，让生物医学知识助力生物大数据挖掘，提炼出新颖的和潜在的发现。
@@ -22,7 +23,7 @@ Knowledge discovery for precision medicine big data is an important aspect in pr
 
 ----
 
-## 1. Frist-time implementation of comparing biological themes
+## 1. Frist-time implementation of comparative biological theme analysis
 
 
 <table style="border:none; font-size: 90%; width:100%;">
@@ -36,7 +37,7 @@ Knowledge discovery for precision medicine big data is an important aspect in pr
 <td style="border:none;">
 
 
-When experimental designs were essentially simple, such as a case-control design, we realized the importance of complex experimental designs involving multiple time points and conditions for studying biomedical issues. We devloped the [clusterProfiler](https://www.bioconductor.org/packages/clusterProfiler) to compare biological themes, and this work was published in [*OMICS: A Journal of Integrative Biology 2012*](http://online.liebertpub.com/doi/abs/10.1089/omi.2011.0118). It has been cited over 20,000 times, making it the most highly cited paper in the journal and one of the top 10 papers among China's highly cited papers from 2011 to 2021. Featuring an extremely user-friendly interface, it allows for specifying complex experimental designs using [formula syntax](https://stat.ethz.ch/R-manual/R-devel/library/stats/html/formula.html), as demonstrated in [*The Innovation 2021*](https://doi.org/10.1016/j.xinn.2021.100141) with data showcasing the different time points with various drug treatments simultaneously. Twelve years after its initial publication, we authored a protocol-type article introducing the functionality of comparing biological themes in comparing disease subtypes, functions of perturbed transcription factors, and cell type annotations using various omics data, including metagenomics, metabolomics, transcriptomics, and single-cell omics. This work was published in [*Nature Protocols 2024*]().
+As experimental designs evolved beyond simple case-control setups, encompassing complex configurations involving multiple time points and conditions became imperative for studying biomedical phenomena. Recognizing this need, We devloped the [clusterProfiler](https://www.bioconductor.org/packages/clusterProfiler) for comparing biological themes, a pivotal contribution published in [*OMICS: A Journal of Integrative Biology*](http://online.liebertpub.com/doi/abs/10.1089/omi.2011.0118) in 2012. This work has garnered over 20,000 citations, making it the most highly cited paper in the journal and one of China's top 10 highly cited papers from 2011 to 2021. With its exceptionally user-friendly interface, [clusterProfiler](https://www.bioconductor.org/packages/clusterProfiler) enables users to specify complex experimental designs using [formula syntax](https://stat.ethz.ch/R-manual/R-devel/library/stats/html/formula.html). This capability as exemplified in an article published in [*The Innovation*](https://doi.org/10.1016/j.xinn.2021.100141) in 2021, where data showcasing different time points with various drug treatments simultaneously were presented. Twelve years after its initial publication, we authored a protocol-type article introducing the functionality of comparing biological themes in disease subtypes, functions of perturbed transcription factors, and cell type annotations using various omics data sets, including metagenomics, metabolomics, transcriptomics, and single-cell omics. This work was published in [*Nature Protocols*]() in 2024.
 
 </td>
 </tr>
@@ -48,7 +49,7 @@ When experimental designs were essentially simple, such as a case-control design
 
 -->
 
-## 2. Discovering potential molecular mechanisms driven by high-throughput data and biomedical knowledge
+## 2. Uncovering potential molecular mechanisms through high-throughput data and biomedical knowledge
 
 
 <table style="border:none; font-size: 90%; width:100%;">
@@ -62,10 +63,12 @@ When experimental designs were essentially simple, such as a case-control design
 <td style="border:none;">
 
 
-One of the key aspects of functional genomics research is to identify the biological pathways involved in perturbed genes and propose hypotheses about molecular mechanisms. Gene enrichment analysis is a widely used and effective method. However, it faces challenges such as outdated annotation and lack of support for non-model organisms. We have developed a series of R packages represented by [clusterProfiler](https://www.bioconductor.org/packages/clusterProfiler)  to address these challenges. ClusterProfiler allows for online retrieval of the latest genome annotations, supporting GO and KEGG enrichment analysis for thousands of species; providing a universal interface to support user-provided custom annotations, facilitating analysis of new species and using new functional annotations; allow for the use of genomic regions, enabling enrichment analysis of epigenomic data; [implement comparative analysis of multiple datasets for supporting complex experimental designs](/contribution-knowledge-mining/#1-frist-time-implementation-of-comparing-biological-themes); and provide a tidy interface, making it easier for users to operate, explore and interpret data ([*OMICS: A Journal of Integrative Biology 2012*](http://online.liebertpub.com/doi/abs/10.1089/omi.2011.0118); [*The Innovation 2021*](https://doi.org/10.1016/j.xinn.2021.100141); [*Nature Protocols 2024*]()).
+One pivotal aspect of functional genomics research is the identification the biological pathways associated with perturbed genes and the formulation of hypotheses regarding molecular mechanisms. While gene enrichment analysis serves as a widely adopted and effective method, it encounters challenges such as outdated annotation and limited supports for non-model organisms. To address these issues, we have developed a suite of R packages, spearheaded by [clusterProfiler](https://www.bioconductor.org/packages/clusterProfiler). 
+
+[ClusterProfiler](https://www.bioconductor.org/packages/clusterProfiler) offers several key features to overcome these challenges. It facilitates online retrieval of the latest genome annotations, supporting Gene Ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) enrichment analysis for thousands of species. Additionally, it provides a universal interface for incorporating user-provided custom annotations, enabling analysis of new species and utilization of new functional annotations. Notably, [clusterProfiler](https://www.bioconductor.org/packages/clusterProfiler) allows for the utilization of genomic regions, enabling enrichment analysis of epigenomic data. Moreover, it implements [comparative analysis of multiple datasets to support complex experimental designs](/contribution-knowledge-mining/#1-frist-time-implementation-of-comparing-biological-theme-analysis) and offers a tidy interface, streamlining data manipulation and interpretation. 
 
 
-This work has had a significant impact on biomedical research, with over 20,000 citations and integration into more than 40 bioinformatics software tools. It has become one of the indispensable bioinformatics tools for various omics data analyses. We have also extended its application to disease ontology ([*Bioinformatics 2015b*](http://bioinformatics.oxfordjournals.org/cgi/content/abstract/btu684)), medical subject headings ([*Bioinformatics 2018*](https://doi.org/10.1093/bioinformatics/bty410)), and Reactome pathway analysis ([*Molecular BioSystems 2016*](http://pubs.rsc.org/en/Content/ArticleLanding/2016/MB/C5MB00663E)). 
+Published in [*OMICS: A Journal of Integrative Biology*](http://online.liebertpub.com/doi/abs/10.1089/omi.2011.0118) in 2012, [*The Innovation*](https://doi.org/10.1016/j.xinn.2021.100141) in 2021 and [*Nature Protocols*]() in 2024, this work has made a substantial impact on biomedical research, accumulating over 30,000 citations and being integrated into more than 40 bioinformatics software tools. It has emerged as an indispensable tool for various omics data analyses. Furthermore, we have extended its application to disease ontology ([*Bioinformatics 2015*](http://bioinformatics.oxfordjournals.org/cgi/content/abstract/btu684)), medical subject headings ([*Bioinformatics 2018*](https://doi.org/10.1093/bioinformatics/bty410)), and Reactome pathway analysis ([*Molecular BioSystems 2016*](http://pubs.rsc.org/en/Content/ArticleLanding/2016/MB/C5MB00663E)), further expanding its utility in biomedical research. 
 
 
 </td>
@@ -81,7 +84,7 @@ This work has had a significant impact on biomedical research, with over 20,000 
 
 
 
-## 3. Measuring gene semantic similarity promotes the discovery of biomedical knowledge
+## 3. Biological knowledge discovery through gene semantic similarity measurement
 
 
 <table style="border:none; font-size: 90%; width:100%;">
@@ -95,9 +98,9 @@ This work has had a significant impact on biomedical research, with over 20,000 
 <td style="border:none;">
 
 
-By mining biomedical knowledge, new biomedical knowledge can be discovered. Calculating gene functional similarity using biomedical knowledge plays a crucial role in this process. It quantifies biomedical knowledge mathematically to measure the similarity between geens. Similarity entities share similar functions and behaviors, which form the basis for solving a wide range of real-world problems, including predicting and inferring aspects such as gene function, localization, and interactions, as well as analyzing diseases and drugs (including drug repurposing). 
+By leveraging biomedical knowledge, novel insights can be unearthed within the field. Gene functional similarity calculations, rooted in biomedical knowledge, play a pivotal role in this endeavor. These calculations methematically quantify biomedical knowledge to gauge the similarity between genes. Similarity entities share similar functions and behaviors, which form the basis for solving a wide range of real-world challenges. These challenges span predicting and inferring gene attributes such as function, localization, and interactions, as well as analyzing diseases and drugs, including drug repurposing. 
 
-We developed the software tool [GOSemSim](https://www.bioconductor.org/packages/GOSemSim) based on gene ontology, which implements multiple information content-based algorithms and graph-based algorithms. This work was published in [*Bioinformatics 2010*](http://bioinformatics.oxfordjournals.org/cgi/content/abstract/26/7/976) and as a chapter in [*Stem Cell Transcriptional Networks (2nd edition) 2020*](http://dx.doi.org/10.1007/978-1-0716-0301-7_11). We extended this work to a broader range of biomedical knowledge, supporting the measurement of gene similarity from perspectives such as diseases ([*Bioinformatics 2015b*](http://bioinformatics.oxfordjournals.org/cgi/content/abstract/btu684)), phenotypes, and medical subject headings ([*Bioinformatics 2018*](https://doi.org/10.1093/bioinformatics/bty410)). 
+To facilitate this process, we developed the software tool [GOSemSim](https://www.bioconductor.org/packages/GOSemSim), built upon gene ontology principles. [GOSemSim](https://www.bioconductor.org/packages/GOSemSim) incorporates multiple information content-based algorithms and graph-based algorithms to provide comprehensive gene similarity assessments. This work was initially published in [*Bioinformatics*](http://bioinformatics.oxfordjournals.org/cgi/content/abstract/26/7/976) in 2010 and later featured as a chapter in [*Stem Cell Transcriptional Networks (2nd edition)*](http://dx.doi.org/10.1007/978-1-0716-0301-7_11) in 2020. Subsequently, we extended the scope of this work to encompass a broader array of biomedical knowledge domains. This expanded version supports the measurement of gene similarity from diverse perspectives, including diseases ([*Bioinformatics 2015*](http://bioinformatics.oxfordjournals.org/cgi/content/abstract/btu684)), phenotypes, and medical subject headings ([*Bioinformatics 2018*](https://doi.org/10.1093/bioinformatics/bty410)). 
 
 
 </td>
@@ -110,7 +113,7 @@ We developed the software tool [GOSemSim](https://www.bioconductor.org/packages/
 -->
 
 
-## 4. Annotation, visualization, data mining of cistrome data
+## 4. Annotating, visualizing, mining of cistrome data
 
 
 <table style="border:none; font-size: 90%; width:100%;">
@@ -123,7 +126,9 @@ We developed the software tool [GOSemSim](https://www.bioconductor.org/packages/
 </td>
 <td style="border:none;">
 
-Cistrome refers to the set of cis-acting targets of trans-acting factors at the genome-wide scale, including transcription factor binding sites and the genomic locations of histone modifications. The cis-regulatory information can be obtained at the genome-wide level through techniques such as ChIP-seq, DNase-seq, and ATAC-seq. The key to bridging upstream (determining locations) and downstream analysis (functional studies) lies in annotating the genomic positional information. On the other hand, most tools are designed for individual datasets. With the proliferation of cistromic technologies and the accumulation of public data, comparing multiple datasets, mining public data, and identifying (unknown) co-regulators of transcription factors are critical for comprehensive understanding of cistrome interactions. To address these issues, we developed the [ChIPseeker](https://www.bioconductor.org/packages/ChIPseeker) package for annotation and comparision, integrated with the GEO database to allow users to infer potential co-transcription factors or protein complexes through data mining. This work was published in [Bioinformatics 2015a](http://bioinformatics.oxfordjournals.org/cgi/content/abstract/btv145). ChIPseeker has been widely applied to various cistromic datasets and is listed as a key step in the anlysis of [DNase-seq](https://doi.org/10.1093/bib/bby057) and [ATAC-seq](https://informatics.fas.harvard.edu/atac-seq-guidelines.html) data. We also published a protocol article ([*Current Protocols 2022*](https://doi.org/10.1002/cpz1.585)) introducing the analysis application of ChIPseeker in various different epigenomic datasets.
+The term "cistrome" refers to the ensemble of cis-acting targets of trans-acting factors across the genome, encompassing transcription factor binding sites and the genomic loci of histone modifications. Genomic cis-regulatory information is typically obtained on a genome-wide scale through techniques such as ChIP-seq, DNase-seq, and ATAC-seq. Bridging the gap between upstream (locating sites) and downstream analysis (functional investigations) hinges on annotating the genomic positional data effectively. However, existing tools are often tailored for individual datasets, posing a challenge as cistromic technologies proliferate and public data accumulates. Comparing multiple datasets, mining public data, and identifying potential co-regulators of transcription factors are essential for comprehensive understanding of cistrome interactions. 
+
+To tackle these challenges, we developed the [ChIPseeker](https://www.bioconductor.org/packages/ChIPseeker) package for annotation and comparision, seamlessly integrated with the GEO database to facilitate data mining for potential co-transcription factors or protein complexes. This pivotal work was published in [Bioinformatics](http://bioinformatics.oxfordjournals.org/cgi/content/abstract/btv145) in 2015. ChIPseeker has since become a cornerstone in the analysis of [DNase-seq](https://doi.org/10.1093/bib/bby057) and [ATAC-seq](https://informatics.fas.harvard.edu/atac-seq-guidelines.html) data, widely employed across various cistromic datasets. Additionally, we published a protocol article in [*Current Protocols*](https://doi.org/10.1002/cpz1.585) in 2022, detailing the application of ChIPseeker in analyzing diverse epigenomic datasets, further extending its utility and impact in the field.
 
 </td>
 </tr>
@@ -134,7 +139,7 @@ Cistrome refers to the set of cis-acting targets of trans-acting factors at the 
 顺反组（cistrome）指反式作用因子在全基因组尺度下的顺式作用靶点集合，包括转录作用因子结合位点和组蛋白修饰在全基因组上的位置。顺式调控信息可由ChIP-seq、DNase-seq和ATAC-seq在全基因组水平上获取，衔接上游（确定位置）和下游分析（功能研究）的重点在于对基因组位置信息进行注释。另一方面，大多数的工具针对单一的数据集而设计，随着顺反组技术的普及和公共数据的积累，比较多组数据、挖掘公共数据，鉴定反式作用因子的（未知）共同调控因子，是全面理解顺反子相互作用的关键。针对这些问题，我们开发了ChIPseeker包，进行注释和比较，并整合了GEO数据库，以允许用户通过数据挖掘，推断出潜在的共转录因子或蛋白复合体。该工作发表于Bioinformatics 2015a。ChIPseeker被广泛应用于各种顺反组数据，被列为DNase-seq和ATAC-seq数据分析指南的关键步骤。我们也撰写了protocol文章介绍于ChIPseeker在各种不同的表观基因组学数据中的分析应用。
 -->
 
-## 5. Integrating biological knowledge to enhance the biological interpretability of single-cell clustering
+## 5. Enhancing single-cell clustering interpretability through biological knowledge integration
 
 
 <table style="border:none; font-size: 90%; width:100%;">
@@ -148,7 +153,7 @@ Cistrome refers to the set of cis-acting targets of trans-acting factors at the 
 <td style="border:none;">
 
 
-Clustering is a key step in bridging upstream and downstream analyses in single-cell analysis, and accurate clustering is crucial for downstream analysis. Currently, the most common clustering methods rely on graph-based community detection approaches. We propose integrating biological knowledge as attributes of graph nodes to obtain clustering results that are more aligned with biological interpretations. We have implemented the [MSGNN](https://github.com/YuLab-SMU/MSGNN/) tool based on graph neural networks to enhance the biological interpretation of complex data. 
+Clustering serves as a pivotal bridge between upstream and downstream analyses in single-cell analysis, with precise clustering being essential for subsequent investigations. Presently, prevalent clustering methods predominantly utilize graph-based community detection approaches. Our proposition involves integrating biological knowledge as attributes of graph nodes to yield clustering outcomes that align more closely with biological interpretations. To realize this advancement, we have developed the [MSGNN](https://github.com/YuLab-SMU/MSGNN/) tool based on graph neural networks, enhancing the biological interpretation of complex data. 
 
 
 </td>
@@ -160,7 +165,7 @@ Clustering is a key step in bridging upstream and downstream analyses in single-
 聚类是衔接单细胞上下游分析的关键步骤，准确聚类对下游分析至关重要。当前最常见的聚类方法都是基于图的社区发现方法，我们提出将生物学知识作为网络图节点属性进行融合，从而可以得到更符合生物学解释的聚类结果。我们基于图神经网络实现了MSGNN工具，以增强对复杂数据的生物学解读。
 -->
 
-## 6. Identification of spatial variable biological functions
+## 6. Identifying spatial variable biological functions
 
 
 <table style="border:none; font-size: 90%; width:100%;">
@@ -173,8 +178,9 @@ Clustering is a key step in bridging upstream and downstream analyses in single-
 </td>
 <td style="border:none;">
 
+Existing methods for identifying biological functions with spatially specific distributions typically begin with the identification of genes exhibiting high spatial variability. Subsequent enrichment analysis is then conductted to characterizing these functions.
 
-Identification of biological functions with spatial specific distributions involves identifying genes with high spatial variability, followed by enrichment analysis to characterize these functions. We propose a new method for characterizing cell functional states as well as a general approach for identifying spatial highly variable features. The [SVP](https://github.com/YuLab-SMU/SVP/) package has been developed to implement these two methods, enabling the characterization of various biological functions, including biological pathways, and identifying whether these functions exhibit spatial distribution specificity. 
+Our innovation lies in proposing a novel method for characterizing cell functional states, alongside a general approach for identifying spatially highly variable features. To operationalize these advancements, we have developed the [SVP](https://github.com/YuLab-SMU/SVP/) package. This tool facilitates the implementation of both methods, enabling the comprehensive characterizing various biological functions, including pathways, while also determining the spatial distribution specificity of these functions. 
 
 </td>
 </tr>
@@ -186,7 +192,7 @@ Identification of biological functions with spatial specific distributions invol
 -->
 
 
-## Comments from the academic community
+## Feedback from the academic community
 
 
 

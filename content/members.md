@@ -138,7 +138,7 @@ title: Members
     </td>   
     <td style="border:none;"><img src="/images/avatar.jpg" width='150px'></td>
     <td style="border:none;"><strong>You?<br>
-        Master Student</strong>
+        </strong>
     </td>   
   </tr>    
 </table> 

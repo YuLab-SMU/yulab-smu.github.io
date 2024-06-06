@@ -1,6 +1,6 @@
 ---
 slug: contribution-tree-data
-title: "Tree Data Integration"
+title: "Integrating Tree Data: Methods and Applications"
 ---
 
 
@@ -13,10 +13,10 @@ title: "Tree Data Integration"
 </style>
 
 
-A series of methods and software tools have been proposed and developed for the operation, integration, and visualization of trees and data. This includes (1) the introduction of graphic grammar into the field of phylogeny for the first time, (2) enhancing the data integration ability of phylogenetics and its application in different disciplines, (3) proposing two universal methods for phylogenetic data integration and visualization, and (4) designing data structures that can store phylogenetic trees, related data, and visualization directives to ensure analytical reproducibility. This series of methods and software tools provide a concise and unified syntax as a whole system., which assists researchers in discovering hidden patterns and proposing new hypotheses by integrating heterogeneous data in the context of evolution or hierachy.
+We have proposed and developed a series of methods and software tools for the operation, integration, and visualization of phylogenetic trees and data. Key innovations include: (1) introducing graphic grammar to the field of phylogenetics for the first time; (2) enhancing the data integration capabilities of phylogenetics and its application across various disciplines; (3) proposing two universal methods for phylogenetic data integration and visualization; and (4) designing data structures that can store phylogenetic trees, associated data, and visualization directives to ensure analytical reproducibility. These methods and tools offer a concise and unified syntax system, assisting researchers in discovering hidden patterns and proposing new hypotheses by integrating heterogeneous data within the context of evolution or hierarchy.
 
 
-Two monographs have been published to introduce this series of work, including "[Data integration, manipulation and visualization of phylogenetic trees](https://www.routledge.com/Data-Integration-Manipulation-and-Visualization-of-Phylogenetic-Trees/Yu/p/book/9781032233574)" (EN) published by CRC Press and 《[R实战：系统发育树的数据集成操作与可视化](https://weread.qq.com/web/bookDetail/8ad32a00813ab81bbg0183d2)》 (CN) published by Publishing House of Electronics Industry (电子工业出版社).
+Two monographs have been published to introduce this series of work: "[Data integration, manipulation and visualization of phylogenetic trees](https://www.routledge.com/Data-Integration-Manipulation-and-Visualization-of-Phylogenetic-Trees/Yu/p/book/9781032233574)" (in English) by CRC Press and 《[R实战：系统发育树的数据集成操作与可视化](https://weread.qq.com/web/bookDetail/8ad32a00813ab81bbg0183d2)》 (in Chinese) by Publishing House of Electronics Industry (电子工业出版社).
 
 <a href="https://www.routledge.com/Data-Integration-Manipulation-and-Visualization-of-Phylogenetic-Trees/Yu/p/book/9781032233574"><img src="https://yulab-smu.top/treedata-book/9781032233574_cover_review.png" style="height:320px;border:2px solid black;"/></a>
 <a href="https://weread.qq.com/web/bookDetail/8ad32a00813ab81bbg0183d2"><img src="/images/book-cover-cn.png" style="height:320px;border:2px solid black;"/></a>
@@ -24,7 +24,7 @@ Two monographs have been published to introduce this series of work, including "
 
 ----
 
-## 1. Frist-time implementation of graphical grammar in visualizing phylogenetic tree data
+## 1. Frist-time implementation of graphical grammar for visualizing phylogenetic tree data
 
 
 <table style="border:none; font-size: 90%; width:100%;">
@@ -37,7 +37,9 @@ Two monographs have been published to introduce this series of work, including "
 </td>
 <td style="border:none;">
 
-There are numerous software implementations for phylogenetic tree visualization, yet they are mostly used to visualize the tree's topological structure and are unable to (or only have limited support for) annotating the tree using knowledge or data. For the first time, [ggtree](https://www.bioconductor.org/packages/ggtree) introduces the grammar of graphics into the visualization of phylogenetic trees and related data, effectively implementing a high level of abstraction for visualization through simple grammar, greatly reducing the difficulty of data visualization and making complex requirements possible. This work was published in [*Methods in Ecology and Evolution 2017*](http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12628/abstract) (ESI highly cited), and was selected by the journal as [one of the ten representative works](https://methodsblog.com/2020/11/19/ggtree-tree-visualization/) for its 10th anniversary celebration. A protocol paper (invited) demonstrating the use of this package was published in [*Current Protocols in Bioinformatics 2020*](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpbi.96).
+
+Numerous software tools exist for visualizing phylogenetic trees, but they primarily focus on displaying the tree's topological structure and often lack comprehensive support for annotating the tree with additional knowledge or data. For the first time, [ggtree](https://www.bioconductor.org/packages/ggtree) introduces the grammar of graphics into the visualization of phylogenetic trees and related data. This innovative approach enables a high level of abstraction for visualization through a simple grammar, significantly reducing the complexity of data visualization and accommodating complex requirements. This work was published in [*Methods in Ecology and Evolution*](http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12628/abstract) in 2017 (ESI highly cited) and was chosen by the journal as [one of the ten representative works](https://methodsblog.com/2020/11/19/ggtree-tree-visualization/) for its 10th anniversary celebration. An invited protocol paper demonstrating the use of this package was also published in [*Current Protocols in Bioinformatics*](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpbi.96) in 2020.
+
 
 </td>
 </tr>
@@ -62,7 +64,7 @@ There are numerous software implementations for phylogenetic tree visualization,
 </td>
 <td style="border:none;">
 
-The outputs of phylogenetic software are mostly in non-standard formats and not compatible with each other. This restricts the integration and comparative analysis in downstream applications. To address this issue, we developed [treeio](https://www.bioconductor.org/packages/treeio), which allows for parsing of standard and a dozen of non-standard data formats, and enables integration of external data. It also supports exporting the phylogenetic tree and related data into a single file. The ability to support input and output means that data format conversion is possible, thereby making more software indirectly support a wider range of data. The parsing and integration of various types of data provides the potential for downstream integrated analyses and comparative analyses, while expanding the scope of application of phylogenetic analysis. This work has been published in [*Molecular Biology and Evolution 2020*](https://academic.oup.com/mbe/article/37/2/599/5601621) (ESI highly cited).
+The outputs of phylogenetic software are often in non-standard formats, leading to compatibility issues and hindering integration and comparative analysis in downstream applications. To address this challenge, we developed [treeio](https://www.bioconductor.org/packages/treeio), a tool capable of parsing both standard and a variety of non-standard data formats. It facilitates the integration of external data and supports exporting phylogenetic trees and associated data into a single file. This dual capability enables data format conversion, thereby indirectly expanding the compatibility of software with a wider range of data. By parsing and integrating diverse data types, [treeio](https://www.bioconductor.org/packages/treeio) empowers downstream integrated and comparative analyses, thus broadening the application scope of phylogenetic analysis. Our work, published in [*Molecular Biology and Evolution*](https://academic.oup.com/mbe/article/37/2/599/5601621) in 2020 (ESI highly cited), underscores the significance of this advancement.
 
 </td>
 </tr>
@@ -73,7 +75,7 @@ The outputs of phylogenetic software are mostly in non-standard formats and not 
 -->
 
 
-## 3. Propose two general methods for the integration and visualization of phylogenetic data
+## 3. Proposing two general methods for the integration and visualization of phylogenetic data
 
 
 <table style="border:none; font-size: 90%; width:100%;">
@@ -86,7 +88,7 @@ The outputs of phylogenetic software are mostly in non-standard formats and not 
 </td>
 <td style="border:none;">
 
-Two general methods have been proposed and implemented, covering all aspects of the integration and visualization of phylogenetic data. The first method allows data to be mapped to the topology of the tree and supports the direct display of data or its mapping as visualization features; the second method reorganizes external data according to the tree topology, visualizes it in the manner specified by the user, and finally aligns the visualization result with the phylogenetic tree. These two general methods allow various heterogeneous data from different disciplines to be deciphered in the context of phylogenetics, which can contribute to the discovery of new patterns related or the proposal of new hypotheses. This work was published in [*Molecular Biology and Evolution 2018*](https://academic.oup.com/mbe/article/35/12/3041/5142656) (ESI highly cited). Based on this, the [ggtreeExtra](https://www.bioconductor.org/packages/ggtreeExtra) package was developed to enhance the integration and visualization capabilities for richly annotated data and was published in [*Molecular Biology and Evolution 2021*](https://doi.org/10.1093/molbev/msab166).
+Two comprehensive methods have been proposed and implemented to address all facets of integrating and visualizing phylogenetic data. The first method enables data to be directly mapped onto the tree's topology, facilitating the direct display of data or its transformation into visualization features. The second method involves the restructuring external data based on the tree's topology, allowing users to visualize it according to their specifications, and subsequently aligning the visualization with the phylogenetic tree. These two methods enable the integration of diverse heterogeneous data from various disciplines within the context of phylogenetics, thereby aiding in the discovery of new patterns or the formulation of novel hypotheses. This work, published in [*Molecular Biology and Evolution*](https://academic.oup.com/mbe/article/35/12/3041/5142656) in 2018 (ESI highly cited), served as the foundation for the development of the [ggtreeExtra](https://www.bioconductor.org/packages/ggtreeExtra) package. This package enhances integration and visualization capabilities for data richly annotated with additional features, and was published in [*Molecular Biology and Evolution*](https://doi.org/10.1093/molbev/msab166) in 2021.
 
 </td>
 </tr>
@@ -98,7 +100,7 @@ Two general methods have been proposed and implemented, covering all aspects of 
 
 
 
-## 4. Enhance data reuse and analytical reproducibility
+## 4. Enhancing data reuse and analytical reproducibility
 
 
 
@@ -112,7 +114,7 @@ Two general methods have been proposed and implemented, covering all aspects of 
 </td>
 <td style="border:none;">
 
-Visualisation of phylogenetic trees is usually in the form of images, and the corresponding trees and data cannot be reused, which hampers the integration of phylogenetic knowledge and comparative analysis. Studies have shown that about 60% of the published phylogenetic data is permanently lost. To solve this problem, we designed the *ggtree* object, which encompasses the phylogenetic tree, data, and visualization directives. It can be rendered into an image, while the phylogenetic tree and related data can be extracted from it. In addition, similar to the "format painter", the visualization directives can be used for visualizing other tree objects. This work was published in [*iMeta 2022*](https://onlinelibrary.wiley.com/doi/abs/10.1002/imt2.56), supporting data reusability and research replicability while promoting the integration and comparative analysis of phylogenetic data in the field.
+Visualisation of phylogenetic trees typically manifests as static images, leading to a lack of reusability of both the trees and associated data, thus impeding the integration of phylogenetic knowledge and comparative analysis. Research indicates that approximately 60% of published phylogenetic data is lost permanently. To tackle this issue, we devised the *ggtree* object, which encapsulates the phylogenetic tree, data, and visualization directives. This object can be rendered into an image, from which the phylogenetic tree and related data can be extracted. Furthermore, akin to the "format painter" tool, the visualization directives are transferable for visualizing other tree objects. Our efforts,  published in [*iMeta*](https://onlinelibrary.wiley.com/doi/abs/10.1002/imt2.56) in 2022, promote data reusability and research replicability, while facilitating the integration and comparative analysis of phylogenetic data within the field.
 
 </td>
 </tr>
@@ -123,7 +125,7 @@ Visualisation of phylogenetic trees is usually in the form of images, and the co
 系统发育树的可视化通常以图片的形式，而相应的树和数据无法被重新使用，以整合系统发育学知识以及进行比较分析，有研究表明，约 60%的已发表系统发育数据永久地丢失了。为了解决这一问题，我们设计了 ggtree 对象，包含了系统发育树、数据和可视化指令，它可以渲染成一张图片，同时能够从中抽提出系统发育树和相关的数据，并且类似于“格式刷”，可视化指令还能用于可视化其它的树对象。这一工作发表于iMeta 2022，有力地支持数据的可重用性和研究的可重复性，同时也能够促进学科对系统发育数据的整合与比较分析。
 -->
 
-## 5. Extend support for other tree-like structures
+## 5. Expanding support to other tree-like structures
 
 
 <table style="border:none; font-size: 90%; width:100%;">
@@ -136,7 +138,7 @@ Visualisation of phylogenetic trees is usually in the form of images, and the co
 </td>
 <td style="border:none;">
 
-Expand the series of tools related to tree data integration and visualization to apply to other tree-like structures (e.g., hierarchical clustering and classification/regression trees). Implemented the [ggtreeDendro](https://www.bioconductor.org/packages/ggtreeDendro) package to support general hierarchical structures and the [ecluster](https://github.com/YuLab-SMU/ecluster) package (work in progress) to support various omics data structures provided in the Bioconductor project. This allows the related data at the feature or sample level to be interpreted and integrated according to their hierarchical relationships.
+Broaden the scope of tools pertaining to tree data integration and visualization to encompass other tree-like structures, such as hierarchical clustering and classification/regression trees. We have developed the [ggtreeDendro](https://www.bioconductor.org/packages/ggtreeDendro) package to accommodate general hierarchical structures and are currently working on the [ecluster](https://github.com/YuLab-SMU/ecluster) package to support various omics data structures available in the Bioconductor project. These advancements enable the interpretation and integration of related data at the feature or sample level based on their hierarchical relationships.
 
 </td>
 </tr>
@@ -149,7 +151,7 @@ Expand the series of tools related to tree data integration and visualization to
 
 ----
 
-## Comments from the academic community
+## Feedback from the academic community
 
 
 <table style="border:none; font-size: 90%; width:100%;">
@@ -158,7 +160,7 @@ Expand the series of tools related to tree data integration and visualization to
 
 > It is embarrassing to me that I just learned about "**ggtree**" this month, but I am looking forward to incorporating it into several projects in my lab.  I am looking forward to using it to visualizing annotation results after doing BLAST or FASTA similarity searches, and for high lighting errors in protein sequences among closely related organisms.  I have been searching for a tool like "**ggtree**" for several years, not appreciating that you had already built it.  So my interest in recruiting your paper is somewhat selfish.  I would like more help in understanding how to add graphical annotations to the leaves of trees. 
 >
-> -- The email (Sep 14, 2019) from Professor [William Pearson](https://fasta.bioch.virginia.edu/wrpearson/) (ISCB Fellow) inviting [Guangchuang Yu](https://twitter.com/guangchuangyu) to contribute to *Current Protocols in Bioinformatics* 
+> -- The email from Professor [William Pearson](https://fasta.bioch.virginia.edu/wrpearson/) (ISCB Fellow), dated September 14, 2019, invited [Guangchuang Yu](https://twitter.com/guangchuangyu) to contribute to *Current Protocols in Bioinformatics*. 
 
 
 </td>
