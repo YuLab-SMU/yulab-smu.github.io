@@ -94,8 +94,6 @@
   </url><url>
     <loc>http://yulab-smu.top/authors/</loc>
   </url><url>
-    <loc>http://yulab-smu.top/contribution-knowledge-mining/</loc>
-  </url><url>
     <loc>http://yulab-smu.top/categories/</loc>
   </url><url>
     <loc>http://yulab-smu.top/contact/</loc>
@@ -106,7 +104,11 @@
   </url><url>
     <loc>http://yulab-smu.top/documents/</loc>
   </url><url>
+    <loc>http://yulab-smu.top/contribution-knowledge-mining/</loc>
+  </url><url>
     <loc>http://yulab-smu.top/snippets/first/</loc>
+  </url><url>
+    <loc>http://yulab-smu.top/contribution-tree-data/</loc>
   </url><url>
     <loc>http://yulab-smu.top/members/</loc>
   </url><url>
@@ -121,8 +123,6 @@
     <loc>http://yulab-smu.top/snippets/</loc>
   </url><url>
     <loc>http://yulab-smu.top/software/</loc>
-  </url><url>
-    <loc>http://yulab-smu.top/contribution-tree-data/</loc>
   </url><url>
     <loc>http://yulab-smu.top/about/</loc>
   </url><url>
