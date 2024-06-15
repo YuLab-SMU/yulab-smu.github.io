@@ -49,6 +49,19 @@ title: Members
         <a href="https://orcid.org/0000-0003-3553-1162" aria-label="Orcid">    
             <i class="ai ai-orcid ai-2x" style="font-size: 150%;"></i></a>   
     </td>     
+    <td style="border:none;"><img src="/images/members/ft.png" width='150px'></td>
+    <td style="border:none;"><strong>Tao Feng, Phd.<br>
+        Lecturer</strong><br>
+    </td>
+    <td style="border:none;"><img src="/images/members/ll.jpg" width='150px'></td>
+    <td style="border:none;"><strong>Lin Li<br>
+        Bioinformatician</strong><br>
+        <a href="https://github.com/SanL20" aria-label="Github">
+            <i class="fa fa-github fa-2x" aria-hidden="true" style="font-size: 150%;"></i></a>
+    </td>      
+  </tr> 
+
+<tr style="border:none;"> 
     <td style="border:none;"><img src="/images/members/xsb.jpg" width='150px'></td>
     <td style="border:none;"><strong>Shuangbin Xu, Phd.<br>
         Post-doctoral fellow</strong><br>
@@ -57,6 +70,10 @@ title: Members
     </td>    
     <td style="border:none;"><img src="/images/members/lbd.jpg" width='150px'></td>
     <td style="border:none;"><strong>Bingdong Liu, Phd.<br>
+        Post-doctoral fellow</strong><br>
+    </td>
+    <td style="border:none;"><img src="/images/members/fzh.png" width='150px'></td>
+    <td style="border:none;"><strong>Zhenhuan Feng, Phd.<br>
         Post-doctoral fellow</strong><br>
     </td>
   </tr> 
@@ -123,29 +140,13 @@ title: Members
         Master Student</strong>
     </td>   
   </tr>   
- <tr style="border:none;"> 
-    <td style="border:none;"><img src="/images/members/xwq.jpg" width='150px'></td>
-    <td style="border:none;"><strong>Wenqin Xie<br>
-        Master Student</strong><br>
-        <a href="https://github.com/Xie-Wenqin" aria-label="Github">
-            <i class="fa fa-github fa-2x" aria-hidden="true" style="font-size: 150%;"></i></a>
-    </td>
-    <td style="border:none;"><img src="/images/members/ll.jpg" width='150px'></td>
-    <td style="border:none;"><strong>Lin Li<br>
-        Master Student</strong><br>
-        <a href="https://github.com/SanL20" aria-label="Github">
-            <i class="fa fa-github fa-2x" aria-hidden="true" style="font-size: 150%;"></i></a>
-    </td>   
-    <td style="border:none;"><img src="/images/avatar.jpg" width='150px'></td>
-    <td style="border:none;"><strong>You?<br>
-        </strong>
-    </td>   
-  </tr>    
 </table> 
 
 
 ## Former Lab Members
 
++ **胡二强** (PhD 2020-2024)
++ **谢汶琴** (MS 2021-2023)
 + **唐文丽** (MS 2020-2023 & Bioinformatician 2023-2024; 南方医科大学2023届“优秀毕业研究生”)
 + **吴天志** (PhD 2020-2023) <!-- 加州大学旧金山分校（UCSF），博士后 -->
 + **郭平凡** (MS 2019-2023; 2021年硕士研究生国家奖学金) <!-- 寻因生物，生物信息学工程师 -->

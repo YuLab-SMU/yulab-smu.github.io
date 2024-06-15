@@ -17,7 +17,7 @@ title: News
 
 <strong><font color="green">Apr 2024</font></strong>: 📝 [Encoding biological metaverse: Advancements and challenges in neural fields from macroscopic to microscopic](https://doi.org/10.1016/j.xinn.2024.100627) 发表在***The Innovation***期刊。
 
-<strong><font color="green">Apr 2024</font></strong>: 📝 [Gut microbiome and metabolome to discover pathogenic bacteria and probiotics in ankylosing spondylitis](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2024.1369116) 发表在***Frontiers in Immunology***期刊，恭喜唐文丽（共一）。
+<strong><font color="green">Apr 2024</font></strong>: 📝 [Gut microbiome and metabolome to discover pathogenic bacteria and probiotics in ankylosing spondylitis](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2024.1369116) 发表在***Frontiers in Immunology***期刊，唐文丽为共同第一作者。
 
 <strong><font color="green">Mar 2024</font></strong>: 洪一凡和刘婉彤两位同学通过研究生复试，加入课题组。 
 
@@ -26,6 +26,8 @@ title: News
 <strong><font color="green">Mar 2024</font></strong>: 📝 “通过系统发育方法来解析肿瘤演化”，综述文章发表于***Journal of the National Cancer Center***期刊（Linkes: [article](https://www.sciencedirect.com/science/article/pii/S2667005424000206)，[JNCC癌症科学进展公众号报道](https://mp.weixin.qq.com/s/WMNEGRwUBJgRYvIFbBpLOA)），恭喜李林。
 
 <strong><font color="green">Feb 2024</font></strong>: 📝 用于探索时间和其它发育信号的软件包*ShinyTempSignal*发表于***Journal of Genetics and Genomics***期刊 (Links: [article](https://www.sciencedirect.com/science/article/pii/S167385272400033X), [JGG遗传学报公众号报道](https://mp.weixin.qq.com/s/5Mr-HYY3ZPnlZ6uhPt4YtA))，恭喜詹历、罗晓、谢玟琴和朱炫安（2018级生信本科生）。
+
+<strong><font color="green">Feb 2024</font></strong>: 📝 用于[快速进行放置序列更新系统发育树的工具TIPars](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011871)发表在***PLOS Computational Biology***期刊，余光创为共同第一作者。
 
 <strong><font color="green">Jan 2024</font></strong>: 📝 发表一篇专刊[Single-Cell and Spatial-Omics in Delineating Immune-Related Diseases](https://www.frontiersin.org/research-topics/42143)的Editorial文章，恭喜温少迪。
 
