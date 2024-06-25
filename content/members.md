@@ -131,10 +131,6 @@ title: Members
     <td style="border:none;"><strong>Junrui Li<br>
         EYMEP</strong>
     </td>    
-    <td style="border:none;"><img src="/images/members/lwt.png" width='150px'></td>
-    <td style="border:none;"><strong>Wantong Liu<br>
-        Master Student</strong>
-    </td>    
     <td style="border:none;"><img src="/images/avatar.jpg" width='150px'></td>
     <td style="border:none;"><strong>Yifan Hong<br>
         Master Student</strong>
@@ -156,6 +152,7 @@ title: Members
 + **冯婷泽** (MS 2019-2022; 南方医科大学2022届“优秀毕业研究生”) <!-- 中科院大连化物所, 博士在读 -->
 + **刘珊珊** (MS 2019-2022; 2021年硕士研究生国家奖学金) <!-- 南方医科大学, 博士在读 -->
 
+<!-- 刘婉彤 2024 没入学 -->
 <!-- + **胡二强** (PhD 2020-2024) -->
 <!-- EYMEP: Eight year medical education program -->
 
