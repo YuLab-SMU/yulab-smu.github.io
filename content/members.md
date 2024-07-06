@@ -49,9 +49,9 @@ title: Members
         <a href="https://orcid.org/0000-0003-3553-1162" aria-label="Orcid">    
             <i class="ai ai-orcid ai-2x" style="font-size: 150%;"></i></a>   
     </td>     
-    <td style="border:none;"><img src="/images/members/ft.png" width='150px'></td>
-    <td style="border:none;"><strong>Tao Feng, Phd.<br>
-        Lecturer</strong><br>
+    <td style="border:none;"><img src="/images/avatar.jpg" width='150px'></td>
+    <td style="border:none;"><strong>You ?<br>
+        <!-- Lecturer --></strong><br>
     </td>
     <td style="border:none;"><img src="/images/members/ll.jpg" width='150px'></td>
     <td style="border:none;"><strong>Lin Li<br>
