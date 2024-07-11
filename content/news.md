@@ -3,6 +3,8 @@ slug: news
 title: News
 ---
 
+<strong><font color="green">Jun 2024</font></strong>: 余光创获得2024年广东省研究生教育创新计划项目资助（项目批准号：2024SFKC_019）；立项类型：研究生示范课程；项目名称：生物信息学。
+
 <strong><font color="green">May 2024</font></strong>: [我校入选教育部“101计划”生物信息学虚拟教研室](https://www.smu.edu.cn/info/1251/46529.htm)，王倩雯作为代表接受授牌。
 
 <strong><font color="green">May 2024</font></strong>: [CCF（中国计算机学会）开源创新大赛暨第二届Bio-OS开源开放大赛在我校启动](https://www.smu.edu.cn/info/1139/45719.htm)，余光创主持开幕式，会议同时成立了【南方医科大学Bio-OS开源俱乐部】。

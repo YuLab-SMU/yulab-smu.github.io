@@ -33,7 +33,7 @@ title: Publications
 
 ## <i class="fa fa-calendar fa-1x" aria-hidden="true"></i> 2024
 
-+ XK Ma<sup>#</sup>, Y Yu<sup>#</sup>, T Huang<sup>#</sup>, D Zhang, C Tian, W Tang, M Luo, P Du<sup>\*</sup>, __G Yu__<sup>\*</sup>, L Yang<sup>\*</sup>. [Software Development for Life Sciences: principles and future directions](). __*The Innovation Life*__. 2024, in revision.
++ XK Ma<sup>#</sup>, Y Yu<sup>#</sup>, T Huang<sup>#</sup>, D Zhang, C Tian, W Tang, M Luo, P Du<sup>\*</sup>, __G Yu__<sup>\*</sup>, L Yang<sup>\*</sup>. [Software Development for Life Sciences: principles and future directions](). __*The Innovation Life*__. 2024, accepted.
 + D Wang, G Chen, L Li, S Wen, Z Xie, X Luo, L Zhan, S Xu, J Li, R Wang, Q Wang<sup>\*</sup>, __G Yu__<sup>\*</sup>. [Reducing language barriers, promoting information absorption, and communication using *fanyi*](). __*Chinese Medical Journal*__. 2024, accepted.
 + Y Chen<sup>#</sup>, LN He<sup>#</sup>, Y Zhang, J Gong, S Xu, Y Shu, D Zhang<sup>\*</sup>, __G Yu__<sup>\*</sup>, Z Zuo<sup>\*</sup>. [tigeR: Tumor Immunotherapy Gene Expression Data Analysis R package](). __*iMeta*__. 2024, accepted.
 + Y Yang<sup>#</sup>, S Xu<sup>#</sup>, Y Hong, Y Cai, W Tang, J Wang, B Shen<sup>\*</sup>, H Zong<sup>\*</sup>, __G Yu__<sup>\*</sup>. [Computational modeling for medical data: from data collection to knowledge discovery](). __*The Innovation Life*__. 2024, accepted.
