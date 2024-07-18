@@ -3,6 +3,9 @@ slug: news
 title: News
 ---
 
+
+<strong><font color="green">Jul 2024</font></strong>: clusterProfiler在[***Nature Protocols***](https://www.nature.com/articles/s41596-024-01020-z)发表。
+
 <strong><font color="green">Jun 2024</font></strong>: 余光创获得2024年广东省研究生教育创新计划项目资助（项目批准号：2024SFKC_019）；立项类型：研究生示范课程；项目名称：生物信息学。
 
 <strong><font color="green">May 2024</font></strong>: [我校入选教育部“101计划”生物信息学虚拟教研室](https://www.smu.edu.cn/info/1251/46529.htm)，王倩雯作为代表接受授牌。

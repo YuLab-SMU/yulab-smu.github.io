@@ -33,11 +33,11 @@ title: Publications
 
 ## <i class="fa fa-calendar fa-1x" aria-hidden="true"></i> 2024
 
-+ XK Ma<sup>#</sup>, Y Yu<sup>#</sup>, T Huang<sup>#</sup>, D Zhang, C Tian, W Tang, M Luo, P Du<sup>\*</sup>, __G Yu__<sup>\*</sup>, L Yang<sup>\*</sup>. [Software Development for Life Sciences: principles and future directions](). __*The Innovation Life*__. 2024, accepted.
-+ D Wang, G Chen, L Li, S Wen, Z Xie, X Luo, L Zhan, S Xu, J Li, R Wang, Q Wang<sup>\*</sup>, __G Yu__<sup>\*</sup>. [Reducing language barriers, promoting information absorption, and communication using *fanyi*](). __*Chinese Medical Journal*__. 2024, accepted.
 + Y Chen<sup>#</sup>, LN He<sup>#</sup>, Y Zhang, J Gong, S Xu, Y Shu, D Zhang<sup>\*</sup>, __G Yu__<sup>\*</sup>, Z Zuo<sup>\*</sup>. [tigeR: Tumor Immunotherapy Gene Expression Data Analysis R package](). __*iMeta*__. 2024, accepted.
++ XK Ma<sup>#</sup>, Y Yu<sup>#</sup>, T Huang<sup>#</sup>, D Zhang, C Tian, W Tang, M Luo, P Du<sup>\*</sup>, __G Yu__<sup>\*</sup>, L Yang<sup>\*</sup>. [Software Development for Life Sciences: principles and future directions](). __*The Innovation Life*__. 2024, accepted.
 + Y Yang<sup>#</sup>, S Xu<sup>#</sup>, Y Hong, Y Cai, W Tang, J Wang, B Shen<sup>\*</sup>, H Zong<sup>\*</sup>, __G Yu__<sup>\*</sup>. [Computational modeling for medical data: from data collection to knowledge discovery](). __*The Innovation Life*__. 2024, accepted.
-+ S Xu<sup>#</sup>, E Hu<sup>#</sup>, Y Cai<sup>#</sup>, Z Xie<sup>#</sup>, X Luo<sup>#</sup>, L Zhan, W Tang, Q Wang, B Liu, R Wang, W Xie, T Wu, L Xie, __G Yu__<sup>\*</sup>. [Using clusterProfiler to characterise Multi-Omics Data](). __*Nature Protocols*__. 2024, accepted.
++ D Wang, G Chen, L Li, S Wen, Z Xie, X Luo, L Zhan, S Xu, J Li, R Wang, Q Wang<sup>\*</sup>, __G Yu__<sup>\*</sup>. [Reducing language barriers, promoting information absorption, and communication using *fanyi*](). __*Chinese Medical Journal*__. 2024, accepted.
++ S Xu<sup>#</sup>, E Hu<sup>#</sup>, Y Cai<sup>#</sup>, Z Xie<sup>#</sup>, X Luo<sup>#</sup>, L Zhan, W Tang, Q Wang, B Liu, R Wang, W Xie, T Wu, L Xie, __G Yu__<sup>\*</sup>. [Using clusterProfiler to characterise Multi-Omics Data](https://www.nature.com/articles/s41596-024-01020-z). __*Nature Protocols*__. 2024, accepted. [<i class="fa fa-file-pdf-o fa-2x" aria-hidden="true" style="color:black;font-size: 150%;"></i>](https://trebuchet.public.springernature.app/get_content/797cada7-c2ac-41be-b617-dfc70afc9f1e?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20240717&utm_content=10.1038/s41596-024-01020-z)
 + L Zhan<sup>#</sup>, X Luo<sup>#</sup>, W Xie<sup>#</sup>, XA Zhu<sup>#</sup>, Z Xie, J Lin, L Li, W Tang, R Wang, L Deng, Y Liao, B Liu, Y Cai, Q Wang, S Xu<sup>\*</sup>, __G Yu__<sup>\*</sup>. [shinyTempSignal: an R shiny application for exploring temporal and other phylogenetic signals](https://www.sciencedirect.com/science/article/pii/S167385272400033X). __*Journal of Genetics and Genomics*__. 2024, 51(7):762-768.
 + L Li, W Xie, L Zhan, S Wen, X Luo, S Xu, Y Cai, W Tang, Q Wang, M Li, Z Xie, L Deng, H Zhu, __G Yu__<sup>\*</sup>. [Resolving Tumor Evolution: A Phylogenetic Approach](https://www.sciencedirect.com/science/article/pii/S2667005424000206). __*Journal of the National Cancer Center*__. 2024, 4(2):97-106. 
 + Q Wang, W Tang, L Chen, L Deng, __G Yu__<sup>\*</sup>. [Decoding the Brain: Unveiling Comprehensive Cellular Atlases through Multiomics Mega Data](https://doi.org/10.1016/j.xinn.2024.100637). __*The Innovation*__. 2024, 5(4):100637.
@@ -59,7 +59,6 @@ title: Publications
 
 
 ## <i class="fa fa-calendar fa-1x" aria-hidden="true"></i> 2022
-
 
 + S Xu, L Li, X Luo, M Chen, W Tang, L Zhan, Z Dai, TT. Lam, Y Guan, __G Yu__<sup>\*</sup>. [Ggtree: A serialized data object for visualization of a phylogenetic tree and annotation data](https://onlinelibrary.wiley.com/doi/full/10.1002/imt2.56). __*iMeta*__, 2022, 1(4):e56.
 + Q Wang<sup>#</sup>, M Li<sup>#</sup>, T Wu, L Zhan, L Li, M Chen, W Xie, Z Xie, E Hu, S Xu, __G Yu__<sup>\*</sup>. [Exploring epigenomic datasets by ChIPseeker](https://doi.org/10.1002/cpz1.585). __*Current Protocols*__, 2022, 2(10): e585.  [<i class="fa fa-file-pdf-o fa-2x" aria-hidden="true" style="color:black;font-size: 150%;"></i>](https://onlinelibrary.wiley.com/share/author/GYJGUBYCTRMYJFN2JFZZ?target=10.1002/cpz1.585)
