@@ -5,6 +5,8 @@ title: News
 
 
 <strong><font color="green">Jul 2024</font></strong>: clusterProfiler在[***Nature Protocols***](https://www.nature.com/articles/s41596-024-01020-z)发表。
+    + 受邀在Springer Nature Research Communities的“Behind the Paper”栏目分享[该论文的研究经历](https://communities.springernature.com/posts/using-clusterprofiler-to-characterise-multi-omics-data)
+    + 南方医科大学基础医学院[报道文章](https://portal.smu.edu.cn/jcyxy/info/1046/6504.htm)
 
 <strong><font color="green">Jun 2024</font></strong>: 余光创获得2024年广东省研究生教育创新计划项目资助（项目批准号：2024SFKC_019）；立项类型：研究生示范课程；项目名称：生物信息学。
 
