@@ -4,9 +4,15 @@ title: News
 ---
 
 
-<strong><font color="green">Jul 2024</font></strong>: clusterProfiler在[***Nature Protocols***](https://www.nature.com/articles/s41596-024-01020-z)发表。
-    + 受邀在Springer Nature Research Communities的“Behind the Paper”栏目分享[该论文的研究经历](https://communities.springernature.com/posts/using-clusterprofiler-to-characterise-multi-omics-data)
-    + 南方医科大学基础医学院[报道文章](https://portal.smu.edu.cn/jcyxy/info/1046/6504.htm)
+<strong><font color="green">Jul 2024</font></strong>: fanyi包在[***Chinese Medical Journal***](https://journals.lww.com/cmj/fulltext/9900/reducing_language_barriers,_promoting_information.1158.aspx)发表，恭喜王荻霏（临床医学本科生）。
+
+<strong><font color="green">Jul 2024</font></strong>: clusterProfiler在[***Nature Protocols***](https://www.nature.com/articles/s41596-024-01020-z)发表，恭喜徐双斌、谢子敬和罗晓。
++ 受邀在Springer Nature Research Communities的“Behind the Paper”栏目分享[该论文的研究经历](https://communities.springernature.com/posts/using-clusterprofiler-to-characterise-multi-omics-data)
++ 南方医科大学基础医学院[报道文章](https://portal.smu.edu.cn/jcyxy/info/1046/6504.htm)
+
+<strong><font color="green">Jul 2024</font></strong>: 余光创受邀请在香港大学Croucher Summer Course: [Virus evolution and epidemiology](https://projects.croucher.org.hk/summer-courses/virus-evolution-and-epidemiology)讲授[ggtree](https://github.com/YuLab-SMU/learnggtree)。
+
+<strong><font color="green">Jul 2024</font></strong>: [2024年前沿创新大会](http://www.the-innovation.org.cn/conference)，颁发多个奖项，余光创获得Best Reviewer奖项，团队文章荣获Best Paper, Most Read, Most Download三个奖项。
 
 <strong><font color="green">Jun 2024</font></strong>: 余光创获得2024年广东省研究生教育创新计划项目资助（项目批准号：2024SFKC_019）；立项类型：研究生示范课程；项目名称：生物信息学。
 
