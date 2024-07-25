@@ -7,8 +7,9 @@ title: News
 <strong><font color="green">Jul 2024</font></strong>: fanyi包在[***Chinese Medical Journal***](https://journals.lww.com/cmj/fulltext/9900/reducing_language_barriers,_promoting_information.1158.aspx)发表，恭喜王荻霏（临床医学本科生）。
 
 <strong><font color="green">Jul 2024</font></strong>: clusterProfiler在[***Nature Protocols***](https://www.nature.com/articles/s41596-024-01020-z)发表，恭喜徐双斌、谢子敬和罗晓。
++ 入选为Nature Protocols期刊的[Feature Protocol](/images/knowledge-mining/featured-protocol-2024.jpeg)
 + 受邀在Springer Nature Research Communities的“Behind the Paper”栏目分享[该论文的研究经历](https://communities.springernature.com/posts/using-clusterprofiler-to-characterise-multi-omics-data)
-+ 南方医科大学基础医学院[报道文章](https://portal.smu.edu.cn/jcyxy/info/1046/6504.htm)
++ 南方医科大学基础医学院[网站](https://portal.smu.edu.cn/jcyxy/info/1046/6504.htm)及[公众号](https://mp.weixin.qq.com/s/UKNAg13ToZdXsy0nEl9lKw)报道文章
 
 <strong><font color="green">Jul 2024</font></strong>: 余光创受邀请在香港大学Croucher Summer Course: [Virus evolution and epidemiology](https://projects.croucher.org.hk/summer-courses/virus-evolution-and-epidemiology)讲授[ggtree](https://github.com/YuLab-SMU/learnggtree)。
 
