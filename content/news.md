@@ -5,6 +5,7 @@ title: News
 
 
 <strong><font color="green">Jul 2024</font></strong>: fanyi包在[***Chinese Medical Journal***](https://journals.lww.com/cmj/fulltext/9900/reducing_language_barriers,_promoting_information.1158.aspx)发表，恭喜王荻霏（临床医学本科生）。
++ [中华医学期刊官方公众号报道文章](https://mp.weixin.qq.com/s/SJsVW_MOptcHPmWTxahgTQ)
 
 <strong><font color="green">Jul 2024</font></strong>: clusterProfiler在[***Nature Protocols***](https://www.nature.com/articles/s41596-024-01020-z)发表，恭喜徐双斌、谢子敬和罗晓。
 + 入选为Nature Protocols期刊的[Feature Protocol](/images/knowledge-mining/featured-protocol-2024.jpeg)

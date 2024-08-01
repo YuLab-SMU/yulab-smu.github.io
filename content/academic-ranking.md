@@ -39,8 +39,10 @@ title: '课题组学术榜'
 
 
 + 最靓的仔 (Highlighted): 论文被期刊选为亮点文章
-    - 徐双斌 (Nature Protocols 2024), 入选[Nature Protocols期刊feature protocol](/images/knowledge-mining/featured-protocol-2024.jpeg)
-    - 吴天志 (The Innovation 2021), 入选[Cell出版社feature article](/images/cell+press-screenshot-2021-08-24.jpg)
+    - 徐双斌 (Nature Protocols 2024)
+        - 入选[Nature Protocols期刊feature protocol](/images/knowledge-mining/featured-protocol-2024.jpeg)
+    - 吴天志 (The Innovation 2021)
+        - 入选[Cell出版社feature article](/images/cell+press-screenshot-2021-08-24.jpg)
 
 
 + 一言九顶 (Highly cited): 文章入选ESI高被引论文
