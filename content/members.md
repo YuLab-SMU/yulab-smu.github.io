@@ -49,36 +49,25 @@ title: Members
         <a href="https://orcid.org/0000-0003-3553-1162" aria-label="Orcid">    
             <i class="ai ai-orcid ai-2x" style="font-size: 150%;"></i></a>   
     </td>     
-    <td style="border:none;"><img src="/images/avatar.jpg" width='150px'></td>
-    <td style="border:none;"><strong>You ?<br>
-        <!-- Lecturer --></strong><br>
-    </td>
     <td style="border:none;"><img src="/images/members/ll.jpg" width='150px'></td>
     <td style="border:none;"><strong>Lin Li<br>
         Bioinformatician</strong><br>
         <a href="https://github.com/SanL20" aria-label="Github">
             <i class="fa fa-github fa-2x" aria-hidden="true" style="font-size: 150%;"></i></a>
-    </td>      
-  </tr> 
-
-<tr style="border:none;"> 
+    </td>
     <td style="border:none;"><img src="/images/members/xsb.jpg" width='150px'></td>
     <td style="border:none;"><strong>Shuangbin Xu, Phd.<br>
         Post-doctoral fellow</strong><br>
         <a href="https://github.com/xiangpin" aria-label="Github">
             <i class="fa fa-github fa-2x" aria-hidden="true" style="font-size: 150%;"></i></a>
-    </td>    
+    </td>              
+  </tr> 
+
+<tr style="border:none;"> 
     <td style="border:none;"><img src="/images/members/lbd.jpg" width='150px'></td>
     <td style="border:none;"><strong>Bingdong Liu, Phd.<br>
         Post-doctoral fellow</strong><br>
     </td>
-    <td style="border:none;"><img src="/images/members/fzh.png" width='150px'></td>
-    <td style="border:none;"><strong>Zhenhuan Feng, Phd.<br>
-        Post-doctoral fellow</strong><br>
-    </td>
-  </tr> 
-
-<tr style="border:none;"> 
     <td style="border:none;"><img src="/images/members/wsd.jpg" width='150px'></td>
     <td style="border:none;"><strong>Shaodi Wen<br>
         PhD Student</strong><br>
@@ -87,36 +76,33 @@ title: Members
     <td style="border:none;"><strong>Hongyuan Zhu<br>
         PhD Student</strong><br>
     </td>
+  </tr> 
+
+<tr style="border:none;"> 
     <td style="border:none;"><img src="/images/members/zhanli.jpg" width='150px'></td>
     <td style="border:none;"><strong>Li Zhan<br>
         Master Student</strong><br>
         <a href="https://github.com/SMUZhanLi" aria-label="Github">
             <i class="fa fa-github fa-2x" aria-hidden="true" style="font-size: 150%;"></i></a>
     </td>
-  </tr>
- <tr style="border:none;"> 
     <td style="border:none;"><img src="/images/members/xzj.jpg" width='150px'></td>
     <td style="border:none;"><strong>Zijing Xie<br>
         Master Student</strong>
     </td>   
-    <td style="border:none;"><img src="/images/members/lx.jpg" width='150px'></td>
-    <td style="border:none;"><strong>Xiao Luo<br>
-        Master Student</strong><br>
-        <a href="https://github.com/778055611" aria-label="Github">
-            <i class="fa fa-github fa-2x" aria-hidden="true" style="font-size: 150%;"></i></a>
-    </td>
     <td style="border:none;"><img src="/images/members/lm.jpg" width='150px'></td>
     <td style="border:none;"><strong>Ming Li<br>
         Master Student</strong><br>
         <a href="https://github.com/MingLi-929" aria-label="Github">
             <i class="fa fa-github fa-2x" aria-hidden="true" style="font-size: 150%;"></i></a>
     </td>
-  </tr> 
-<tr style="border:none;"> 
-    <td style="border:none;"><img src="/images/members/lyf.jpg" width='150px'></td>
-    <td style="border:none;"><strong>Yufan Liao<br>
-        Master Student</strong>
-    </td>     
+  </tr>
+ <tr style="border:none;"> 
+    <td style="border:none;"><img src="/images/members/lx.jpg" width='150px'></td>
+    <td style="border:none;"><strong>Xiao Luo<br>
+        Master Student</strong><br>
+        <a href="https://github.com/778055611" aria-label="Github">
+            <i class="fa fa-github fa-2x" aria-hidden="true" style="font-size: 150%;"></i></a>
+    </td>
     <td style="border:none;"><img src="/images/members/wr.jpg" width='150px'></td>
     <td style="border:none;"><strong>Rui Wang<br>
         Master Student</strong>
@@ -125,8 +111,12 @@ title: Members
     <td style="border:none;"><strong>Lin Deng<br>
         Master Student</strong>
     </td>    
-  </tr>    
+  </tr> 
 <tr style="border:none;"> 
+    <td style="border:none;"><img src="/images/members/lyf.jpg" width='150px'></td>
+    <td style="border:none;"><strong>Yufan Liao<br>
+        Master Student</strong>
+    </td>     
     <td style="border:none;"><img src="/images/members/ljr.png" width='150px'></td>
     <td style="border:none;"><strong>Junrui Li<br>
         EYMEP</strong>
@@ -135,8 +125,7 @@ title: Members
     <td style="border:none;"><strong>Yifan Hong<br>
         Master Student</strong>
     </td>   
-  </tr>   
-</table> 
+  </tr>    
 
 
 ## Former Lab Members
