@@ -126,6 +126,7 @@ title: Members
         Master Student</strong>
     </td>   
   </tr>    
+</table> 
 
 
 ## Former Lab Members
@@ -141,8 +142,7 @@ title: Members
 + **冯婷泽** (MS 2019-2022; 南方医科大学2022届“优秀毕业研究生”) <!-- 中科院大连化物所, 博士在读 -->
 + **刘珊珊** (MS 2019-2022; 2021年硕士研究生国家奖学金) <!-- 南方医科大学, 博士在读 -->
 
-<!-- 刘婉彤 2024 没入学 -->
-<!-- + **胡二强** (PhD 2020-2024) -->
+
 <!-- EYMEP: Eight year medical education program -->
 
 

@@ -6,6 +6,8 @@ title: News
 
 <strong><font color="green">Aug 2024</font></strong>:  tigeR包发表在[iMeta期刊](http://doi.org/10.1002/imt2.229)，恭喜陈逸豪（2019级生信本科，协和研一）。
 
+<strong><font color="green">Aug 2024</font></strong>: 综述文章：[Bioinformatics Software Development: principles and future directions](https://www.the-innovation.org/article/doi/10.59717/j.xinn-life.2024.100083)，在The Innovation Life发表。
+
 <strong><font color="green">Aug 2024</font></strong>:  综述文章：[Computational modeling for medical data: from data collection to knowledge discovery](https://doi.org/10.59717/j.xinn-life.2024.100079)，在The Innovation Life发表，恭喜徐双斌。
 
 <strong><font color="green">Jul 2024</font></strong>: fanyi包在[***Chinese Medical Journal***](https://journals.lww.com/cmj/fulltext/9900/reducing_language_barriers,_promoting_information.1158.aspx)发表，恭喜王荻霏（临床医学本科生）。
@@ -58,8 +60,6 @@ title: News
 <img src="/images/award/HCR-Ribbon_Email_166h_ForResearchers.png" style="height:150px;" align="right"/>
 
 <strong><font color="green">Nov 2023</font></strong>: 李俊睿（八年制临床医学）加入课题组。
-
-<strong><font color="green">Nov 2023</font></strong>: 王荻霏（南方医院临床本科）加入课题组。
 
 <strong><font color="green">Nov 2023</font></strong>: 恭喜周烺获得2023年硕士研究生国家奖学金。
 
