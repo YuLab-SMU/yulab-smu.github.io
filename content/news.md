@@ -9,6 +9,7 @@ title: News
 <strong><font color="green">Aug 2024</font></strong>: 综述文章：[Bioinformatics Software Development: principles and future directions](https://www.the-innovation.org/article/doi/10.59717/j.xinn-life.2024.100083)，在The Innovation Life发表。
 
 <strong><font color="green">Aug 2024</font></strong>:  综述文章：[Computational modeling for medical data: from data collection to knowledge discovery](https://doi.org/10.59717/j.xinn-life.2024.100079)，在The Innovation Life发表，恭喜徐双斌。
++ [The Innovation官方公众号报道文章](https://mp.weixin.qq.com/s/jkF2EnMcCzDYjinsxW-RHg)
 
 <strong><font color="green">Jul 2024</font></strong>: fanyi包在[***Chinese Medical Journal***](https://journals.lww.com/cmj/fulltext/9900/reducing_language_barriers,_promoting_information.1158.aspx)发表，恭喜王荻霏（临床医学本科生）。
 + [中华医学期刊官方公众号报道文章](https://mp.weixin.qq.com/s/SJsVW_MOptcHPmWTxahgTQ)
@@ -28,7 +29,9 @@ title: News
 
 <strong><font color="green">May 2024</font></strong>: [CCF（中国计算机学会）开源创新大赛暨第二届Bio-OS开源开放大赛在我校启动](https://www.smu.edu.cn/info/1139/45719.htm)，余光创主持开幕式，会议同时成立了【南方医科大学Bio-OS开源俱乐部】。
 
-<strong><font color="green">May 2024</font></strong>: 恭喜<!-- 胡二强（博士生）、-->谢汶琴、李林顺利通过毕业答辩。
+<strong><font color="green">May 2024</font></strong>: 恭喜谢汶琴、李林（留课题组）顺利通过毕业答辩。
+
+<strong><font color="green">May 2024</font></strong>: 余光创带领生物信息学系[21级学生参观广州国家实验室](https://mp.weixin.qq.com/s/cPgbzFhj-_QkDzkMpeTC2Q)。
 
 <strong><font color="green">May 2024</font></strong>: 📝 [Decoding the Brain: Unveiling Comprehensive Cellular Atlases through Multiomics Mega Data](https://doi.org/10.1016/j.xinn.2024.100637) 发表在***The Innovation***期刊，恭喜王倩雯。
 
@@ -52,7 +55,7 @@ title: News
 
 <strong><font color="green">Jan 2024</font></strong>: 📝 发表一篇专刊[Single-Cell and Spatial-Omics in Delineating Immune-Related Diseases](https://www.frontiersin.org/research-topics/42143)的Editorial文章，恭喜温少迪。
 
-<strong><font color="green">Jan 2024</font></strong>: 周烺的文章（Briefings in Bioinformatics 2022）入选ESI高被引论文。
+<strong><font color="green">Jan 2024</font></strong>: [ggmsa: a visual exploration tool for multiple sequence alignment and associated data](https://doi.org/10.1093/bib/bbac222). __*Briefings in Bioinformatics*__. 2022, 23(4):bbac222 入选ESI高被引论文。
 
 <strong><font color="green">Dec 2023</font></strong>: 陆军军医大学刘迪博士生到本课题组进修。
 
@@ -89,8 +92,6 @@ title: News
 
 <strong><font color="green">Jul 2023</font></strong>: 佛山市第一人民医院郑慧敏博士后到本课题组进修。
 
-<strong><font color="green">Jul 2023</font></strong>: 🌹 唐文丽硕士毕业后留在课题组工作。
-
 <strong><font color="green">Jun 2023</font></strong>: 🌠🎉 恭喜唐文丽荣获南方医科大学2023届“优秀毕业研究生”荣誉称号。
 
 <strong><font color="green">Jun 2023</font></strong>: 📝🎉 通过微生物组预测代谢物的软件包*MMINP*发表于***Gut Microbes***期刊 (Links: [article](https://dx.doi.org/10.1080/19490976.2023.2223349), [TandF学术公众号报道](https://mp.weixin.qq.com/s/oyc_zGTfYUVEALqpBtmU0w))，恭喜唐文丽。
@@ -101,7 +102,7 @@ title: News
 
 <strong><font color="green">May 2023</font></strong>: 余光创在2023肠道大会iMeta作者论坛上作特邀报告（[PPT](https://mp.weixin.qq.com/s/7b6sPiKbLZ7ZsixhOySjqg)）。
 
-<strong><font color="green">May 2023</font></strong>: 🎉 恭喜吴天志顺利通过博士生答辩，恭喜郭平凡和唐文丽顺利通过硕士生答辩。
+<strong><font color="green">May 2023</font></strong>: 🎉 恭喜吴天志顺利通过博士生答辩，恭喜郭平凡和唐文丽（留课题组）顺利通过硕士生答辩。
 
 <strong><font color="green">May 2023</font></strong>: 余光创在第九届全国计算生物与生物信息学大会上作特邀报告。
 
@@ -194,7 +195,7 @@ title: News
 
 <strong><font color="green">Sep 2021</font></strong>: 🌹 欢迎李林、谢子敬和谢汶琴加入YuLab。恭喜汶琴获得推免生奖学金。
 
-<strong><font color="green">Aug 2021</font></strong>: *clusterProfiler*发布4.0版本，文章发表于***The Innovation***期刊 (Links: [article](https://doi.org/10.1016/j.xinn.2021.100141), [TheInnovation创新公众号报道](https://mp.weixin.qq.com/s/kVEr9qY0x8Ef3LOX4Wt9FQ))，恭喜吴天志<!-- 和胡二强-->。
+<strong><font color="green">Aug 2021</font></strong>: *clusterProfiler*发布4.0版本，文章发表于***The Innovation***期刊 (Links: [article](https://doi.org/10.1016/j.xinn.2021.100141), [TheInnovation创新公众号报道](https://mp.weixin.qq.com/s/kVEr9qY0x8Ef3LOX4Wt9FQ))，恭喜吴天志。
 
 <strong><font color="green">Jun 2021</font></strong>: 陈玫君同学参加南方医科大学学生抗疫服务队，支援广州市白云区大规模核酸采样。
 
@@ -210,7 +211,7 @@ title: News
 
 <strong><font color="green">Oct 2020</font></strong>: 余光创受邀请在[Bioconductor亚洲区年会](https://biocasia2020.bioconductor.org/)上做专题报告，介绍系统发育数据整合与可视化方面的工作；二年级博士生徐双斌在Workshop环节介绍使用课题组开发的MicrobiotaProcess分析宏基因组数据。
 
-<strong><font color="green">Sep 2020</font></strong>: 🌹 欢迎吴天志<!-- 、胡二强-->、唐文丽、陈玫君和詹历加入YuLab。
+<strong><font color="green">Sep 2020</font></strong>: 🌹 欢迎吴天志、唐文丽、陈玫君和詹历加入YuLab。
 
 <strong><font color="green">Mar 2020</font></strong>: 受William Pearson教授的邀请，在***Current Protocols in Bioinformatics***期刊上发表*ggtree*文章，通过实例介绍*ggtree*的使用 ([link](https://doi.org/10.1002/cpbi.96))
 
