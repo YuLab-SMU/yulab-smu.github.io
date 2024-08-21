@@ -5,8 +5,10 @@ title: News
 
 
 <strong><font color="green">Aug 2024</font></strong>:  tigeR包发表在[iMeta期刊](http://doi.org/10.1002/imt2.229)，恭喜陈逸豪（2019级生信本科，协和研一）。
++ iMeta官方公众号报道：[iMeta | 左志向/张迪/余光创-开发肿瘤免疫治疗转录组数据分析R包tigeR](https://mp.weixin.qq.com/s/SUU8G0tWzwNUzYdXdth2vw)
 
 <strong><font color="green">Aug 2024</font></strong>: 综述文章：[Bioinformatics Software Development: principles and future directions](https://www.the-innovation.org/article/doi/10.59717/j.xinn-life.2024.100083)，在The Innovation Life发表。
++ The Innovation官方公众号报道文章：[The Innovation Life | 生物信息学软件开发的基本原则与未来发展趋势](https://mp.weixin.qq.com/s/QPkFZQv1Bq_MpKgXa3jumA)
 
 <strong><font color="green">Aug 2024</font></strong>:  综述文章：[Computational modeling for medical data: from data collection to knowledge discovery](https://doi.org/10.59717/j.xinn-life.2024.100079)，在The Innovation Life发表，恭喜徐双斌。
 + [The Innovation官方公众号报道文章](https://mp.weixin.qq.com/s/jkF2EnMcCzDYjinsxW-RHg)
@@ -17,6 +19,7 @@ title: News
 <strong><font color="green">Jul 2024</font></strong>: clusterProfiler在[***Nature Protocols***](https://www.nature.com/articles/s41596-024-01020-z)发表，恭喜徐双斌、谢子敬和罗晓。
 + 入选为Nature Protocols期刊的[Feature Protocol](/images/knowledge-mining/featured-protocol-2024.jpeg)
 + 受邀在Springer Nature Research Communities的“Behind the Paper”栏目分享[该论文的研究经历](https://communities.springernature.com/posts/using-clusterprofiler-to-characterise-multi-omics-data)
++ 热心肠研究院报道：[余光创Nature子刊：使用clusterProfiler可解析多组学数据](https://www.chinagut.cn/papers/read/267b2c6e8ba64014ae3ce91d6183dbb3)
 + 南方医科大学基础医学院[网站](https://portal.smu.edu.cn/jcyxy/info/1046/6504.htm)及[公众号](https://mp.weixin.qq.com/s/UKNAg13ToZdXsy0nEl9lKw)报道文章
 
 <strong><font color="green">Jul 2024</font></strong>: 余光创受邀请在香港大学Croucher Summer Course: [Virus evolution and epidemiology](https://projects.croucher.org.hk/summer-courses/virus-evolution-and-epidemiology)讲授[ggtree](https://github.com/YuLab-SMU/learnggtree)。
@@ -94,11 +97,10 @@ title: News
 
 <strong><font color="green">Jun 2023</font></strong>: 🌠🎉 恭喜唐文丽荣获南方医科大学2023届“优秀毕业研究生”荣誉称号。
 
-<strong><font color="green">Jun 2023</font></strong>: 📝🎉 通过微生物组预测代谢物的软件包*MMINP*发表于***Gut Microbes***期刊 (Links: [article](https://dx.doi.org/10.1080/19490976.2023.2223349), [TandF学术公众号报道](https://mp.weixin.qq.com/s/oyc_zGTfYUVEALqpBtmU0w))，恭喜唐文丽。
+<strong><font color="green">Jun 2023</font></strong>: 📝🎉 通过微生物组预测代谢物的软件包*MMINP*发表于***Gut Microbes***期刊 (Links: [article](https://dx.doi.org/10.1080/19490976.2023.2223349)，恭喜唐文丽
++ [TandF学术公众号报道](https://mp.weixin.qq.com/s/oyc_zGTfYUVEALqpBtmU0w))
 
 <strong><font color="green">Jun 2023</font></strong>: 🎉 2022年影响因子发布，The Innovation期刊获得首个影响因子 (32.1，11月校正后为33.1)，课题组发表的[文章](https://doi.org/10.1016/j.xinn.2021.100141) 为期刊的影响因子贡献了9+分。
-
-<strong><font color="green">Jun 2023</font></strong>: 课题组进行K歌团建，现有成员、往届毕业学生和今年入学的新生一共23人，齐聚一堂，欢唱6个小时。
 
 <strong><font color="green">May 2023</font></strong>: 余光创在2023肠道大会iMeta作者论坛上作特邀报告（[PPT](https://mp.weixin.qq.com/s/7b6sPiKbLZ7ZsixhOySjqg)）。
 
