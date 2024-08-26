@@ -6,6 +6,7 @@ title: News
 
 <strong><font color="green">Aug 2024</font></strong>:  tigeR包发表在[iMeta期刊](http://doi.org/10.1002/imt2.229)，恭喜陈逸豪（2019级生信本科，协和研一）。
 + iMeta官方公众号报道：[iMeta | 左志向/张迪/余光创-开发肿瘤免疫治疗转录组数据分析R包tigeR](https://mp.weixin.qq.com/s/SUU8G0tWzwNUzYdXdth2vw)
++ 热心肠研究院报道：[左志向/张迪/余光创开发tigeR：肿瘤免疫治疗基因表达数据分析R包](https://www.chinagut.cn/papers/read/82d13b209df04005becd4f6410b5116d)
 
 <strong><font color="green">Aug 2024</font></strong>: 综述文章：[Bioinformatics Software Development: principles and future directions](https://www.the-innovation.org/article/doi/10.59717/j.xinn-life.2024.100083)，在The Innovation Life发表。
 + The Innovation官方公众号报道文章：[The Innovation Life | 生物信息学软件开发的基本原则与未来发展趋势](https://mp.weixin.qq.com/s/QPkFZQv1Bq_MpKgXa3jumA)
@@ -13,7 +14,7 @@ title: News
 <strong><font color="green">Aug 2024</font></strong>:  综述文章：[Computational modeling for medical data: from data collection to knowledge discovery](https://doi.org/10.59717/j.xinn-life.2024.100079)，在The Innovation Life发表，恭喜徐双斌。
 + [The Innovation官方公众号报道文章](https://mp.weixin.qq.com/s/jkF2EnMcCzDYjinsxW-RHg)
 
-<strong><font color="green">Jul 2024</font></strong>: fanyi包在[***Chinese Medical Journal***](https://journals.lww.com/cmj/fulltext/9900/reducing_language_barriers,_promoting_information.1158.aspx)发表，恭喜王荻霏（临床医学本科生）。
+<strong><font color="green">Jul 2024</font></strong>: fanyi包在[***Chinese Medical Journal***](https://journals.lww.com/cmj/fulltext/2024/08200/reducing_language_barriers,_promoting_information.7.aspx)发表，恭喜王荻霏（临床医学本科生）。
 + [中华医学期刊官方公众号报道文章](https://mp.weixin.qq.com/s/SJsVW_MOptcHPmWTxahgTQ)
 
 <strong><font color="green">Jul 2024</font></strong>: clusterProfiler在[***Nature Protocols***](https://www.nature.com/articles/s41596-024-01020-z)发表，恭喜徐双斌、谢子敬和罗晓。
