@@ -122,7 +122,7 @@ title: Members
         EYMEP</strong>
     </td>    
     <td style="border:none;"><img src="/images/avatar.jpg" width='150px'></td>
-    <td style="border:none;"><strong>Yifan Hong<br>
+    <td style="border:none;"><strong>Shaoguo Tao<br>
         Master Student</strong>
     </td>   
   </tr>    
