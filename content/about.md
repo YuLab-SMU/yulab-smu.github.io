@@ -4,7 +4,7 @@ title: YuLab@SMU
 ---
 
 
-<center><img src="/images/members/20220910.jpg" width='1000px'></center>
+<center><img src="/images/members/20240910.png" width='1000px'></center>
 
 
 ## Research Interest
