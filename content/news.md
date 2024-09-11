@@ -4,6 +4,9 @@ title: News
 ---
 
 
+<strong><font color="green">Sep 2024</font></strong>: 余光创获得南方医科大学第十五届“南医优秀教师”称号
++ [师者如炬，点赞南医优秀教师](https://mp.weixin.qq.com/s/OEfO2DskF_ueoz5rycs1hw)
+
 <strong><font color="green">Aug 2024</font></strong>:  tigeR包发表在[iMeta期刊](http://doi.org/10.1002/imt2.229)，恭喜陈逸豪（2019级生信本科，协和研一）。
 + iMeta官方公众号报道：[iMeta | 左志向/张迪/余光创-开发肿瘤免疫治疗转录组数据分析R包tigeR](https://mp.weixin.qq.com/s/SUU8G0tWzwNUzYdXdth2vw)
 + 热心肠研究院报道：[左志向/张迪/余光创开发tigeR：肿瘤免疫治疗基因表达数据分析R包](https://www.chinagut.cn/papers/read/82d13b209df04005becd4f6410b5116d)
