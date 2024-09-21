@@ -4,7 +4,7 @@ title: News
 ---
 
 
-<strong><font color="green">Sep 2024</font></strong>: 余光创入选全球前2%顶尖科学家榜单（World’s Top 2% Scientists）“<strong>终身科学影响力</strong>”（career-long impact）（全球排名23105）和“<strong>年度科学影响力</strong>”（single recent year impact）排行榜（全球排名472，中国排名17）。生物信息领域中国地区学者终身科学影响力排名第1，年度科学影响力排名第1。
+<strong><font color="green">Sep 2024</font></strong>: 余光创入选全球前2%顶尖科学家榜单（World’s Top 2% Scientists）“<strong>终身科学影响力</strong>”（career-long impact）（全球排名23105）和“<strong>年度科学影响力</strong>”（single recent year impact）排行榜（全球排名472，中国排名17）。生物信息领域中国学者终身科学影响力排名第1，年度科学影响力排名第1。
 
 <strong><font color="green">Sep 2024</font></strong>: 余光创获得南方医科大学第十五届“南医优秀教师”称号
 + 师者如炬，点赞南医优秀教师（[学校官网](http://www.fimmu.com/info/1139/53069.htm)和[公众号](https://mp.weixin.qq.com/s/OEfO2DskF_ueoz5rycs1hw)报道）
