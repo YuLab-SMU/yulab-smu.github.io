@@ -3,8 +3,14 @@ slug: news
 title: News
 ---
 
+<img src="/images/award/top-2-percent-scientist-2024.png" style="width:200px;" align="right"/>
 
-<strong><font color="green">Sep 2024</font></strong>: 余光创入选全球前2%顶尖科学家榜单（World’s Top 2% Scientists）“<strong>终身科学影响力</strong>”（career-long impact）（全球排名23105）和“<strong>年度科学影响力</strong>”（single recent year impact）排行榜（全球排名472，中国排名17）。生物信息领域中国学者终身科学影响力排名第1，年度科学影响力排名第1。
+<strong><font color="green">Sep 2024</font></strong>: 余光创入选全球前2%顶尖科学家榜单（World’s Top 2% Scientists）
++ <strong>终身科学影响力</strong>（career-long impact）排行榜：全球排名23105
++ <strong>年度科学影响力</strong>（single recent year impact）排行榜：全球排名472，中国排名17
++ 生物信息领域中国学者终身科学影响力和年度科学影响力排名均为第一
++ 南方医科大学学校新闻：[9+68！我校多名学者入选2024年全球前2%顶尖科学家榜单](https://www.smu.edu.cn/info/1139/53869.htm)
++ 南方医科大学公众号报道：[我校多名学者入选2024年全球前2%顶尖科学家榜单](https://mp.weixin.qq.com/s/FBw-1tunI7VVUTr0COBu5w)
 
 <strong><font color="green">Sep 2024</font></strong>: 余光创获得南方医科大学第十五届“南医优秀教师”称号
 + 师者如炬，点赞南医优秀教师（[学校官网](http://www.fimmu.com/info/1139/53069.htm)和[公众号](https://mp.weixin.qq.com/s/OEfO2DskF_ueoz5rycs1hw)报道）
@@ -149,6 +155,7 @@ title: News
 <strong><font color="green">Oct 2022</font></strong>: 📝🎉 使用ChIPseeker分析表观组学数据的protocol文章发表在***Current Protocols***期刊，（[link](https://onlinelibrary.wiley.com/share/author/GYJGUBYCTRMYJFN2JFZZ?target=10.1002/cpz1.585)），恭喜王倩雯和利铭。
 
 <strong><font color="green">Oct 2022</font></strong>: 余光创入选全球前2%顶尖科学家榜单（World’s Top 2% Scientists）“<strong>终身科学影响力</strong>”（career-long impact）和“<strong>年度科学影响力</strong>”（single recent year impact）排行榜（[link 1](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/4) & [2](http://www.smu.edu.cn/info/1139/15995.htm))。
++ 年度科学影响力全球排名: 1386
 
 <strong><font color="green">Oct 2022</font></strong>: 恭喜吴天志获得博士研究生国家奖学金。
 
@@ -192,6 +199,7 @@ title: News
 <strong><font color="green">Nov 2021</font></strong>: *ggbreak*包实现了与*ggplot2*语法无缝衔接的坐标轴截断功能，发表在***Frontiers in Genetics***期刊 ([link](https://www.frontiersin.org/articles/10.3389/fgene.2021.774846/full))， 恭喜徐双斌和陈玫君。
 
 <strong><font color="green">Oct 2021</font></strong>: 余光创入选全球前2%顶尖科学家榜单（World’s Top 2% Scientists）“<strong>终身科学影响力</strong>”（career-long impact）和“<strong>年度科学影响力</strong>”（single recent year impact）排行榜（[link](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/3))。
++ 年度科学影响力全球排名: 3985
 
 <strong><font color="green">Oct 2021</font></strong>: 三年级硕士生周烺在Bioconductor亚洲区年会的Workshop环节介绍使用*ggmsa*可视化和探索多重序列比对。
 
@@ -214,6 +222,7 @@ title: News
 <strong><font color="green">Dec 2020</font></strong>: 余光创于2017年发表在***Methods in Ecology and Evolution***上的*ggtree*文章，入选MEE期刊创刊十周年10篇[代表作](https://methodsblog.com/2020/11/19/ggtree-tree-visualization/)。
 
 <strong><font color="green">Oct 2020</font></strong>: 余光创入选全球前2%顶尖科学家榜单（World’s Top 2% Scientists）中的[“年度影响力”榜单](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/2)。
++ 年度科学影响力全球排名: 25372
 
 <strong><font color="green">Oct 2020</font></strong>: 余光创受邀请在[Bioconductor亚洲区年会](https://biocasia2020.bioconductor.org/)上做专题报告，介绍系统发育数据整合与可视化方面的工作；二年级博士生徐双斌在Workshop环节介绍使用课题组开发的MicrobiotaProcess分析宏基因组数据。
 
