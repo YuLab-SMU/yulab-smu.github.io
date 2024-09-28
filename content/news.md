@@ -5,7 +5,7 @@ title: News
 
 <img src="/images/award/top-2-percent-scientist-2024.png" style="width:200px;" align="right"/>
 
-<strong><font color="green">Sep 2024</font></strong>: 余光创入选全球前2%顶尖科学家榜单（World’s Top 2% Scientists）
+<strong><font color="green">Sep 2024</font></strong>: 余光创入选全球前2%顶尖科学家榜单 ([World's Top 2% Scientists](https://topresearcherslist.com/Home/Profile/552444))
 + <strong>终身科学影响力</strong>（career-long impact）排行榜：全球排名23105
 + <strong>年度科学影响力</strong>（single recent year impact）排行榜：全球排名472，中国排名17
 + 生物信息领域中国学者终身科学影响力和年度科学影响力排名均为第一
