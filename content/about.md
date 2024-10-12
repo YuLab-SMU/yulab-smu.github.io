@@ -25,6 +25,4 @@ The research group has developed a variety of widely recognized bioinformatics t
 
 
 
-<center>
-<a href="https://clustrmaps.com/site/1c1ic"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=-8uXb2irPM0FIvaNbU25vKNLCgWjB60Wf8-JCJVmzUc&cl=ffffff" /></a>
-</center>
+

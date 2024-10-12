@@ -49,18 +49,18 @@ title: Members
         <a href="https://orcid.org/0000-0003-3553-1162" aria-label="Orcid">    
             <i class="ai ai-orcid ai-2x" style="font-size: 150%;"></i></a>   
     </td>     
+    <td style="border:none;"><img src="/images/members/xsb.jpg" width='150px'></td>
+    <td style="border:none;"><strong>Shuangbin Xu, Phd.<br>
+        Lecturer</strong><br>
+        <a href="https://github.com/xiangpin" aria-label="Github">
+            <i class="fa fa-github fa-2x" aria-hidden="true" style="font-size: 150%;"></i></a>
+    </td>       
     <td style="border:none;"><img src="/images/members/ll.jpg" width='150px'></td>
     <td style="border:none;"><strong>Lin Li<br>
         Bioinformatician</strong><br>
         <a href="https://github.com/SanL20" aria-label="Github">
             <i class="fa fa-github fa-2x" aria-hidden="true" style="font-size: 150%;"></i></a>
-    </td>
-    <td style="border:none;"><img src="/images/members/xsb.jpg" width='150px'></td>
-    <td style="border:none;"><strong>Shuangbin Xu, Phd.<br>
-        Post-doctoral fellow</strong><br>
-        <a href="https://github.com/xiangpin" aria-label="Github">
-            <i class="fa fa-github fa-2x" aria-hidden="true" style="font-size: 150%;"></i></a>
-    </td>              
+    </td>       
   </tr> 
 
 <tr style="border:none;"> 

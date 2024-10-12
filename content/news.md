@@ -3,6 +3,12 @@ slug: news
 title: News
 ---
 
+
+
+<strong><font color="green">Oct 2024</font></strong>: 恭喜罗晓获得2024年硕士研究生国家奖学金。
+
+<strong><font color="green">Sep 2024</font></strong>: 恭喜徐双斌顺利通过博士后出站答辩，朱鸿远、廖俞凡、王芮和邓琳通过研究生开题报告。
+
 <img src="/images/award/top-2-percent-scientist-2024.png" style="width:200px;" align="right"/>
 
 <strong><font color="green">Sep 2024</font></strong>: 余光创入选全球前2%顶尖科学家榜单 ([World's Top 2% Scientists](https://topresearcherslist.com/Home/Profile/552444))
@@ -44,7 +50,7 @@ title: News
 
 <strong><font color="green">May 2024</font></strong>: [CCF（中国计算机学会）开源创新大赛暨第二届Bio-OS开源开放大赛在我校启动](https://www.smu.edu.cn/info/1139/45719.htm)，余光创主持开幕式，会议同时成立了【南方医科大学Bio-OS开源俱乐部】。
 
-<strong><font color="green">May 2024</font></strong>: 恭喜谢汶琴、李林（留课题组）顺利通过毕业答辩。
+<strong><font color="green">May 2024</font></strong>: 恭喜谢汶琴、李林顺利通过毕业答辩。
 
 <strong><font color="green">May 2024</font></strong>: 余光创带领生物信息学系[21级学生参观广州国家实验室](https://mp.weixin.qq.com/s/cPgbzFhj-_QkDzkMpeTC2Q)。
 
@@ -114,7 +120,7 @@ title: News
 
 <strong><font color="green">May 2023</font></strong>: 余光创在2023肠道大会iMeta作者论坛上作特邀报告（[PPT](https://mp.weixin.qq.com/s/7b6sPiKbLZ7ZsixhOySjqg)）。
 
-<strong><font color="green">May 2023</font></strong>: 🎉 恭喜吴天志顺利通过博士生答辩，恭喜郭平凡和唐文丽（留课题组）顺利通过硕士生答辩。
+<strong><font color="green">May 2023</font></strong>: 🎉 恭喜吴天志顺利通过博士生答辩，恭喜郭平凡和唐文丽顺利通过硕士生答辩。
 
 <strong><font color="green">May 2023</font></strong>: 余光创在第九届全国计算生物与生物信息学大会上作特邀报告。
 
