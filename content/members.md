@@ -55,11 +55,9 @@ title: Members
         <a href="https://github.com/xiangpin" aria-label="Github">
             <i class="fa fa-github fa-2x" aria-hidden="true" style="font-size: 150%;"></i></a>
     </td>       
-    <td style="border:none;"><img src="/images/members/ll.jpg" width='150px'></td>
-    <td style="border:none;"><strong>Lin Li<br>
-        Bioinformatician</strong><br>
-        <a href="https://github.com/SanL20" aria-label="Github">
-            <i class="fa fa-github fa-2x" aria-hidden="true" style="font-size: 150%;"></i></a>
+    <td style="border:none;"><img src="/images/avatar.png" width='150px'></td>
+    <td style="border:none;"><strong>You ?<br>
+        </strong><br>
     </td>       
   </tr> 
 
@@ -131,7 +129,8 @@ title: Members
 
 ## Former Lab Members
 
-+ **谢汶琴** (MS 2021-2023)
++ **李林** (MS 2021-2024)
++ **谢汶琴** (MS 2021-2024)
 + **唐文丽** (MS 2020-2023 & Bioinformatician 2023-2024; 南方医科大学2023届“优秀毕业研究生”)
 + **吴天志** (PhD 2020-2023) <!-- 加州大学旧金山分校（UCSF），博士后 -->
 + **郭平凡** (MS 2019-2023; 2021年硕士研究生国家奖学金) <!-- 寻因生物，生物信息学工程师 -->

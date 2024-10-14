@@ -4,6 +4,7 @@ title: News
 ---
 
 
+<strong><font color="green">Oct 2024</font></strong>: 综述文章：[Spatial Resolved Transcriptomics: Computational Insights into Gene Transcription Across Tissue and Organ Architecture in Diverse Applications](https://www.the-innovation.org/article/doi/10.59717/j.xinn-life.2024.100097)，在The Innovation Life发表。
 
 <strong><font color="green">Oct 2024</font></strong>: 恭喜罗晓获得2024年硕士研究生国家奖学金。
 
