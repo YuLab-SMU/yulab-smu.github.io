@@ -8,6 +8,8 @@ title: News
 
 <strong><font color="green">Oct 2024</font></strong>: 恭喜罗晓获得2024年硕士研究生国家奖学金。
 
+<strong><font color="green">Sep 2024</font></strong>: 余光创参编的“101计划”核心教材基础医学领域《[基于理工信的医学数据采集与分析](https://www.pumpedu.com/en-shop/7263.html)》由北京大学出版社出版。
+
 <strong><font color="green">Sep 2024</font></strong>: 恭喜徐双斌顺利通过博士后出站答辩，朱鸿远、廖俞凡、王芮和邓琳通过研究生开题报告。
 
 <img src="/images/award/top-2-percent-scientist-2024.png" style="width:200px;" align="right"/>

@@ -55,7 +55,7 @@ title: Members
         <a href="https://github.com/xiangpin" aria-label="Github">
             <i class="fa fa-github fa-2x" aria-hidden="true" style="font-size: 150%;"></i></a>
     </td>       
-    <td style="border:none;"><img src="/images/avatar.png" width='150px'></td>
+    <td style="border:none;"><img src="/images/avatar.jpg" width='150px'></td>
     <td style="border:none;"><strong>You ?<br>
         </strong><br>
     </td>       
