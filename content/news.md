@@ -3,6 +3,9 @@ slug: news
 title: News
 ---
 
+<strong><font color="green">Oct 2024</font></strong>: 文章[Thirteen years of clusterProfiler](https://doi.org/10.1016/j.xinn.2024.100722)，在The Innovation在线发表。
+
+<strong><font color="green">Oct 2024</font></strong>: 恭喜徐双斌通过骨干教师引进生物信息学系工作。
 
 <strong><font color="green">Oct 2024</font></strong>: 综述文章：[Spatial Resolved Transcriptomics: Computational Insights into Gene Transcription Across Tissue and Organ Architecture in Diverse Applications](https://www.the-innovation.org/article/doi/10.59717/j.xinn-life.2024.100097)，在The Innovation Life发表。
 
