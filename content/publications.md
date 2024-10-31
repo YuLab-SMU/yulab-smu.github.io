@@ -33,7 +33,7 @@ title: Publications
 
 ## <i class="fa fa-calendar fa-1x" aria-hidden="true"></i> 2024
 
-+ __G Yu__<sup>\*</sup>. [Thirteen years of clusterProfiler](https://doi.org/10.1016/j.xinn.2024.100722). __*The Innovation*__. 2024, 100722.
++ __G Yu__<sup>\*</sup>. [Thirteen years of clusterProfiler](https://doi.org/10.1016/j.xinn.2024.100722). __*The Innovation*__. 2024, 5(6):100722.
 + Z Miao<sup>#</sup>, T Tian<sup>#</sup>, W Chen<sup>#</sup>, Q Wang<sup>#</sup>, L Ma<sup>#</sup>, D Zhang<sup>#</sup>, M Xie<sup>#</sup>, Z Yu<sup>#</sup>, X Guo, G Bai, S Zhao, X Chen, W Wang, Y Gao, S Guo<sup>\*</sup>, M Luo<sup>\*</sup>, L Yuan<sup>\*</sup>, C Tian<sup>\*</sup>, L Wu<sup>\*</sup>, __G Yu__<sup>\*</sup>, D Zhang<sup>\*</sup>, S Sun<sup>\*</sup>. [Spatial Resolved Transcriptomics: Computational Insights into Gene Transcription Across Tissue and Organ Architecture in Diverse Applications](https://www.the-innovation.org/article/doi/10.59717/j.xinn-life.2024.100097). __*The Innovation Life*__. 2024, 2(4):100097.
 + S Xu<sup>#</sup>, E Hu<sup>#</sup>, Y Cai<sup>#</sup>, Z Xie<sup>#</sup>, X Luo<sup>#</sup>, L Zhan, W Tang, Q Wang, B Liu, R Wang, W Xie, T Wu, L Xie, __G Yu__<sup>\*</sup>. [Using clusterProfiler to characterise Multi-Omics Data](https://www.nature.com/articles/s41596-024-01020-z). __*Nature Protocols*__. 2024, 19(11):3292-3320. 
 + Y Chen<sup>#</sup>, LN He<sup>#</sup>, Y Zhang, J Gong, S Xu, Y Shu, D Zhang<sup>\*</sup>, __G Yu__<sup>\*</sup>, Z Zuo<sup>\*</sup>. [tigeR: Tumor Immunotherapy Gene Expression Data Analysis R package](http://doi.org/10.1002/imt2.229). __*iMeta*__. 2024, 3(5):e229.
