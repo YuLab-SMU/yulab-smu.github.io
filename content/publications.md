@@ -31,6 +31,8 @@ title: Publications
 </tr>
 </table>
 
+
+
 ## <i class="fa fa-calendar fa-1x" aria-hidden="true"></i> 2024
 
 + __G Yu__<sup>\*</sup>. [Thirteen years of clusterProfiler](https://doi.org/10.1016/j.xinn.2024.100722). __*The Innovation*__. 2024, 5(6):100722.
@@ -52,8 +54,6 @@ title: Publications
 
 ## <i class="fa fa-calendar fa-1x" aria-hidden="true"></i> 2023
 
-+ __余光创（著）__, 李林, 罗晓（译）. R实战：系统发育树的数据集成操作及可视化. __*电子工业出版社*__, 2023. ISBN: [9787121451829](https://u.jd.com/uu7G4qC)  [<i class="fa fa-book fa-2x" aria-hidden="true" style="color:black;font-size: 150%;"></i>](/images/treedata-jd-top1.jpg)
-+ __G Yu__. Data Integration, Manipulation and Visualization of Phylogenetic Treess (1st edition). __*Chapman and Hall/CRC*__, 2023. doi: [10.1201/9781003279242](https://doi.org/10.1201/9781003279242)  [<i class="fa fa-book fa-2x" aria-hidden="true" style="color:black;font-size: 150%;"></i>](https://www.amazon.com/Integration-Manipulation-Visualization-Phylogenetic-Computational/dp/1032233575)
 + X Zhang, B Liang, Y Huang, H Meng, Z Li, J Du, L Zhou, Y Zhong, B Wang, X Lin, __G Yu__, X Chen, W Lu, ZS Chen, X Yang, Z Huang<sup>\*</sup>. [Behind the Indolent Facade: Uncovering the Molecular Features and Malignancy Potential in Lung Minimally Invasive Adenocarcinoma by Single-Cell Transcriptomics](https://doi.org/10.1002/advs.202303753). __*Advanced Science*__. 2023, 10(36):2303753. (IF = 14.3，一区)
 + M Kang, F Lin, Z Jiang, X Tan, X Lin, Z Liang, C Xiao, Y Xia, W Guan, Z Yang, __G Yu__, M Zanin, S Tang<sup>\*</sup>, SS Wong<sup>\*</sup>. [The impact of pre-existing influenza antibodies and inflammatory status on the influenza vaccine responses in older adults](https://onlinelibrary.wiley.com/doi/abs/10.1111/irv.13172). __*Influenza and Other Respiratory Viruses*__. 2023, 17(7):e13172. (IF = 4.3，四区)
 + W Tang, H Zheng, S Xu, P Li, L Zhan, X Luo, Z Dai, Q Wang, __G Yu__<sup>\*</sup>. [MMINP: A computational framework of microbe-Metabolite interactions-based metabolic profiles predictor based on the O2-PLS algorithm](https://dx.doi.org/10.1080/19490976.2023.2223349). __*Gut Microbes*__. 2023, 15(1):2223349. (IF = 12.2，一区)
@@ -88,7 +88,6 @@ title: Publications
 ## <i class="fa fa-calendar fa-1x" aria-hidden="true"></i> 2020
 
 + J He<sup>#</sup>, S Xu<sup>#</sup>, B Zhang, C Xiao, Z Chen, F Si, J Fu, X Lin, G Zheng<sup>\*</sup>, __G Yu__<sup>\*</sup>, J Chen<sup>\*</sup>. [Gut microbiota and metabolite alterations associated with reduced bone mineral density or bone metabolic indexes in postmenopausal osteoporosis](https://doi.org/10.18632/aging.103168). __*Aging (Albany NY)*__. 2020, 12(9):8583-8604. (IF=5.682，二区)
-+ **Yu G**. [Gene Ontology Semantic Similarity Analysis Using GOSemSim](http://dx.doi.org/10.1007/978-1-0716-0301-7_11). In: Kidder B. (eds) Stem Cell Transcriptional Networks. ***Methods in Molecular Biology***, 2020, 2117:207-215. Humana, New York, NY.
 + __G Yu__<sup>\*</sup>. [Using ggtree to Visualize Data on Tree-Like Structure](https://doi.org/10.1002/cpbi.96). __*Current Protocols in Bioinformatics*__. 2020, 69(1):e96. (*__Invited paper__*) [<i class="fa fa-file-pdf-o fa-2x" aria-hidden="true" style="color:black;font-size: 150%;"></i>](https://onlinelibrary.wiley.com/share/author/WQ5Z45WFKYDM43DXQGAI?target=10.1002/cpbi.96)
 + LG Wang, TTY Lam, S Xu, Z Dai, L Zhou, T Feng, P Guo, CW Dunn, BR Jones, T Bradley, H Zhu, Y Guan, Y Jiang, __G Yu__<sup>\*</sup>. [treeio: an R package for phylogenetic tree input and output with richly annotated and associated data](https://doi.org/10.1093/molbev/msz240). __*Molecular Biology and Evolution*__. 2020, 37(2):599-603.   <i class="fa fa-trophy fa-2x" aria-hidden="true" style="color:#CC5500;font-size: 150%;"></i> (<strong>IF=16.240</strong>，一区，Top期刊)
 + Z Hao, D Lv, Y Ge, J Shi, D Weijers, __G Yu__<sup>\*</sup>, J Chen<sup>\*</sup>. [RIdeogram: drawing SVG graphics to visualize and map genome-wide data on the idiograms](https://peerj.com/articles/cs-251/). __*PeerJ Computer Science*__. 2020, 6:e251.   <i class="fa fa-trophy fa-2x" aria-hidden="true" style="color:#CC5500;font-size: 150%;"></i> (IF=1.392，三区)
@@ -109,4 +108,12 @@ title: Publications
 +	__G Yu__<sup>\*</sup>, LG Wang, GR Yan, QY He<sup>\*</sup>. [DOSE: an R/Bioconductor package for Disease Ontology Semantic and Enrichment analysis](http://bioinformatics.oxfordjournals.org/cgi/content/abstract/btu684). __*Bioinformatics*__. 2015, 31(4):608-609.   <i class="fa fa-trophy fa-2x" aria-hidden="true" style="color:#CC5500;font-size: 150%;"></i> (IF=5.766, 一区， Top期刊)
 +	__G Yu__, LG Wang, Y Han, QY He<sup>\*</sup>. [clusterProfiler: an R package for comparing biological themes among gene clusters](http://online.liebertpub.com/doi/abs/10.1089/omi.2011.0118). __*OMICS: A Journal of Integrative Biology*__. 2012, 16(5):284-287. (IF=2.730， 四区)
 + __G Yu__<sup>#</sup>, F Li<sup>#</sup>, Y Qin, X Bo<sup>\*</sup>, Y Wu, S Wang<sup>\*</sup>. [GOSemSim: an R package for measuring semantic similarity among GO terms and gene products](http://bioinformatics.oxfordjournals.org/cgi/content/abstract/26/7/976). __*Bioinformatics*__. 2010, 26(7):976-978. (IF=4.877, 二区， Top期刊)
+
+
+## <i class="fa fa-book fa-1x" aria-hidden="true"></i> Books
+
++ 沈百荣，杨恩策. 基于理工信的医学数据采集与分析（基础医学“101计划”核心教材）. __*北京大学医学出版社*__, 2024. ISBN: [9787565931987](https://www.pumpedu.com/en-shop/7263.html)
++ __余光创（著）__, 李林, 罗晓（译）. R实战：系统发育树的数据集成操作及可视化. __*电子工业出版社*__, 2023. ISBN: [9787121451829](https://u.jd.com/uu7G4qC) 
++ __G Yu__. Data Integration, Manipulation and Visualization of Phylogenetic Treess (1st edition). __*Chapman and Hall/CRC*__, 2023. doi: [10.1201/9781003279242](https://doi.org/10.1201/9781003279242), ISBN: [9781032233574](https://www.amazon.com/Integration-Manipulation-Visualization-Phylogenetic-Computational/dp/1032233575)
++ **Yu G**. [Gene Ontology Semantic Similarity Analysis Using GOSemSim](http://dx.doi.org/10.1007/978-1-0716-0301-7_11). In: Kidder B. (eds) Stem Cell Transcriptional Networks. ***Methods in Molecular Biology***, 2020, 2117:207-215. Humana, New York, NY. ISBN: [9781071603000](https://link.springer.com/book/10.1007/978-1-0716-0301-7)
 
