@@ -33,7 +33,7 @@ title: Publications
 
 
 
-## <i class="fa fa-calendar fa-1x" aria-hidden="true"></i> 2024
+## <i class="fa fa-calendar fa-1x" aria-hidden="true"></i> 2024 {#year-2024}
 
 + __G Yu__<sup>\*</sup>. [Thirteen years of clusterProfiler](https://doi.org/10.1016/j.xinn.2024.100722). __*The Innovation*__. 2024, 5(6):100722.
 + Z Miao<sup>#</sup>, T Tian<sup>#</sup>, W Chen<sup>#</sup>, Q Wang<sup>#</sup>, L Ma<sup>#</sup>, D Zhang<sup>#</sup>, M Xie<sup>#</sup>, Z Yu<sup>#</sup>, X Guo, G Bai, S Zhao, X Chen, W Wang, Y Gao, S Guo<sup>\*</sup>, M Luo<sup>\*</sup>, L Yuan<sup>\*</sup>, C Tian<sup>\*</sup>, L Wu<sup>\*</sup>, __G Yu__<sup>\*</sup>, D Zhang<sup>\*</sup>, S Sun<sup>\*</sup>. [Spatial Resolved Transcriptomics: Computational Insights into Gene Transcription Across Tissue and Organ Architecture in Diverse Applications](https://www.the-innovation.org/article/doi/10.59717/j.xinn-life.2024.100097). __*The Innovation Life*__. 2024, 2(4):100097.
@@ -52,7 +52,7 @@ title: Publications
 + S Wen, S Mo, J Zhou, Y Lv, K Khazaie<sup>\*</sup>, __G Yu__<sup>\*</sup>. [Single-cell and spatial-omics in delineating immune-related diseases](https://www.frontiersin.org/articles/10.3389/fcell.2024.1365242/full). __*Frontiers in Cell and Developmental Biology*__. 2024, 12:1365242.
 
 
-## <i class="fa fa-calendar fa-1x" aria-hidden="true"></i> 2023
+## <i class="fa fa-calendar fa-1x" aria-hidden="true"></i> 2023 {#year-2023}
 
 + X Zhang, B Liang, Y Huang, H Meng, Z Li, J Du, L Zhou, Y Zhong, B Wang, X Lin, __G Yu__, X Chen, W Lu, ZS Chen, X Yang, Z Huang<sup>\*</sup>. [Behind the Indolent Facade: Uncovering the Molecular Features and Malignancy Potential in Lung Minimally Invasive Adenocarcinoma by Single-Cell Transcriptomics](https://doi.org/10.1002/advs.202303753). __*Advanced Science*__. 2023, 10(36):2303753. (IF = 14.3，一区)
 + M Kang, F Lin, Z Jiang, X Tan, X Lin, Z Liang, C Xiao, Y Xia, W Guan, Z Yang, __G Yu__, M Zanin, S Tang<sup>\*</sup>, SS Wong<sup>\*</sup>. [The impact of pre-existing influenza antibodies and inflammatory status on the influenza vaccine responses in older adults](https://onlinelibrary.wiley.com/doi/abs/10.1111/irv.13172). __*Influenza and Other Respiratory Viruses*__. 2023, 17(7):e13172. (IF = 4.3，四区)
@@ -61,7 +61,7 @@ title: Publications
 + S Guo<sup>\*</sup>, D Zhang, H Wang, Q An, __G Yu__, J Han, C Jiang, J Huang. [Computational and Systematic Analysis of Multi-omics Data for Drug Discovery and Development](https://www.frontiersin.org/articles/10.3389/fmed.2023.1146896/full). __*Frontiers in Medicine*__. 2023, 10:1146896. (IF = 3.1，三区)
 
 
-## <i class="fa fa-calendar fa-1x" aria-hidden="true"></i> 2022
+## <i class="fa fa-calendar fa-1x" aria-hidden="true"></i> 2022 {#year-2022}
 
 + S Xu, L Li, X Luo, M Chen, W Tang, L Zhan, Z Dai, TT. Lam, Y Guan, __G Yu__<sup>\*</sup>. [Ggtree: A serialized data object for visualization of a phylogenetic tree and annotation data](https://onlinelibrary.wiley.com/doi/full/10.1002/imt2.56). __*iMeta*__, 2022, 1(4):e56.
 + Q Wang<sup>#</sup>, M Li<sup>#</sup>, T Wu, L Zhan, L Li, M Chen, W Xie, Z Xie, E Hu, S Xu, __G Yu__<sup>\*</sup>. [Exploring epigenomic datasets by ChIPseeker](https://doi.org/10.1002/cpz1.585). __*Current Protocols*__, 2022, 2(10): e585.  [<i class="fa fa-file-pdf-o fa-2x" aria-hidden="true" style="color:black;font-size: 150%;"></i>](https://onlinelibrary.wiley.com/share/author/GYJGUBYCTRMYJFN2JFZZ?target=10.1002/cpz1.585)
@@ -73,7 +73,7 @@ title: Publications
 + X Zhao<sup>#</sup>, W Tang<sup>#</sup>, H Wan<sup>#</sup>, Z Lan H Qin, Q Lin, Y Hu, __G Yu__<sup>\*</sup>, N Jiang<sup>\*</sup>, B Yu<sup>\*</sup>. [Altered gut microbiota as an auxiliary diagnostic indicator for patients with fracture-related infection](https://www.frontiersin.org/articles/10.3389/fmicb.2022.723791/full). __*Frontiers in Microbiology*__. 2022, 13:723791. (IF = 5.2，二区，Top期刊)
 
 
-## <i class="fa fa-calendar fa-1x" aria-hidden="true"></i> 2021
+## <i class="fa fa-calendar fa-1x" aria-hidden="true"></i> 2021 {#year-2021}
 
 + S Xu<sup>#</sup>, M Chen<sup>#</sup>, T Feng, L Zhan, L Zhou, __G Yu__<sup>\*</sup>. [Use ggbreak to effectively utilize plotting space to deal with large datasets and outliers](https://www.frontiersin.org/articles/10.3389/fgene.2021.774846). __*Frontiers in Genetics*__. 2021, 12:774846. (IF=4.772，三区)
 + CH Gao, __G Yu__, P Cai<sup>\*</sup>. [ggVennDiagram: An intuitive, easy-to-use, and highly customizable R package to generate Venn diagram](https://doi.org/10.3389/fgene.2021.706907). __*Frontiers in Genetics*__. 2021, 12:706907. (IF=4.772，三区)
@@ -85,7 +85,7 @@ title: Publications
 + S Liu, __G Yu__<sup>\*</sup>, L Liu<sup>\*</sup>, X Zou, L Zhou, E Hu, Y Song. [Identification of prognostic Stromal-Immune Score-Based Genes in Hepatocellular Carcinoma microenvironment](https://www.frontiersin.org/articles/10.3389/fgene.2021.625236). __*Frontiers in Genetics*__. 2021, 12:625236. (IF=4.772，三区)
 
 
-## <i class="fa fa-calendar fa-1x" aria-hidden="true"></i> 2020
+## <i class="fa fa-calendar fa-1x" aria-hidden="true"></i> 2020 {#year-2020}
 
 + J He<sup>#</sup>, S Xu<sup>#</sup>, B Zhang, C Xiao, Z Chen, F Si, J Fu, X Lin, G Zheng<sup>\*</sup>, __G Yu__<sup>\*</sup>, J Chen<sup>\*</sup>. [Gut microbiota and metabolite alterations associated with reduced bone mineral density or bone metabolic indexes in postmenopausal osteoporosis](https://doi.org/10.18632/aging.103168). __*Aging (Albany NY)*__. 2020, 12(9):8583-8604. (IF=5.682，二区)
 + __G Yu__<sup>\*</sup>. [Using ggtree to Visualize Data on Tree-Like Structure](https://doi.org/10.1002/cpbi.96). __*Current Protocols in Bioinformatics*__. 2020, 69(1):e96. (*__Invited paper__*) [<i class="fa fa-file-pdf-o fa-2x" aria-hidden="true" style="color:black;font-size: 150%;"></i>](https://onlinelibrary.wiley.com/share/author/WQ5Z45WFKYDM43DXQGAI?target=10.1002/cpbi.96)
@@ -93,14 +93,14 @@ title: Publications
 + Z Hao, D Lv, Y Ge, J Shi, D Weijers, __G Yu__<sup>\*</sup>, J Chen<sup>\*</sup>. [RIdeogram: drawing SVG graphics to visualize and map genome-wide data on the idiograms](https://peerj.com/articles/cs-251/). __*PeerJ Computer Science*__. 2020, 6:e251.   <i class="fa fa-trophy fa-2x" aria-hidden="true" style="color:#CC5500;font-size: 150%;"></i> (IF=1.392，三区)
 
 
-## <i class="fa fa-calendar fa-1x" aria-hidden="true"></i> 2018
+## <i class="fa fa-calendar fa-1x" aria-hidden="true"></i> 2018 {#year-2018}
 
 
 + __G Yu__<sup>\*</sup>, TTY Lam, H Zhu, Y Guan<sup>\*</sup>. [Two methods for mapping and visualizing associated data on phylogeny using ggtree](https://academic.oup.com/mbe/article-abstract/35/12/3041/5142656). __*Molecular Biology and Evolution*__. 2018, 35(12):3041-3043.   <i class="fa fa-trophy fa-2x" aria-hidden="true" style="color:#CC5500;font-size: 150%;"></i> (<strong>IF=14.797</strong>，一区， Top期刊)
 + __G Yu__<sup>\*</sup>. [Using meshes for MeSH term enrichment and semantic analyses](https://doi.org/10.1093/bioinformatics/bty410). __*Bioinformatics*__. 2018, 34(21):3766-3767. (IF=4.531, 一区， Top期刊)
 
 
-## <i class="fa fa-bar-chart fa-1x" aria-hidden="true"></i> Selected publications (2010-2017) 
+## <i class="fa fa-bar-chart fa-1x" aria-hidden="true"></i> Selected publications (2010-2017) {#year-2010-2017}
 
 + __G Yu__, DK Smith, H Zhu, Y Guan, TTY Lam<sup>\*</sup>. [ggtree: an R package for visualization and annotation of phylogenetic trees with their covariates and other associated data](http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12628/abstract). __*Methods in Ecology and Evolution*__. 2017, 8(1):28-36.  <i class="fa fa-trophy fa-2x" aria-hidden="true" style="color:#CC5500;font-size: 150%;"></i> (IF=6.363, 一区，Top期刊)
 + __G Yu__, QY He<sup>\*</sup>. [ReactomePA: an R/Bioconductor package for reactome pathway analysis and visualization](http://pubs.rsc.org/en/Content/ArticleLanding/2016/MB/C5MB00663E). __*Molecular BioSystems*__. 2016, 12(2):477-479.  <i class="fa fa-trophy fa-2x" aria-hidden="true" style="color:#CC5500;font-size: 150%;"></i> (IF=2.781，三区)
@@ -110,7 +110,7 @@ title: Publications
 + __G Yu__<sup>#</sup>, F Li<sup>#</sup>, Y Qin, X Bo<sup>\*</sup>, Y Wu, S Wang<sup>\*</sup>. [GOSemSim: an R package for measuring semantic similarity among GO terms and gene products](http://bioinformatics.oxfordjournals.org/cgi/content/abstract/26/7/976). __*Bioinformatics*__. 2010, 26(7):976-978. (IF=4.877, 二区， Top期刊)
 
 
-## <i class="fa fa-book fa-1x" aria-hidden="true"></i> Books
+## <i class="fa fa-book fa-1x" aria-hidden="true"></i> Books {#books}
 
 + 沈百荣，杨恩策. 基于理工信的医学数据采集与分析（基础医学“101计划”核心教材）. __*北京大学医学出版社*__, 2024. ISBN: [9787565931987](https://www.pumpedu.com/en-shop/7263.html)
 + __余光创（著）__, 李林, 罗晓（译）. R实战：系统发育树的数据集成操作及可视化. __*电子工业出版社*__, 2023. ISBN: [9787121451829](https://u.jd.com/uu7G4qC) 
