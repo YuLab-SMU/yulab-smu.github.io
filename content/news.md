@@ -3,6 +3,10 @@ slug: news
 title: News
 ---
 
+<strong><font color="green">Nov 2024</font></strong>： 王倩雯、王芮、廖俞凡参加第二届Bio-OS开源开放大赛任务挑战赛获得三等奖。
+
+<strong><font color="green">Nov 2024</font></strong>: 恭喜唐文丽、邓琳获得硕士研究生国家奖学金。
+
 <strong><font color="green">Oct 2024</font></strong>: 文章[Thirteen years of clusterProfiler](https://doi.org/10.1016/j.xinn.2024.100722)，在The Innovation在线发表。
 
 <strong><font color="green">Oct 2024</font></strong>: 恭喜徐双斌通过骨干教师引进生物信息学系工作。
@@ -10,7 +14,7 @@ title: News
 <strong><font color="green">Oct 2024</font></strong>: 综述文章：[Spatial Resolved Transcriptomics: Computational Insights into Gene Transcription Across Tissue and Organ Architecture in Diverse Applications](https://www.the-innovation.org/article/doi/10.59717/j.xinn-life.2024.100097)，在The Innovation Life发表。
 + The Innovation官方公众号报道文章：[The Innovation Life  |  空间转录组数据解析：细胞群体空间特征推动发育、癌症和药物研究](https://mp.weixin.qq.com/s/el7B4_MPIwjEIB4fn9dxUA)
 
-<strong><font color="green">Oct 2024</font></strong>: 恭喜罗晓获得2024年硕士研究生国家奖学金。
+<strong><font color="green">Oct 2024</font></strong>: 恭喜罗晓获得硕士研究生国家奖学金。
 
 <strong><font color="green">Sep 2024</font></strong>: 余光创参编的“101计划”核心教材基础医学领域《[基于理工信的医学数据采集与分析](https://www.pumpedu.com/en-shop/7263.html)》由北京大学出版社出版。
 
