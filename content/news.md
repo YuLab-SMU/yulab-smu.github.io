@@ -3,9 +3,13 @@ slug: news
 title: News
 ---
 
-<strong><font color="green">Nov 2024</font></strong>： 王倩雯、王芮、廖俞凡参加第二届Bio-OS开源开放大赛任务挑战赛获得三等奖。
+<strong><font color="green">Nov 2024</font></strong>: 刘纯海加入课题组。
 
-<strong><font color="green">Nov 2024</font></strong>: 恭喜唐文丽、邓琳获得硕士研究生国家奖学金。
+<strong><font color="green">Nov 2024</font></strong>: 恭喜唐文丽获得硕士研究生国家奖学金补充计划。
+
+<strong><font color="green">Nov 2024</font></strong>: 王倩雯、王芮、廖俞凡获得第二届Bio-OS开源开放大赛任务挑战赛三等奖。
+
+<strong><font color="green">Nov 2024</font></strong>: 恭喜邓琳获得硕士研究生国家奖学金。
 
 <strong><font color="green">Oct 2024</font></strong>: 文章[Thirteen years of clusterProfiler](https://doi.org/10.1016/j.xinn.2024.100722)，在The Innovation在线发表。
 
