@@ -3,8 +3,12 @@ slug: news
 title: News
 ---
 
+
+<strong><font color="green">Nov 2024</font></strong>: 余光创受邀为布朗大学（Brown University，八所常春藤盟校之一）数学计算与实验研究所（ICERM）的学期项目研讨会（Semester Program Workshop）“[Algorithmic Advances and Implementation Challenges: Developing Practical Tools for Phylogenetic Inference](https://icerm.brown.edu/program/semester_program_workshop/sp-f24-w3)” 授课。
+
 <strong><font color="green">Nov 2024</font></strong>: 余光创入选2024年度全球高被引学者。
 <img src="/images/award/HCR-Ribbon_Email_166h_ForResearchers-2024.png" style="height:150px;" align="right"/>
++ [祝贺17位热心肠智库专家入选2024年度“全球高被引科学家”名单](https://www.chinagut.cn/articles/ss/b484ab06fe1c440f9df6da94502aeb5e?u=744989)
 
 <strong><font color="green">Nov 2024</font></strong>: 刘纯海加入课题组。
 
@@ -33,6 +37,7 @@ title: News
 + <strong>终身科学影响力</strong>（career-long impact）排行榜：全球排名23105
 + <strong>年度科学影响力</strong>（single recent year impact）排行榜：全球排名472，中国排名17
 + 生物信息领域中国学者终身科学影响力和年度科学影响力排名均为第一
++ 生物信息领域年度科学影响力全球排名第6
 + 南方医科大学学校新闻：[9+68！我校多名学者入选2024年全球前2%顶尖科学家榜单](https://www.smu.edu.cn/info/1139/53869.htm)
 + 南方医科大学公众号报道：[我校多名学者入选2024年全球前2%顶尖科学家榜单](https://mp.weixin.qq.com/s/FBw-1tunI7VVUTr0COBu5w)
 
@@ -84,7 +89,7 @@ title: News
 
 <strong><font color="green">Mar 2024</font></strong>: 🎉 余光创入选爱思唯尔2023年中国高被引学者，连续4年入选。
 
-<strong><font color="green">Mar 2024</font></strong>: 📝 “通过系统发育方法来解析肿瘤演化”，综述文章发表于***Journal of the National Cancer Center***期刊（Linkes: [article](https://www.sciencedirect.com/science/article/pii/S2667005424000206)，[JNCC癌症科学进展公众号报道](https://mp.weixin.qq.com/s/WMNEGRwUBJgRYvIFbBpLOA)），恭喜李林。
+<strong><font color="green">Mar 2024</font></strong>: 📝 “通过系统发育方法来解析肿瘤演化”，综述文章发表于***Journal of the National Cancer Center***期刊（Links: [article](https://www.sciencedirect.com/science/article/pii/S2667005424000206)，[JNCC癌症科学进展公众号报道](https://mp.weixin.qq.com/s/WMNEGRwUBJgRYvIFbBpLOA)），恭喜李林。
 
 <strong><font color="green">Feb 2024</font></strong>: 📝 用于探索时间和其它发育信号的软件包*ShinyTempSignal*发表于***Journal of Genetics and Genomics***期刊 (Links: [article](https://www.sciencedirect.com/science/article/pii/S167385272400033X), [JGG遗传学报公众号报道](https://mp.weixin.qq.com/s/5Mr-HYY3ZPnlZ6uhPt4YtA))，恭喜詹历、罗晓、谢玟琴和朱炫安（2018级生信本科生，广工研一）。
 
