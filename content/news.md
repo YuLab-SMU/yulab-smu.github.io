@@ -4,11 +4,16 @@ title: News
 ---
 
 
+<strong><font color="green">Nov 2024</font></strong>: 高校教师教学组织和教学发展体系建设研究项目“生物信息学知识图谱构建与应用研究”立项，余光创为主要成员之一。
+
+<strong><font color="green">Nov 2024</font></strong>: 余光创引用超过5万次（数据来自谷歌学术）。
+
 <strong><font color="green">Nov 2024</font></strong>: 余光创受邀为布朗大学（Brown University，八所常春藤盟校之一）数学计算与实验研究所（ICERM）的学期项目研讨会（Semester Program Workshop）“[Algorithmic Advances and Implementation Challenges: Developing Practical Tools for Phylogenetic Inference](https://icerm.brown.edu/program/semester_program_workshop/sp-f24-w3)” 授课。
 
 <strong><font color="green">Nov 2024</font></strong>: 余光创入选2024年度全球高被引学者。
 <img src="/images/award/HCR-Ribbon_Email_166h_ForResearchers-2024.png" style="height:150px;" align="right"/>
 + [祝贺17位热心肠智库专家入选2024年度“全球高被引科学家”名单](https://www.chinagut.cn/articles/ss/b484ab06fe1c440f9df6da94502aeb5e?u=744989)
++ [iMeta期刊40位编委入选2024年全球高被引学者](https://mp.weixin.qq.com/s/bPLh_hyesmMiHGsL9kJOXQ)
 
 <strong><font color="green">Nov 2024</font></strong>: 刘纯海加入课题组。
 
