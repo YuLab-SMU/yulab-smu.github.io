@@ -3,7 +3,9 @@ slug: news
 title: News
 ---
 
-<strong><font color="green">Dec 2024</font></strong>: [IOBR 2.0](https://doi.org/10.1016/j.crmeth.2024.100910)发表在__*Cell Reports Methods*__期刊。
+<strong><font color="green">Dec 2024</font></strong>: 余光创在南方医科大学2024年师德征文及微视频征集活动中获得师德征文二等奖。
+
+<strong><font color="green">Dec 2024</font></strong>: [IOBR 2.0](https://doi.org/10.1016/j.crmeth.2024.100910)发表在***Cell Reports Methods***期刊。
 
 <strong><font color="green">Nov 2024</font></strong>: 高校教师教学组织和教学发展体系建设研究项目“生物信息学知识图谱构建与应用研究”立项，余光创为主要成员之一。
 
@@ -24,11 +26,11 @@ title: News
 
 <strong><font color="green">Nov 2024</font></strong>: 恭喜邓琳获得硕士研究生国家奖学金。
 
-<strong><font color="green">Oct 2024</font></strong>: 文章[Thirteen years of clusterProfiler](https://doi.org/10.1016/j.xinn.2024.100722)，在The Innovation在线发表。
+<strong><font color="green">Oct 2024</font></strong>: 文章[Thirteen years of clusterProfiler](https://doi.org/10.1016/j.xinn.2024.100722)，在***The Innovation***在线发表。
 
 <strong><font color="green">Oct 2024</font></strong>: 恭喜徐双斌通过骨干教师引进生物信息学系工作。
 
-<strong><font color="green">Oct 2024</font></strong>: 综述文章：[Spatial Resolved Transcriptomics: Computational Insights into Gene Transcription Across Tissue and Organ Architecture in Diverse Applications](https://www.the-innovation.org/article/doi/10.59717/j.xinn-life.2024.100097)，在The Innovation Life发表。
+<strong><font color="green">Oct 2024</font></strong>: 综述文章：[Spatial Resolved Transcriptomics: Computational Insights into Gene Transcription Across Tissue and Organ Architecture in Diverse Applications](https://www.the-innovation.org/article/doi/10.59717/j.xinn-life.2024.100097)，在***The Innovation Life***发表。
 + The Innovation官方公众号报道文章：[The Innovation Life  |  空间转录组数据解析：细胞群体空间特征推动发育、癌症和药物研究](https://mp.weixin.qq.com/s/el7B4_MPIwjEIB4fn9dxUA)
 
 <strong><font color="green">Oct 2024</font></strong>: 恭喜罗晓获得硕士研究生国家奖学金。
@@ -50,14 +52,14 @@ title: News
 <strong><font color="green">Sep 2024</font></strong>: 余光创获得南方医科大学第十五届“南医优秀教师”称号
 + 师者如炬，点赞南医优秀教师（[学校官网](http://www.fimmu.com/info/1139/53069.htm)和[公众号](https://mp.weixin.qq.com/s/OEfO2DskF_ueoz5rycs1hw)报道）
 
-<strong><font color="green">Aug 2024</font></strong>:  tigeR包发表在[iMeta期刊](http://doi.org/10.1002/imt2.229)，恭喜陈逸豪（2019级生信本科，协和研一）。
+<strong><font color="green">Aug 2024</font></strong>:  [tigeR包](http://doi.org/10.1002/imt2.229)发表在***iMeta***期刊，恭喜陈逸豪（2019级生信本科，协和研一）。
 + iMeta官方公众号报道：[iMeta | 左志向/张迪/余光创-开发肿瘤免疫治疗转录组数据分析R包tigeR](https://mp.weixin.qq.com/s/SUU8G0tWzwNUzYdXdth2vw)
 + 热心肠研究院报道：[左志向/张迪/余光创开发tigeR：肿瘤免疫治疗基因表达数据分析R包](https://www.chinagut.cn/papers/read/82d13b209df04005becd4f6410b5116d)
 
-<strong><font color="green">Aug 2024</font></strong>: 综述文章：[Bioinformatics Software Development: principles and future directions](https://www.the-innovation.org/article/doi/10.59717/j.xinn-life.2024.100083)，在The Innovation Life发表。
+<strong><font color="green">Aug 2024</font></strong>: 综述文章：[Bioinformatics Software Development: principles and future directions](https://www.the-innovation.org/article/doi/10.59717/j.xinn-life.2024.100083)，在***The Innovation Life***发表。
 + The Innovation官方公众号报道文章：[The Innovation Life | 生物信息学软件开发的基本原则与未来发展趋势](https://mp.weixin.qq.com/s/QPkFZQv1Bq_MpKgXa3jumA)
 
-<strong><font color="green">Aug 2024</font></strong>:  综述文章：[Computational modeling for medical data: from data collection to knowledge discovery](https://doi.org/10.59717/j.xinn-life.2024.100079)，在The Innovation Life发表，恭喜徐双斌。
+<strong><font color="green">Aug 2024</font></strong>:  综述文章：[Computational modeling for medical data: from data collection to knowledge discovery](https://doi.org/10.59717/j.xinn-life.2024.100079)，在***The Innovation Life***发表，恭喜徐双斌。
 + [The Innovation官方公众号报道文章](https://mp.weixin.qq.com/s/jkF2EnMcCzDYjinsxW-RHg)
 
 <strong><font color="green">Jul 2024</font></strong>: fanyi包在[***Chinese Medical Journal***](https://journals.lww.com/cmj/fulltext/2024/08200/reducing_language_barriers,_promoting_information.7.aspx)发表，恭喜王荻霏（临床医学本科生）。
