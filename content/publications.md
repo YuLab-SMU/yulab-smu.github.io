@@ -34,7 +34,7 @@ title: Publications
 
 ## <i class="fa fa-calendar fa-1x" aria-hidden="true"></i> 2025 {#year-2025}
 
-+ D Zeng<sup>#</sup>, Y Fang<sup>#</sup>, W Qiu; P Luo, S Wang; R Shen, W Gu, X Huang, Q Mao; G Wang, Y Lai; X Xu, M Shi, Z Wu<sup>\*</sup>, __G Yu__<sup>\*</sup>, W Liao<sup>\*</sup>. [Enhancing Immuno-Oncology Investigations Through Multidimensional Decoding of Tumour Microenvironment with IOBR 2.0](). __*Cell Reports Methods*__. accepted.
++ D Zeng<sup>#</sup>, Y Fang<sup>#</sup>, W Qiu; P Luo, S Wang; R Shen, W Gu, X Huang, Q Mao; G Wang, Y Lai; X Xu, M Shi, Z Wu<sup>\*</sup>, __G Yu__<sup>\*</sup>, W Liao<sup>\*</sup>. [Enhancing Immuno-Oncology Investigations Through Multidimensional Decoding of Tumour Microenvironment with IOBR 2.0](https://doi.org/10.1016/j.crmeth.2024.100910). __*Cell Reports Methods*__. accepted.
 
 ## <i class="fa fa-calendar fa-1x" aria-hidden="true"></i> 2024 {#year-2024}
 

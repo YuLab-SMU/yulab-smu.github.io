@@ -3,6 +3,7 @@ slug: news
 title: News
 ---
 
+<strong><font color="green">Dec 2024</font></strong>: [IOBR 2.0](https://doi.org/10.1016/j.crmeth.2024.100910)发表在__*Cell Reports Methods*__期刊。
 
 <strong><font color="green">Nov 2024</font></strong>: 高校教师教学组织和教学发展体系建设研究项目“生物信息学知识图谱构建与应用研究”立项，余光创为主要成员之一。
 
