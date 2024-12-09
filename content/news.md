@@ -27,8 +27,9 @@ title: News
 <strong><font color="green">Nov 2024</font></strong>: 恭喜邓琳获得硕士研究生国家奖学金。
 
 <strong><font color="green">Oct 2024</font></strong>: 文章[Thirteen years of clusterProfiler](https://doi.org/10.1016/j.xinn.2024.100722)，在***The Innovation***在线发表。
++ The Innovation官方公众号报道：[The Innovation | clusterProfiler开发历程](https://mp.weixin.qq.com/s/AX-2UJD_kq4O3v8fwPNVTg)
 
-<strong><font color="green">Oct 2024</font></strong>: 恭喜徐双斌通过骨干教师引进生物信息学系工作。
+<strong><font color="green">Oct 2024</font></strong>: 恭喜徐双斌（课题组第一个博士生）通过骨干教师引进生物信息学系工作。
 
 <strong><font color="green">Oct 2024</font></strong>: 综述文章：[Spatial Resolved Transcriptomics: Computational Insights into Gene Transcription Across Tissue and Organ Architecture in Diverse Applications](https://www.the-innovation.org/article/doi/10.59717/j.xinn-life.2024.100097)，在***The Innovation Life***发表。
 + The Innovation官方公众号报道文章：[The Innovation Life  |  空间转录组数据解析：细胞群体空间特征推动发育、癌症和药物研究](https://mp.weixin.qq.com/s/el7B4_MPIwjEIB4fn9dxUA)
