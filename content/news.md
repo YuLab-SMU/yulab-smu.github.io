@@ -3,6 +3,8 @@ slug: news
 title: News
 ---
 
+<strong><font color="green">Dec 2024</font></strong>: 刘方谱（博士后）加入课题组。
+
 <strong><font color="green">Dec 2024</font></strong>: 余光创在南方医科大学2024年师德征文及微视频征集活动中获得师德征文二等奖。
 
 <strong><font color="green">Dec 2024</font></strong>: [IOBR 2.0](https://doi.org/10.1016/j.crmeth.2024.100910)发表在***Cell Reports Methods***期刊。
@@ -17,6 +19,8 @@ title: News
 <img src="/images/award/HCR-Ribbon_Email_166h_ForResearchers-2024.png" style="height:150px;" align="right"/>
 + [祝贺17位热心肠智库专家入选2024年度“全球高被引科学家”名单](https://www.chinagut.cn/articles/ss/b484ab06fe1c440f9df6da94502aeb5e?u=744989)
 + [iMeta期刊40位编委入选2024年全球高被引学者](https://mp.weixin.qq.com/s/bPLh_hyesmMiHGsL9kJOXQ)
+
+<strong><font color="green">Nov 2024</font></strong>: 国家级大学生创新训练项目“挖掘生物医学知识进行代谢产物与疾病的关联研究”获得立项。
 
 <strong><font color="green">Nov 2024</font></strong>: 刘纯海加入课题组。
 

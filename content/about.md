@@ -7,6 +7,19 @@ title: YuLab@SMU
 <center><img src="/images/members/20240910.png" width='1000px'></center>
 
 
+
+
+Welcome to the YuLab at Southern Medical University! 
+
+We are committed to leveraging multidisciplinary integration to develop innovative methods, tools, and novel analytical approaches for tackling complex challenges in biomedicine.
+
+
+
+
+
+
+
+<!--
 ## Research Interest
 
 
@@ -25,4 +38,4 @@ The research group has developed a variety of widely recognized bioinformatics t
 
 
 
-
+-->
