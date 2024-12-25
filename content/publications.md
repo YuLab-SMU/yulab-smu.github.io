@@ -35,6 +35,7 @@ title: Publications
 ## <i class="fa fa-calendar fa-1x" aria-hidden="true"></i> 2025 {#year-2025}
 
 + M Chen<sup>#</sup>, X Luo<sup>#</sup>, S Xu<sup>#</sup>, L Li, J Li, Z Xie, Q Wang, Y Liao, B Liu, W Liang, K Mo, Q Song, X Chen<sup>\*</sup>, TTY Lam<sup>\*</sup>, __G Yu__<sup>\*</sup>. Scalable method for exploring phylogenetic placement uncertainty with custom visualizations using treeio and ggtree. __*iMeta*__. accepted.
++ Q Wang, H Zhu, L Deng, S Xu, W Xie, M Li, R Wang, L Tie, L Zhan, __G Yu__<sup>\*</sup>. [Spatial Transcriptomics: Biotechnologies, Computational Tools, and Neuroscience Applications](https://doi.org/10.1002/smtd.202401107). __*Small Methods*__. accepted.
 + D Zeng<sup>#</sup>, Y Fang<sup>#</sup>, W Qiu; P Luo, S Wang; R Shen, W Gu, X Huang, Q Mao; G Wang, Y Lai; X Xu, M Shi, Z Wu<sup>\*</sup>, __G Yu__<sup>\*</sup>, W Liao<sup>\*</sup>. [Enhancing Immuno-Oncology Investigations Through Multidimensional Decoding of Tumour Microenvironment with IOBR 2.0](https://doi.org/10.1016/j.crmeth.2024.100910). __*Cell Reports Methods*__. accepted.
 
 ## <i class="fa fa-calendar fa-1x" aria-hidden="true"></i> 2024 {#year-2024}
