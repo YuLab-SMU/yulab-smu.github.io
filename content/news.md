@@ -3,6 +3,12 @@ slug: news
 title: News
 ---
 
+<strong><font color="green">Jan 2025</font></strong>: 《Using clusterProfiler to characterize multiomics data》入选ESI热点论文 ([Top 0.1%](https://yulab-smu.top/images/Screenshot_20250112163909.png))。
+
+<strong><font color="green">Jan 2025</font></strong>: 《Ggtree: A serialized data object for visualization of a phylogenetic tree and annotation data》入选ESI高被引论文 ([Top 1%](https://yulab-smu.top/images/Screenshot_20250112163909.png))。
+
+<strong><font color="green">Jan 2025</font></strong>: 综述文章：[Spatial Transcriptomics: Biotechnologies, Computational Tools, and Neuroscience Applications](https://doi.org/10.1002/smtd.202401107)，在***Small Methods***发表。
+
 <strong><font color="green">Dec 2024</font></strong>: 国家级大学生创新训练项目“挖掘生物医学知识进行代谢产物与疾病的关联研究”获得立项。
 
 <strong><font color="green">Dec 2024</font></strong>: 刘方谱（博士后）加入课题组。
