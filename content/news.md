@@ -3,6 +3,8 @@ slug: news
 title: News
 ---
 
+<strong><font color="green">Jan 2025</font></strong>: [Scalable method for exploring phylogenetic placement uncertainty with custom visualizations using treeio and ggtree](https://doi.org/10.1002/imt2.269) 文章在***iMeta***期刊发表。
+
 <strong><font color="green">Jan 2025</font></strong>: 《Using clusterProfiler to characterize multiomics data》入选ESI热点论文 ([Top 0.1%](https://yulab-smu.top/images/Screenshot_20250112163909.png))。
 
 <strong><font color="green">Jan 2025</font></strong>: 《Ggtree: A serialized data object for visualization of a phylogenetic tree and annotation data》入选ESI高被引论文 ([Top 1%](https://yulab-smu.top/images/Screenshot_20250112163909.png))。
