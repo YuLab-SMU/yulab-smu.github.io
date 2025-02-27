@@ -34,8 +34,9 @@ title: Publications
 
 ## <i class="fa fa-calendar fa-1x" aria-hidden="true"></i> 2025 {#year-2025}
 
-+ M Chen<sup>#</sup>, X Luo<sup>#</sup>, S Xu<sup>#</sup>, L Li, J Li, Z Xie, Q Wang, Y Liao, B Liu, W Liang, K Mo, Q Song, X Chen<sup>\*</sup>, TTY Lam<sup>\*</sup>, __G Yu__<sup>\*</sup>. [Scalable method for exploring phylogenetic placement uncertainty with custom visualizations using treeio and ggtree](https://doi.org/10.1002/imt2.269). __*iMeta*__. accepted.
+
 + Q Wang, H Zhu, L Deng, S Xu, W Xie, M Li, R Wang, L Tie, L Zhan, __G Yu__<sup>\*</sup>. [Spatial Transcriptomics: Biotechnologies, Computational Tools, and Neuroscience Applications](https://doi.org/10.1002/smtd.202401107). __*Small Methods*__. accepted.
++ M Chen<sup>#</sup>, X Luo<sup>#</sup>, S Xu<sup>#</sup>, L Li, J Li, Z Xie, Q Wang, Y Liao, B Liu, W Liang, K Mo, Q Song, X Chen<sup>\*</sup>, TTY Lam<sup>\*</sup>, __G Yu__<sup>\*</sup>. [Scalable method for exploring phylogenetic placement uncertainty with custom visualizations using treeio and ggtree](https://doi.org/10.1002/imt2.269). __*iMeta*__. 4(1):e269.
 
 ## <i class="fa fa-calendar fa-1x" aria-hidden="true"></i> 2024 {#year-2024}
 
@@ -44,6 +45,7 @@ title: Publications
 + Z Miao<sup>#</sup>, T Tian<sup>#</sup>, W Chen<sup>#</sup>, Q Wang<sup>#</sup>, L Ma<sup>#</sup>, D Zhang<sup>#</sup>, M Xie<sup>#</sup>, Z Yu<sup>#</sup>, X Guo, G Bai, S Zhao, X Chen, W Wang, Y Gao, S Guo<sup>\*</sup>, M Luo<sup>\*</sup>, L Yuan<sup>\*</sup>, C Tian<sup>\*</sup>, L Wu<sup>\*</sup>, __G Yu__<sup>\*</sup>, D Zhang<sup>\*</sup>, S Sun<sup>\*</sup>. [Spatial Resolved Transcriptomics: Computational Insights into Gene Transcription Across Tissue and Organ Architecture in Diverse Applications](https://www.the-innovation.org/article/doi/10.59717/j.xinn-life.2024.100097). __*The Innovation Life*__. 2024, 2(4):100097.
 + __G Yu__<sup>\*</sup>. [Thirteen years of clusterProfiler](https://doi.org/10.1016/j.xinn.2024.100722). __*The Innovation*__. 2024, 5(6):100722.
 + S Xu<sup>#</sup>, E Hu<sup>#</sup>, Y Cai<sup>#</sup>, Z Xie<sup>#</sup>, X Luo<sup>#</sup>, L Zhan, W Tang, Q Wang, B Liu, R Wang, W Xie, T Wu, L Xie, __G Yu__<sup>\*</sup>. [Using clusterProfiler to characterise Multi-Omics Data](https://www.nature.com/articles/s41596-024-01020-z). __*Nature Protocols*__. 2024, 19(11):3292-3320. 
++ S Wang,  __G Yu__, L Xie<sup>\*</sup>. [Asymmetric Cell Division and Satellite Cell Fate Regulation in Skeletal Muscle Aging and Disease](https://www.sciltp.com/journals/hm/article/view/433). __*Health and Metabolism*__. 2024, 1(1):5.
 + Y Chen<sup>#</sup>, LN He<sup>#</sup>, Y Zhang, J Gong, S Xu, Y Shu, D Zhang<sup>\*</sup>, __G Yu__<sup>\*</sup>, Z Zuo<sup>\*</sup>. [tigeR: Tumor Immunotherapy Gene Expression Data Analysis R package](http://doi.org/10.1002/imt2.229). __*iMeta*__. 2024, 3(5):e229.
 + D Wang, G Chen, L Li, S Wen, Z Xie, X Luo, L Zhan, S Xu, J Li, R Wang, Q Wang<sup>\*</sup>, __G Yu__<sup>\*</sup>. [Reducing language barriers, promoting information absorption, and communication using *fanyi*](https://journals.lww.com/cmj/fulltext/2024/08200/reducing_language_barriers,_promoting_information.7.aspx). __*Chinese Medical Journal*__. 2024, 137(16):1950-1956.
 + XK Ma<sup>#</sup>, Y Yu<sup>#</sup>, T Huang<sup>#</sup><sup>\*</sup>, D Zhang, C Tian, W Tang, M Luo, P Du<sup>\*</sup>, __G Yu__<sup>\*</sup>, L Yang<sup>\*</sup>. [Bioinformatics Software Development: principles and future directions](https://www.the-innovation.org/article/doi/10.59717/j.xinn-life.2024.100083). __*The Innovation Life*__. 2024, 2(3):100083.
