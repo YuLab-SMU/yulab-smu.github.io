@@ -138,8 +138,13 @@ pygmentsCodeFencesGuessSyntax = true
             url = "publications/"
 
             [[languages.en.menu.main]]
-            name = "Contributions"
+            name = "Books"
             weight = 3
+            url = "books/"
+
+            [[languages.en.menu.main]]
+            name = "Contributions"
+            weight = 4
             url = "contributions/"
 
 #            [[languages.en.menu.main]]

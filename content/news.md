@@ -15,8 +15,6 @@ title: News
 
 <strong><font color="green">Dec 2024</font></strong>: 国家级大学生创新训练项目“挖掘生物医学知识进行代谢产物与疾病的关联研究”获得立项。
 
-<strong><font color="green">Dec 2024</font></strong>: 刘方谱（博士后）加入课题组。
-
 <strong><font color="green">Dec 2024</font></strong>: 余光创在南方医科大学2024年师德征文及微视频征集活动中获得师德征文二等奖。
 
 <strong><font color="green">Dec 2024</font></strong>: [IOBR 2.0](https://doi.org/10.1016/j.crmeth.2024.100910)发表在***Cell Reports Methods***期刊。
