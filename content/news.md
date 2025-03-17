@@ -3,6 +3,7 @@ slug: news
 title: News
 ---
 
+<strong><font color="green">Mar 2025</font></strong>: 余光创获[首届Wiley新锐科学家奖](https://mp.weixin.qq.com/s/8nhkJtwuUR9hlhs6DoYt3w)。
 
 <strong><font color="green">Jan 2025</font></strong>: [Scalable method for exploring phylogenetic placement uncertainty with custom visualizations using treeio and ggtree](https://doi.org/10.1002/imt2.269) 文章在***iMeta***期刊发表。
 + iMeta官方公众号报道：[iMeta | 南医大余光创组-使用treeio和ggtree探索系统发育位置数据](https://mp.weixin.qq.com/s/lwULobkiuR6vBqSbGbV2dQ)
