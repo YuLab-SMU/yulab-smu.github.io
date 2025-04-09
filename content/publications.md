@@ -19,10 +19,11 @@ title: Publications
 
 + <sup>#</sup> Co-first authors
 + <sup>\*</sup> Co-corresponding authors 
-+ <i class="fa fa-trophy fa-2x" aria-hidden="true" style="color:#CC5500;font-size: 150%;"></i>：ESI Highly Cited Paper (9X)
++ <i class="fa fa-trophy fa-2x" aria-hidden="true" style="color:#CC5500;font-size: 150%;"></i>：ESI Highly Cited Paper (12X)
++ <i class="fa fa-fire fa-2x" aria-hidden="true" style="color:#CC5500;font-size: 150%;"></i>：ESI Hot Paper
 + 分区：文章发表当年的中科院小类分区
 + IF：文章发表当年的影响因子
-+ [课题组学术榜](/awards)
+
 
 </td>
 <td style="border:none;">
@@ -36,7 +37,8 @@ title: Publications
 
 
 + Q Wang, H Zhu, L Deng, S Xu, W Xie, M Li, R Wang, L Tie, L Zhan, __G Yu__<sup>\*</sup>. [Spatial Transcriptomics: Biotechnologies, Computational Tools, and Neuroscience Applications](https://doi.org/10.1002/smtd.202401107). __*Small Methods*__. accepted.
-+ M Chen<sup>#</sup>, X Luo<sup>#</sup>, S Xu<sup>#</sup>, L Li, J Li, Z Xie, Q Wang, Y Liao, B Liu, W Liang, K Mo, Q Song, X Chen<sup>\*</sup>, TTY Lam<sup>\*</sup>, __G Yu__<sup>\*</sup>. [Scalable method for exploring phylogenetic placement uncertainty with custom visualizations using treeio and ggtree](https://doi.org/10.1002/imt2.269). __*iMeta*__. 4(1):e269.
++ Y Tu<sup>#\*</sup>, S Xu<sup>#</sup>, H Shu, X Wang, W Li, __G Yu__<sup>\*</sup>, Li He<sup>\*</sup>. [16S rRNA Sequencing Reveals Dysbiosis of Skin Microbiome Associated With Disease Severity in Chronic Actinic Dermatitis](https://onlinelibrary.wiley.com/doi/full/10.1111/phpp.70022). __*Photodermatology, Photoimmunology & Photomedicine*__. 2025, 41(3):e70022.
++ M Chen<sup>#</sup>, X Luo<sup>#</sup>, S Xu<sup>#</sup>, L Li, J Li, Z Xie, Q Wang, Y Liao, B Liu, W Liang, K Mo, Q Song, X Chen<sup>\*</sup>, TTY Lam<sup>\*</sup>, __G Yu__<sup>\*</sup>. [Scalable method for exploring phylogenetic placement uncertainty with custom visualizations using treeio and ggtree](https://doi.org/10.1002/imt2.269). __*iMeta*__. 2025, 4(1):e269.
 
 ## <i class="fa fa-calendar fa-1x" aria-hidden="true"></i> 2024 {#year-2024}
 
@@ -44,7 +46,7 @@ title: Publications
 + M Luo<sup>\*#</sup>, W Yang<sup>#</sup>, L Bai<sup>#</sup>, L Zhang<sup>#</sup>, JW Huang<sup>#</sup>, Y Cao<sup>#</sup>, Y Xie<sup>#</sup>, L Tong, H Zhang, L Yu, LW Zhou, Y Shi, P Yu, Z Wang, Z Yuan, P Zhang, Y Zhang, F Ju, H Zhang, F Wang, Y Cui, J Zhang, G Jia, D Wan, C Ruan, Y Zeng, P Wu, Z Gao, W Zhao, Y Xu, __G Yu__, C Tian, LN Jin, J Dai<sup>\*</sup>, B Xia<sup>\*</sup>, B Sun<sup>\*</sup>, F Chen<sup>\*</sup>, YZ Gao<sup>\*</sup>, H Wang<sup>\*</sup>, B Wang<sup>\*</sup>, D Zhang<sup>\*</sup>, X Cao<sup>\*</sup>, H Wang<sup>\*</sup>, T Huang<sup>\*</sup>. [Artificial intelligence for life sciences: A comprehensive guide and future trends](https://doi.org/10.59717/j.xinn-life.2024.100105). __*The Innovation Life*__. 2024, 2(4):100105.
 + Z Miao<sup>#</sup>, T Tian<sup>#</sup>, W Chen<sup>#</sup>, Q Wang<sup>#</sup>, L Ma<sup>#</sup>, D Zhang<sup>#</sup>, M Xie<sup>#</sup>, Z Yu<sup>#</sup>, X Guo, G Bai, S Zhao, X Chen, W Wang, Y Gao, S Guo<sup>\*</sup>, M Luo<sup>\*</sup>, L Yuan<sup>\*</sup>, C Tian<sup>\*</sup>, L Wu<sup>\*</sup>, __G Yu__<sup>\*</sup>, D Zhang<sup>\*</sup>, S Sun<sup>\*</sup>. [Spatial Resolved Transcriptomics: Computational Insights into Gene Transcription Across Tissue and Organ Architecture in Diverse Applications](https://www.the-innovation.org/article/doi/10.59717/j.xinn-life.2024.100097). __*The Innovation Life*__. 2024, 2(4):100097.
 + __G Yu__<sup>\*</sup>. [Thirteen years of clusterProfiler](https://doi.org/10.1016/j.xinn.2024.100722). __*The Innovation*__. 2024, 5(6):100722.
-+ S Xu<sup>#</sup>, E Hu<sup>#</sup>, Y Cai<sup>#</sup>, Z Xie<sup>#</sup>, X Luo<sup>#</sup>, L Zhan, W Tang, Q Wang, B Liu, R Wang, W Xie, T Wu, L Xie, __G Yu__<sup>\*</sup>. [Using clusterProfiler to characterise Multi-Omics Data](https://www.nature.com/articles/s41596-024-01020-z). __*Nature Protocols*__. 2024, 19(11):3292-3320. 
++ S Xu<sup>#</sup>, E Hu<sup>#</sup>, Y Cai<sup>#</sup>, Z Xie<sup>#</sup>, X Luo<sup>#</sup>, L Zhan, W Tang, Q Wang, B Liu, R Wang, W Xie, T Wu, L Xie, __G Yu__<sup>\*</sup>. [Using clusterProfiler to characterise Multi-Omics Data](https://www.nature.com/articles/s41596-024-01020-z). __*Nature Protocols*__. 2024, 19(11):3292-3320. <i class="fa fa-trophy fa-2x" aria-hidden="true" style="color:#CC5500;font-size: 150%;"></i> <i class="fa fa-fire fa-2x" aria-hidden="true" style="color:#CC5500;font-size: 150%;"></i>
 + S Wang,  __G Yu__, L Xie<sup>\*</sup>. [Asymmetric Cell Division and Satellite Cell Fate Regulation in Skeletal Muscle Aging and Disease](https://www.sciltp.com/journals/hm/article/view/433). __*Health and Metabolism*__. 2024, 1(1):5.
 + Y Chen<sup>#</sup>, LN He<sup>#</sup>, Y Zhang, J Gong, S Xu, Y Shu, D Zhang<sup>\*</sup>, __G Yu__<sup>\*</sup>, Z Zuo<sup>\*</sup>. [tigeR: Tumor Immunotherapy Gene Expression Data Analysis R package](http://doi.org/10.1002/imt2.229). __*iMeta*__. 2024, 3(5):e229.
 + D Wang, G Chen, L Li, S Wen, Z Xie, X Luo, L Zhan, S Xu, J Li, R Wang, Q Wang<sup>\*</sup>, __G Yu__<sup>\*</sup>. [Reducing language barriers, promoting information absorption, and communication using *fanyi*](https://journals.lww.com/cmj/fulltext/2024/08200/reducing_language_barriers,_promoting_information.7.aspx). __*Chinese Medical Journal*__. 2024, 137(16):1950-1956.
@@ -71,7 +73,7 @@ title: Publications
 
 ## <i class="fa fa-calendar fa-1x" aria-hidden="true"></i> 2022 {#year-2022}
 
-+ S Xu, L Li, X Luo, M Chen, W Tang, L Zhan, Z Dai, TT. Lam, Y Guan, __G Yu__<sup>\*</sup>. [Ggtree: A serialized data object for visualization of a phylogenetic tree and annotation data](https://onlinelibrary.wiley.com/doi/full/10.1002/imt2.56). __*iMeta*__, 2022, 1(4):e56.
++ S Xu, L Li, X Luo, M Chen, W Tang, L Zhan, Z Dai, TT. Lam, Y Guan, __G Yu__<sup>\*</sup>. [Ggtree: A serialized data object for visualization of a phylogenetic tree and annotation data](https://onlinelibrary.wiley.com/doi/full/10.1002/imt2.56). __*iMeta*__, 2022, 1(4):e56. <i class="fa fa-trophy fa-2x" aria-hidden="true" style="color:#CC5500;font-size: 150%;"></i> 
 + Q Wang<sup>#</sup>, M Li<sup>#</sup>, T Wu, L Zhan, L Li, M Chen, W Xie, Z Xie, E Hu, S Xu, __G Yu__<sup>\*</sup>. [Exploring epigenomic datasets by ChIPseeker](https://doi.org/10.1002/cpz1.585). __*Current Protocols*__, 2022, 2(10): e585.  [<i class="fa fa-file-pdf-o fa-2x" aria-hidden="true" style="color:black;font-size: 150%;"></i>](https://onlinelibrary.wiley.com/share/author/GYJGUBYCTRMYJFN2JFZZ?target=10.1002/cpz1.585)
 + Z Dai, T Wu, S Xu, L Zhou, W Tang, E Hu, L Zhan M Chen, __G Yu__<sup>\*</sup>. [Characterization of toxin-antitoxin systems from public sequencing data: a case study in *Pseudomonas aeruginosa*](https://www.frontiersin.org/articles/10.3389/fmicb.2022.951774). __*Frontiers in Microbiology*__. 2022, 13:951774. (IF = 5.2，二区，Top期刊)
 + T Feng<sup>#</sup>, T Wu<sup>#</sup>, Y Zhang<sup>#</sup>, L Zhou<sup>#</sup>, S Liu, L Li, M Li, E Hu, Q Wang, X Fu, L Zhan, Z Xie, W Xie, X Huang<sup>\*</sup>, X Shang<sup>\*</sup>,  __G Yu__<sup>\*</sup>. [Stemness Analysis Uncovers That The Peroxisome Proliferator-Activated Receptor Signaling Pathway Can Mediate Fatty Acid Homeostasis In Sorafenib-Resistant Hepatocellular Carcinoma Cells](https://www.frontiersin.org/articles/10.3389/fonc.2022.912694/). __*Frontiers in Oncology*__. 2022, 12:912694. (IF = 4.7，三区)
@@ -84,7 +86,7 @@ title: Publications
 ## <i class="fa fa-calendar fa-1x" aria-hidden="true"></i> 2021 {#year-2021}
 
 + S Xu<sup>#</sup>, M Chen<sup>#</sup>, T Feng, L Zhan, L Zhou, __G Yu__<sup>\*</sup>. [Use ggbreak to effectively utilize plotting space to deal with large datasets and outliers](https://www.frontiersin.org/articles/10.3389/fgene.2021.774846). __*Frontiers in Genetics*__. 2021, 12:774846. (IF=4.772，三区)
-+ CH Gao, __G Yu__, P Cai<sup>\*</sup>. [ggVennDiagram: An intuitive, easy-to-use, and highly customizable R package to generate Venn diagram](https://doi.org/10.3389/fgene.2021.706907). __*Frontiers in Genetics*__. 2021, 12:706907. (IF=4.772，三区)
++ CH Gao, __G Yu__, P Cai<sup>\*</sup>. [ggVennDiagram: An intuitive, easy-to-use, and highly customizable R package to generate Venn diagram](https://doi.org/10.3389/fgene.2021.706907). __*Frontiers in Genetics*__. 2021, 12:706907. <i class="fa fa-trophy fa-2x" aria-hidden="true" style="color:#CC5500;font-size: 150%;"></i> (IF=4.772，三区)
 + S Xu, Z Dai, P Guo, X Fu, S Liu, L Zhou, W Tang, T Feng, M Chen, L Zhan, T Wu, E Hu, Y Jiang<sup>\*</sup>, X Bo<sup>\*</sup>, __G Yu__<sup>\*</sup>. [ggtreeExtra: Compact visualization of richly annotated phylogenetic data](https://doi.org/10.1093/molbev/msab166). __*Molecular Biology and Evolution*__. 2021, 38(9):4039-4042. (IF=8.800，一区，Top期刊)
 + T Wu<sup>#</sup>, E Hu<sup>#</sup>, S Xu, M Chen, P Guo, Z Dai, T Feng, L Zhou, W Tang, L Zhan, X Fu, S Liu, X Bo<sup>\*</sup>, **G Yu**<sup>\*</sup>. [clusterProfiler 4.0: A universal enrichment tool for interpreting omics data](https://doi.org/10.1016/j.xinn.2021.100141). **_The Innovation_**. 2021, 2(3):100141. 
 + D Zeng<sup>#</sup>, Z Ye<sup>#</sup>, R Shen, __G Yu__, J Wu, Y Xiong, R Zhou, W Qiu, N Huang, L Sun, X Li, J Bin, Y Liao, M Shi, W Liao<sup>\*</sup>. [IOBR: Multi-Omics Immuno-Oncology Biological Research to Decode Tumor Microenvironment and Signatures](https://doi.org/10.3389/fimmu.2021.687975). **_Frontiers in Immunology_**. 2021, 12:687975.   <i class="fa fa-trophy fa-2x" aria-hidden="true" style="color:#CC5500;font-size: 150%;"></i> (IF=8.786，二区，Top期刊)

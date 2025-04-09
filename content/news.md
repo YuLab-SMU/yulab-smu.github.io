@@ -3,16 +3,24 @@ slug: news
 title: News
 ---
 
+<strong><font color="green">Apr 2025</font></strong>: [16S rRNA Sequencing Reveals Dysbiosis of Skin Microbiome Associated With Disease Severity in Chronic Actinic Dermatitis](https://onlinelibrary.wiley.com/doi/full/10.1111/phpp.70022) 文章在***Photodermatology, Photoimmunology & Photomedicine***期刊发表。
+
+<strong><font color="green">Mar 2025</font></strong>: 余光创入选爱思唯尔2024年度中国高被引学者。
++ [我校18位学者入选爱思唯尔2024“中国高被引学者”榜单](https://mp.weixin.qq.com/s/oPlyhtzrayP9vQpZKgrauw)
+
+<strong><font color="green">Mar 2025</font></strong>: 《Using clusterProfiler to characterize multiomics data》入选ESI高被引论文 ([Top 1%](https://yulab-smu.top/images/Screenshot_20250319154216.png))。
+
 <strong><font color="green">Mar 2025</font></strong>: 余光创获[首届Wiley新锐科学家奖](https://mp.weixin.qq.com/s/8nhkJtwuUR9hlhs6DoYt3w)。
 
 <strong><font color="green">Jan 2025</font></strong>: [Scalable method for exploring phylogenetic placement uncertainty with custom visualizations using treeio and ggtree](https://doi.org/10.1002/imt2.269) 文章在***iMeta***期刊发表。
-+ iMeta官方公众号报道：[iMeta | 南医大余光创组-使用treeio和ggtree探索系统发育位置数据](https://mp.weixin.qq.com/s/lwULobkiuR6vBqSbGbV2dQ)
++ [iMeta | 南医大余光创组-使用treeio和ggtree探索系统发育位置数据](https://mp.weixin.qq.com/s/lwULobkiuR6vBqSbGbV2dQ)
 
 <strong><font color="green">Jan 2025</font></strong>: 《Using clusterProfiler to characterize multiomics data》入选ESI热点论文 ([Top 0.1%](https://yulab-smu.top/images/Screenshot_20250112163909.png))。
 
 <strong><font color="green">Jan 2025</font></strong>: 《Ggtree: A serialized data object for visualization of a phylogenetic tree and annotation data》入选ESI高被引论文 ([Top 1%](https://yulab-smu.top/images/Screenshot_20250112163909.png))。
 
 <strong><font color="green">Jan 2025</font></strong>: 综述文章：[Spatial Transcriptomics: Biotechnologies, Computational Tools, and Neuroscience Applications](https://doi.org/10.1002/smtd.202401107)，在***Small Methods***发表。
++ [【揭秘脑空间基因密码】南方医科大学余光创团队SMTD：综述解析空间转录组技术突破及其在神经科学的应用](https://mp.weixin.qq.com/s/srY_d3K4SKvlKePDpAwISQ)
 
 <strong><font color="green">Dec 2024</font></strong>: 国家级大学生创新训练项目“挖掘生物医学知识进行代谢产物与疾病的关联研究”获得立项。
 
@@ -47,7 +55,7 @@ title: News
 <strong><font color="green">Oct 2024</font></strong>: 综述文章：[Spatial Resolved Transcriptomics: Computational Insights into Gene Transcription Across Tissue and Organ Architecture in Diverse Applications](https://www.the-innovation.org/article/doi/10.59717/j.xinn-life.2024.100097)，在***The Innovation Life***发表。
 + The Innovation官方公众号报道文章：[The Innovation Life  |  空间转录组数据解析：细胞群体空间特征推动发育、癌症和药物研究](https://mp.weixin.qq.com/s/el7B4_MPIwjEIB4fn9dxUA)
 
-<strong><font color="green">Oct 2024</font></strong>: 恭喜罗晓获得硕士研究生国家奖学金。
+<!-- <strong><font color="green">Oct 2024</font></strong>: 恭喜罗晓获得硕士研究生国家奖学金。-->
 
 <strong><font color="green">Sep 2024</font></strong>: 余光创参编的“101计划”核心教材基础医学领域《[基于理工信的医学数据采集与分析](https://www.pumpedu.com/en-shop/7263.html)》由北京大学出版社出版。
 
@@ -79,7 +87,7 @@ title: News
 <strong><font color="green">Jul 2024</font></strong>: fanyi包在[***Chinese Medical Journal***](https://journals.lww.com/cmj/fulltext/2024/08200/reducing_language_barriers,_promoting_information.7.aspx)发表，恭喜王荻霏（临床医学本科生）。
 + [中华医学期刊官方公众号报道文章](https://mp.weixin.qq.com/s/SJsVW_MOptcHPmWTxahgTQ)
 
-<strong><font color="green">Jul 2024</font></strong>: clusterProfiler在[***Nature Protocols***](https://www.nature.com/articles/s41596-024-01020-z)发表，恭喜徐双斌、谢子敬和罗晓。
+<strong><font color="green">Jul 2024</font></strong>: clusterProfiler在[***Nature Protocols***](https://www.nature.com/articles/s41596-024-01020-z)发表，恭喜徐双斌。
 + 入选为Nature Protocols期刊的[Feature Protocol](/images/knowledge-mining/featured-protocol-2024.jpeg)
 + 受邀在Springer Nature Research Communities的“Behind the Paper”栏目分享[该论文的研究经历](https://communities.springernature.com/posts/using-clusterprofiler-to-characterise-multi-omics-data)
 + 热心肠研究院报道：[余光创Nature子刊：使用clusterProfiler可解析多组学数据](https://www.chinagut.cn/papers/read/267b2c6e8ba64014ae3ce91d6183dbb3)
@@ -113,7 +121,7 @@ title: News
 
 <strong><font color="green">Mar 2024</font></strong>: 📝 “通过系统发育方法来解析肿瘤演化”，综述文章发表于***Journal of the National Cancer Center***期刊（Links: [article](https://www.sciencedirect.com/science/article/pii/S2667005424000206)，[JNCC癌症科学进展公众号报道](https://mp.weixin.qq.com/s/WMNEGRwUBJgRYvIFbBpLOA)），恭喜李林。
 
-<strong><font color="green">Feb 2024</font></strong>: 📝 用于探索时间和其它发育信号的软件包*ShinyTempSignal*发表于***Journal of Genetics and Genomics***期刊 (Links: [article](https://www.sciencedirect.com/science/article/pii/S167385272400033X), [JGG遗传学报公众号报道](https://mp.weixin.qq.com/s/5Mr-HYY3ZPnlZ6uhPt4YtA))，恭喜詹历、罗晓、谢玟琴和朱炫安（2018级生信本科生，广工研一）。
+<strong><font color="green">Feb 2024</font></strong>: 📝 用于探索时间和其它发育信号的软件包*ShinyTempSignal*发表于***Journal of Genetics and Genomics***期刊 (Links: [article](https://www.sciencedirect.com/science/article/pii/S167385272400033X), [JGG遗传学报公众号报道](https://mp.weixin.qq.com/s/5Mr-HYY3ZPnlZ6uhPt4YtA))，恭喜詹历。
 
 <strong><font color="green">Feb 2024</font></strong>: 📝 用于[快速进行放置序列更新系统发育树的工具TIPars](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011871)发表在***PLOS Computational Biology***期刊，余光创为共同第一作者。
 
@@ -213,7 +221,7 @@ title: News
 <strong><font color="green">Sep 2022</font></strong>: 提出用于系统发育树及相关数据存储与可视化的数据结构，文章发表于***iMeta***期刊 (Links: [article](https://onlinelibrary.wiley.com/doi/full/10.1002/imt2.56), [iMeta公众号报道](https://mp.weixin.qq.com/s/-512I6XAxTpUS7pkgb5nwg))，恭喜徐双斌。
 
 
-<strong><font color="green">Sep 2022</font></strong>: 🌹 欢迎利铭和罗晓加入YuLab，两人均通过推免进入本课题组。
+<strong><font color="green">Sep 2022</font></strong>: 🌹 欢迎利铭加入YuLab。
 
 <strong><font color="green">Aug 2022</font></strong>: 余光创发表专著《Data Integration, Manipulation and Visualization of Phylogenetic Treess (1st edition)》，由***Chapman and Hall/CRC***出版社出版 doi: [10.1201/9781003279242](https://doi.org/10.1201/9781003279242)。
 
