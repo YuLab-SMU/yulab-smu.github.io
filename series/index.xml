@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series on YuLab@SMU</title>
+    <link>http://yulab-smu.top/series/</link>
+    <description>Recent content in Series on YuLab@SMU</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 24 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://yulab-smu.top/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Paper</title>
+      <link>http://yulab-smu.top/series/paper/</link>
+      <pubDate>Tue, 24 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://yulab-smu.top/series/paper/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Software</title>
+      <link>http://yulab-smu.top/series/software/</link>
+      <pubDate>Tue, 24 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://yulab-smu.top/series/software/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Award</title>
+      <link>http://yulab-smu.top/series/award/</link>
+      <pubDate>Sun, 25 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://yulab-smu.top/series/award/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Highlight</title>
+      <link>http://yulab-smu.top/series/highlight/</link>
+      <pubDate>Fri, 25 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://yulab-smu.top/series/highlight/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Presentation</title>
+      <link>http://yulab-smu.top/series/presentation/</link>
+      <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>http://yulab-smu.top/series/presentation/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

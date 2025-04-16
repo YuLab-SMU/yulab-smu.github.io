@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>YGC on YuLab@SMU</title>
+    <link>http://yulab-smu.top/tags/ygc/</link>
+    <description>Recent content in YGC on YuLab@SMU</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 25 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://yulab-smu.top/tags/ygc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>余光创入选2020全球前2%顶尖科学家榜单</title>
+      <link>http://yulab-smu.top/posts/2020-top-2-percent/</link>
+      <pubDate>Sun, 25 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://yulab-smu.top/posts/2020-top-2-percent/</guid>
+      <description>&lt;p&gt;日前，美国斯坦福大学发布了全球前2%顶尖科学家榜单（World&amp;rsquo;s Top 2% Scientists 2020）。南方医科大学生物信息学系主任余光创入选2020全球前2%顶尖科学家“年度影响力”榜单。&lt;/p&gt;&#xA;&lt;p&gt;该榜单由斯坦福大学John P. A. Ioannidis教授团队与Elsevier旗下Mendeley Data发布。榜单以Scopus数据库为依据，基于引用次数、H因子、HM因子等综合指标，根据其“生涯影响力”和“年度影响力”从近700 万名科学家中遴选出世界排名前2%的科学家，分为22个领域和176个细分子领域。&lt;/p&gt;&#xA;&lt;p&gt;数据来源：Data for &amp;ldquo;Updated science-wide author databases of standardized citation indicators&amp;rdquo;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>余光创入选2020年中国高被引学者</title>
+      <link>http://yulab-smu.top/posts/ygc-highly-cited/</link>
+      <pubDate>Sat, 24 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://yulab-smu.top/posts/ygc-highly-cited/</guid>
+      <description>&lt;p&gt;4月22日，全球性信息分析公司爱思唯尔(Elsevier)正式公布了2020年中国高被引学者(Highly Cited Chinese Researchers)榜单。来自全国373所高校、企业和科研机构的4023名学者入选该榜单。&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://yulab-smu.top/images/award/2020-highly-cited-researcher.png&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;南方医科大学共有8名学者入围该榜单。南方医科大学基础医学院生物信息学系主任余光创教授在生物医学工程学科入围该榜单。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>余光创等在Bioconductor亚洲区年会做报告</title>
+      <link>http://yulab-smu.top/posts/biocasia-2020/</link>
+      <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>http://yulab-smu.top/posts/biocasia-2020/</guid>
+      <description>&lt;p&gt;应Julie Zhu教授的邀请，余光创在&lt;a href=&#34;https://biocasia2020.bioconductor.org/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bioconductor亚洲区年会&lt;/a&gt;上做报告（Invited Talk），介绍系统发育数据整合与可视化，介绍了课题组开发的tidytree, treeio和ggtree等几个软件包。&lt;/p&gt;&#xA;&#xA;&#xA;    &#xA;    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/z8jwxI4okvo?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&#xA;      &gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;&lt;p&gt;在workshop环节，徐双斌（课题组博士二年级学生）介绍了使用课题组开发的MicrobiotaProcess对宏基因组数据进行分析和可视化。&lt;/p&gt;&#xA;&#xA;&#xA;    &#xA;    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/vXH4DLQw7Wg?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&#xA;      &gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;&lt;p&gt;Workshop资料可在线获取：&lt;a href=&#34;https://yulab-smu.top/MicrobiotaProcessWorkshop/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://yulab-smu.top/MicrobiotaProcessWorkshop/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
