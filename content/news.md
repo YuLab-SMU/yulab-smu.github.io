@@ -3,23 +3,25 @@ slug: news
 title: News
 ---
 
-<strong><font color="green">Apr 2025</font></strong>: [16S rRNA Sequencing Reveals Dysbiosis of Skin Microbiome Associated With Disease Severity in Chronic Actinic Dermatitis](https://onlinelibrary.wiley.com/doi/full/10.1111/phpp.70022) 文章在***Photodermatology, Photoimmunology & Photomedicine***期刊发表。
+<strong><font color="green">Apr 2025</font></strong>: [Spatial multi-omics profiling of breast cancer oligo-recurrent lung metastasis](https://doi.org/10.1038/s41388-025-03388-y)文章在***Oncogene***期刊发表。
+
+<strong><font color="green">Apr 2025</font></strong>: [16S rRNA Sequencing Reveals Dysbiosis of Skin Microbiome Associated With Disease Severity in Chronic Actinic Dermatitis](https://onlinelibrary.wiley.com/doi/full/10.1111/phpp.70022) 文章在***Photodermatology, Photoimmunology & Photomedicine***期刊发表，恭喜徐双斌。
 
 <strong><font color="green">Mar 2025</font></strong>: 余光创入选爱思唯尔2024年度中国高被引学者。
-+ [我校18位学者入选爱思唯尔2024“中国高被引学者”榜单](https://mp.weixin.qq.com/s/oPlyhtzrayP9vQpZKgrauw)
++ [我校18位学者入选爱思唯尔2024“中国高被引学者”榜单](https://mp.weixin.qq.com/s/oPlyhtzrayP9vQpZKgrauw) （其中吴天志为课题组已毕业学生）
 
 <strong><font color="green">Mar 2025</font></strong>: 《Using clusterProfiler to characterize multiomics data》入选ESI高被引论文 ([Top 1%](https://yulab-smu.top/images/Screenshot_20250319154216.png))。
 
 <strong><font color="green">Mar 2025</font></strong>: 余光创获[首届Wiley新锐科学家奖](https://mp.weixin.qq.com/s/8nhkJtwuUR9hlhs6DoYt3w)。
 
-<strong><font color="green">Jan 2025</font></strong>: [Scalable method for exploring phylogenetic placement uncertainty with custom visualizations using treeio and ggtree](https://doi.org/10.1002/imt2.269) 文章在***iMeta***期刊发表。
+<strong><font color="green">Jan 2025</font></strong>: [Scalable method for exploring phylogenetic placement uncertainty with custom visualizations using treeio and ggtree](https://doi.org/10.1002/imt2.269) 文章在***iMeta***期刊发表，恭喜陈玫君和徐双斌。
 + [iMeta | 南医大余光创组-使用treeio和ggtree探索系统发育位置数据](https://mp.weixin.qq.com/s/lwULobkiuR6vBqSbGbV2dQ)
 
 <strong><font color="green">Jan 2025</font></strong>: 《Using clusterProfiler to characterize multiomics data》入选ESI热点论文 ([Top 0.1%](https://yulab-smu.top/images/Screenshot_20250112163909.png))。
 
 <strong><font color="green">Jan 2025</font></strong>: 《Ggtree: A serialized data object for visualization of a phylogenetic tree and annotation data》入选ESI高被引论文 ([Top 1%](https://yulab-smu.top/images/Screenshot_20250112163909.png))。
 
-<strong><font color="green">Jan 2025</font></strong>: 综述文章：[Spatial Transcriptomics: Biotechnologies, Computational Tools, and Neuroscience Applications](https://doi.org/10.1002/smtd.202401107)，在***Small Methods***发表。
+<strong><font color="green">Jan 2025</font></strong>: 综述文章：[Spatial Transcriptomics: Biotechnologies, Computational Tools, and Neuroscience Applications](https://doi.org/10.1002/smtd.202401107)，在***Small Methods***发表，恭喜王倩雯。
 + [【揭秘脑空间基因密码】南方医科大学余光创团队SMTD：综述解析空间转录组技术突破及其在神经科学的应用](https://mp.weixin.qq.com/s/srY_d3K4SKvlKePDpAwISQ)
 
 <strong><font color="green">Dec 2024</font></strong>: 国家级大学生创新训练项目“挖掘生物医学知识进行代谢产物与疾病的关联研究”获得立项。

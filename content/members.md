@@ -55,25 +55,10 @@ title: Members
         <a href="https://github.com/xiangpin" aria-label="Github">
             <i class="fa fa-github fa-2x" aria-hidden="true" style="font-size: 150%;"></i></a>
     </td>       
-    <td style="border:none;"><img src="/images/avatar.jpg" width='150px'></td>
-    <td style="border:none;"><strong>You ? <br>
-        </strong><br>
-    </td>          
-  </tr> 
-
-<tr style="border:none;"> 
-    <td style="border:none;"><img src="/images/members/lbd.jpg" width='150px'></td>
-    <td style="border:none;"><strong>Bingdong Liu, Phd.<br>
-        Post-doctoral fellow</strong><br>
-    </td>  
-    <td style="border:none;"><img src="/images/members/lch.png" width='150px'></td>
-    <td style="border:none;"><strong>Chunhai Liu<br>
-        Bioinformatician</strong><br>
-    </td>  
-   <td style="border:none;"><img src="/images/members/zhy.png" width='150px'></td>
+    <td style="border:none;"><img src="/images/members/zhy.png" width='150px'></td>
     <td style="border:none;"><strong>Hongyuan Zhu<br>
         PhD Student</strong><br>
-    </td>
+    </td>   
   </tr> 
 
 <tr style="border:none;"> 
