@@ -3,7 +3,9 @@ slug: news
 title: News
 ---
 
-<strong><font color="green">Apr 2025</font></strong>: [Spatial multi-omics profiling of breast cancer oligo-recurrent lung metastasis](https://doi.org/10.1038/s41388-025-03388-y)文章在***Oncogene***期刊发表。
+<strong><font color="green">May 2025</font></strong>: 余光创指导生物信息学专业本科生2022级黄凯佳、2023级刘弈天和2022级贺楠参加美国大学生数学建模竞赛（Mathematical Contest In Modeling），荣获美赛一等奖（Meritorious Winner）。
+
+<strong><font color="green">Apr 2025</font></strong>: [Spatial multi-omics profiling of breast cancer oligo-recurrent lung metastasis](https://doi.org/10.1038/s41388-025-03388-y) 文章在***Oncogene***期刊发表。
 
 <strong><font color="green">Apr 2025</font></strong>: [16S rRNA Sequencing Reveals Dysbiosis of Skin Microbiome Associated With Disease Severity in Chronic Actinic Dermatitis](https://onlinelibrary.wiley.com/doi/full/10.1111/phpp.70022) 文章在***Photodermatology, Photoimmunology & Photomedicine***期刊发表，恭喜徐双斌。
 
@@ -12,7 +14,9 @@ title: News
 
 <strong><font color="green">Mar 2025</font></strong>: 《Using clusterProfiler to characterize multiomics data》入选ESI高被引论文 ([Top 1%](https://yulab-smu.top/images/Screenshot_20250319154216.png))。
 
-<strong><font color="green">Mar 2025</font></strong>: 余光创获[首届Wiley新锐科学家奖](https://mp.weixin.qq.com/s/8nhkJtwuUR9hlhs6DoYt3w)。
+<strong><font color="green">Mar 2025</font></strong>: 余光创获首届Wiley新锐科学家奖
++ [首届Wiley新锐科学家奖正式公布：5位获奖，19位入围！](https://mp.weixin.qq.com/s/8nhkJtwuUR9hlhs6DoYt3w)。
++ [探索前沿，新星闪耀！一览5位Wiley新锐科学家奖获奖者风采](https://mp.weixin.qq.com/s/Vl0dt7JEoHthgrCjrCd-gQ)
 
 <strong><font color="green">Jan 2025</font></strong>: [Scalable method for exploring phylogenetic placement uncertainty with custom visualizations using treeio and ggtree](https://doi.org/10.1002/imt2.269) 文章在***iMeta***期刊发表，恭喜陈玫君和徐双斌。
 + [iMeta | 南医大余光创组-使用treeio和ggtree探索系统发育位置数据](https://mp.weixin.qq.com/s/lwULobkiuR6vBqSbGbV2dQ)
@@ -27,6 +31,8 @@ title: News
 <strong><font color="green">Dec 2024</font></strong>: 国家级大学生创新训练项目“挖掘生物医学知识进行代谢产物与疾病的关联研究”获得立项。
 
 <strong><font color="green">Dec 2024</font></strong>: 余光创在南方医科大学2024年师德征文及微视频征集活动中获得师德征文二等奖。
+
+<strong><font color="green">Dec 2024</font></strong>: 恭喜利铭、邓琳、王芮、廖俞凡 4位同学荣获“优秀研究生”荣誉称号。
 
 <strong><font color="green">Dec 2024</font></strong>: [IOBR 2.0](https://doi.org/10.1016/j.crmeth.2024.100910)发表在***Cell Reports Methods***期刊。
 

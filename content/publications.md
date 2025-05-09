@@ -23,6 +23,7 @@ title: Publications
 + <i class="fa fa-fire fa-2x" aria-hidden="true" style="color:#CC5500;font-size: 150%;"></i>：ESI Hot Paper
 + 分区：文章发表当年的中科院小类分区
 + IF：文章发表当年的影响因子
++ [课题组公众号解读文章](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5NjUyNzkxMg==&action=getalbum&album_id=1300603819033788419&scene=173&subscene=91&sessionid=1745919684&enterid=1745919688&from_msgid=2247497064&from_itemidx=1&count=3&nolastread=1#wechat_redirect)
 
 
 </td>
