@@ -3,6 +3,8 @@ slug: news
 title: News
 ---
 
+<strong><font color="green">May 2025</font></strong>: 恭喜詹历、谢子敬顺利通过硕士学位论文答辩。
+
 <strong><font color="green">May 2025</font></strong>: 余光创指导生物信息学专业本科生2022级黄凯佳、2023级刘弈天和2022级贺楠参加美国大学生数学建模竞赛（Mathematical Contest In Modeling），荣获美赛一等奖（Meritorious Winner）。
 
 <strong><font color="green">Apr 2025</font></strong>: [Spatial multi-omics profiling of breast cancer oligo-recurrent lung metastasis](https://doi.org/10.1038/s41388-025-03388-y) 文章在***Oncogene***期刊发表。
