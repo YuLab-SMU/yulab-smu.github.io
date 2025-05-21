@@ -17,7 +17,7 @@ title: News
 <strong><font color="green">Mar 2025</font></strong>: 《Using clusterProfiler to characterize multiomics data》入选ESI高被引论文 ([Top 1%](https://yulab-smu.top/images/Screenshot_20250319154216.png))。
 
 <strong><font color="green">Mar 2025</font></strong>: 余光创获首届Wiley新锐科学家奖
-+ [首届Wiley新锐科学家奖正式公布：5位获奖，19位入围！](https://mp.weixin.qq.com/s/8nhkJtwuUR9hlhs6DoYt3w)。
++ [首届Wiley新锐科学家奖正式公布：5位获奖，19位入围！](https://mp.weixin.qq.com/s/8nhkJtwuUR9hlhs6DoYt3w)
 + [探索前沿，新星闪耀！一览5位Wiley新锐科学家奖获奖者风采](https://mp.weixin.qq.com/s/Vl0dt7JEoHthgrCjrCd-gQ)
 
 <strong><font color="green">Jan 2025</font></strong>: [Scalable method for exploring phylogenetic placement uncertainty with custom visualizations using treeio and ggtree](https://doi.org/10.1002/imt2.269) 文章在***iMeta***期刊发表，恭喜陈玫君和徐双斌。

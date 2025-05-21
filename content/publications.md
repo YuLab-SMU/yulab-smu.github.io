@@ -36,6 +36,7 @@ title: Publications
 
 ## <i class="fa fa-calendar fa-1x" aria-hidden="true"></i> 2025 {#year-2025}
 
++ S Xu<sup>#</sup>, Q Wang<sup>#</sup>, S Wen<sup>#</sup>, J Li<sup>#</sup>, N He<sup>#</sup>, M Li, T Hackl, R Wang, D Zeng, S Wang, S Li, CH Gao, L Zhou, S Tao, Z Xie, L Deng, __G Yu__<sup>\*</sup>. [aplot: Simplifying the creation of complex graphs to visualize associations across diverse data types](). __*The Innovation*__. 2025, accepted. 
 + Y Gao<sup>#</sup>, B Li<sup>#</sup>, Y Jin<sup>#</sup>, J Cheng<sup>#</sup>, W Tian, L Ying, L Hong, S Xin, B Lin, C Liu, X Sun, J Zhang, H Zhang, J Xie, X Deng, X Dai, L Liu, Y Zheng, P Zhao, __G Yu__<sup>\*</sup>, W Fang<sup>\*</sup>, X Bao<sup>\*</sup>. [Spatial multi-omics profiling of breast cancer oligo-recurrent lung metastasis](https://doi.org/10.1038/s41388-025-03388-y). __*Oncogene*__. 2025, accepted. 
 + Q Wang, H Zhu, L Deng, S Xu, W Xie, M Li, R Wang, L Tie, L Zhan, __G Yu__<sup>\*</sup>. [Spatial Transcriptomics: Biotechnologies, Computational Tools, and Neuroscience Applications](https://doi.org/10.1002/smtd.202401107). __*Small Methods*__. 2025, accepted.
 + Y Tu<sup>#\*</sup>, S Xu<sup>#</sup>, H Shu, X Wang, W Li, __G Yu__<sup>\*</sup>, Li He<sup>\*</sup>. [16S rRNA Sequencing Reveals Dysbiosis of Skin Microbiome Associated With Disease Severity in Chronic Actinic Dermatitis](https://onlinelibrary.wiley.com/doi/full/10.1111/phpp.70022). __*Photodermatology, Photoimmunology & Photomedicine*__. 2025, 41(3):e70022.
