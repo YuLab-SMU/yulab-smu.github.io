@@ -3,6 +3,9 @@ slug: news
 title: News
 ---
 
+
+<strong><font color="green">May 2025</font></strong>: [aplot: Simplifying the creation of complex graphs to visualize associations across diverse data types](https://doi.org/10.1016/j.xinn.2025.100958) 文章在***The Innovation***期刊发表。恭喜徐双斌、王倩雯、温少迪、李俊睿和贺楠。
+
 <strong><font color="green">May 2025</font></strong>: 恭喜詹历、谢子敬顺利通过硕士学位论文答辩。
 
 <strong><font color="green">May 2025</font></strong>: 余光创指导生物信息学专业本科生2022级黄凯佳、2023级刘弈天和2022级贺楠参加美国大学生数学建模竞赛（Mathematical Contest In Modeling），荣获美赛一等奖（Meritorious Winner）。
@@ -19,6 +22,7 @@ title: News
 <strong><font color="green">Mar 2025</font></strong>: 余光创获首届Wiley新锐科学家奖
 + [首届Wiley新锐科学家奖正式公布：5位获奖，19位入围！](https://mp.weixin.qq.com/s/8nhkJtwuUR9hlhs6DoYt3w)
 + [探索前沿，新星闪耀！一览5位Wiley新锐科学家奖获奖者风采](https://mp.weixin.qq.com/s/Vl0dt7JEoHthgrCjrCd-gQ)
++ [首届Wiley新锐科学家奖生命科学奖项颁奖典礼](https://app6sjglueg4184.xet.citv.cn/v3/course/alive/l_681d77afe4b0694c5acffb4e?app_id=app6SJGlUEG4184&available=true&entry=2&entry_type=2002&scene=%E5%88%86%E4%BA%AB&share_scene=1&share_type=5&share_user_id=u_6214670ea1da9_57jWWrMjN6&type=2)
 
 <strong><font color="green">Jan 2025</font></strong>: [Scalable method for exploring phylogenetic placement uncertainty with custom visualizations using treeio and ggtree](https://doi.org/10.1002/imt2.269) 文章在***iMeta***期刊发表，恭喜陈玫君和徐双斌。
 + [iMeta | 南医大余光创组-使用treeio和ggtree探索系统发育位置数据](https://mp.weixin.qq.com/s/lwULobkiuR6vBqSbGbV2dQ)
