@@ -31,7 +31,7 @@ title: News
 
 <strong><font color="green">Jan 2025</font></strong>: 《Ggtree: A serialized data object for visualization of a phylogenetic tree and annotation data》入选ESI高被引论文 ([Top 1%](https://yulab-smu.top/images/Screenshot_20250112163909.png))。
 
-<strong><font color="green">Jan 2025</font></strong>: 综述文章：[Spatial Transcriptomics: Biotechnologies, Computational Tools, and Neuroscience Applications](https://doi.org/10.1002/smtd.202401107)，在***Small Methods***发表，恭喜王倩雯。
+<strong><font color="green">Jan 2025</font></strong>: 综述文章：[Spatial Transcriptomics: Biotechnologies, Computational Tools, and Neuroscience Applications](https://doi.org/10.1002/smtd.202401107)，在***Small Methods***发表，恭喜王倩雯。该工作入选[卷首插图文章Frontispiece](https://onlinelibrary.wiley.com/doi/10.1002/smtd.202570033)。
 + [【揭秘脑空间基因密码】南方医科大学余光创团队SMTD：综述解析空间转录组技术突破及其在神经科学的应用](https://mp.weixin.qq.com/s/srY_d3K4SKvlKePDpAwISQ)
 
 <strong><font color="green">Dec 2024</font></strong>: 国家级大学生创新训练项目“挖掘生物医学知识进行代谢产物与疾病的关联研究”获得立项。
