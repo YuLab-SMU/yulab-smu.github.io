@@ -23,6 +23,7 @@ title: News
 + [首届Wiley新锐科学家奖正式公布：5位获奖，19位入围！](https://mp.weixin.qq.com/s/8nhkJtwuUR9hlhs6DoYt3w)
 + [探索前沿，新星闪耀！一览5位Wiley新锐科学家奖获奖者风采](https://mp.weixin.qq.com/s/Vl0dt7JEoHthgrCjrCd-gQ)
 + [首届Wiley新锐科学家奖生命科学奖项颁奖典礼](https://app6sjglueg4184.xet.citv.cn/v3/course/alive/l_681d77afe4b0694c5acffb4e?app_id=app6SJGlUEG4184&available=true&entry=2&entry_type=2002&scene=%E5%88%86%E4%BA%AB&share_scene=1&share_type=5&share_user_id=u_6214670ea1da9_57jWWrMjN6&type=2)
++ [“Wiley新锐科学家奖”颁奖典礼隆重举行：聚焦生命科学前沿，共话青年科研力量](https://mp.weixin.qq.com/s/03vb4VSFMMLMv8JZg8RqPQ)
 
 <strong><font color="green">Jan 2025</font></strong>: [Scalable method for exploring phylogenetic placement uncertainty with custom visualizations using treeio and ggtree](https://doi.org/10.1002/imt2.269) 文章在***iMeta***期刊发表，恭喜陈玫君和徐双斌。
 + [iMeta | 南医大余光创组-使用treeio和ggtree探索系统发育位置数据](https://mp.weixin.qq.com/s/lwULobkiuR6vBqSbGbV2dQ)
