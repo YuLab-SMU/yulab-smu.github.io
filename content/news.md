@@ -3,6 +3,7 @@ slug: news
 title: News
 ---
 
+<strong><font color="green">Jul 2025</font></strong>：2025前沿科学创新大会，余光创获得The Innovation期刊Best Paper和Outstanding Contributor两个奖项。
 
 <strong><font color="green">May 2025</font></strong>: [aplot: Simplifying the creation of complex graphs to visualize associations across diverse data types](https://doi.org/10.1016/j.xinn.2025.100958) 文章在***The Innovation***期刊发表。恭喜徐双斌、王倩雯、温少迪、李俊睿和贺楠。
 
