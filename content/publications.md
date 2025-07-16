@@ -36,7 +36,7 @@ title: Publications
 
 ## <i class="fa fa-calendar fa-1x" aria-hidden="true"></i> 2025 {#year-2025}
 
-
++ P Li<sup>#</sup>, L Xie<sup>#</sup>, H Zheng<sup>#</sup>, Y Feng<sup>#</sup>, F Mai, W Tang, J Wang, Z Lan, S Lv, T Jayawardana, S Koentgen, S Xu, Z Wan, Y Chen, H Xu, S Shen, F Zhang, Y Yang, G Hold, F He<sup>\*</sup>, E M. El-Omar<sup>\*</sup>, __G Yu__<sup>\*</sup>, X Chen<sup>\*</sup>. [Gut microbial-derived 3,4-dihydroxyphenylacetic acid ameliorates reproductive phenotype of polycystic ovary syndrome](https://onlinelibrary.wiley.com/doi/10.1002/imt2.70065). __*iMeta*__. 2025, e70065.
 + Y Gao<sup>#</sup>, B Li<sup>#</sup>, Y Jin<sup>#</sup>, J Cheng<sup>#</sup>, W Tian, L Ying, L Hong, S Xin, B Lin, C Liu, X Sun, J Zhang, H Zhang, J Xie, X Deng, X Dai, L Liu, Y Zheng, P Zhao, __G Yu__<sup>\*</sup>, W Fang<sup>\*</sup>, X Bao<sup>\*</sup>. [Spatial multi-omics profiling of breast cancer oligo-recurrent lung metastasis](https://doi.org/10.1038/s41388-025-03388-y). __*Oncogene*__. 2025, 44(27):2268-2282. 
 + S Xu<sup>#</sup>, Q Wang<sup>#</sup>, S Wen<sup>#</sup>, J Li<sup>#</sup>, N He<sup>#</sup>, M Li, T Hackl, R Wang, D Zeng, S Wang, S Li, CH Gao, L Zhou, S Tao, Z Xie, L Deng, __G Yu__<sup>\*</sup>. [aplot: Simplifying the creation of complex graphs to visualize associations across diverse data types](https://doi.org/10.1016/j.xinn.2025.100958). __*The Innovation*__. 2025, 6(9):100958. 
 + Q Wang, H Zhu, L Deng, S Xu, W Xie, M Li, R Wang, L Tie, L Zhan, __G Yu__<sup>\*</sup>. [Spatial Transcriptomics: Biotechnologies, Computational Tools, and Neuroscience Applications](https://doi.org/10.1002/smtd.202401107). __*Small Methods*__. 2025, 9(5):2401107. [卷首插图文章Frontispiece](https://onlinelibrary.wiley.com/doi/10.1002/smtd.202570033)

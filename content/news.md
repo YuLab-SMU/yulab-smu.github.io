@@ -3,9 +3,12 @@ slug: news
 title: News
 ---
 
-<strong><font color="green">Jul 2025</font></strong>：2025前沿科学创新大会，余光创获得The Innovation期刊Best Paper和Outstanding Contributor两个奖项。
+<strong><font color="green">Jul 2025</font></strong>：[Gut microbial-derived 3,4-dihydroxyphenylacetic acid ameliorates reproductive phenotype of polycystic ovary syndrome](https://onlinelibrary.wiley.com/doi/10.1002/imt2.70065)文章在***iMeta***期刊发表。
+
+<strong><font color="green">Jul 2025</font></strong>：2025前沿科学创新大会，文章[Thirteen years of clusterProfiler](https://doi.org/10.1016/j.xinn.2024.100722)获得Best Paper奖项，余光创获得Outstanding Contributor奖项。
 
 <strong><font color="green">May 2025</font></strong>: [aplot: Simplifying the creation of complex graphs to visualize associations across diverse data types](https://doi.org/10.1016/j.xinn.2025.100958) 文章在***The Innovation***期刊发表。恭喜徐双斌、王倩雯、温少迪、李俊睿和贺楠。
++ [The Innovation | Aplot-简化多维异质数据的复杂可视化](https://mp.weixin.qq.com/s/kmQ6xVRXG58xnfFSTm2tzw)
 
 <strong><font color="green">May 2025</font></strong>: 恭喜詹历、谢子敬顺利通过硕士学位论文答辩。
 
