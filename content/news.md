@@ -12,7 +12,7 @@ title: News
 
 <strong><font color="green">May 2025</font></strong>: 恭喜詹历、谢子敬顺利通过硕士学位论文答辩。
 
-<strong><font color="green">May 2025</font></strong>: 余光创指导生物信息学专业本科生2022级黄凯佳、2023级刘弈天和2022级贺楠参加美国大学生数学建模竞赛（Mathematical Contest In Modeling），荣获美赛一等奖（Meritorious Winner）。
+<strong><font color="green">May 2025</font></strong>: 生物信息学专业本科生2022级黄凯佳、2023级刘弈天和2022级贺楠参加美国大学生数学建模竞赛（Mathematical Contest In Modeling），荣获美赛一等奖（Meritorious Winner），指导教师：余光创。
 
 <strong><font color="green">Apr 2025</font></strong>: [Spatial multi-omics profiling of breast cancer oligo-recurrent lung metastasis](https://doi.org/10.1038/s41388-025-03388-y) 文章在***Oncogene***期刊发表。
 
@@ -114,7 +114,7 @@ title: News
 
 <strong><font color="green">Jul 2024</font></strong>: 余光创受邀请在香港大学Croucher Summer Course: [Virus evolution and epidemiology](https://projects.croucher.org.hk/summer-courses/virus-evolution-and-epidemiology)讲授[ggtree](https://github.com/YuLab-SMU/learnggtree)。
 
-<strong><font color="green">Jul 2024</font></strong>: [2024年前沿创新大会](http://www.the-innovation.org.cn/conference)，颁发多个奖项，余光创获得Best Reviewer奖项，团队文章荣获Best Paper, Most Read, Most Download三个奖项。
+<strong><font color="green">Jul 2024</font></strong>: [2024年前沿创新大会](http://www.the-innovation.org.cn/conference)，颁发多个奖项，余光创获得Best Reviewer奖项，[clusterProfiler 4.0: A universal enrichment tool for interpreting omics data](https://doi.org/10.1016/j.xinn.2021.100141)文章荣获Best Paper, Most Read, Most Download三个奖项。
 
 <strong><font color="green">Jun 2024</font></strong>: 余光创获得2024年广东省研究生教育创新计划项目资助（项目批准号：2024SFKC_019）；立项类型：研究生示范课程；项目名称：生物信息学。
 
