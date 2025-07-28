@@ -3,7 +3,10 @@ slug: news
 title: News
 ---
 
+<strong><font color="green">Jul 2025</font></strong>：[EasyMultiProfiler: An Efficient Multi-Omics Data Integration and Analysis Workflow for Microbiome Research](https://doi.org/10.1007/s11427-025-3035-0)文章在***SCIENCE CHINA Life Sciences***期刊发表，恭喜刘秉东。
+
 <strong><font color="green">Jul 2025</font></strong>：[Gut microbial-derived 3,4-dihydroxyphenylacetic acid ameliorates reproductive phenotype of polycystic ovary syndrome](https://onlinelibrary.wiley.com/doi/10.1002/imt2.70065)文章在***iMeta***期刊发表。
++ [iMeta | 宁大一院陈夏组-肠道细菌及代谢物治疗多囊卵巢综合征](https://mp.weixin.qq.com/s/EWoEOiL0G4W2viK_kIiboA)
 
 <strong><font color="green">Jul 2025</font></strong>：2025前沿科学创新大会，文章[Thirteen years of clusterProfiler](https://doi.org/10.1016/j.xinn.2024.100722)获得Best Paper奖项，余光创获得Outstanding Contributor奖项。
 
@@ -239,8 +242,9 @@ title: News
 
 <strong><font color="green">Sep 2022</font></strong>: 提出用于系统发育树及相关数据存储与可视化的数据结构，文章发表于***iMeta***期刊 (Links: [article](https://onlinelibrary.wiley.com/doi/full/10.1002/imt2.56), [iMeta公众号报道](https://mp.weixin.qq.com/s/-512I6XAxTpUS7pkgb5nwg))，恭喜徐双斌。
 
+<strong><font color="green">Sep 2022</font></strong>: 余光创面上项目获得国家自然科学基金委资助。
 
-<strong><font color="green">Sep 2022</font></strong>: 🌹 欢迎利铭加入YuLab。
+<strong><font color="green">Sep 2022</font></strong>: 欢迎利铭加入YuLab。
 
 <strong><font color="green">Aug 2022</font></strong>: 余光创发表专著《Data Integration, Manipulation and Visualization of Phylogenetic Treess (1st edition)》，由***Chapman and Hall/CRC***出版社出版 doi: [10.1201/9781003279242](https://doi.org/10.1201/9781003279242)。
 
