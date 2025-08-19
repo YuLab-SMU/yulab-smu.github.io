@@ -3,14 +3,18 @@ slug: news
 title: News
 ---
 
-<strong><font color="green">Jul 2025</font></strong>：[EasyMultiProfiler: An Efficient Multi-Omics Data Integration and Analysis Workflow for Microbiome Research](https://doi.org/10.1007/s11427-025-3035-0)文章在***SCIENCE CHINA Life Sciences***期刊发表，恭喜刘秉东。
+<strong><font color="green">Sep 2025</font></strong>：欢迎新同学林树彤、黄晶晶和杨天。
+
+<strong><font color="green">Aug 2025</font></strong>：欢迎新同学夏永和（博士生，西湖大学）。
+
+<strong><font color="green">Jul 2025</font></strong>：[EasyMultiProfiler: An Efficient Multi-Omics Data Integration and Analysis Workflow for Microbiome Research](https://www.sciengine.com/SCLS/doi/10.1007/s11427-025-3035-0)文章在***SCIENCE CHINA Life Sciences***期刊发表，恭喜刘秉东。
 
 <strong><font color="green">Jul 2025</font></strong>：[Gut microbial-derived 3,4-dihydroxyphenylacetic acid ameliorates reproductive phenotype of polycystic ovary syndrome](https://onlinelibrary.wiley.com/doi/10.1002/imt2.70065)文章在***iMeta***期刊发表。
 + [iMeta | 宁大一院陈夏组-肠道细菌及代谢物治疗多囊卵巢综合征](https://mp.weixin.qq.com/s/EWoEOiL0G4W2viK_kIiboA)
 
 <strong><font color="green">Jul 2025</font></strong>：2025前沿科学创新大会，文章[Thirteen years of clusterProfiler](https://doi.org/10.1016/j.xinn.2024.100722)获得Best Paper奖项，余光创获得Outstanding Contributor奖项。
 
-<strong><font color="green">May 2025</font></strong>: [aplot: Simplifying the creation of complex graphs to visualize associations across diverse data types](https://doi.org/10.1016/j.xinn.2025.100958) 文章在***The Innovation***期刊发表。恭喜徐双斌、王倩雯、温少迪、李俊睿和贺楠。
+<strong><font color="green">May 2025</font></strong>: [aplot: Simplifying the creation of complex graphs to visualize associations across diverse data types](https://doi.org/10.1016/j.xinn.2025.100958) 文章在***The Innovation***期刊发表，恭喜徐双斌、王倩雯、温少迪、李俊睿和贺楠。该文章入选封面导读：Complex composite graphics
 + [The Innovation | Aplot-简化多维异质数据的复杂可视化](https://mp.weixin.qq.com/s/kmQ6xVRXG58xnfFSTm2tzw)
 
 <strong><font color="green">May 2025</font></strong>: 恭喜詹历、谢子敬顺利通过硕士学位论文答辩。
@@ -211,7 +215,7 @@ title: News
 
 <strong><font color="green">Mar 2023</font></strong>: 🌹 祝贺廖俞凡（初试第一名）通过研究生第一轮复试，加入课题组。 
 
-<strong><font color="green">Mar 2023</font></strong>: 📝🎉 用于微生物组的软件包*MicrobiotaProcess*发表于***The Innovation***期刊 (Links: [article](https://doi.org/10.1016/j.xinn.2023.100388), [TheInnovation创新公众号报道](https://mp.weixin.qq.com/s/72FcGdLnY3-eMMEotD22Jg))，恭喜徐双斌。
+<strong><font color="green">Mar 2023</font></strong>: 📝🎉 用于微生物组的软件包*MicrobiotaProcess*发表于***The Innovation***期刊 (Links: [article](https://doi.org/10.1016/j.xinn.2023.100388), [TheInnovation创新公众号报道](https://mp.weixin.qq.com/s/72FcGdLnY3-eMMEotD22Jg))，恭喜徐双斌。该文章入选封面导读：Microbiome Toolkit。
 
 <strong><font color="green">Feb 2023</font></strong>: 📝🎉 专刊《Computational and systematic analysis of multi-omics data for drug discovery and development》发表[编委社论文章](https://www.frontiersin.org/articles/10.3389/fmed.2023.1146896/full)，成功收关。
 
@@ -291,7 +295,7 @@ title: News
 
 <strong><font color="green">Sep 2021</font></strong>: 🌹 欢迎李林、谢子敬和谢汶琴加入YuLab。恭喜汶琴获得推免生奖学金。
 
-<strong><font color="green">Aug 2021</font></strong>: *clusterProfiler*发布4.0版本，文章发表于***The Innovation***期刊 (Links: [article](https://doi.org/10.1016/j.xinn.2021.100141), [TheInnovation创新公众号报道](https://mp.weixin.qq.com/s/kVEr9qY0x8Ef3LOX4Wt9FQ))，恭喜吴天志。
+<strong><font color="green">Aug 2021</font></strong>: *clusterProfiler*发布4.0版本，文章发表于***The Innovation***期刊 (Links: [article](https://doi.org/10.1016/j.xinn.2021.100141), [TheInnovation创新公众号报道](https://mp.weixin.qq.com/s/kVEr9qY0x8Ef3LOX4Wt9FQ))，恭喜吴天志。该文章入选封面导读：ClusterProfiler 4: Pathway Discovery。
 
 <strong><font color="green">Jun 2021</font></strong>: 陈玫君同学参加南方医科大学学生抗疫服务队，支援广州市白云区大规模核酸采样。
 

@@ -61,6 +61,10 @@ title: Members
     </td>   
   </tr> 
  <tr style="border:none;"> 
+    <td style="border:none;"><img src="/images/members/xyh.jpg" width='150px'></td>
+    <td style="border:none;"><strong>Yonghe Xia<br>
+        PhD Student</strong>
+    </td>
     <td style="border:none;"><img src="/images/members/lm.jpg" width='150px'></td>
     <td style="border:none;"><strong>Ming Li<br>
         Master Student</strong><br>
@@ -71,22 +75,32 @@ title: Members
     <td style="border:none;"><strong>Rui Wang<br>
         Master Student</strong>
     </td>   
+  </tr> 
+<tr style="border:none;"> 
     <td style="border:none;"><img src="/images/members/dl.jpg" width='150px'></td>
     <td style="border:none;"><strong>Lin Deng<br>
         Master Student</strong>
     </td>    
-  </tr> 
-<tr style="border:none;"> 
     <td style="border:none;"><img src="/images/members/lyf.jpg" width='150px'></td>
     <td style="border:none;"><strong>Yufan Liao<br>
         Master Student</strong>
     </td>     
-    <td style="border:none;"><img src="/images/members/ljr.png" width='150px'></td>
-    <td style="border:none;"><strong>Junrui Li<br>
-        EYMEP</strong>
-    </td>    
     <td style="border:none;"><img src="/images/members/tsg.jpg" width='150px'></td>
     <td style="border:none;"><strong>Shaoguo Tao<br>
+        Master Student</strong>
+    </td>   
+  </tr>    
+<tr style="border:none;"> 
+    <td style="border:none;"><img src="/images/members/lst.jpg" width='150px'></td>
+    <td style="border:none;"><strong>Shutong Lin<br>
+        Master Student</strong>
+    </td>    
+    <td style="border:none;"><img src="/images/members/hjj.jpg" width='150px'></td>
+    <td style="border:none;"><strong>Jingjing Huang<br>
+        Master Student</strong>
+    </td>     
+    <td style="border:none;"><img src="/images/members/yt.jpg" width='150px'></td>
+    <td style="border:none;"><strong>Tian Yang<br>
         Master Student</strong>
     </td>   
   </tr>    
