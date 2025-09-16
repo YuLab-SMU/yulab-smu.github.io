@@ -3,12 +3,17 @@ slug: news
 title: News
 ---
 
+<strong><font color="green">Sep 2025</font></strong>：[ggalign: Bridging the Grammar of Graphics and Biological Multilayered Complexity](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202507799)文章在***Advanced Science***期刊发表。
+
+<strong><font color="green">Sep 2025</font></strong>：交互式火山图可视化包，[ivolcano](https://cran.r-project.org/package=ivolcano)在CRAN发布。
+
 <strong><font color="green">Sep 2025</font></strong>：欢迎新同学夏永和（博士生，西湖大学）、林树彤、黄晶晶、杨天和杨泽林（临床8年制）。
 
 <strong><font color="green">Aug 2025</font></strong>：据AD Scientific Index排名系统数据，[余光创的引用量：位居世界排名7895，中国排名237，南方医科大学排名第1](https://yulab-smu.top/images/adscentificindex2025.png)，近5年被引用57697次。
 
 <strong><font color="green">Jul 2025</font></strong>：[EasyMultiProfiler: An Efficient Multi-Omics Data Integration and Analysis Workflow for Microbiome Research](https://www.sciengine.com/SCLS/doi/10.1007/s11427-025-3035-0)文章在***SCIENCE CHINA Life Sciences***期刊发表，恭喜刘秉东。
 + [打通微生物多组学“最后一公里”：EasyMultiProfiler全链路工作流重塑整合分析新模式](https://mp.weixin.qq.com/s/DLnh0P5439PioLE-fpaTGA)
++ [谢黎炜/余光创等：EasyMultiProfiler让菌群多组学分析更高效](https://rbase.chinagut.cn/base/article/0c63a29d6f314f3a927f16a11a629dbe/1)
 
 <strong><font color="green">Jul 2025</font></strong>：[Gut microbial-derived 3,4-dihydroxyphenylacetic acid ameliorates reproductive phenotype of polycystic ovary syndrome](https://onlinelibrary.wiley.com/doi/10.1002/imt2.70065)文章在***iMeta***期刊发表。
 + [iMeta | 宁大一院陈夏组-肠道细菌及代谢物治疗多囊卵巢综合征](https://mp.weixin.qq.com/s/EWoEOiL0G4W2viK_kIiboA)
