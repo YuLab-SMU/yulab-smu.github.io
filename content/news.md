@@ -3,11 +3,25 @@ slug: news
 title: News
 ---
 
+<strong><font color="green">Sep 2025</font></strong>: [生物科学“101计划”核心教材出版发行](https://mp.weixin.qq.com/s/fXn9XtfOMBC2vIMXvuSP6A)。余光创作为编委，参与两本教材的编撰：《生物信息学》及配套实验课程《生物信息学实验》。
+
+<strong><font color="green">Sep 2025</font></strong>: [余光创](https://topresearcherslist.com/Home/Profile/552444) 入选全球前2%顶尖科学家榜单
++ <strong>终身科学影响力</strong>（career-long impact）排行榜：全球排名15972
++ <strong>年度科学影响力</strong>（single recent year impact）排行榜：全球排名401，中国排名14
+
+<strong><font color="green">Sep 2025</font></strong>: 徐双斌入选全球前2%顶尖科学家榜单
+
+<strong><font color="green">Sep 2025</font></strong>：[FigureYa: A Standardized Visualization Framework for Enhancing Biomedical Data Interpretation and Research Efficiency](https://doi.org/10.1002/imm3.70005) 以**封面文章**在***iMetaMed***期刊发表。
++ [iMetaMed | 大连医科大学葛瑛-FigureYa：一个用于提升生物医学数据解读与研究效率的标准化可视化框架](https://mp.weixin.qq.com/s/P_l9X3wUCgmjt4Z59vC-LA)
++ [FigureYa更新啦！借助学术的力量](https://mp.weixin.qq.com/s/CUqkZxITku940oqBJveFDg?click_id=15)
+
 <strong><font color="green">Sep 2025</font></strong>：[ggalign: Bridging the Grammar of Graphics and Biological Multilayered Complexity](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202507799)文章在***Advanced Science***期刊发表。
++ [王诗翔/徐涛/余光创等：ggalign让复杂多组学数据可视化一目了然](https://rbase.chinagut.cn/base/article/8259f0b157fa46698c9f90bca6c1a5e9)
++ [Adv Sci︱王诗翔/徐涛/余光创团队提出一个组合式可视化框架，实现从多尺度多维度揭示跨生物学层级的潜在联系](https://mp.weixin.qq.com/s/KCt2aQJJ5d3GFC8I69H6nw)
 
 <strong><font color="green">Sep 2025</font></strong>：交互式火山图可视化包，[ivolcano](https://cran.r-project.org/package=ivolcano)在CRAN发布。
 
-<strong><font color="green">Sep 2025</font></strong>：欢迎新同学夏永和（博士生，西湖大学）、林树彤、黄晶晶、杨天和杨泽林（临床8年制）。
+<strong><font color="green">Sep 2025</font></strong>：欢迎新同学：陈菁怡（博士后）、夏永和（博士生，西湖大学）、林树彤、黄晶晶、杨天和杨泽林（临床8年制）。
 
 <strong><font color="green">Aug 2025</font></strong>：据AD Scientific Index排名系统数据，[余光创的引用量：位居世界排名7895，中国排名237，南方医科大学排名第1](https://yulab-smu.top/images/adscentificindex2025.png)，近5年被引用57697次。
 

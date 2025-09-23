@@ -55,12 +55,16 @@ title: Members
         <a href="https://github.com/xiangpin" aria-label="Github">
             <i class="fa fa-github fa-2x" aria-hidden="true" style="font-size: 150%;"></i></a>
     </td>       
+    <td style="border:none;"><img src="/images/icon-girl.png" width='150px'></td>
+    <td style="border:none;"><strong>Jingyi Chen<br>
+        Postdoc</strong><br>
+    </td>   
+  </tr> 
+ <tr style="border:none;"> 
     <td style="border:none;"><img src="/images/members/zhy.png" width='150px'></td>
     <td style="border:none;"><strong>Hongyuan Zhu<br>
         PhD Student</strong><br>
     </td>   
-  </tr> 
- <tr style="border:none;"> 
     <td style="border:none;"><img src="/images/members/xyh.jpg" width='150px'></td>
     <td style="border:none;"><strong>Yonghe Xia<br>
         PhD Student</strong>
@@ -71,12 +75,12 @@ title: Members
         <a href="https://github.com/MingLi-929" aria-label="Github">
             <i class="fa fa-github fa-2x" aria-hidden="true" style="font-size: 150%;"></i></a>
     </td>
+  </tr> 
+<tr style="border:none;"> 
     <td style="border:none;"><img src="/images/members/wr.jpg" width='150px'></td>
     <td style="border:none;"><strong>Rui Wang<br>
         Master Student</strong>
     </td>   
-  </tr> 
-<tr style="border:none;"> 
     <td style="border:none;"><img src="/images/members/dl.jpg" width='150px'></td>
     <td style="border:none;"><strong>Lin Deng<br>
         Master Student</strong>
@@ -85,12 +89,12 @@ title: Members
     <td style="border:none;"><strong>Yufan Liao<br>
         Master Student</strong>
     </td>     
+  </tr>    
+<tr style="border:none;"> 
     <td style="border:none;"><img src="/images/members/tsg.jpg" width='150px'></td>
     <td style="border:none;"><strong>Shaoguo Tao<br>
         Master Student</strong>
     </td>   
-  </tr>    
-<tr style="border:none;"> 
     <td style="border:none;"><img src="/images/members/lst.jpg" width='150px'></td>
     <td style="border:none;"><strong>Shutong Lin<br>
         Master Student</strong>
@@ -99,9 +103,15 @@ title: Members
     <td style="border:none;"><strong>Jingjing Huang<br>
         Master Student</strong>
     </td>     
+  </tr>    
+<tr style="border:none;"> 
     <td style="border:none;"><img src="/images/members/yt.jpg" width='150px'></td>
     <td style="border:none;"><strong>Tian Yang<br>
         Master Student</strong>
+    </td>   
+    <td style="border:none;"><img src="/images/members/yzl.jpg" width='150px'></td>
+    <td style="border:none;"><strong>Zelin Yang<br>
+        临床8年制</strong>
     </td>   
   </tr>    
 </table> 
