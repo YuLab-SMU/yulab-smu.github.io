@@ -55,7 +55,7 @@ title: Members
         <a href="https://github.com/xiangpin" aria-label="Github">
             <i class="fa fa-github fa-2x" aria-hidden="true" style="font-size: 150%;"></i></a>
     </td>       
-    <td style="border:none;"><img src="/images/icon-girl.png" width='150px'></td>
+    <td style="border:none;"><img src="/images/members/cjy.png" width='150px'></td>
     <td style="border:none;"><strong>Jingyi Chen<br>
         Postdoc</strong><br>
     </td>   
