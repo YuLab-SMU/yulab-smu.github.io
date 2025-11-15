@@ -3,7 +3,20 @@ slug: news
 title: News
 ---
 
+<strong><font color="green">Nov 2025</font></strong>: 余光创入选科睿唯安2025年度“全球高被引科学家”。
+
+<strong><font color="green">Nov 2025</font></strong>: [Comparison of Illumina NovaSeq 6000 and GeneMind SURFSeq 5000 platforms for single‐cell spatial transcriptomics of mouse brain and lung](https://doi.org/10.1002/inmd.70067) 文章在***Interdisciplinary Medicine***期刊发表，恭喜王倩雯、邓琳和徐双斌。
++ [Early View | 南方医科大学余光创教授团队 两种测序平台在小鼠脑和肺单细胞空间转录组学研究中的比较](https://mp.weixin.qq.com/s/BVtZoeWu4Ysq1ouGM8aUJA)
+
+<strong><font color="green">Oct 2025</font></strong>: 余光创获得2025年第一季度威立Wiley中国高贡献作者奖。
+
+<strong><font color="green">Oct 2025</font></strong>: [Background bias in functional enrichment analysis: Insights from clusterProfiler](https://doi.org/10.59717/j.xinn-life.2025.100181) 文章在***The Innovation Life***期刊发表。
++ [The Innovation Life | 功能富集分析中的背景偏差：来自clusterProfiler的见解](https://mp.weixin.qq.com/s/Nnlziwyl6BjxrNRL_DhmmA)
+
+<strong><font color="green">Oct 2025</font></strong>: [ALCAM-CD6 axis suppression: a key determinant of immune-mediated metastasis recurrence in stage III non-small cell lung cancer](https://jitc.bmj.com/content/13/10/e010416) 文章在***Journal for ImmunoTherapy of Cancer***期刊发表，恭喜少迪。
+
 <strong><font color="green">Sep 2025</font></strong>: [生物科学“101计划”核心教材出版发行](https://mp.weixin.qq.com/s/fXn9XtfOMBC2vIMXvuSP6A)。余光创作为编委，参与两本教材的编撰：《生物信息学》及配套实验课程《生物信息学实验》。
++ [参编101教材《生物信息学》发行](https://mp.weixin.qq.com/s/eI6qpdYqKM2XbB8Bs73TMQ)
 
 <strong><font color="green">Sep 2025</font></strong>: [余光创](https://topresearcherslist.com/Home/Profile/552444) 入选全球前2%顶尖科学家榜单
 + <strong>终身科学影响力</strong>（career-long impact）排行榜：全球排名15972
@@ -61,6 +74,7 @@ title: News
 
 <strong><font color="green">Jan 2025</font></strong>: [Scalable method for exploring phylogenetic placement uncertainty with custom visualizations using treeio and ggtree](https://doi.org/10.1002/imt2.269) 文章在***iMeta***期刊发表，恭喜陈玫君和徐双斌。
 + [iMeta | 南医大余光创组-使用treeio和ggtree探索系统发育位置数据](https://mp.weixin.qq.com/s/lwULobkiuR6vBqSbGbV2dQ)
++ [文章发表：使用treeio和ggtree探索Phylogenetic placement数据](https://mp.weixin.qq.com/s/sowOS9LTP_whN3xv01SJPg)
 
 <strong><font color="green">Jan 2025</font></strong>: 《Using clusterProfiler to characterize multiomics data》入选ESI热点论文 ([Top 0.1%](https://yulab-smu.top/images/Screenshot_20250112163909.png))。
 
@@ -230,8 +244,6 @@ title: News
 <strong><font color="green">Aug 2023</font></strong>: 🌹 温少迪（博士生）通过联合培养加入课题组。
 
 <strong><font color="green">Jul 2023</font></strong>: 博士后徐双斌在第一届CGM线下沙龙做学术报告。
-
-<strong><font color="green">Jul 2023</font></strong>: 佛山市第一人民医院郑慧敏博士后到本课题组进修。
 
 <strong><font color="green">Jun 2023</font></strong>: 🌠🎉 恭喜唐文丽荣获南方医科大学2023届“优秀毕业研究生”荣誉称号。
 
