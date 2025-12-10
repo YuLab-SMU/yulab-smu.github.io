@@ -36,7 +36,7 @@ title: Publications
 
 ## <i class="fa fa-calendar fa-1x" aria-hidden="true"></i> 2026 {#year-2026}
 
-+ B Liu, Y Liu, S Xu, Q Wu, D Wu, Y Liao, Y Mai, M Zheng, S Wang, L Zhan, Y Chen, Z Huang, X Luo, Z Xie, X Pan, __G Yu__<sup>\*</sup>, L Xie<sup>\*</sup>. [EasyMultiProfiler: An Efficient Multi-Omics Data Integration and Analysis Workflow for Microbiome Research](https://www.sciengine.com/SCLS/doi/10.1007/s11427-025-3035-0). __*SCIENCE CHINA Life Sciences*__. 2026, accepted.
++ B Liu, Y Liu, S Xu, Q Wu, D Wu, Y Liao, Y Mai, M Zheng, S Wang, L Zhan, Y Chen, Z Huang, X Luo, Z Xie, X Pan, __G Yu__<sup>\*</sup>, L Xie<sup>\*</sup>. [EasyMultiProfiler: An Efficient Multi-Omics Data Integration and Analysis Workflow for Microbiome Research](https://doi.org/10.1007/s11427-025-3035-0). __*SCIENCE CHINA Life Sciences*__. 2026, accepted.
 + __G Yu__<sup>\*</sup>. [Background bias in functional enrichment analysis: Insights from clusterProfiler](https://doi.org/10.59717/j.xinn-life.2025.100181). __*The Innovation Life*__. 2026, 4(1):100181.
 
 
