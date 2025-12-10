@@ -37,6 +37,11 @@ jobs:
           install.packages("blogdown")
         shell: Rscript {0}
 
+      - name: Update CV
+        run: |
+          mkdir -p static/cv/ygc
+          curl -o static/cv/ygc/index.html https://raw.githubusercontent.com/GuangchuangYu/cv/master/index.html
+
       - name: Build site
         run: |
           blogdown::build_site()
