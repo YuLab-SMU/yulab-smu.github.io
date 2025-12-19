@@ -3,9 +3,11 @@ slug: news
 title: News
 ---
 
+<strong><font color="green">Dec 2025</font></strong>: 恭喜廖俞凡、邓琳两位同学获得一等奖学金；王芮获得优秀研究生称号。
+
 <strong><font color="green">Nov 2025</font></strong>: 余光创入选科睿唯安2025年度“全球高被引科学家”。
 
-<strong><font color="green">Nov 2025</font></strong>: [Comparison of Illumina NovaSeq 6000 and GeneMind SURFSeq 5000 platforms for single‐cell spatial transcriptomics of mouse brain and lung](https://doi.org/10.1002/inmd.70067) 文章在***Interdisciplinary Medicine***期刊发表，恭喜王倩雯、邓琳和徐双斌。
+<strong><font color="green">Nov 2025</font></strong>: [Comparison of Illumina NovaSeq 6000 and GeneMind SURFSeq 5000 platforms for single‐cell spatial transcriptomics of mouse brain and lung](https://doi.org/10.1002/inmd.70067) 文章在 ***Interdisciplinary Medicine*** 期刊发表，恭喜王倩雯、邓琳和徐双斌。
 + [Early View | 南方医科大学余光创教授团队 两种测序平台在小鼠脑和肺单细胞空间转录组学研究中的比较](https://mp.weixin.qq.com/s/BVtZoeWu4Ysq1ouGM8aUJA)
 
 <strong><font color="green">Oct 2025</font></strong>: 余光创获得2025年第一季度威立Wiley中国高贡献作者奖。
