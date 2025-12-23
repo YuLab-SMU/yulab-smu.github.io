@@ -36,13 +36,13 @@ title: Publications
 
 ## <i class="fa fa-calendar fa-1x" aria-hidden="true"></i> 2026 {#year-2026}
 
++ Q Wang<sup>#</sup>, L Deng<sup>#</sup>, S Xu<sup>#</sup>, P Guo, H Zhu, H Ge, Y Gong, G Du, K Huang, C Su, R Wang, Y Qiu<sup>\*</sup>, __G Yu__<sup>\*</sup>. [Comparison of Illumina NovaSeq 6000 and GeneMind SURFSeq 5000 platforms for single‐cell spatial transcriptomics of mouse brain and lung](https://doi.org/10.1002/inmd.70067). __*Interdisciplinary Medicine*__. 2026, e70067.
 + B Liu, Y Liu, S Xu, Q Wu, D Wu, Y Liao, Y Mai, M Zheng, S Wang, L Zhan, Y Chen, Z Huang, X Luo, Z Xie, X Pan, __G Yu__<sup>\*</sup>, L Xie<sup>\*</sup>. [EasyMultiProfiler: An Efficient Multi-Omics Data Integration and Analysis Workflow for Microbiome Research](https://doi.org/10.1007/s11427-025-3035-0). __*SCIENCE CHINA Life Sciences*__. 2026, accepted.
 + __G Yu__<sup>\*</sup>. [Background bias in functional enrichment analysis: Insights from clusterProfiler](https://doi.org/10.59717/j.xinn-life.2025.100181). __*The Innovation Life*__. 2026, 4(1):100181.
 
 
 ## <i class="fa fa-calendar fa-1x" aria-hidden="true"></i> 2025 {#year-2025}
 
-+ Q Wang<sup>#</sup>, L Deng<sup>#</sup>, S Xu<sup>#</sup>, P Guo, H Zhu, H Ge, Y Gong, G Du, K Huang, C Su, R Wang, Y Qiu<sup>\*</sup>, __G Yu__<sup>\*</sup>. [Comparison of Illumina NovaSeq 6000 and GeneMind SURFSeq 5000 platforms for single‐cell spatial transcriptomics of mouse brain and lung](https://doi.org/10.1002/inmd.70067). __*Interdisciplinary Medicine*__. 2025, e70067.
 + Y Peng, S Jiang, Y Song, P Luo, J Li, D Hu, JG Zhou, __G Yu__<sup>\*</sup>, T Xu<sup>\*</sup>, S Wang<sup>\*</sup>. [ggalign: Bridging the Grammar of Graphics and Biological Multilayered Complexity](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202507799). __*Advanced Science*__. 2025, 12(44): e07799.
 + S Wen<sup>#</sup>, X Du<sup>#</sup>, M Zhu<sup>#</sup>, C Huang, Z Lin, M Li, B Hu, X Wang, F Jiang, G Zhou, W Zhu, __G Yu__<sup>\*</sup>, C Xu<sup>\*</sup>, B Shen<sup>\*</sup>. [ALCAM-CD6 axis suppression: a key determinant of immune-mediated metastasis recurrence in stage III non-small cell lung cancer](https://jitc.bmj.com/content/13/10/e010416). __*Journal for ImmunoTherapy of Cancer*__. 2025, 13(10):e010416.
 + P Li<sup>#</sup>, L Xie<sup>#</sup>, H Zheng<sup>#</sup>, Y Feng<sup>#</sup>, F Mai, W Tang, J Wang, Z Lan, S Lv, T Jayawardana, S Koentgen, S Xu, Z Wan, Y Chen, H Xu, S Shen, F Zhang, Y Yang, G Hold, F He<sup>\*</sup>, E M. El-Omar<sup>\*</sup>, __G Yu__<sup>\*</sup>, X Chen<sup>\*</sup>. [Gut microbial-derived 3,4-dihydroxyphenylacetic acid ameliorates reproductive phenotype of polycystic ovary syndrome](https://onlinelibrary.wiley.com/doi/10.1002/imt2.70065). __*iMeta*__. 2025, 4(5):e70065.

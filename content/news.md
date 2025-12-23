@@ -3,6 +3,8 @@ slug: news
 title: News
 ---
 
+<strong><font color="green">Dec 2025</font></strong>: R包[enrichit](https://cran.r-project.org/package=enrichit) 在CRAN发布，实现功能富集分析算法。
+
 <strong><font color="green">Dec 2025</font></strong>: 恭喜廖俞凡、邓琳两位同学获得一等奖学金；王芮获得优秀研究生称号。
 
 <strong><font color="green">Nov 2025</font></strong>: 余光创入选科睿唯安2025年度“全球高被引科学家”。
