@@ -1,6 +1,6 @@
 ---
 slug: contribution-tree-data
-title: "Integrating Tree Data: Methods and Applications"
+title: "Phylogenetic Data Integration: Methods and Applications"
 ---
 
 

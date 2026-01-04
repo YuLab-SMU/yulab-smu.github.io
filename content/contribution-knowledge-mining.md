@@ -1,6 +1,6 @@
 ---
 slug: contribution-knowledge-mining
-title: "Exploring Biological Knowledge and Discovery"
+title: "Semantic Knowledge Mining: Methods and Applications"
 ---
 
 
