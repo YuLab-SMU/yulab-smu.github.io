@@ -12,7 +12,7 @@ title: Contributions
     }
 </style>
 
-## Integrating Tree Data: Methods and Applications
+## Evolutionary Knowledge Integration: Foundational Infrastructure and Universal Standards
 
 
 <table style="border:none; font-size: 90%; width:100%;">
@@ -27,14 +27,14 @@ title: Contributions
 
 <a href="/contribution-tree-data/" style="color:black;font-weight:normal">
 
-We have proposed and developed a series of methods and software tools for the operation, integration, and visualization of phylogenetic trees and data. Key innovations include: (1) introducing graphic grammar to the field of phylogenetics for the first time; (2) enhancing the data integration capabilities of phylogenetics and its application across various disciplines; (3) proposing two universal methods for phylogenetic data integration and visualization; and (4) designing data structures that can store phylogenetic trees, associated data, and visualization directives to ensure analytical reproducibility. These methods and tools offer a concise and unified syntax system, assisting researchers in discovering hidden patterns and proposing new hypotheses by integrating heterogeneous data within the context of evolution or hierarchy.</a>
+By establishing the **definitive global infrastructure** for tree-structured biological data, our work has moved the field beyond simple visualization into a new paradigm of **programmable knowledge synthesis**. Our contributions address the core challenges of data fragmentation and multi-scale integration, providing the rigorous analytical foundations (e.g., [**treeio**](/contribution-tree-data), [**ggtree**](/contribution-tree-data)) required for modern systems biology and evolutionary discovery across thousands of species.</a>
 
 </td>
 </tr>
 </table>
 
 
-## Exploring Biological Knowledge and Discovery
+## Semantic Knowledge Mining: Deciphering the Functional Architecture of Life
 
 
 <table style="border:none; font-size: 90%; width:100%;">
@@ -49,7 +49,7 @@ We have proposed and developed a series of methods and software tools for the op
 
 <a href="/contribution-knowledge-mining/" style="color:black;font-weight:normal">
 
-Knowledge discovery within precision medicine big data is crucial for advancing clinical translational applications. By leveraging biomedical knowledge, we can facilitate the uncovering of new insights in biomedicine. We have developed a suite of methods and tools, including: (1) pioneering biological theme comparison for complex experimental designs, (2) universal enrichment analysis methods for omics data interpretation, (3) semantic similarity measurement to aid in biological knowledge discovery, (4) cistromic data mining for identifying co-regulators, (5) integration of biological knowledge to enhance single-cell clustering interpretability, and (6) characterization of single-cell functional states and identification of spatial specific biological functions. These methods and software broaden the application of biomedical knowledge across diverse species, facilitating biological big data mining and uncovering novel disoveries.  
+Translating massive multi-omics datasets into biological intelligence requires a deep understanding of the functional architecture of life. Our team has established a comprehensive **Semantic Knowledge Mining Framework**—led by the global standard [**clusterProfiler**](/contribution-knowledge-mining)—that bridges the gap between raw data and actionable insights through knowledge quantification, pioneering comparative theme analysis, and the integration of spatial/epigenomic logic.  
 
 </a>
 
@@ -57,7 +57,7 @@ Knowledge discovery within precision medicine big data is crucial for advancing 
 </tr>
 </table>
 
-## Data Visualization
+## Visualizing Complexity: A Universal Ecosystem for Multi-Scale Scientific Discovery
 
 
 <table style="border:none; font-size: 90%; width:100%;">
@@ -71,7 +71,7 @@ Knowledge discovery within precision medicine big data is crucial for advancing 
 <td style="border:none;">
 
 <a href="/contribution-data-visualization/" style="color:black;font-weight:normal">
-hello world.
+Scientific discovery is increasingly driven by the ability to see the invisible within biological complexity. We have pioneered a **universal grammar for scientific visualization** that transcends specific coding systems, enabling researchers to synthesize relationships across genomic, molecular, and cellular scales through an integrated ecosystem of methodological and semantic tools.
 </a>
 
 </td>

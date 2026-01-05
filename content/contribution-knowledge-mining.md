@@ -1,6 +1,6 @@
 ---
 slug: contribution-knowledge-mining
-title: "Semantic Knowledge Mining: Methods and Applications"
+title: "Semantic Knowledge Mining: Deciphering the Functional Architecture of Life"
 ---
 
 
@@ -13,145 +13,111 @@ title: "Semantic Knowledge Mining: Methods and Applications"
 </style>
 
 
-Knowledge discovery within precision medicine big data is crucial for advancing clinical translational applications. We have established a **Semantic Knowledge Mining Framework** that bridges the gap between raw omics data and biological insights. Our contributions span the entire lifecycle of knowledge discovery: (1) **Quantifying Knowledge**: Developing semantic similarity measures to mathematically represent biological concepts; (2) **Deciphering Mechanisms**: Pioneering universal and comparative enrichment analysis methods to extract biological themes from complex experimental designs; (3) **Annotating Regulation**: Bridging genomic intervals with functional context to unlock cistromic regulation; and (4) **Integrating Prior Knowledge**: Incorporating biological priors into single-cell and spatial omics to enhance interpretability and uncover novel functional states. These methods and software tools have broadened the application of biomedical knowledge across diverse species, facilitating the mining of biological big data and the uncovering of novel discoveries.
+## From Big Data to Biological Intelligence: A Universal Framework for Semantic Knowledge Mining
+
+Translating massive omics datasets into clinical insights requires more than simple computation; it demands a deep understanding of the **functional architecture of life**. Our work has established a comprehensive **Semantic Knowledge Mining Framework** that serves as the bridge between raw biological big data and actionable intelligence. By quantifying biological intelligence, pioneering comparative multi-condition analysis, and integrating knowledge priors into high-resolution single-cell and spatial landscapes, we have provided the global research community with the tools to decipher molecular mechanisms at unprecedented scales.
 
 
 ----
 
-## 1. Quantifying Biological Knowledge: Semantic Similarity Measurement
+## Pillar 1: Quantifying Biological Intelligence — The Calculus of Knowledge
 
+Before knowledge can be mined, it must be quantified. We established the mathematical prerequisites for biological discovery by developing semantic similarity measures that map fuzzy biological concepts onto rigorous mathematical spaces.
 
 <table style="border:none; font-size: 90%; width:100%;">
 <tr style="border:none;"> 
 <td style="border:none;width:25%">
-
 <a href="http://bioinformatics.oxfordjournals.org/cgi/content/abstract/26/7/976"><img src="/images/knowledge-mining/semsim.png" style="width:100%; max-width:1000px;"/></a>
-
-
 </td>
 <td style="border:none;">
-
-
-By leveraging biomedical knowledge, novel insights can be unearthed within the field. Gene functional similarity calculations, rooted in biomedical knowledge, play a pivotal role in this endeavor. These calculations mathematically quantify biomedical knowledge to gauge the similarity between genes. Similarity entities share similar functions and behaviors, which form the basis for solving a wide range of real-world challenges. These challenges span predicting and inferring gene attributes such as function, localization, and interactions, as well as analyzing diseases and drugs, including drug repurposing. 
-
-To facilitate this process, we developed the software tool [GOSemSim](https://www.bioconductor.org/packages/GOSemSim), built upon gene ontology principles. [GOSemSim](https://www.bioconductor.org/packages/GOSemSim) incorporates multiple information content-based algorithms and graph-based algorithms to provide comprehensive gene similarity assessments. This work was initially published in [*Bioinformatics*](http://bioinformatics.oxfordjournals.org/cgi/content/abstract/26/7/976) in 2010 and later featured as a chapter in [*Stem Cell Transcriptional Networks (2nd edition)*](http://dx.doi.org/10.1007/978-1-0716-0301-7_11) in 2020. Subsequently, we extended the scope of this work to encompass a broader array of biomedical knowledge domains. This expanded version supports the measurement of gene similarity from diverse perspectives, including diseases ([*Bioinformatics 2015*](http://bioinformatics.oxfordjournals.org/cgi/content/abstract/btu684)), phenotypes, and medical subject headings ([*Bioinformatics 2018*](https://doi.org/10.1093/bioinformatics/bty410)). 
-
-
+<strong>Semantic Quantification:</strong> Through [**GOSemSim**](https://bioconductor.org/packages/GOSemSim), [**DOSE**](https://bioconductor.org/packages/DOSE), and [**meshes**](https://bioconductor.org/packages/meshes), we provided the first comprehensive software suite for measuring functional similarity among gene products across Gene Ontology, Disease Ontology, and MeSH domains. This work, starting from <em>Bioinformatics</em> (2010), enables the prediction of gene functions, disease-gene associations, and drug-repurposing candidates by leveraging the underlying semantic structure of biomedical knowledge.
 </td>
 </tr>
 </table>
 
 
-## 2. Deciphering Molecular Mechanisms: A Universal Enrichment Analysis Framework
+## Pillar 2: The Universal Enrichment Framework — A Paradigm Shift in Theme Discovery
 
+A cornerstone of our contribution is the creation of a **universal mechanistic engine** for functional genomics. By establishing [**clusterProfiler**](https://bioconductor.org/packages/clusterProfiler), we shifted the field from static gene-list analysis to dynamic discovery.
 
 <table style="border:none; font-size: 90%; width:100%;">
 <tr style="border:none;"> 
 <td style="border:none;width:25%">
-
 <a href="https://doi.org/10.1016/j.xinn.2021.100141"><img src="/images/knowledge-mining/graphic-abstract-The-Innovation-2021.jpg" style="width:100%; max-width:1000px;"/></a>
-
-
 </td>
 <td style="border:none;">
-
-
-One pivotal aspect of functional genomics research is the identification of biological pathways associated with perturbed genes and the formulation of hypotheses regarding molecular mechanisms. While gene enrichment analysis serves as a widely adopted and effective method, it encounters challenges such as outdated annotation, limited supports for non-model organisms, and restricted annotation sources. To address these issues, we have developed a suite of R packages, spearheaded by [clusterProfiler](https://www.bioconductor.org/packages/clusterProfiler). 
-
-[ClusterProfiler](https://www.bioconductor.org/packages/clusterProfiler) serves as a **universal platform** for functional enrichment analysis. It facilitates online retrieval of the latest genome annotations, supporting Gene Ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) enrichment analysis for thousands of species. Beyond standard databases, it provides a generic interface for incorporating user-provided custom annotations, enabling analysis of any organism with any functional annotation (e.g., from new species or specialized databases). Notably, [clusterProfiler](https://www.bioconductor.org/packages/clusterProfiler) breaks the barrier of gene-centric analysis by allowing the utilization of genomic regions, thus enabling enrichment analysis of epigenomic data. Furthermore, we have extended its application to diverse knowledge domains, including disease ontology ([*Bioinformatics 2015*](http://bioinformatics.oxfordjournals.org/cgi/content/abstract/btu684)), medical subject headings ([*Bioinformatics 2018*](https://doi.org/10.1093/bioinformatics/bty410)), and Reactome pathway analysis ([*Molecular BioSystems 2016*](http://pubs.rsc.org/en/Content/ArticleLanding/2016/MB/C5MB00663E)), creating a comprehensive ecosystem for biomedical knowledge discovery.
-
-Published in [*The Innovation*](https://doi.org/10.1016/j.xinn.2021.100141) in 2021 and [*Nature Protocols*](https://www.nature.com/articles/s41596-024-01020-z) in 2024, this suite of tools has made a substantial impact on biomedical research, accumulating over 40,000 citations and being integrated into more than 40 bioinformatics software tools. It has emerged as an indispensable infrastructure for various omics data analyses.
-
-
+<strong>Comparative Theme Discovery:</strong> We pioneered the concept of **Comparative Biological Theme Analysis** (<em>OMICS</em> 2012), allowing researchers to compare functional profiles across complex experimental designs—multiple time points, genotypes, and drug treatments—simultaneously. This paradigm has been integrated into over 40 bioinformatics tools and cited over 40,000 times, becoming the <em>de facto</em> global standard as detailed in our **<em>Nature Protocols</em>** (2024) feature.
+<br><br>
+<strong>Universal Extensibility:</strong> **clusterProfiler** provides a generic platform that breaks the model-organism barrier, supporting thousands of species and any custom functional annotation, from KEGG and GO to Reactome and disease ontologies.
 </td>
 </tr>
 </table>
 
 
-## 3. Pioneering Comparative Biological Theme Analysis
+## Pillar 3: Microbial Functional Architecture — Microbiome & Metagenomics
 
+The microbiome represents one of the final frontiers in functional discovery. Our team has developed specialized infrastructures to address the unique challenges of inter-species interactions and metabolic flow in microbial communities.
 
 <table style="border:none; font-size: 90%; width:100%;">
 <tr style="border:none;"> 
 <td style="border:none;width:25%">
-
-<a href="http://online.liebertpub.com/doi/abs/10.1089/omi.2011.0118"><img src="/images/knowledge-mining/cp-cover.png" style="width:100%; max-width:1000px;"/></a>
-
-
+<a href="https://github.com/YuLab-SMU/MicrobiotaProcess"><img src="/images/knowledge-mining/microbiome.png" style="width:100%; max-width:1000px;"/></a>
 </td>
 <td style="border:none;">
-
-
-As experimental designs evolved beyond simple case-control setups, encompassing complex configurations involving multiple time points, treatments, and conditions became imperative for studying dynamic biomedical phenomena. Traditional methods, which analyze each condition in isolation, often fail to capture the temporal and condition-specific patterns of biological functions. Recognizing this need, we introduced the concept of **comparative biological theme analysis** in [clusterProfiler](https://www.bioconductor.org/packages/clusterProfiler), a pivotal contribution published in [*OMICS: A Journal of Integrative Biology*](http://online.liebertpub.com/doi/abs/10.1089/omi.2011.0118) in 2012. 
-
-This innovation shifts the paradigm from static, single-list analysis to dynamic, multi-dimensional comparison. With its exceptionally user-friendly interface, [clusterProfiler](https://www.bioconductor.org/packages/clusterProfiler) enables users to specify complex experimental designs using standard [formula syntax](https://stat.ethz.ch/R-manual/R-devel/library/stats/html/formula.html). This capability allows researchers to directly compare functional profiles across different time points, drug treatments, or disease subtypes simultaneously, as exemplified in our article published in [*The Innovation*](https://doi.org/10.1016/j.xinn.2021.100141) in 2021. This work has garnered over 40,000 citations, making it the most highly cited paper in the journal *OMICS*. Twelve years after its initial publication, we authored a protocol-type article in [*Nature Protocols*](https://www.nature.com/articles/s41596-024-01020-z) (2024), selected as a [feature protocol](/images/knowledge-mining/featured-protocol-2024.jpeg), detailing the application of this comparative framework across metagenomics, metabolomics, transcriptomics, and single-cell omics, solidifying its status as a standard methodology in the field.
-
+<strong>Tidy Ecological Mining:</strong> Through [**MicrobiotaProcess**](https://bioconductor.org/packages/MicrobiotaProcess) and [**MicrobiomeProfiler**](https://bioconductor.org/packages/MicrobiomeProfiler), we established a **tidy framework** for microbiome data mining. **MicrobiotaProcess** provides a comprehensive pipeline for ecological analysis (alpha/beta diversity, biomarker discovery), while **MicrobiomeProfiler** enables functional enrichment analysis specifically tailored to the metabolic and genomic context of microbial datasets.
 </td>
 </tr>
 </table>
 
 
-## 4. Mining Cistromic Interactions: Bridging Genomic Locations and Function
+## Pillar 4: Deciphering Cistromic Regulation — From Genomic Location to Function
 
+Biological function is often encoded in the non-coding genome. We developed the infrastructure to bridge the gap between genomic cis-regulatory positions and biological function.
 
 <table style="border:none; font-size: 90%; width:100%;">
 <tr style="border:none;"> 
 <td style="border:none;width:25%">
-
 <a href="https://academic.oup.com/bioinformatics/article/31/14/2382/255379"><img src="/images/knowledge-mining/chipseeker.png" style="width:100%; max-width:1000px;"/></a>
-
-
 </td>
 <td style="border:none;">
-
-The term "cistrome" refers to the ensemble of cis-acting targets of trans-acting factors across the genome, encompassing transcription factor binding sites and the genomic loci of histone modifications. Genomic cis-regulatory information is typically obtained on a genome-wide scale through techniques such as ChIP-seq, DNase-seq, and ATAC-seq. Bridging the gap between upstream (locating sites) and downstream analysis (functional investigations) hinges on annotating the genomic positional data effectively. However, existing tools are often tailored for individual datasets, posing a challenge as cistromic technologies proliferate and public data accumulates. Comparing multiple datasets, mining public data, and identifying potential co-regulators of transcription factors are essential for comprehensive understanding of cistrome interactions. 
-
-To tackle these challenges, we developed the [ChIPseeker](https://www.bioconductor.org/packages/ChIPseeker) package for annotation and comparision, seamlessly integrated with the GEO database to facilitate data mining for potential co-transcription factors or protein complexes. This pivotal work was published in [Bioinformatics](http://bioinformatics.oxfordjournals.org/cgi/content/abstract/btv145) in 2015. ChIPseeker has since become a cornerstone in the analysis of [DNase-seq](https://doi.org/10.1093/bib/bby057) and [ATAC-seq](https://informatics.fas.harvard.edu/atac-seq-guidelines.html) data, widely employed across various cistromic datasets. Additionally, we published a protocol article in [*Current Protocols*](https://doi.org/10.1002/cpz1.585) in 2022, detailing the application of ChIPseeker in analyzing diverse epigenomic datasets, further extending its utility and impact in the field.
-
+<strong>Cistromic Annotation:</strong> [**ChIPseeker**](https://bioconductor.org/packages/ChIPseeker) (<em>Bioinformatics</em> 2015) has become a global cornerstone for epigenomic annotation. It provides a comprehensive framework for annotating genomic peaks (ChIP-seq, ATAC-seq, DNase-seq) with biological context and facilitating cross-dataset comparison and mining within the GEO database.
 </td>
 </tr>
 </table>
 
 
-## 5. Knowledge-Driven Single-Cell Analysis: Enhancing Interpretability
+## Pillar 5: Knowledge-Driven Discovery in Single-Cell & Spatial Omics
 
+As biological data moves toward higher resolution, the integration of prior knowledge becomes essential for interpretability. Our team has pioneered methods to incorporate biological intelligence into single-cell and spatial discovery.
 
 <table style="border:none; font-size: 90%; width:100%;">
 <tr style="border:none;"> 
-<td style="border:none;width:25%">
-
+<td style="border:none;width:50%">
+<strong>Biological Latent Spaces:</strong> Through [**MSGNN**](https://github.com/YuLab-SMU/MSGNN), we proposed integrating biological knowledge priors directly into the graph-based community detection process via graph neural networks. This ensures that single-cell clustering outcomes are not only mathematically robust but also align closely with biological interpretations.
+<br><br>
+<strong>Spatial Functional States:</strong> With [**SVP**](https://github.com/YuLab-SMU/SVP), we introduced a novel paradigm for characterizing cell functional states and identifying spatially variable features, enabling the direct mapping of biological functions (e.g., pathways) across tissue architectures.
+</td>
+<td style="border:none;width:23.5%">
 <a href="https://github.com/YuLab-SMU/MSGNN/"><img src="/images/knowledge-mining/msgnn.png" style="width:100%; max-width:1000px;"/></a>
-
-
 </td>
-<td style="border:none;">
-
-
-Clustering serves as a pivotal bridge between upstream and downstream analyses in single-cell analysis, with precise clustering being essential for subsequent investigations. Presently, prevalent clustering methods predominantly utilize graph-based community detection approaches. Our proposition involves integrating biological knowledge as attributes of graph nodes to yield clustering outcomes that align more closely with biological interpretations. To realize this advancement, we have developed the [MSGNN](https://github.com/YuLab-SMU/MSGNN/) tool based on graph neural networks, enhancing the biological interpretation of complex data. 
-
-
+<td style="border:none;width:23.5%">
+<a href="https://github.com/YuLab-SMU/SVP/"><img src="/images/knowledge-mining/svp.png" style="width:100%; max-width:1000px;"/></a>
 </td>
 </tr>
 </table>
 
 
-## 6. Spatial Functional Profiling: Identifying Spatially Variable Biological States
+## Pillar 6: From Abstract Results to Intuitive Insight — Visual Logic
 
+A functional discovery is only complete when it can be interpreted. Our team has pioneered the "Visual Logic" of enrichment, transforming abstract statistical tables into rigorous visual narratives.
 
 <table style="border:none; font-size: 90%; width:100%;">
 <tr style="border:none;"> 
 <td style="border:none;width:25%">
-
-<a href="https://github.com/YuLab-SMU/SVP/"><img src="/images/knowledge-mining/svp.png" style="width:100%; max-width:1000px;"/></a>
-
-
+<a href="https://guangchuangyu.github.io/software/enrichplot/"><img src="/images/knowledge-mining/enrichplot.png" style="width:100%; max-width:1000px;"/></a>
 </td>
 <td style="border:none;">
-
-Existing methods for identifying biological functions with spatially specific distributions typically begin with the identification of genes exhibiting high spatial variability. Subsequent enrichment analysis is then conductted to characterizing these functions.
-
-Our innovation lies in proposing a novel method for characterizing cell functional states, alongside a general approach for identifying spatially highly variable features. To operationalize these advancements, we have developed the [SVP](https://github.com/YuLab-SMU/SVP/) package. This tool facilitates the implementation of both methods, enabling the comprehensive characterizing various biological functions, including pathways, while also determining the spatial distribution specificity of these functions. 
-
+<strong>Interpretive Synthesis:</strong> Through [**enrichplot**](https://bioconductor.org/packages/enrichplot), we established the visualization standards for functional discovery. By implementing sophisticated geometries (e.g., dot plots, gene-concept networks, upset plots), **enrichplot** enables researchers to visually synthesize complex enrichment results, uncovering the hidden relationships between biological themes and their underlying molecular drivers.
 </td>
 </tr>
 </table>
@@ -181,6 +147,7 @@ Our innovation lies in proposing a novel method for characterizing cell function
 + __G Yu__<sup>\*</sup>. [Background bias in functional enrichment analysis: Insights from clusterProfiler](https://doi.org/10.59717/j.xinn-life.2025.100181). __*The Innovation Life*__. 2026, 4(1):100181.
 + __G Yu__<sup>\*</sup>. [Thirteen years of clusterProfiler](https://doi.org/10.1016/j.xinn.2024.100722). __*The Innovation*__. 2024, 5(6):100722.
 + S Xu<sup>#</sup>, E Hu<sup>#</sup>, Y Cai<sup>#</sup>, Z Xie<sup>#</sup>, X Luo<sup>#</sup>, L Zhan, W Tang, Q Wang, B Liu, R Wang, W Xie, T Wu, L Xie, __G Yu__<sup>\*</sup>. [Using clusterProfiler to characterise Multi-Omics Data](https://www.nature.com/articles/s41596-024-01020-z). __*Nature Protocols*__. 2024, 19(11):3292-3320. 
++ S Xu, L Zhan, W Tang, Q Wang, Z Dai, L Zhou, T Feng, M Chen, T Wu, E Hu, __G Yu__<sup>\*</sup>. [MicrobiotaProcess: A comprehensive R package for deep mining microbiome](https://doi.org/10.1016/j.xinn.2023.100388). __*The Innovation*__. 2023, 4(2):100388.
 + Q Wang<sup>#</sup>, M Li<sup>#</sup>, T Wu, L Zhan, L Li, M Chen, W Xie, Z Xie, E Hu, S Xu, __G Yu__<sup>\*</sup>. [Exploring epigenomic datasets by ChIPseeker](https://doi.org/10.1002/cpz1.585). __*Current Protocols*__, 2022, 2(10): e585. 
 + N Sato, Y Tamada, __G Yu__, Y Okuno<sup>\*</sup>. [CBNplot: Bayesian network plots for enrichment analysis](https://doi.org/10.1093/bioinformatics/btac175). __*Bioinformatics*__. 2022, 38(10):2959-2960.
 + T Wu<sup>#</sup>, E Hu<sup>#</sup>, S Xu, M Chen, P Guo, Z Dai, T Feng, L Zhou, W Tang, L Zhan, X Fu, S Liu, X Bo<sup>\*</sup>, **G Yu**<sup>\*</sup>. [clusterProfiler 4.0: A universal enrichment tool for interpreting omics data](https://doi.org/10.1016/j.xinn.2021.100141). **_The Innovation_**. 2021, 2(3):100141.
