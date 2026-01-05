@@ -1,0 +1,35 @@
+<svg width="600" height="240" viewBox="0 0 600 240" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2.5" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="600" height="240" fill="#fcfdfd" rx="15"/>
+  <!-- Central Integration Node -->
+  <circle cx="300" cy="120" r="40" fill="#27ae60" opacity="0.1"/>
+  <text x="300" y="125" font-family="Arial" font-size="12" fill="#27ae60" text-anchor="middle" font-weight="bold">Multi-Omics</text>
+  <!-- Phylogenetic Tree (ggtree) -->
+  <path d="M100 120 L150 120 M150 120 L200 80 M150 120 L200 160" stroke="#2c3e50" stroke-width="2" fill="none"/>
+  <path d="M200 80 L230 65 M200 80 L230 95" stroke="#2c3e50" stroke-width="2" fill="none"/>
+  <rect x="235" y="60" width="40" height="10" fill="#27ae60" rx="2"/>
+  <rect x="235" y="75" width="40" height="10" fill="#c0392b" rx="2"/>
+  <text x="140" y="60" font-family="Arial" font-size="14" fill="#2c3e50" font-weight="bold">Phylogeny</text>
+  <!-- Enrichment (enrichplot) -->
+  <circle cx="450" cy="80" r="15" fill="#e67e22" opacity="0.8" filter="url(#glow)"/>
+  <circle cx="480" cy="100" r="10" fill="#e67e22" opacity="0.6"/>
+  <circle cx="430" cy="110" r="8" fill="#e67e22" opacity="0.4"/>
+  <text x="470" y="60" font-family="Arial" font-size="14" fill="#e67e22" font-weight="bold">Functional</text>
+  <!-- Sequence (ggmsa) -->
+  <rect x="350" y="170" width="180" height="40" fill="none" stroke="#8e44ad" stroke-width="1" rx="5"/>
+  <rect x="360" y="180" width="30" height="20" fill="#8e44ad" opacity="0.8"/>
+  <rect x="395" y="180" width="30" height="20" fill="#8e44ad" opacity="0.4"/>
+  <rect x="430" y="180" width="30" height="20" fill="#8e44ad" opacity="0.9"/>
+  <rect x="465" y="180" width="30" height="20" fill="#8e44ad" opacity="0.2"/>
+  <text x="440" y="230" font-family="Arial" font-size="14" fill="#8e44ad" font-weight="bold">Genomic Landscape</text>
+  <!-- Global Synthesis Label -->
+  <text x="300" y="30" font-family="Georgia" font-size="16" font-weight="bold" fill="#2c3e50" text-anchor="middle">Systems Biology Synthesis</text>
+</svg>

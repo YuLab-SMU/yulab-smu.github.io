@@ -1,0 +1,21 @@
+<svg width="600" height="200" viewBox="0 0 600 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="dropShadow">
+      <feDropShadow dx="2" dy="2" stdDeviation="3" flood-opacity="0.3"/>
+    </filter>
+  </defs>
+  <rect width="600" height="200" fill="#fffaf0" rx="15"/>
+  <!-- Hex Sticker Centrality -->
+  <path d="M300 40 L343 65 L343 115 L300 140 L257 115 L257 65 Z" fill="#34495e" stroke="#2c3e50" stroke-width="2" filter="url(#dropShadow)"/>
+  <text x="300" y="95" font-family="Arial" font-size="12" fill="white" text-anchor="middle" font-weight="bold">sticker</text>
+  <!-- Semantic Elements -->
+  <!-- Image -->
+  <rect x="100" y="60" width="80" height="60" fill="white" stroke="#bdc3c7" stroke-width="1" rx="5" filter="url(#dropShadow)"/>
+  <circle cx="140" cy="85" r="15" fill="#f1c40f" opacity="0.8"/>
+  <text x="140" y="145" font-family="Arial" font-size="12" fill="#2c3e50" text-anchor="middle">ggimage</text>
+  <!-- ShadowText -->
+  <text x="480" y="100" font-family="Arial" font-size="24" font-weight="bold" fill="#e74c3c" text-anchor="middle" style="filter: drop-shadow(3px 3px 2px rgba(0,0,0,0.4));">SHADOW</text>
+  <text x="480" y="145" font-family="Arial" font-size="12" fill="#2c3e50" text-anchor="middle">Clarity</text>
+  <!-- Labels -->
+  <text x="300" y="180" font-family="Georgia" font-size="16" font-weight="bold" fill="#c0392b" text-anchor="middle">Visual Communication</text>
+</svg>
