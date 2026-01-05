@@ -27,7 +27,7 @@ title: Contributions
 
 <a href="/contribution-tree-data/" style="color:black;font-weight:normal">
 
-By establishing the **definitive global infrastructure** for tree-structured biological data, our work has moved the field beyond simple visualization into a new paradigm of **programmable knowledge synthesis**. Our contributions address the core challenges of data fragmentation and multi-scale integration, providing the rigorous analytical foundations (e.g., [**treeio**](/contribution-tree-data), [**ggtree**](/contribution-tree-data)) required for modern systems biology and evolutionary discovery across thousands of species.</a>
+By establishing the **definitive global infrastructure** for tree-structured biological data, our work has moved the field beyond simple visualization into a new paradigm of **programmable knowledge synthesis**. Our contributions address the core challenges of data fragmentation and multi-scale integration, providing the rigorous analytical foundations (e.g., **treeio**, **ggtree**) required for modern systems biology and evolutionary discovery across thousands of species.</a>
 
 </td>
 </tr>
@@ -49,7 +49,7 @@ By establishing the **definitive global infrastructure** for tree-structured bio
 
 <a href="/contribution-knowledge-mining/" style="color:black;font-weight:normal">
 
-Translating massive multi-omics datasets into biological intelligence requires a deep understanding of the functional architecture of life. Our team has established a comprehensive **Semantic Knowledge Mining Framework**—led by the global standard [**clusterProfiler**](/contribution-knowledge-mining)—that bridges the gap between raw data and actionable insights through knowledge quantification, pioneering comparative theme analysis, and the integration of spatial/epigenomic logic.  
+Translating massive multi-omics datasets into biological intelligence requires a deep understanding of the functional architecture of life. Our team has established a comprehensive **Semantic Knowledge Mining Framework**—led by the global standard **clusterProfiler**—that bridges the gap between raw data and actionable insights through knowledge quantification, pioneering comparative theme analysis, and the integration of spatial/epigenomic logic.  
 
 </a>
 
@@ -71,7 +71,9 @@ Translating massive multi-omics datasets into biological intelligence requires a
 <td style="border:none;">
 
 <a href="/contribution-data-visualization/" style="color:black;font-weight:normal">
+
 Scientific discovery is increasingly driven by the ability to see the invisible within biological complexity. We have pioneered a **universal grammar for scientific visualization** that transcends specific coding systems, enabling researchers to synthesize relationships across genomic, molecular, and cellular scales through an integrated ecosystem of methodological and semantic tools.
+
 </a>
 
 </td>
