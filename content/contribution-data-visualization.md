@@ -29,16 +29,8 @@ To address the fragmentation of the R plotting landscape, we developed a suite o
 *   **[ggtangle](https://github.com/YuLab-SMU/ggtangle) & [ggflow](https://github.com/YuLab-SMU/ggflow) (Relational & Process Flow):** **ggtangle** reimagines network visualization within the tidy framework, while **ggflow** provides a dedicated grammar for flowcharts and transition processes, bridging the gap between static relationships and dynamic workflows.
 *   **[ggfun](https://cran.r-project.org/package=ggfun) (UX & Utilities):** Provides foundational utilities that enhance the developer and user experience across the entire ecosystem.
 
-<table style="border:none; font-size: 90%; width:100%;">
-<tr style="border:none;"> 
-<td style="border:none;width:25%">
-<img src="/images/data-visualization/methodology-foundations.svg" style="width:100%; height:auto;"/>
-</td>
-<td style="border:none;">
+
 <strong>Logic Unification:</strong> By treating plots as first-class algebraic objects, these tools allow for the "compositional" creation of complex figures that were previously impossible or required significant manual effort.
-</td>
-</tr>
-</table>
 
 ## 2. Specialized Academic Domains: Deep Integration
 
@@ -52,16 +44,9 @@ Beyond general-purpose utilities, we have pioneered visualization standards in s
 *   **Single-Cell & Fine-Scale Omics:** [**ggsc**](https://github.com/YuLab-SMU/ggsc) and [**ivolcano**](https://github.com/YuLab-SMU/ivolcano) address the unique needs of high-resolution data, providing specialized geometries and interactive exploration for single-cell clusters and differential expression.
 *   **Glycobiology & Complex Carbohydrates:** [**gglycan**](https://github.com/YuLab-SMU/gglycan) introduces a grammar for visualizing complex glycan structures. By supporting standard symbolic nomenclature (e.g., SNFG), it enables researchers to integrate glycomic data with other biological layers, bridging a critical gap in multi-omics synthesis.
 
-<table style="border:none; font-size: 90%; width:100%;">
-<tr style="border:none;"> 
-<td style="border:none;width:25%">
-<img src="/images/data-visualization/academic-domains.svg" style="width:100%; height:auto;"/>
-</td>
-<td style="border:none;">
+
 <strong>Domain Leadership:</strong> These tools are not mere plotting scripts but are **interpretative frameworks** cited in thousands of studies across <em>Nature</em>, <em>Science</em>, and <em>Cell</em>.
-</td>
-</tr>
-</table>
+
 
 ## 3. Semantic Enrichment & Scientific Communication
 
@@ -73,16 +58,9 @@ To bridge the gap between abstract data and human intuition, we developed tools 
 *   **[emojifont](https://cran.r-project.org/package=emojifont), [shadowtext](https://cran.r-project.org/package=shadowtext), & [meme](https://cran.r-project.org/package=meme):** Enhancing semantic storytelling through advanced typography and cultural icons. These tools improve optical clarity through text halos and allow for creative, engaging data interaction, bridging the gap between formal analysis and impactful communication.
 *   **[hexSticker](https://cran.r-project.org/package=hexSticker):** Revolutionizing how R developers brand their work. **hexSticker** has established the "Hex Logo" as the universal symbol of professional R package development.
 
-<table style="border:none; font-size: 90%; width:100%;">
-<tr style="border:none;"> 
-<td style="border:none;width:25%">
-<img src="/images/data-visualization/semantic-enrichment.svg" style="width:100%; height:auto;"/>
-</td>
-<td style="border:none;">
+
 <strong>Scientific Communication:</strong> These tools empower researchers to communicate complex data with clarity, impact, and professional polish, fostering broader adoption of open-source science.
-</td>
-</tr>
-</table>
+
 
 ## Community Impact & Influence
 

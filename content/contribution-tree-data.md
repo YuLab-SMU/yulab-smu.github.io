@@ -62,12 +62,7 @@ Before our work, tree visualization was largely restricted to topological displa
 
 As omics data reached unprecedented scales, our team introduced the **"Data-to-Tree" paradigm** in foundational work published in [*Molecular Biology and Evolution*](https://academic.oup.com/mbe/article-abstract/35/12/3041/5142656) in 2018 (ESI highly cited). This work proposed two comprehensive methods that redefined the integration of heterogeneous data within a unified evolutionary context.
 
-<table style="border:none; font-size: 90%; width:100%;">
-<tr style="border:none;"> 
-<td style="border:none;width:25%">
-<a href="https://doi.org/10.1093/molbev/msab166"><img src="/images/ggtree/ggtreeExtra-2021.png" style="width:100%; max-width:1000px;"/></a>
-</td>
-<td style="border:none;">
+
 <strong>Theoretical Foundations & universal derivatives:</strong> 
 The two methods introduced in 2018 have since evolved from specialized phylogenetic tools into universal visualization standards:
 <ul>
@@ -82,24 +77,14 @@ The two methods introduced in 2018 have since evolved from specialized phylogene
 </ul>
 <br>
 <strong>Programmable Reproducibility:</strong> Our work in <em>iMeta</em> (2022) established the **ggtree** object—a programmable structure that ensures analytical reproducibility by encapsulating trees, data, and visualization directives.
-</td>
-</tr>
-</table>
+
 
 ## Pillar 4: Vertical Generalization — From Phylogeny to General Hierarchy
 
 To demonstrate the universal utility of our grammar, we expanded its scope beyond evolutionary biology. By generalizing the framework to encompass all hierarchical structures, we bridged the gap between specialized biological interpretation and general data science.
 
-<table style="border:none; font-size: 90%; width:100%;">
-<tr style="border:none;"> 
-<td style="border:none;width:25%">
-<a href="https://www.bioconductor.org/packages/ggtreeDendro"><img src="/images/ggtree/ggtreeDendro.png" style="width:100%; max-width:1000px;"/></a>
-</td>
-<td style="border:none;">
+
 <strong>Universal Scope:</strong> Through [**ggtreeDendro**](https://bioconductor.org/packages/ggtreeDendro), we extended the phylogenetic grammar to hierarchical clustering and classification/regression trees. This enables the same rigorous data integration methods used in phylogenetics to be applied to any sample-level or feature-level hierarchical relationship (e.g., cell clustering), unifying disparate analytical workflows under a single theoretical umbrella.
-</td>
-</tr>
-</table>
 
 ----
 

@@ -24,103 +24,56 @@ Translating massive omics datasets into clinical insights requires more than sim
 
 Before knowledge can be mined, it must be quantified. We established the mathematical prerequisites for biological discovery by developing semantic similarity measures that map fuzzy biological concepts onto rigorous mathematical spaces.
 
-<table style="border:none; font-size: 90%; width:100%;">
-<tr style="border:none;"> 
-<td style="border:none;width:25%">
-<a href="http://bioinformatics.oxfordjournals.org/cgi/content/abstract/26/7/976"><img src="/images/knowledge-mining/semsim.png" style="width:100%; max-width:1000px;"/></a>
-</td>
-<td style="border:none;">
+
 <strong>Semantic Quantification:</strong> Through [**GOSemSim**](https://bioconductor.org/packages/GOSemSim), [**DOSE**](https://bioconductor.org/packages/DOSE), and [**meshes**](https://bioconductor.org/packages/meshes), we provided the first comprehensive software suite for measuring functional similarity among gene products across Gene Ontology, Disease Ontology, and MeSH domains. This work, starting from <em>Bioinformatics</em> (2010), enables the prediction of gene functions, disease-gene associations, and drug-repurposing candidates by leveraging the underlying semantic structure of biomedical knowledge.
-</td>
-</tr>
-</table>
+
 
 
 ## Pillar 2: The Universal Enrichment Framework — A Paradigm Shift in Theme Discovery
 
 A cornerstone of our contribution is the creation of a **universal mechanistic engine** for functional genomics. By establishing [**clusterProfiler**](https://bioconductor.org/packages/clusterProfiler), we shifted the field from static gene-list analysis to dynamic discovery.
 
-<table style="border:none; font-size: 90%; width:100%;">
-<tr style="border:none;"> 
-<td style="border:none;width:25%">
-<a href="https://doi.org/10.1016/j.xinn.2021.100141"><img src="/images/knowledge-mining/graphic-abstract-The-Innovation-2021.jpg" style="width:100%; max-width:1000px;"/></a>
-</td>
-<td style="border:none;">
 <strong>Comparative Theme Discovery:</strong> We pioneered the concept of **Comparative Biological Theme Analysis** (<em>OMICS</em> 2012), allowing researchers to compare functional profiles across complex experimental designs—multiple time points, genotypes, and drug treatments—simultaneously. This paradigm has been integrated into over 40 bioinformatics tools and cited over 40,000 times, becoming the <em>de facto</em> global standard as detailed in our **<em>Nature Protocols</em>** (2024) feature.
 <br><br>
 <strong>Universal Extensibility:</strong> **clusterProfiler** provides a generic platform that breaks the model-organism barrier, supporting thousands of species and any custom functional annotation, from KEGG and GO to Reactome and disease ontologies.
-</td>
-</tr>
-</table>
 
 
 ## Pillar 3: Microbial Functional Architecture — Microbiome & Metagenomics
 
 The microbiome represents one of the final frontiers in functional discovery. Our team has developed specialized infrastructures to address the unique challenges of inter-species interactions and metabolic flow in microbial communities.
 
-<table style="border:none; font-size: 90%; width:100%;">
-<tr style="border:none;"> 
-<td style="border:none;width:25%">
-<a href="https://github.com/YuLab-SMU/MicrobiotaProcess"><img src="/images/knowledge-mining/microbiome.png" style="width:100%; max-width:1000px;"/></a>
-</td>
-<td style="border:none;">
+
 <strong>Tidy Ecological Mining:</strong> Through [**MicrobiotaProcess**](https://bioconductor.org/packages/MicrobiotaProcess) and [**MicrobiomeProfiler**](https://bioconductor.org/packages/MicrobiomeProfiler), we established a **tidy framework** for microbiome data mining. **MicrobiotaProcess** provides a comprehensive pipeline for ecological analysis (alpha/beta diversity, biomarker discovery), while **MicrobiomeProfiler** enables functional enrichment analysis specifically tailored to the metabolic and genomic context of microbial datasets.
-</td>
-</tr>
-</table>
+
 
 
 ## Pillar 4: Deciphering Cistromic Regulation — From Genomic Location to Function
 
 Biological function is often encoded in the non-coding genome. We developed the infrastructure to bridge the gap between genomic cis-regulatory positions and biological function.
 
-<table style="border:none; font-size: 90%; width:100%;">
-<tr style="border:none;"> 
-<td style="border:none;width:25%">
-<a href="https://academic.oup.com/bioinformatics/article/31/14/2382/255379"><img src="/images/knowledge-mining/chipseeker.png" style="width:100%; max-width:1000px;"/></a>
-</td>
-<td style="border:none;">
+
 <strong>Cistromic Annotation:</strong> [**ChIPseeker**](https://bioconductor.org/packages/ChIPseeker) (<em>Bioinformatics</em> 2015) has become a global cornerstone for epigenomic annotation. It provides a comprehensive framework for annotating genomic peaks (ChIP-seq, ATAC-seq, DNase-seq) with biological context and facilitating cross-dataset comparison and mining within the GEO database.
-</td>
-</tr>
-</table>
+
 
 
 ## Pillar 5: Knowledge-Driven Discovery in Single-Cell & Spatial Omics
 
 As biological data moves toward higher resolution, the integration of prior knowledge becomes essential for interpretability. Our team has pioneered methods to incorporate biological intelligence into single-cell and spatial discovery.
 
-<table style="border:none; font-size: 90%; width:100%;">
-<tr style="border:none;"> 
-<td style="border:none;width:50%">
+
 <strong>Biological Latent Spaces:</strong> Through [**MSGNN**](https://github.com/YuLab-SMU/MSGNN), we proposed integrating biological knowledge priors directly into the graph-based community detection process via graph neural networks. This ensures that single-cell clustering outcomes are not only mathematically robust but also align closely with biological interpretations.
 <br><br>
 <strong>Spatial Functional States:</strong> With [**SVP**](https://github.com/YuLab-SMU/SVP), we introduced a novel paradigm for characterizing cell functional states and identifying spatially variable features, enabling the direct mapping of biological functions (e.g., pathways) across tissue architectures.
-</td>
-<td style="border:none;width:23.5%">
-<a href="https://github.com/YuLab-SMU/MSGNN/"><img src="/images/knowledge-mining/msgnn.png" style="width:100%; max-width:1000px;"/></a>
-</td>
-<td style="border:none;width:23.5%">
-<a href="https://github.com/YuLab-SMU/SVP/"><img src="/images/knowledge-mining/svp.png" style="width:100%; max-width:1000px;"/></a>
-</td>
-</tr>
-</table>
+
 
 
 ## Pillar 6: From Abstract Results to Intuitive Insight — Visual Logic
 
 A functional discovery is only complete when it can be interpreted. Our team has pioneered the "Visual Logic" of enrichment, transforming abstract statistical tables into rigorous visual narratives.
 
-<table style="border:none; font-size: 90%; width:100%;">
-<tr style="border:none;"> 
-<td style="border:none;width:25%">
-<a href="https://guangchuangyu.github.io/software/enrichplot/"><img src="/images/knowledge-mining/enrichplot.png" style="width:100%; max-width:1000px;"/></a>
-</td>
-<td style="border:none;">
+
 <strong>Interpretive Synthesis:</strong> Through [**enrichplot**](https://bioconductor.org/packages/enrichplot), we established the visualization standards for functional discovery. By implementing sophisticated geometries (e.g., dot plots, gene-concept networks, upset plots), **enrichplot** enables researchers to visually synthesize complex enrichment results, uncovering the hidden relationships between biological themes and their underlying molecular drivers.
-</td>
-</tr>
-</table>
+
 
 
 ## Feedback from the academic community
