@@ -23,7 +23,8 @@ Modern scientific discovery relies on the ability to transform high-dimensional 
 
 To address the fragmentation of the R plotting landscape, we developed a suite of tools that unify disparate plotting systems and introduce rigorous layout algebra.
 
-*   **[plotbb](https://github.com/YuLab-SMU/plotbb) & [ggplotify](https://cran.r-project.org/package=ggplotify) (System Interoperability):** **plotbb** brings the Grammar of Graphics to Base R, while **ggplotify** allows researchers to convert virtually any plot object (Base, Lattice, pheatmap, etc.) into a **ggplot2** compatible object, enabling unified themeing and assembly.
+*   **[plotbb](https://github.com/YuLab-SMU/plotbb) (Seamless Base R Bridging):** Brings the Grammar of Graphics to Base R, allowing for structured, layered plotting within the traditional R graphics system.
+*   **[ggplotify](https://cran.r-project.org/package=ggplotify) (System Interoperability):** Allows researchers to convert virtually any plot object (**Base**, **Lattice**, **pheatmap**, etc.) into a **ggplot2** compatible object, enabling seamless integration and complex assembly within the ggplot2 ecosystem.
 *   **[aplot](https://cran.r-project.org/package=aplot) & [aplotExtra](https://github.com/YuLab-SMU/aplotExtra) (Layout Algebra):** These packages introduce an algebraic approach to plot alignment, allowing heterogeneous subplots to reconcile their coordinate systems automatically.
 *   **[ggbreak](https://cran.r-project.org/package=ggbreak) (Dynamic Range Logic):** Provides a seamless, non-destructive method for axis breaks, essential for visualizing datasets with extreme outliers or multi-scale distributions.
 *   **[ggtangle](https://github.com/YuLab-SMU/ggtangle) & [ggflow](https://github.com/YuLab-SMU/ggflow) (Relational & Process Flow):** **ggtangle** reimagines network visualization within the tidy framework, while **ggflow** provides a dedicated grammar for flowcharts and transition processes, bridging the gap between static relationships and dynamic workflows.
@@ -55,6 +56,7 @@ Beyond general-purpose utilities, we have pioneered visualization standards in s
 To bridge the gap between abstract data and human intuition, we developed tools for semantic enrichment and professional branding.
 
 *   **[ggimage](https://cran.r-project.org/package=ggimage) & [scatterpie](https://cran.r-project.org/package=scatterpie):** Extending the visual vocabulary of **ggplot2** to include external imagery and composite geometries (like pie-charts within coordinates), allowing for "presentation-ready" visuals.
+*   **[ggstar](https://cran.r-project.org/package=ggstar) (Multi-Variable Aesthetics):** Provides a comprehensive suite of easily discernible polygonal shapes for **ggplot2**. Similar to `geom_point`, it enables researchers to create scatter plots with enhanced visual distinction across high-dimensional data variables.
 *   **[emojifont](https://cran.r-project.org/package=emojifont), [shadowtext](https://cran.r-project.org/package=shadowtext), & [meme](https://cran.r-project.org/package=meme):** Enhancing semantic storytelling through advanced typography and cultural icons. These tools improve optical clarity through text halos and allow for creative, engaging data interaction, bridging the gap between formal analysis and impactful communication.
 *   **[hexSticker](https://cran.r-project.org/package=hexSticker):** Revolutionizing how R developers brand their work. **hexSticker** has established the "Hex Logo" as the universal symbol of professional R package development.
 
