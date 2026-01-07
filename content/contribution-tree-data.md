@@ -15,7 +15,7 @@ title: "Evolutionary Knowledge Integration: Foundational Infrastructure and Univ
 
 ## Redefining the Backbone: A Foundational Infrastructure for Tree-Based Knowledge Integration
 
-Over the past decade, our work has fundamentally reshaped how the scientific community operates, integrates, and understands tree-structured biological data. By establishing the **definitive global infrastructure** for phylogenetics, we have moved the field beyond simple visualization into a new paradigm of **programmable knowledge synthesis**. Our contributions address the core challenges of data fragmentation, theoretical abstraction, and multi-scale integration, providing the rigorous analytical foundations required for modern systems biology.
+Over the past decade, our work has fundamentally reshaped how the scientific community operates, integrates, and understands tree-structured biological data. By establishing a **widely-adopted infrastructure** for phylogenetics, we have moved the field beyond simple visualization into a new paradigm of **programmable knowledge synthesis**. Our contributions address the core challenges of data fragmentation, theoretical abstraction, and multi-scale integration, providing the rigorous analytical foundations required for modern systems biology.
 
 
 Two monographs have been published to introduce this series of work: "[Data integration, manipulation and visualization of phylogenetic trees](https://www.routledge.com/Data-Integration-Manipulation-and-Visualization-of-Phylogenetic-Trees/Yu/p/book/9781032233574)" (in English) by CRC Press and 《[R实战：系统发育树的数据集成操作与可视化](https://weread.qq.com/web/bookDetail/8ad32a00813ab81bbg0183d2)》 (in Chinese) by Publishing House of Electronics Industry (电子工业出版社).
@@ -40,11 +40,11 @@ The outputs of phylogenetic tools have historically been confined to fragmented,
 Before our work, tree visualization was largely restricted to topological display. We pioneered the application of the **Grammar of Graphics** to phylogenetics through [**ggtree**](https://bioconductor.org/packages/ggtree), decoupling evolutionary data from its visual representation.
 
 
-<strong>Global Standards:</strong> **ggtree** has become the <em>de facto</em> global standard for tree annotation, cited in thousands of studies across high-impact journals. Recognized as a "representative work" for the 10th anniversary of <em>Methods in Ecology and Evolution</em>, it provides a high-level abstraction that allows for infinite extensibility in mapping omics data onto evolutionary histories.
+<strong>Global Standards:</strong> **ggtree** has become a widely-adopted tool for tree annotation, cited in thousands of studies across high-impact journals. Recognized as a "representative work" for the 10th anniversary of <em>Methods in Ecology and Evolution</em>, it provides a high-level abstraction that allows for infinite extensibility in mapping omics data onto evolutionary histories.
 
 
 
-## Pillar 3: Multi-Layer Synthesis & Spatial Algebra — Mastering Complexity
+## Pillar 3: Multi-Layer Synthesis & Data-Driven Integration — Mastering Complexity
 
 As omics data reached unprecedented scales, our team introduced the **"Data-to-Tree" paradigm** in foundational work published in [*Molecular Biology and Evolution*](https://academic.oup.com/mbe/article-abstract/35/12/3041/5142656) in 2018 (ESI highly cited). This work proposed two comprehensive methods that redefined the integration of heterogeneous data within a unified evolutionary context.
 
@@ -52,12 +52,13 @@ As omics data reached unprecedented scales, our team introduced the **"Data-to-T
 <strong>Theoretical Foundations & universal derivatives:</strong> 
 The two methods introduced in 2018 have since evolved from specialized phylogenetic tools into universal visualization standards:
 - **Method 1 (Topological Mapping):** Focused on mapping data directly onto tree structures, this paradigm evolved into [**ggtangle**](https://github.com/YuLab-SMU/ggtangle) for universal tidy-network visualization.
-- **Method 2 (Coordinate Alignment):** Focused on reconciling disparate data layers with tree topology, this logic provided the foundational architecture for [**aplot**](https://cran.r-project.org/package=aplot), the global standard for multi-layer plot alignment.
+- **Method 2 (Coordinate Alignment):** Focused on reconciling disparate data layers with tree topology, this logic provided the foundational architecture for [**aplot**](https://cran.r-project.org/package=aplot), a widely-adopted tool for multi-layer plot alignment.
 <br>
 <strong>Expanding the Ecosystem:</strong> These principles were further extended to address specialized biological data types and relational structures:
-- **Molecular Context (ggmsa):** Integrating sequence-level information is critical for understanding the molecular basis of evolution. [**ggmsa**](https://bioconductor.org/packages/ggmsa) provides a modular grammar for multiple sequence alignment (MSA) visualization, enabling the seamless overlay of structural and genomic conservation data onto phylogenetic trees.
-- **Relational Flow (ggflow):** Beyond static structures, biological evolution and research protocols involve directional transitions. [**ggflow**](https://github.com/YuLab-SMU/ggflow) introduces a grammar for visualizing flowcharts and process transitions, allowing researchers to document analytical workflows or evolutionary state-change paths within the same ecosystem.
-- **Spatial & Layered Complexity (ggtreeExtra & ggtreeSpace):** **ggtreeExtra** handles massive multi-omics layers in complex layouts, while **ggtreeSpace** explores the geometric mapping of evolutionary distances.
+- **Molecular Context (ggmsa):** Integrating sequence-level information is critical for understanding the molecular basis of evolution. [**ggmsa**](https://bioconductor.org/packages/ggmsa) provides a modular grammar for multiple sequence alignment (MSA) visualization, enabling the side-by-side alignment of structural and genomic conservation data with phylogenetic trees.
+- **Relational Flow (ggflow):** Beyond static structures, biological evolution and research protocols involve directional transitions. [**ggflow**](https://github.com/YuLab-SMU/ggflow) introduces a grammar for visualizing tree-like flowcharts and process transitions, allowing researchers to document analytical workflows or evolutionary state-change paths within the same ecosystem.
+- **Layered Complexity (ggtreeExtra):** [**ggtreeExtra**](https://bioconductor.org/packages/ggtreeExtra) handles massive multi-omics layers in complex layouts, enabling the integration of diverse data types around phylogenetic trees.
+- **Spatial Mapping (ggtreeSpace):** [**ggtreeSpace**](https://github.com/YuLab-SMU/ggtreeSpace) explores the geometric mapping of evolutionary distances, providing spatial representations of phylogenetic relationships.
 <br>
 <strong>Programmable Reproducibility:</strong> Our work in <em>iMeta</em> (2022) established the **ggtree** object—a programmable structure that ensures analytical reproducibility by encapsulating trees, data, and visualization directives.
 
