@@ -15,24 +15,34 @@
 <meta name="author" content="YuLab-SMU">
 <meta name="description" content="
 
-  Defining the Standards: A Universal Framework for Multi-Scale Scientific Visualization
+  Data Visualization Ecosystem
   
     
     Link to heading
   
 
-Modern scientific discovery relies on the ability to transform high-dimensional data into intuitive, accurate, and reproducible visual narratives. Our work has established a comprehensive visualization ecosystem that spans from foundational plotting frameworks to specialized interpretation frameworks for phylogeny and functional omics.">
+We have developed a suite of software tools to transform data into intuitive and accurate visual narratives. This ecosystem spans from foundational plotting frameworks to specialized visualization tools for phylogeny and functional omics.
+
+  1. General Purpose Plotting Tools
+  
+    
+    Link to heading
+  
+
+To address the fragmentation of the R plotting landscape, we developed a suite of tools that unify disparate plotting systems and introduce data-driven alignment.">
 <meta name="keywords" content="developer,bioinformatics,omics,visualization">
 
 
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="Visualizing Complexity: A Universal Ecosystem for Multi-Scale Scientific Discovery">
-  <meta name="twitter:description" content="Defining the Standards: A Universal Framework for Multi-Scale Scientific Visualization Link to heading Modern scientific discovery relies on the ability to transform high-dimensional data into intuitive, accurate, and reproducible visual narratives. Our work has established a comprehensive visualization ecosystem that spans from foundational plotting frameworks to specialized interpretation frameworks for phylogeny and functional omics.">
+  <meta name="twitter:description" content="Data Visualization Ecosystem Link to heading We have developed a suite of software tools to transform data into intuitive and accurate visual narratives. This ecosystem spans from foundational plotting frameworks to specialized visualization tools for phylogeny and functional omics.
+1. General Purpose Plotting Tools Link to heading To address the fragmentation of the R plotting landscape, we developed a suite of tools that unify disparate plotting systems and introduce data-driven alignment.">
 
 <meta property="og:url" content="http://yulab-smu.top/contribution-data-visualization/">
   <meta property="og:site_name" content="YuLab@SMU">
   <meta property="og:title" content="Visualizing Complexity: A Universal Ecosystem for Multi-Scale Scientific Discovery">
-  <meta property="og:description" content="Defining the Standards: A Universal Framework for Multi-Scale Scientific Visualization Link to heading Modern scientific discovery relies on the ability to transform high-dimensional data into intuitive, accurate, and reproducible visual narratives. Our work has established a comprehensive visualization ecosystem that spans from foundational plotting frameworks to specialized interpretation frameworks for phylogeny and functional omics.">
+  <meta property="og:description" content="Data Visualization Ecosystem Link to heading We have developed a suite of software tools to transform data into intuitive and accurate visual narratives. This ecosystem spans from foundational plotting frameworks to specialized visualization tools for phylogeny and functional omics.
+1. General Purpose Plotting Tools Link to heading To address the fragmentation of the R plotting landscape, we developed a suite of tools that unify disparate plotting systems and introduce data-driven alignment.">
   <meta property="og:locale" content="en">
   <meta property="og:type" content="article">
 
@@ -166,70 +176,69 @@ Modern scientific discovery relies on the ability to transform high-dimensional 
         }
     }
 </style>
-<h2 id="defining-the-standards-a-universal-framework-for-multi-scale-scientific-visualization">
-  Defining the Standards: A Universal Framework for Multi-Scale Scientific Visualization
-  <a class="heading-link" href="#defining-the-standards-a-universal-framework-for-multi-scale-scientific-visualization">
+<h2 id="data-visualization-ecosystem">
+  Data Visualization Ecosystem
+  <a class="heading-link" href="#data-visualization-ecosystem">
     <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
     <span class="sr-only">Link to heading</span>
   </a>
 </h2>
-<p>Modern scientific discovery relies on the ability to transform high-dimensional data into intuitive, accurate, and reproducible visual narratives. Our work has established a <strong>comprehensive visualization ecosystem</strong> that spans from foundational plotting frameworks to specialized interpretation frameworks for phylogeny and functional omics.</p>
-<h2 id="1-methodological-foundations-bridging-systems-and-logics">
-  1. Methodological Foundations: Bridging Systems and Logics
-  <a class="heading-link" href="#1-methodological-foundations-bridging-systems-and-logics">
+<p>We have developed a suite of software tools to transform data into intuitive and accurate visual narratives. This ecosystem spans from foundational plotting frameworks to specialized visualization tools for phylogeny and functional omics.</p>
+<h2 id="1-general-purpose-plotting-tools">
+  1. General Purpose Plotting Tools
+  <a class="heading-link" href="#1-general-purpose-plotting-tools">
     <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
     <span class="sr-only">Link to heading</span>
   </a>
 </h2>
-<p>To address the fragmentation of the R plotting landscape, we developed a suite of tools that unify disparate plotting systems and introduce rigorous data-driven alignment.</p>
+<p>To address the fragmentation of the R plotting landscape, we developed a suite of tools that unify disparate plotting systems and introduce data-driven alignment.</p>
 <ul>
-<li><strong><a href="https://github.com/YuLab-SMU/plotbb"  class="external-link" target="_blank" rel="noopener">plotbb</a> (Grammar of Graphics for Base R):</strong> Brings the Grammar of Graphics to Base R, allowing for structured, layered plotting within the traditional R graphics system.</li>
-<li><strong><a href="https://cran.r-project.org/package=ggplotify"  class="external-link" target="_blank" rel="noopener">ggplotify</a> (System Interoperability):</strong> Allows researchers to convert virtually any plot object (<strong>Base</strong>, <strong>Lattice</strong>, <strong>pheatmap</strong>, etc.) into a <strong>ggplot2</strong> compatible object, enabling seamless integration and complex assembly within the ggplot2 ecosystem.</li>
-<li><strong><a href="https://cran.r-project.org/package=aplot"  class="external-link" target="_blank" rel="noopener">aplot</a> &amp; <a href="https://github.com/YuLab-SMU/aplotExtra"  class="external-link" target="_blank" rel="noopener">aplotExtra</a> (Data-Driven Alignment):</strong> Moving beyond simple figure assembly, this suite introduces a systematic approach to automatically synchronize coordinate systems based on the underlying data structure (e.g., matching axes and reordering categories), ensuring heterogeneous subplots are both statistically and spatially congruent.</li>
-<li><strong><a href="https://cran.r-project.org/package=ggbreak"  class="external-link" target="_blank" rel="noopener">ggbreak</a> (Dynamic Range Logic):</strong> Provides a seamless, non-destructive method for axis breaks, essential for visualizing datasets with extreme outliers or multi-scale distributions.</li>
-<li><strong><a href="https://github.com/YuLab-SMU/ggtangle"  class="external-link" target="_blank" rel="noopener">ggtangle</a> &amp; <a href="https://github.com/YuLab-SMU/ggflow"  class="external-link" target="_blank" rel="noopener">ggflow</a> (Relational &amp; Process Flow):</strong> <strong>ggtangle</strong> reimagines network visualization within the tidy framework, while <strong>ggflow</strong> provides a dedicated grammar for flowcharts and transition processes, bridging the gap between static relationships and dynamic workflows.</li>
-<li><strong><a href="https://cran.r-project.org/package=ggfun"  class="external-link" target="_blank" rel="noopener">ggfun</a> (Utilities):</strong> Provides foundational utilities that enhance the developer and user experience across the entire ecosystem.</li>
+<li><strong><a href="https://github.com/YuLab-SMU/plotbb"  class="external-link" target="_blank" rel="noopener">plotbb</a>:</strong> Brings the Grammar of Graphics to Base R, allowing for structured, layered plotting within the traditional R graphics system.</li>
+<li><strong><a href="https://cran.r-project.org/package=ggplotify"  class="external-link" target="_blank" rel="noopener">ggplotify</a>:</strong> Allows researchers to convert virtually any plot object (<strong>Base</strong>, <strong>Lattice</strong>, <strong>pheatmap</strong>, etc.) into a <strong>ggplot2</strong> compatible object, enabling seamless integration and complex assembly within the ggplot2 ecosystem.</li>
+<li><strong><a href="https://cran.r-project.org/package=aplot"  class="external-link" target="_blank" rel="noopener">aplot</a> &amp; <a href="https://github.com/YuLab-SMU/aplotExtra"  class="external-link" target="_blank" rel="noopener">aplotExtra</a>:</strong> Moving beyond simple figure assembly, this suite introduces a systematic approach to automatically synchronize coordinate systems based on the underlying data structure (e.g., matching axes and reordering categories), ensuring heterogeneous subplots are both statistically and spatially congruent.</li>
+<li><strong><a href="https://cran.r-project.org/package=ggbreak"  class="external-link" target="_blank" rel="noopener">ggbreak</a>:</strong> Provides a seamless, non-destructive method for axis breaks, essential for visualizing datasets with extreme outliers or multi-scale distributions.</li>
+<li><strong><a href="https://github.com/YuLab-SMU/ggtangle"  class="external-link" target="_blank" rel="noopener">ggtangle</a> &amp; <a href="https://github.com/YuLab-SMU/ggflow"  class="external-link" target="_blank" rel="noopener">ggflow</a>:</strong> <strong>ggtangle</strong> visualizes networks within the tidy framework, while <strong>ggflow</strong> provides a dedicated grammar for flowcharts and transition processes.</li>
+<li><strong><a href="https://cran.r-project.org/package=ggfun"  class="external-link" target="_blank" rel="noopener">ggfun</a>:</strong> Provides foundational utilities that enhance the developer and user experience across the entire ecosystem.</li>
 </ul>
-<p><strong>Logic Unification:</strong> Together, these tools establish a unified framework that bridges plotting systems, enables cross-system interoperability, and introduces intelligent data-driven alignment—transforming the creation of complex, multi-panel figures from a manual challenge into a systematic, reproducible workflow.</p>
-<h2 id="2-specialized-academic-domains-deep-integration">
-  2. Specialized Academic Domains: Deep Integration
-  <a class="heading-link" href="#2-specialized-academic-domains-deep-integration">
+<p>These tools establish a unified framework that bridges plotting systems, enables cross-system interoperability, and introduces intelligent data-driven alignment.</p>
+<h2 id="2-specialized-visualization-tools">
+  2. Specialized Visualization Tools
+  <a class="heading-link" href="#2-specialized-visualization-tools">
     <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
     <span class="sr-only">Link to heading</span>
   </a>
 </h2>
-<p>Beyond general-purpose utilities, we have pioneered visualization standards in specific high-impact biological domains.</p>
+<p>Beyond general-purpose utilities, we have developed visualization tools for specific biological domains.</p>
 <ul>
-<li><strong>Evolutionary Narratives (<a href="/contribution-tree-data" >Phylogenetic Contribution</a>):</strong> Led by <a href="https://bioconductor.org/packages/ggtree"  class="external-link" target="_blank" rel="noopener"><strong>ggtree</strong></a>, <a href="https://bioconductor.org/packages/ggtreeExtra"  class="external-link" target="_blank" rel="noopener"><strong>ggtreeExtra</strong></a>, <a href="https://github.com/YuLab-SMU/ggtreeSpace"  class="external-link" target="_blank" rel="noopener"><strong>ggtreeSpace</strong></a>, and <a href="https://bioconductor.org/packages/ggtreeDendro"  class="external-link" target="_blank" rel="noopener"><strong>ggtreeDendro</strong></a>, this suite has redefined how tree-structured data—ranging from deep evolutionary relationships to hierarchical clustering (dendrograms)—is integrated with multi-omics layers, becoming the de facto global standard.</li>
-<li><strong>Functional Discovery (<a href="/contribution-knowledge-mining" >Knowledge Mining Contribution</a>):</strong> <a href="https://bioconductor.org/packages/enrichplot"  class="external-link" target="_blank" rel="noopener"><strong>enrichplot</strong></a> transforms abstract enrichment results into statistically rigorous and biologically intuitive visual insights, enabling the automated interpretation of massive omics datasets.</li>
-<li><strong>Sequence &amp; Genomic Landscapes:</strong> <a href="https://github.com/YuLab-SMU/seqcombo"  class="external-link" target="_blank" rel="noopener"><strong>seqcombo</strong></a> and <a href="https://bioconductor.org/packages/ggmsa"  class="external-link" target="_blank" rel="noopener"><strong>ggmsa</strong></a> provide a modular grammar for multiple sequence alignment and the visualization of <strong>genomic reassortment</strong> events. These tools facilitate the visual exploration of segmental exchanges and complex evolutionary associations, ensuring that structural and genomic conservation is accessible at multiple scales.</li>
-<li><strong>Single-Cell &amp; Fine-Scale Omics:</strong> <a href="https://github.com/YuLab-SMU/ggsc"  class="external-link" target="_blank" rel="noopener"><strong>ggsc</strong></a> and <a href="https://github.com/YuLab-SMU/ivolcano"  class="external-link" target="_blank" rel="noopener"><strong>ivolcano</strong></a> address the unique needs of high-resolution data, providing specialized geometries and interactive exploration for single-cell clusters and differential expression.</li>
-<li><strong>Glycobiology &amp; Complex Carbohydrates:</strong> <a href="https://github.com/YuLab-SMU/gglycan"  class="external-link" target="_blank" rel="noopener"><strong>gglycan</strong></a> introduces a grammar for visualizing complex glycan structures. By supporting standard symbolic nomenclature (e.g., SNFG), it enables researchers to integrate glycomic data with other biological layers.</li>
+<li><strong>Phylogenetic Visualization (<a href="/contribution-tree-data" >Phylogenetic Contribution</a>):</strong> Led by <a href="https://bioconductor.org/packages/ggtree"  class="external-link" target="_blank" rel="noopener"><strong>ggtree</strong></a>, <a href="https://bioconductor.org/packages/ggtreeExtra"  class="external-link" target="_blank" rel="noopener"><strong>ggtreeExtra</strong></a>, <a href="https://github.com/YuLab-SMU/ggtreeSpace"  class="external-link" target="_blank" rel="noopener"><strong>ggtreeSpace</strong></a>, and <a href="https://bioconductor.org/packages/ggtreeDendro"  class="external-link" target="_blank" rel="noopener"><strong>ggtreeDendro</strong></a>, this suite facilitates the integration of tree-structured data with multi-omics layers.</li>
+<li><strong>Functional Enrichment (<a href="/contribution-knowledge-mining" >Knowledge Mining Contribution</a>):</strong> <a href="https://bioconductor.org/packages/enrichplot"  class="external-link" target="_blank" rel="noopener"><strong>enrichplot</strong></a> transforms enrichment results into biologically intuitive visual insights, enabling the automated interpretation of omics datasets.</li>
+<li><strong>Sequence &amp; Genomic Visualization:</strong> <a href="https://github.com/YuLab-SMU/seqcombo"  class="external-link" target="_blank" rel="noopener"><strong>seqcombo</strong></a> and <a href="https://bioconductor.org/packages/ggmsa"  class="external-link" target="_blank" rel="noopener"><strong>ggmsa</strong></a> provide a modular grammar for multiple sequence alignment and the visualization of genomic reassortment events.</li>
+<li><strong>Single-Cell &amp; Fine-Scale Omics:</strong> <a href="https://github.com/YuLab-SMU/ggsc"  class="external-link" target="_blank" rel="noopener"><strong>ggsc</strong></a> and <a href="https://github.com/YuLab-SMU/ivolcano"  class="external-link" target="_blank" rel="noopener"><strong>ivolcano</strong></a> address the unique needs of high-resolution data, providing specialized geometries for single-cell clusters and differential expression.</li>
+<li><strong>Glycobiology:</strong> <a href="https://cran.r-project.org/package=gglycan"  class="external-link" target="_blank" rel="noopener"><strong>gglycan</strong></a> introduces a grammar for visualizing complex glycan structures, supporting standard symbolic nomenclature (e.g., SNFG).</li>
 </ul>
-<p><strong>Domain Leadership:</strong> These tools are not mere plotting scripts but are <strong>interpretative frameworks</strong> cited in thousands of studies across <em>Nature</em>, <em>Science</em>, and <em>Cell</em>.</p>
-<h2 id="3-semantic-enrichment--scientific-communication">
-  3. Semantic Enrichment &amp; Scientific Communication
-  <a class="heading-link" href="#3-semantic-enrichment--scientific-communication">
+<p>These tools are widely used in biological research and cited in numerous studies.</p>
+<h2 id="3-semantic-enrichment">
+  3. Semantic Enrichment
+  <a class="heading-link" href="#3-semantic-enrichment">
     <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
     <span class="sr-only">Link to heading</span>
   </a>
 </h2>
 <p>To bridge the gap between abstract data and human intuition, we developed tools for semantic enrichment and professional branding.</p>
 <ul>
-<li><strong><a href="https://cran.r-project.org/package=ggimage"  class="external-link" target="_blank" rel="noopener">ggimage</a> &amp; <a href="https://cran.r-project.org/package=scatterpie"  class="external-link" target="_blank" rel="noopener">scatterpie</a>:</strong> Extending the visual vocabulary of <strong>ggplot2</strong> to include external imagery and composite geometries (like pie-charts within coordinates), allowing for &ldquo;presentation-ready&rdquo; visuals.</li>
-<li><strong><a href="https://cran.r-project.org/package=ggstar"  class="external-link" target="_blank" rel="noopener">ggstar</a> (Multi-Variable Aesthetics):</strong> Provides a comprehensive suite of easily discernible polygonal shapes for <strong>ggplot2</strong>. Similar to <code>geom_point</code>, it enables researchers to create scatter plots with enhanced visual distinction across high-dimensional data variables.</li>
-<li><strong><a href="https://cran.r-project.org/package=emojifont"  class="external-link" target="_blank" rel="noopener">emojifont</a>, <a href="https://cran.r-project.org/package=shadowtext"  class="external-link" target="_blank" rel="noopener">shadowtext</a>, &amp; <a href="https://cran.r-project.org/package=meme"  class="external-link" target="_blank" rel="noopener">meme</a>:</strong> Enhancing semantic storytelling through advanced typography and cultural icons. These tools improve optical clarity through text halos and allow for creative, engaging data interaction, bridging the gap between formal analysis and impactful communication.</li>
-<li><strong><a href="https://cran.r-project.org/package=hexSticker"  class="external-link" target="_blank" rel="noopener">hexSticker</a>:</strong> Facilitating professional branding for R developers. <strong>hexSticker</strong> has established the &ldquo;Hex Logo&rdquo; as the universal symbol of professional R package development.</li>
+<li><strong><a href="https://cran.r-project.org/package=ggimage"  class="external-link" target="_blank" rel="noopener">ggimage</a> &amp; <a href="https://cran.r-project.org/package=scatterpie"  class="external-link" target="_blank" rel="noopener">scatterpie</a>:</strong> Extending the visual vocabulary of <strong>ggplot2</strong> to include external imagery and composite geometries.</li>
+<li><strong><a href="https://cran.r-project.org/package=ggstar"  class="external-link" target="_blank" rel="noopener">ggstar</a>:</strong> Provides a comprehensive suite of easily discernible polygonal shapes for <strong>ggplot2</strong>.</li>
+<li><strong><a href="https://cran.r-project.org/package=emojifont"  class="external-link" target="_blank" rel="noopener">emojifont</a>, <a href="https://cran.r-project.org/package=shadowtext"  class="external-link" target="_blank" rel="noopener">shadowtext</a>, &amp; <a href="https://cran.r-project.org/package=meme"  class="external-link" target="_blank" rel="noopener">meme</a>:</strong> Enhancing semantic storytelling through advanced typography and cultural icons.</li>
+<li><strong><a href="https://cran.r-project.org/package=hexSticker"  class="external-link" target="_blank" rel="noopener">hexSticker</a>:</strong> Facilitating professional branding for R developers to create sticker for R packages.</li>
 </ul>
-<p><strong>Scientific Communication:</strong> These tools empower researchers to communicate complex data with clarity, impact, and professional polish, fostering broader adoption of open-source science.</p>
-<h2 id="community-impact--influence">
-  Community Impact &amp; Influence
-  <a class="heading-link" href="#community-impact--influence">
+<h2 id="community-impact">
+  Community Impact
+  <a class="heading-link" href="#community-impact">
     <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
     <span class="sr-only">Link to heading</span>
   </a>
 </h2>
-<p>Our visualization frameworks have achieved global adoption, with <strong>multi-million downloads</strong> and integration into hundreds of third-party packages. This work serves as the foundational infrastructure for modern bioinformatics visualization workflows, cited in top-tier journals world-wide.</p>
+<p>Our visualization frameworks have been widely adopted and integrated into many third-party packages. This work serves as important infrastructure for bioinformatics visualization workflows.</p>
 <hr>
 <h2 id="selected-publications">
   Selected Publications
