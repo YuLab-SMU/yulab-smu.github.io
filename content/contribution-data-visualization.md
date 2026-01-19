@@ -13,60 +13,47 @@ title: "Visualizing Complexity: A Universal Ecosystem for Multi-Scale Scientific
 </style>
 
 
-## Defining the Standards: A Universal Framework for Multi-Scale Scientific Visualization
+## Data Visualization Ecosystem
 
-Modern scientific discovery relies on the ability to transform high-dimensional data into intuitive, accurate, and reproducible visual narratives. Our work has established a **comprehensive visualization ecosystem** that spans from foundational plotting frameworks to specialized interpretation frameworks for phylogeny and functional omics.
+We have developed a suite of software tools to transform data into intuitive and accurate visual narratives. This ecosystem spans from foundational plotting frameworks to specialized visualization tools for phylogeny and functional omics.
 
-## 1. Methodological Foundations: Bridging Systems and Logics
+## 1. General Purpose Plotting Tools
 
+To address the fragmentation of the R plotting landscape, we developed a suite of tools that unify disparate plotting systems and introduce data-driven alignment.
 
+*   **[plotbb](https://github.com/YuLab-SMU/plotbb):** Brings the Grammar of Graphics to Base R, allowing for structured, layered plotting within the traditional R graphics system.
+*   **[ggplotify](https://cran.r-project.org/package=ggplotify):** Allows researchers to convert virtually any plot object (**Base**, **Lattice**, **pheatmap**, etc.) into a **ggplot2** compatible object, enabling seamless integration and complex assembly within the ggplot2 ecosystem.
+*   **[aplot](https://cran.r-project.org/package=aplot) & [aplotExtra](https://github.com/YuLab-SMU/aplotExtra):** Moving beyond simple figure assembly, this suite introduces a systematic approach to automatically synchronize coordinate systems based on the underlying data structure (e.g., matching axes and reordering categories), ensuring heterogeneous subplots are both statistically and spatially congruent.
+*   **[ggbreak](https://cran.r-project.org/package=ggbreak):** Provides a seamless, non-destructive method for axis breaks, essential for visualizing datasets with extreme outliers or multi-scale distributions.
+*   **[ggtangle](https://github.com/YuLab-SMU/ggtangle) & [ggflow](https://github.com/YuLab-SMU/ggflow):** **ggtangle** visualizes networks within the tidy framework, while **ggflow** provides a dedicated grammar for flowcharts and transition processes.
+*   **[ggfun](https://cran.r-project.org/package=ggfun):** Provides foundational utilities that enhance the developer and user experience across the entire ecosystem.
 
-To address the fragmentation of the R plotting landscape, we developed a suite of tools that unify disparate plotting systems and introduce rigorous data-driven alignment.
+These tools establish a unified framework that bridges plotting systems, enables cross-system interoperability, and introduces intelligent data-driven alignment.
 
-*   **[plotbb](https://github.com/YuLab-SMU/plotbb) (Grammar of Graphics for Base R):** Brings the Grammar of Graphics to Base R, allowing for structured, layered plotting within the traditional R graphics system.
-*   **[ggplotify](https://cran.r-project.org/package=ggplotify) (System Interoperability):** Allows researchers to convert virtually any plot object (**Base**, **Lattice**, **pheatmap**, etc.) into a **ggplot2** compatible object, enabling seamless integration and complex assembly within the ggplot2 ecosystem.
-*   **[aplot](https://cran.r-project.org/package=aplot) & [aplotExtra](https://github.com/YuLab-SMU/aplotExtra) (Data-Driven Alignment):** Moving beyond simple figure assembly, this suite introduces a systematic approach to automatically synchronize coordinate systems based on the underlying data structure (e.g., matching axes and reordering categories), ensuring heterogeneous subplots are both statistically and spatially congruent.
-*   **[ggbreak](https://cran.r-project.org/package=ggbreak) (Dynamic Range Logic):** Provides a seamless, non-destructive method for axis breaks, essential for visualizing datasets with extreme outliers or multi-scale distributions.
-*   **[ggtangle](https://github.com/YuLab-SMU/ggtangle) & [ggflow](https://github.com/YuLab-SMU/ggflow) (Relational & Process Flow):** **ggtangle** reimagines network visualization within the tidy framework, while **ggflow** provides a dedicated grammar for flowcharts and transition processes, bridging the gap between static relationships and dynamic workflows.
-*   **[ggfun](https://cran.r-project.org/package=ggfun) (Utilities):** Provides foundational utilities that enhance the developer and user experience across the entire ecosystem.
+## 2. Specialized Visualization Tools
 
+Beyond general-purpose utilities, we have developed visualization tools for specific biological domains.
 
-<strong>Logic Unification:</strong> Together, these tools establish a unified framework that bridges plotting systems, enables cross-system interoperability, and introduces intelligent data-driven alignment—transforming the creation of complex, multi-panel figures from a manual challenge into a systematic, reproducible workflow.
+*   **Phylogenetic Visualization ([Phylogenetic Contribution](/contribution-tree-data)):** Led by [**ggtree**](https://bioconductor.org/packages/ggtree), [**ggtreeExtra**](https://bioconductor.org/packages/ggtreeExtra), [**ggtreeSpace**](https://github.com/YuLab-SMU/ggtreeSpace), and [**ggtreeDendro**](https://bioconductor.org/packages/ggtreeDendro), this suite facilitates the integration of tree-structured data with multi-omics layers.
+*   **Functional Enrichment ([Knowledge Mining Contribution](/contribution-knowledge-mining)):** [**enrichplot**](https://bioconductor.org/packages/enrichplot) transforms enrichment results into biologically intuitive visual insights, enabling the automated interpretation of omics datasets.
+*   **Sequence & Genomic Visualization:** [**seqcombo**](https://github.com/YuLab-SMU/seqcombo) and [**ggmsa**](https://bioconductor.org/packages/ggmsa) provide a modular grammar for multiple sequence alignment and the visualization of genomic reassortment events.
+*   **Single-Cell & Fine-Scale Omics:** [**ggsc**](https://github.com/YuLab-SMU/ggsc) and [**ivolcano**](https://github.com/YuLab-SMU/ivolcano) address the unique needs of high-resolution data, providing specialized geometries for single-cell clusters and differential expression.
+*   **Glycobiology:** [**gglycan**](https://cran.r-project.org/package=gglycan) introduces a grammar for visualizing complex glycan structures, supporting standard symbolic nomenclature (e.g., SNFG).
 
-## 2. Specialized Academic Domains: Deep Integration
+These tools are widely used in biological research and cited in numerous studies.
 
-
-
-Beyond general-purpose utilities, we have pioneered visualization standards in specific high-impact biological domains.
-
-*   **Evolutionary Narratives ([Phylogenetic Contribution](/contribution-tree-data)):** Led by [**ggtree**](https://bioconductor.org/packages/ggtree), [**ggtreeExtra**](https://bioconductor.org/packages/ggtreeExtra), [**ggtreeSpace**](https://github.com/YuLab-SMU/ggtreeSpace), and [**ggtreeDendro**](https://bioconductor.org/packages/ggtreeDendro), this suite has redefined how tree-structured data—ranging from deep evolutionary relationships to hierarchical clustering (dendrograms)—is integrated with multi-omics layers, becoming the de facto global standard.
-*   **Functional Discovery ([Knowledge Mining Contribution](/contribution-knowledge-mining)):** [**enrichplot**](https://bioconductor.org/packages/enrichplot) transforms abstract enrichment results into statistically rigorous and biologically intuitive visual insights, enabling the automated interpretation of massive omics datasets.
-*   **Sequence & Genomic Landscapes:** [**seqcombo**](https://github.com/YuLab-SMU/seqcombo) and [**ggmsa**](https://bioconductor.org/packages/ggmsa) provide a modular grammar for multiple sequence alignment and the visualization of **genomic reassortment** events. These tools facilitate the visual exploration of segmental exchanges and complex evolutionary associations, ensuring that structural and genomic conservation is accessible at multiple scales.
-*   **Single-Cell & Fine-Scale Omics:** [**ggsc**](https://github.com/YuLab-SMU/ggsc) and [**ivolcano**](https://github.com/YuLab-SMU/ivolcano) address the unique needs of high-resolution data, providing specialized geometries and interactive exploration for single-cell clusters and differential expression.
-*   **Glycobiology & Complex Carbohydrates:** [**gglycan**](https://github.com/YuLab-SMU/gglycan) introduces a grammar for visualizing complex glycan structures. By supporting standard symbolic nomenclature (e.g., SNFG), it enables researchers to integrate glycomic data with other biological layers.
-
-
-<strong>Domain Leadership:</strong> These tools are not mere plotting scripts but are **interpretative frameworks** cited in thousands of studies across <em>Nature</em>, <em>Science</em>, and <em>Cell</em>.
-
-
-## 3. Semantic Enrichment & Scientific Communication
-
-
+## 3. Semantic Enrichment
 
 To bridge the gap between abstract data and human intuition, we developed tools for semantic enrichment and professional branding.
 
-*   **[ggimage](https://cran.r-project.org/package=ggimage) & [scatterpie](https://cran.r-project.org/package=scatterpie):** Extending the visual vocabulary of **ggplot2** to include external imagery and composite geometries (like pie-charts within coordinates), allowing for "presentation-ready" visuals.
-*   **[ggstar](https://cran.r-project.org/package=ggstar) (Multi-Variable Aesthetics):** Provides a comprehensive suite of easily discernible polygonal shapes for **ggplot2**. Similar to `geom_point`, it enables researchers to create scatter plots with enhanced visual distinction across high-dimensional data variables.
-*   **[emojifont](https://cran.r-project.org/package=emojifont), [shadowtext](https://cran.r-project.org/package=shadowtext), & [meme](https://cran.r-project.org/package=meme):** Enhancing semantic storytelling through advanced typography and cultural icons. These tools improve optical clarity through text halos and allow for creative, engaging data interaction, bridging the gap between formal analysis and impactful communication.
-*   **[hexSticker](https://cran.r-project.org/package=hexSticker):** Facilitating professional branding for R developers. **hexSticker** has established the "Hex Logo" as the universal symbol of professional R package development.
+*   **[ggimage](https://cran.r-project.org/package=ggimage) & [scatterpie](https://cran.r-project.org/package=scatterpie):** Extending the visual vocabulary of **ggplot2** to include external imagery and composite geometries.
+*   **[ggstar](https://cran.r-project.org/package=ggstar):** Provides a comprehensive suite of easily discernible polygonal shapes for **ggplot2**.
+*   **[emojifont](https://cran.r-project.org/package=emojifont), [shadowtext](https://cran.r-project.org/package=shadowtext), & [meme](https://cran.r-project.org/package=meme):** Enhancing semantic storytelling through advanced typography and cultural icons.
+*   **[hexSticker](https://cran.r-project.org/package=hexSticker):** Facilitating professional branding for R developers to create sticker for R packages.
 
+## Community Impact
 
-<strong>Scientific Communication:</strong> These tools empower researchers to communicate complex data with clarity, impact, and professional polish, fostering broader adoption of open-source science.
-
-
-## Community Impact & Influence
-
-Our visualization frameworks have achieved global adoption, with **multi-million downloads** and integration into hundreds of third-party packages. This work serves as the foundational infrastructure for modern bioinformatics visualization workflows, cited in top-tier journals world-wide.
+Our visualization frameworks have been widely adopted and integrated into many third-party packages. This work serves as important infrastructure for bioinformatics visualization workflows.
 
 ---
 

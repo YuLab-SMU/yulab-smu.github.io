@@ -3,7 +3,9 @@ slug: news
 title: News
 ---
 
-<strong><font color="green">Jan 2026</font></strong>: **ChIPseeker** 包的继任者 [epiSeeker](http://www.bioconductor.org/packages/epiSeeker) 在Bioconductor上发布。
+<strong><font color="green">Jan 2026</font></strong>: R包 [gglycan](https://cran.r-project.org/package=gglycan) 在CRAN发布，实现了对 glycan 结构的可视化。
+
+<strong><font color="green">Jan 2026</font></strong>: **ChIPseeker** 包的继任者 [epiSeeker](http://www.bioconductor.org/packages/epiSeeker) 在Bioconductor发布。
 
 <strong><font color="green">Dec 2025</font></strong>: R包[enrichit](https://cran.r-project.org/package=enrichit) 在CRAN发布，实现功能富集分析算法。
 
