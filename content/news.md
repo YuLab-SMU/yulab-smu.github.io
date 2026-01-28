@@ -13,6 +13,8 @@ title: News
 
 <strong><font color="green">Dec 2025</font></strong>: 恭喜廖俞凡、邓琳两位同学获得一等奖学金；王芮获得优秀研究生称号。
 
+<strong><font color="green">Nov 2025</font></strong>: 刘弈天（2023级生信）、魏嘉雪（2022级基础医学）和张文龙（2023级生信）参加亚太地区大学生数学建模竞赛（Asia and Pacific Mathematical Contest in Modeling），荣获本科生组二等奖（Second Prize），指导教师：余光创。
+
 <strong><font color="green">Nov 2025</font></strong>: 余光创入选科睿唯安2025年度“全球高被引科学家”。
 
 <strong><font color="green">Nov 2025</font></strong>: [Comparison of Illumina NovaSeq 6000 and GeneMind SURFSeq 5000 platforms for single‐cell spatial transcriptomics of mouse brain and lung](https://doi.org/10.1002/inmd.70067) 文章在 ***Interdisciplinary Medicine*** 期刊发表，恭喜王倩雯、邓琳和徐双斌。
