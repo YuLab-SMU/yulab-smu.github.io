@@ -3,6 +3,9 @@ slug: news
 title: News
 ---
 
+
+<strong><font color="green">Jan 2026</font></strong>: 余光创入选爱思唯尔2025年度中国高被引学者。<!-- 2026-01-30 -->
+
 <strong><font color="green">Jan 2026</font></strong>: [Gut metabolite indole-3-acetic acid aggravates neuropsychiatric lupus via the AHR/STAT3 pathway in microglia](https://www.nature.com/articles/s42003-026-09561-7) 文章在 ***Communications Biology*** 期刊发表。
 
 <strong><font color="green">Jan 2026</font></strong>: R包 [gglycan](https://cran.r-project.org/package=gglycan) 在CRAN发布，实现了对 glycan 结构的可视化。
