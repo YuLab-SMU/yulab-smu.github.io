@@ -3,6 +3,7 @@ slug: news
 title: News
 ---
 
+<strong><font color="green">Feb 2026</font></strong>: 因开发生物信息学核心工具，余光创教授入选[Wiley "The Advancers" 人物专题](https://www.wiley.com/en-us/insights/featured-series/advancers/guangchuang-yu/)。
 
 <strong><font color="green">Jan 2026</font></strong>: 余光创入选爱思唯尔2025年度中国高被引学者。<!-- 2026-01-30 -->
 
