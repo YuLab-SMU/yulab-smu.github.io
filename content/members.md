@@ -99,8 +99,8 @@ title: Members
     <td style="border:none;"><strong>Shutong Lin<br>
         Master Student</strong>
     </td>    
-    <td style="border:none;"><img src="/images/members/hjj.jpg" width='150px'></td>
-    <td style="border:none;"><strong>Jingjing Huang<br>
+    <td style="border:none;"><img src="/images/members/zzl.jpg" width='150px'></td>
+    <td style="border:none;"><strong>Ziling Zhang<br>
         Master Student</strong>
     </td>     
   </tr>    
