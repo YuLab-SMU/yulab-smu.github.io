@@ -33,9 +33,10 @@ jobs:
           extended: true
 
       - name: Install dependencies
-        run: |
-          install.packages("blogdown")
-        shell: Rscript {0}
+        uses: r-lib/actions/setup-r-dependencies@v2
+        with:
+          packages: |
+            any::blogdown
 
       - name: Update CV
         run: |
