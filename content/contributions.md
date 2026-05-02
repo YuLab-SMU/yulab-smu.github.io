@@ -35,6 +35,29 @@ We have developed a suite of software tools to handle tree-structured biological
 </tr>
 </table>
 
+## AI-Native Scientific Computing
+
+
+<table style="border:none; font-size: 90%; width:100%;">
+<tr style="border:none;"> 
+<td style="border:none;width:25%">
+
+<a href="/contribution-ai-scientific-computing/"><img src="/images/ai-scientific-computing/aisdk_infographic.png" style="width:100%; max-width:1000px;"/></a>
+
+
+</td>
+<td style="border:none;">
+
+<a href="/contribution-ai-scientific-computing/" style="color:black;font-weight:normal">
+
+We are developing AI-native infrastructure for scientific computing in R. **aisdk** provides a unified runtime for model providers, tools, agents, skills, channels, and image generation, while **ggai** builds on this foundation to support grammar-guided AI visualization, editable **ggplot2** sessions, and data-grounded scientific figure polish.
+
+</a>
+
+</td>
+</tr>
+</table>
+
 
 ## Biological Knowledge Mining
 
