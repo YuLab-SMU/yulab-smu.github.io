@@ -3,6 +3,8 @@ slug: news
 title: News
 ---
 
+<strong><font color="green">May 2026</font></strong>: 余光创、王倩雯、邓琳、徐双斌 获得2025年第四季度威立Wiley中国高贡献作者奖。
+
 <strong><font color="green">Mar 2026</font></strong>: R包[aisdk](https://cran.r-project.org/package=aisdk) 在CRAN发布，在R语言环境中实现AI基础功能。
 
 <strong><font color="green">Feb 2026</font></strong>: 因开发生物信息学核心工具，余光创教授入选[Wiley "The Advancers" 人物专题](https://www.wiley.com/en-us/insights/featured-series/advancers/guangchuang-yu/)。
