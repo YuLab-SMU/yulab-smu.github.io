@@ -34,7 +34,7 @@ title: News
 
 <strong><font color="green">Oct 2025</font></strong>: 余光创获得2025年第一季度威立Wiley中国高贡献作者奖。
 
-<strong><font color="green">Oct 2025</font></strong>: [Background bias in functional enrichment analysis: Insights from clusterProfiler](https://doi.org/10.59717/j.xinn-life.2025.100181) 文章在***The Innovation Life***期刊发表。
+<strong><font color="green">Oct 2025</font></strong>: [Background bias in functional enrichment analysis&#58; Insights from clusterProfiler](https://doi.org/10.59717/j.xinn-life.2025.100181) 文章在***The Innovation Life***期刊发表。
 + [The Innovation Life | 功能富集分析中的背景偏差：来自clusterProfiler的见解](https://mp.weixin.qq.com/s/Nnlziwyl6BjxrNRL_DhmmA)
 
 <strong><font color="green">Oct 2025</font></strong>: [ALCAM-CD6 axis suppression: a key determinant of immune-mediated metastasis recurrence in stage III non-small cell lung cancer](https://jitc.bmj.com/content/13/10/e010416) 文章在***Journal for ImmunoTherapy of Cancer***期刊发表，恭喜少迪。
