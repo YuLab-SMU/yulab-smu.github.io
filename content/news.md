@@ -3,11 +3,15 @@ slug: news
 title: News
 ---
 
+<strong><font color="green">Jul 2026</font></strong>: 余光创获南方医科大学“两优一先”表彰。
++ [点赞！他们获“两优一先”表彰!](https://mp.weixin.qq.com/s/RzqhSgzYBsbnTlUkquVyHA)
++ [我院9名个人，4个基层党组织获“两优一先”表彰！](https://mp.weixin.qq.com/s/TNlcTwyp_gA_9O3Ld_GHDA)
+
 <strong><font color="green">May 2026</font></strong>: 余光创、王倩雯、邓琳、徐双斌 获得2025年第四季度威立Wiley中国高贡献作者奖。
 
 <strong><font color="green">Mar 2026</font></strong>: R包[aisdk](https://cran.r-project.org/package=aisdk) 在CRAN发布，在R语言环境中实现AI基础功能。
 
-<strong><font color="green">Feb 2026</font></strong>: 因开发生物信息学核心工具，余光创教授入选[Wiley "The Advancers" 人物专题](https://www.wiley.com/en-us/insights/featured-series/advancers/guangchuang-yu/)。
+<strong><font color="green">Feb 2026</font></strong>: Wiley "The Advancers" [专题报道余光创](https://www.wiley.com/en-us/insights/featured-series/advancers/guangchuang-yu/)。
 
 <strong><font color="green">Jan 2026</font></strong>: 余光创入选爱思唯尔2025年度中国高被引学者。<!-- 2026-01-30 -->
 
