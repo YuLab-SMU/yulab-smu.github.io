@@ -37,7 +37,7 @@ title: News
 <strong><font color="green">Oct 2025</font></strong>: [Background bias in functional enrichment analysis&#58; Insights from clusterProfiler](https://doi.org/10.59717/j.xinn-life.2025.100181) 文章在***The Innovation Life***期刊发表。
 + [The Innovation Life | 功能富集分析中的背景偏差：来自clusterProfiler的见解](https://mp.weixin.qq.com/s/Nnlziwyl6BjxrNRL_DhmmA)
 
-<strong><font color="green">Oct 2025</font></strong>: [ALCAM-CD6 axis suppression: a key determinant of immune-mediated metastasis recurrence in stage III non-small cell lung cancer](https://jitc.bmj.com/content/13/10/e010416) 文章在***Journal for ImmunoTherapy of Cancer***期刊发表，恭喜少迪。
+<strong><font color="green">Oct 2025</font></strong>: [ALCAM-CD6 axis suppression&#58; a key determinant of immune-mediated metastasis recurrence in stage III non-small cell lung cancer](https://jitc.bmj.com/content/13/10/e010416) 文章在***Journal for ImmunoTherapy of Cancer***期刊发表，恭喜少迪。
 
 <strong><font color="green">Sep 2025</font></strong>: [生物科学“101计划”核心教材出版发行](https://mp.weixin.qq.com/s/fXn9XtfOMBC2vIMXvuSP6A)。余光创作为编委，参与两本教材的编撰：《生物信息学》及配套实验课程《生物信息学实验》。
 + [参编101教材《生物信息学》发行](https://mp.weixin.qq.com/s/eI6qpdYqKM2XbB8Bs73TMQ)
