@@ -63,7 +63,7 @@ Our visualization frameworks have been widely adopted and integrated into many t
 
 + S Xu, M Chen, T Feng, L Zhan, L Zhou, __G Yu__<sup>\*</sup>. [Use ggbreak to effectively utilize plotting space to deal with large datasets and outliers](https://www.frontiersin.org/articles/10.3389/fgene.2021.774846). __*Frontiers in Genetics*__. 2021, 12:774846.
 + __G Yu__. Data Integration, Manipulation and Visualization of Phylogenetic Trees (1st edition). __*Chapman and Hall/CRC*__, 2022. doi: [10.1201/9781003279242](https://doi.org/10.1201/9781003279242)
-+ S Xu, H Dai, X Bo, __G Yu__<sup>\*</sup>. [ggmsa: a visual exploration tool for multiple sequence alignment and associated data](https://doi.org/10.1093/bib/bbab222). __*Briefings in Bioinformatics*__. 2021, 22(6):bbab222.
++ S Xu, H Dai, X Bo, __G Yu__<sup>\*</sup>. [ggmsa&#58; a visual exploration tool for multiple sequence alignment and associated data](https://doi.org/10.1093/bib/bbab222). __*Briefings in Bioinformatics*__. 2021, 22(6):bbab222.
 
 </font>
 

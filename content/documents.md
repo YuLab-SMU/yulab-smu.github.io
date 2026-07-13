@@ -28,5 +28,5 @@ title: Documents
 
 ## <i class="fa fa-cogs fa-1x" aria-hidden="true"></i> Vignettes
 
-+ [ggmsa: Plot multiple sequence alignment using ggplot2](https://yulab-smu.top/ggmsa/)
++ [ggmsa&#58; Plot multiple sequence alignment using ggplot2](https://yulab-smu.top/ggmsa/)
 
