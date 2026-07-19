@@ -3,6 +3,8 @@ slug: news
 title: News
 ---
 
+<strong><font color="green">Jul 2026</font></strong>: 2023级生信学生 张文龙、刘帅 参加第十八届“中国电机工程学会杯” 全国大学生电工数学建模竞赛，荣获一等奖，指导教师：余光创。
+
 <strong><font color="green">Jul 2026</font></strong>: 余光创获南方医科大学“两优一先”表彰。
 + [点赞！他们获“两优一先”表彰!](https://mp.weixin.qq.com/s/RzqhSgzYBsbnTlUkquVyHA)
 + [我院9名个人，4个基层党组织获“两优一先”表彰！](https://mp.weixin.qq.com/s/TNlcTwyp_gA_9O3Ld_GHDA)
