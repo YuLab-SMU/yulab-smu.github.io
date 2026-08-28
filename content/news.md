@@ -3,6 +3,10 @@ slug: news
 title: News
 ---
 
+<strong><font color="green">Aug 2026</font></strong>: [From Cluster to Claim: Calibrating Interpretation in Single-Cell Transcriptomics](https://advanced.onlinelibrary.wiley.com/doi/10.1002/ggn2.70045) 文章在 Advanced Genetics 发表，恭喜林树彤。
+
+<strong><font color="green">Aug 2026</font></strong>: 余光创、徐双斌获得国自然面上项目资助。
+
 <strong><font color="green">Jul 2026</font></strong>: 2023级生信学生康镇沛、黎俊颢、黄静娟 参加第十二届全国大学生统计建模大赛 广东赛区 （广东、海南、香港、澳门）赛区选拔赛中，荣获本科生组二等奖；指导教师：余光创。
 
 <strong><font color="green">Jul 2026</font></strong>: 2023级生信学生 张文龙、刘帅 参加第十八届“中国电机工程学会杯” 全国大学生电工数学建模竞赛，荣获一等奖；指导教师：余光创。
