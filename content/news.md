@@ -3,6 +3,8 @@ slug: news
 title: News
 ---
 
+<strong><font color="green">Sep 2026</font></strong>: 《Stem Cell Transcriptional Networks》（第三版，***Methods in Molecular Biology***, vol. 3074）出版，余光创参与撰写第十一章 [Systematic Analysis of Tumor Microenvironment Using IOBR](https://doi.org/10.1007/978-1-0716-5539-9_11)（pp. 173-191）。
+
 <strong><font color="green">Aug 2026</font></strong>: [From Cluster to Claim: Calibrating Interpretation in Single-Cell Transcriptomics](https://advanced.onlinelibrary.wiley.com/doi/10.1002/ggn2.70045) 文章在 Advanced Genetics 发表，恭喜林树彤。
 
 <strong><font color="green">Aug 2026</font></strong>: 余光创、徐双斌获得国自然面上项目资助。
