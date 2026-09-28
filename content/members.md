@@ -71,7 +71,7 @@ title: Members
     </td>
     <td style="border:none;"><img src="/images/members/lm.jpg" width='150px'></td>
     <td style="border:none;"><strong>Ming Li<br>
-        Master Student</strong><br>
+        PhD Student</strong><br>
         <a href="https://github.com/MingLi-929" aria-label="Github">
             <i class="fa fa-github fa-2x" aria-hidden="true" style="font-size: 150%;"></i></a>
     </td>
@@ -79,7 +79,7 @@ title: Members
 <tr style="border:none;"> 
     <td style="border:none;"><img src="/images/members/wr.jpg" width='150px'></td>
     <td style="border:none;"><strong>Rui Wang<br>
-        Master Student</strong>
+        PhD Student</strong>
     </td>   
     <td style="border:none;"><img src="/images/members/dl.jpg" width='150px'></td>
     <td style="border:none;"><strong>Lin Deng<br>
