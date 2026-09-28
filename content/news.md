@@ -3,7 +3,13 @@ slug: news
 title: News
 ---
 
+<strong><font color="green">Sep 2026</font></strong>: [TCMDATA: an integrated R package for target-oriented network pharmacology analysis and AI-assisted interpretation in traditional Chinese medicine](https://www.sciencedirect.com/science/article/pii/S1874467226000231) 文章在 ***Current Molecular Pharmacology*** 期刊发表，本项目由国家级大学生创新训练项目资助，恭喜贺楠（2022级生信本科生）。
+
 <strong><font color="green">Sep 2026</font></strong>: 《Stem Cell Transcriptional Networks》（第三版，***Methods in Molecular Biology***, vol. 3074）出版，余光创参与撰写第十一章 [Systematic Analysis of Tumor Microenvironment Using IOBR](https://doi.org/10.1007/978-1-0716-5539-9_11)（pp. 173-191）。
+
+<strong><font color="green">Sep 2026</font></strong>: 2026级研究生谢彭川湘（客座学生）加入课题组。
+
+<strong><font color="green">Sep 2026</font></strong>: 2026级研究生孙建建、许益林、饶智怀加入课题组。
 
 <strong><font color="green">Aug 2026</font></strong>: [From Cluster to Claim: Calibrating Interpretation in Single-Cell Transcriptomics](https://advanced.onlinelibrary.wiley.com/doi/10.1002/ggn2.70045) 文章在 Advanced Genetics 发表，恭喜林树彤。
 

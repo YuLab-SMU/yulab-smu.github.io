@@ -113,6 +113,24 @@ title: Members
     <td style="border:none;"><strong>Zelin Yang<br>
         临床8年制</strong>
     </td>   
+    <td style="border:none;"><img src="/images/members/sjj.jpg" width='150px'></td>
+    <td style="border:none;"><strong>Jianjian Sun<br>
+        Master Student</strong>
+    </td>   
+  </tr>    
+<tr style="border:none;"> 
+    <td style="border:none;"><img src="/images/members/xyl.jpg" width='150px'></td>
+    <td style="border:none;"><strong>Yilin Xu<br>
+        Master Student</strong>
+    </td>   
+    <td style="border:none;"><img src="/images/members/rzh.jpg" width='150px'></td>
+    <td style="border:none;"><strong>Zhihuai Rao<br>
+        Master Student</strong>
+    </td>    
+    <td style="border:none;"><img src="/images/members/xpcx.jpg" width='150px'></td>
+    <td style="border:none;"><strong>Pengchuanxiang Xie<br>
+        Master Student</strong>
+    </td>     
   </tr>    
 </table> 
 
