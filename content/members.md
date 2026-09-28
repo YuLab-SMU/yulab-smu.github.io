@@ -119,7 +119,7 @@ title: Members
     </td>   
   </tr>    
 <tr style="border:none;"> 
-    <td style="border:none;"><img src="/images/members/xyl.jpg" width='150px'></td>
+    <td style="border:none;"><img src="/images/members/xyl.png" width='150px'></td>
     <td style="border:none;"><strong>Yilin Xu<br>
         Master Student</strong>
     </td>   
