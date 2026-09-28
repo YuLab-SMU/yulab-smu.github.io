@@ -5,6 +5,8 @@ title: News
 
 <strong><font color="green">Sep 2026</font></strong>: [TCMDATA: an integrated R package for target-oriented network pharmacology analysis and AI-assisted interpretation in traditional Chinese medicine](https://www.sciencedirect.com/science/article/pii/S1874467226000231) 文章在 ***Current Molecular Pharmacology*** 期刊发表，本项目由国家级大学生创新训练项目资助，恭喜贺楠（2022级生信本科生）。
 
+<strong><font color="green">Sep 2026</font></strong>: [Composable Visualization of High‐Dimensional Biological Data with ggalign](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpz1.70453) 文章在 ***Current Protocols*** 期刊发表。
+
 <strong><font color="green">Sep 2026</font></strong>: 《Stem Cell Transcriptional Networks》（第三版，***Methods in Molecular Biology***, vol. 3074）出版，余光创参与撰写第十一章 [Systematic Analysis of Tumor Microenvironment Using IOBR](https://doi.org/10.1007/978-1-0716-5539-9_11)（pp. 173-191）。
 
 <strong><font color="green">Sep 2026</font></strong>: 2026级研究生谢彭川湘（客座学生）加入课题组。
@@ -14,6 +16,10 @@ title: News
 <strong><font color="green">Aug 2026</font></strong>: [From Cluster to Claim: Calibrating Interpretation in Single-Cell Transcriptomics](https://advanced.onlinelibrary.wiley.com/doi/10.1002/ggn2.70045) 文章在 Advanced Genetics 发表，恭喜林树彤。
 
 <strong><font color="green">Aug 2026</font></strong>: 余光创、徐双斌获得国自然面上项目资助。
+
+<strong><font color="green">Aug 2026</font></strong>: R语言智能工作台 Rho 发布。
++ [你的R语言智能伴侣：Rho](https://mp.weixin.qq.com/s/A8PVvNPbC_b89x_HR-99GA)
++ [从 RStudio 到 Rho，AI 替你跑代码，但控制权还是你的](https://mp.weixin.qq.com/s/X7tY3J9UPRPboGNbVDIWWQ)
 
 <strong><font color="green">Jul 2026</font></strong>: 2023级生信学生康镇沛、黎俊颢、黄静娟 参加第十二届全国大学生统计建模大赛 广东赛区 （广东、海南、香港、澳门）赛区选拔赛中，荣获本科生组二等奖；指导教师：余光创。
 
