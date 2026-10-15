@@ -4,6 +4,8 @@ title: News
 ---
 
 
+<strong><font color="green">Oct 2026</font></strong>: [Design foresight and model humility for omics inference ](https://authors.elsevier.com/a/1nxixcQbJIzZm)文章在 ***Trends in Genetics*** 期刊发表。
+
 <strong><font color="green">Oct 2026</font></strong>: 课题组三人（余光创，徐双斌，王倩雯）入选全球前2%顶尖科学家榜单。
 
 <strong><font color="green">Sep 2026</font></strong>: [TCMDATA: an integrated R package for target-oriented network pharmacology analysis and AI-assisted interpretation in traditional Chinese medicine](https://www.sciencedirect.com/science/article/pii/S1874467226000231) 文章在 ***Current Molecular Pharmacology*** 期刊发表，本项目由国家级大学生创新训练项目资助，恭喜贺楠（2022级生信本科生）。
