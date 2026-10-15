@@ -35,7 +35,6 @@ title: Publications
 ## <i class="fa fa-calendar fa-1x" aria-hidden="true"></i> 2026 {#year-2026}
 
 - **G Yu**<sup>*</sup>. [Design foresight and model humility for omics inference](https://authors.elsevier.com/a/1nxixcQbJIzZm). ***Trends in Genetics***. accepted.
-   
 - N He, S Xu, K Mo, Y Xia, R Wang, S Tao, Q Wang, J Mo, B Pang, Y Qiu<sup>*</sup>, Q Song<sup>*</sup>, **G Yu**<sup>*</sup>. [TCMDATA: an integrated R package for target-oriented network pharmacology analysis and AI-assisted interpretation in traditional Chinese medicine](https://www.sciencedirect.com/science/article/pii/S1874467226000231). ***Current Molecular Pharmacology***. accepted.
 - W Liu, J Ding, Y Sun, B Yan, Z Wang, C Wang, C Shu, JG Zhou, G Yu<sup>*</sup>, Y Peng<sup>*</sup>, S Wang<sup>*</sup>. [Composable Visualization of High‐Dimensional Biological Data with ggalign](https://currentprotocols.onlinelibrary.wiley.com/doi/abs/10.1002/cpz1.70453). ***Current Protocols***. 2026, 6(9):e70453.
 - S Lin, **G Yu**<sup>*</sup>. [From Cluster to Claim: Calibrating Interpretation in Single-Cell Transcriptomics](https://advanced.onlinelibrary.wiley.com/doi/10.1002/ggn2.70045). ***Advanced Genetics***. 2026, 7(3):e70045.
