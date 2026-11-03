@@ -4,6 +4,8 @@ title: News
 ---
 
 
+<strong><font color="green">Oct 2026</font></strong>: 谢国云以同等学力攻读硕士学位身份加入课题组。
+
 <strong><font color="green">Oct 2026</font></strong>: [Design foresight and model humility for omics inference ](https://authors.elsevier.com/a/1nxixcQbJIzZm)文章在 ***Trends in Genetics*** 期刊发表。
 
 <strong><font color="green">Oct 2026</font></strong>: 课题组三人（余光创，徐双斌，王倩雯）入选全球前2%顶尖科学家榜单。

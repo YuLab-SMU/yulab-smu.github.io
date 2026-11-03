@@ -132,6 +132,12 @@ title: Members
         Master Student</strong>
     </td>     
   </tr>    
+<tr style="border:none;"> 
+    <td style="border:none;"><img src="/images/members/xgy.png" width='150px'></td>
+    <td style="border:none;"><strong>Guoyun Xie<br>
+        Master Student (同等学力)</strong>
+    </td>   
+  </tr>    
 </table> 
 
 <!-- 
