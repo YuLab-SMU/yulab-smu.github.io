@@ -30,9 +30,7 @@ title: Members
         <a href="https://orcid.org/0000-0002-6485-8781" aria-label="Orcid">    
             <i class="ai ai-orcid ai-2x" style="font-size: 150%;"></i></a>   
         <a href="https://pubmed.ncbi.nlm.nih.gov/?term=yu%2C%20guangchuang[Author]" aria-label="Pubmed">    
-            <i class="ai ai-pubmed ai-2x" style="font-size: 150%;"></i></a>                               
-        <a href="/cv/ygc/" aria-label="CV">    
-            <i class="ai ai-cv ai-2x" style="font-size: 150%;"></i></a>                
+            <i class="ai ai-pubmed ai-2x" style="font-size: 150%;"></i></a>                 
     </td>
   </tr> 
 </table> 
@@ -135,7 +133,7 @@ title: Members
 <tr style="border:none;"> 
     <td style="border:none;"><img src="/images/members/xgy.png" width='150px'></td>
     <td style="border:none;"><strong>Guoyun Xie<br>
-        Master Student (同等学力)</strong>
+        Master Student</strong>
     </td>   
   </tr>    
 </table> 
