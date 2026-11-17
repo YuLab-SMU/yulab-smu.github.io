@@ -4,6 +4,9 @@ title: News
 ---
 
 
+
+<strong><font color="green">Nov 2026</font></strong>: [SVP Maps Spatially Variable Functional Programs and Their Coupling in Spatial Transcriptomics](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.78741) 文章在 ***Advanced Science*** 期刊发表，恭喜徐双斌、王倩雯。
+
 <strong><font color="green">Oct 2026</font></strong>: 谢国云以同等学力攻读硕士学位身份加入课题组。
 
 <strong><font color="green">Oct 2026</font></strong>: [Design foresight and model humility for omics inference ](https://authors.elsevier.com/a/1nxixcQbJIzZm)文章在 ***Trends in Genetics*** 期刊发表。
