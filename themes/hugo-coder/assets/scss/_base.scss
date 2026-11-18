@@ -7,6 +7,7 @@
 html {
   box-sizing: border-box;
   font-size: 62.5%;
+  scrollbar-gutter: stable both-edges;
 }
 
 body {
@@ -23,7 +24,7 @@ body {
   }
 }
 
-iframe[src*=disqus] {
+iframe[src*="disqus"] {
   color-scheme: light;
 }
 
@@ -41,6 +42,9 @@ a {
 
 p {
   margin: 2rem 0 2rem 0;
+  @media only screen and (max-width: 768px) {
+    margin: 1.5rem 0 1.5rem 0;
+  }
 }
 
 h1,
@@ -139,12 +143,12 @@ strong {
 }
 
 .highlight {
-
   div,
   pre {
     margin: 2rem 0 2rem;
     padding: 1rem;
     border-radius: 1rem;
+    overflow-x: auto;
   }
 }
 
@@ -174,6 +178,9 @@ code {
   padding: 0.3rem 0.6rem;
   background-color: $darker-alt-bg-color;
   color: $fg-color;
+  @media only screen and (max-width: 768px) {
+    font-size: 1.5rem;
+  }
 }
 
 blockquote {
@@ -182,6 +189,9 @@ blockquote {
   line-height: 2.2rem;
   font-weight: 400;
   font-style: italic;
+}
+* {
+  -webkit-tap-highlight-color: transparent;
 }
 
 th,

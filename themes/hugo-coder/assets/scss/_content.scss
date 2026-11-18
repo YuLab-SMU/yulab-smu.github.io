@@ -3,6 +3,10 @@
   display: flex;
   margin-top: 1.6rem;
   margin-bottom: 3.2rem;
+  @media only screen and (max-width: 768px) {
+    margin-top: 1rem;
+    margin-bottom: 1.6rem;
+  }
 
   header {
     margin-top: 6.4rem;
@@ -21,12 +25,13 @@
   }
 
   article {
-    a:where(.external-link)::after {
+    a:where(.external-link):not(:has(img)):after {
       @extend %fa-icon;
       @extend .fa-solid;
       content: fa-content($fa-var-external-link);
       padding-left: 0.5em;
       font-size: 0.75em;
+      display: inline;
     }
 
     details {
@@ -50,6 +55,8 @@
     p {
       text-align: justify;
       text-justify: auto;
+      -ms-hyphens: auto;
+      -webkit-hyphens: auto;
       hyphens: auto;
     }
   }
@@ -80,7 +87,7 @@
           padding: 0.3rem 0.6rem;
           background-color: $alt-bg-color;
           border-radius: 0.6rem;
-          line-height: 1.4em;
+          line-height: 1.5em;
 
           a {
             color: $fg-color;
@@ -113,7 +120,7 @@
   border-radius: 50%;
 
   @media only screen and (max-width: 768px) {
-    width: 10rem;
+    width: 17rem;
   }
 }
 
@@ -155,6 +162,16 @@
           color: $link-color;
         }
       }
+
+      .draft {
+        color: white;
+        vertical-align: middle;
+        font-size: 1rem;
+        margin-left: 0.5rem;
+        background-color: #2a9d8f;
+        padding: 0.5rem;
+        border-radius: 1rem;
+      }
     }
   }
 
@@ -194,6 +211,7 @@
       list-style: none;
       margin: 3rem 0 1rem 0;
       padding: 0;
+      cursor: pointer;
 
       li {
         display: inline-block;
@@ -212,7 +230,7 @@
           }
 
           @media only screen and (max-width: 768px) {
-            font-size: 1.4rem;
+            font-size: 1.5rem;
           }
         }
       }

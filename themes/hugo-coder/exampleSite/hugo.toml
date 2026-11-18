@@ -3,16 +3,23 @@ title = "johndoe"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
-paginate = 6
 enableEmoji = true
+
+[pagination]
+pagerSize = 6
 
 [services]
 [services.disqus]
 # Enable Disqus comments
 # shortname = "yourdiscussshortname"
 
+[markup]
 [markup.highlight]
 noClasses = false
+
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
 
 [params]
 author = "John Doe"
@@ -69,6 +76,10 @@ customRemoteJS = []
 # [params.cloudflare]
 # token = "token"
 
+# If you want to use Counter.dev(https://counter.dev) for analytics, add this section
+# [params.counterdev]
+# id = "data-id"
+
 # If you want to use Matomo(https://matomo.org) for analytics, add this section
 # [params.matomo]
 # siteID = "ABCDE" # Default value is "1", overwrite this if you are cloud-hosting
@@ -99,6 +110,10 @@ customRemoteJS = []
 # [params.umami]
 # siteID = "ABCDE"
 # scriptURL = "analytics.REGION.umami.is/SCRIPTNAME.js"
+
+# If you want to use One Dollars Stats(https://onedollarstats.com/analytics) for analytics, add this section
+# [params.onedollarstats]
+# id = "data-site-id"
 
 # If you want to implement a Content-Security-Policy, add this section
 # [params.csp]
