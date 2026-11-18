@@ -25,10 +25,12 @@ jobs:
           extended: true
 
       - name: Setup Dart Sass
-        uses: andstor/setup-dart-sass@v1
-        with:
-          sass-version: '1.83.4'
-          sass-path: /usr/local/bin
+        run: |
+          curl -sSL -o /tmp/dart-sass.tar.gz \
+            https://github.com/sass/dart-sass/releases/download/1.83.4/dart-sass-1.83.4-linux-x64.tar.gz
+          sudo tar -xzf /tmp/dart-sass.tar.gz -C /usr/local/lib
+          sudo ln -sf /usr/local/lib/dart-sass/sass /usr/local/bin/sass
+          sass --version
 
       - name: Update CV
         run: |
