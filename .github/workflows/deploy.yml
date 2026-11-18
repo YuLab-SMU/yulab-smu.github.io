@@ -19,10 +19,16 @@ jobs:
           fetch-depth: 0
 
       - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
+        uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: 'latest'
+          hugo-version: '0.170.0'
           extended: true
+
+      - name: Setup Dart Sass
+        uses: andstor/setup-dart-sass@v1
+        with:
+          sass-version: '1.83.4'
+          sass-path: /usr/local/bin
 
       - name: Update CV
         run: |
