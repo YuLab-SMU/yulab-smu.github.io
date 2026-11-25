@@ -100,7 +100,7 @@ title: News
 
 <strong><font color="green">Sep 2025</font></strong>：交互式火山图可视化包，[ivolcano](https://cran.r-project.org/package=ivolcano)在CRAN发布。
 
-<strong><font color="green">Sep 2025</font></strong>：欢迎新同学：陈菁怡（博士后）、夏永和（博士生，西湖大学）、林树彤、黄晶晶、杨天和杨泽林（临床8年制）。
+<strong><font color="green">Sep 2025</font></strong>：欢迎新同学：陈菁怡（博士后）、夏永和（博士生，西湖大学）、林树彤、杨天和杨泽林（临床8年制）。
 
 <strong><font color="green">Aug 2025</font></strong>：据AD Scientific Index排名系统数据，[余光创的引用量：位居世界排名7895，中国排名237，南方医科大学排名第1](https://yulab-smu.top/images/adscentificindex2025.png)，近5年被引用57697次。
 

@@ -3,8 +3,6 @@ slug: members
 title: Members
 ---
 
-
-
 <style>
     @media only screen and (max-width: 768px) {
         td {
@@ -97,16 +95,12 @@ title: Members
     <td style="border:none;"><strong>Shutong Lin<br>
         Master Student</strong>
     </td>    
-    <td style="border:none;"><img src="/images/members/zzl.jpg" width='150px'></td>
-    <td style="border:none;"><strong>Ziling Zhang<br>
-        Master Student</strong>
-    </td>     
-  </tr>    
-<tr style="border:none;"> 
     <td style="border:none;"><img src="/images/members/yt.jpg" width='150px'></td>
     <td style="border:none;"><strong>Tian Yang<br>
         Master Student</strong>
     </td>   
+  </tr>    
+<tr style="border:none;"> 
     <td style="border:none;"><img src="/images/members/yzl.jpg" width='150px'></td>
     <td style="border:none;"><strong>Zelin Yang<br>
         临床8年制</strong>
@@ -114,13 +108,13 @@ title: Members
     <td style="border:none;"><img src="/images/members/sjj.jpg" width='150px'></td>
     <td style="border:none;"><strong>Jianjian Sun<br>
         Master Student</strong>
-    </td>   
-  </tr>    
-<tr style="border:none;"> 
+    </td>
     <td style="border:none;"><img src="/images/members/xyl.png" width='150px'></td>
     <td style="border:none;"><strong>Yilin Xu<br>
         Master Student</strong>
     </td>   
+  </tr>    
+<tr style="border:none;"> 
     <td style="border:none;"><img src="/images/members/rzh.jpg" width='150px'></td>
     <td style="border:none;"><strong>Zhihuai Rao<br>
         Master Student</strong>
@@ -128,38 +122,12 @@ title: Members
     <td style="border:none;"><img src="/images/members/xpcx.jpg" width='150px'></td>
     <td style="border:none;"><strong>Pengchuanxiang Xie<br>
         Master Student</strong>
-    </td>     
-  </tr>    
-<tr style="border:none;"> 
+    </td>  
     <td style="border:none;"><img src="/images/members/xgy.png" width='150px'></td>
     <td style="border:none;"><strong>Guoyun Xie<br>
         Master Student</strong>
     </td>   
   </tr>    
 </table> 
-
-<!-- 
-## Former Lab Members
-
-徐双斌、罗晓、邓琳拿了国奖 
-
-+ **温少迪** (PhD 2023-2024; 联合培养)
-+ **李林** (MS 2021-2024)
-+ **谢汶琴** (MS 2021-2024)
-+ **唐文丽** (MS 2020-2023 & Bioinformatician 2023-2024; 2024年硕士研究生国家奖学金补充计划, 南方医科大学2023届“优秀毕业研究生”)
-+ **吴天志** (PhD 2020-2023) <-- 加州大学旧金山分校（UCSF），博士后 --
-+ **郭平凡** (MS 2019-2023; 2021年硕士研究生国家奖学金) <-- 寻因生物，生物信息学工程师 --
-+ **陈玫君** (MS 2020-2023; 南方医科大学“优秀研究生”) <-- 南方医科大学，博士在读 --
-+ **付小聪** (MS 2020-2022; 联合培养) <-- 宁波口腔医疗管理服务有限公司，总经理助理 --
-+ **戴泽翰** (Postdoc 2019-2022) <-- 金圻睿, 高级研发工程师 --
-+ **周烺** (MS 2019-2022; 2023年硕士研究生国家奖学金补充计划, 南方医科大学2022届“优秀毕业研究生”) <-- 珠江医院, 生物信息学工程师 --
-+ **冯婷泽** (MS 2019-2022; 南方医科大学2022届“优秀毕业研究生”) <-- 中科院大连化物所, 博士在读 --
-+ **刘珊珊** (MS 2019-2022; 2021年硕士研究生国家奖学金) <-- 南方医科大学, 博士在读 --
-
--->
-
-<!-- EYMEP: Eight year medical education program -->
-
-
 
 
